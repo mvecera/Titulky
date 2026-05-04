@@ -1,0 +1,80 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Sprawdzanie jakości to funkcja
+działająca w czasie rzeczywistym,
+
+00:05.344 --> 00:07.855
+która pomaga identyfikować typowe
+błędy i niespójności przed podpisaniem
+
+00:07.855 --> 00:10.366
+raportu.
+
+00:10.366 --> 00:14.088
+Gdy dyktujesz, funkcja sprawdzania
+jakości automatycznie przegląda treść
+
+00:14.088 --> 00:17.810
+raportu i wyświetla alerty oraz uwagi
+Inteligentnej pomocy, aby umożliwić
+
+00:17.810 --> 00:21.533
+wczesne rozwiązanie problemów przed
+ukończeniem raportu.
+
+00:21.533 --> 00:24.777
+Wyszukuje trzy typowe rodzaje
+rozbieżności: niezgodności
+
+00:24.777 --> 00:28.021
+lateralizacji, niezgodności płci oraz
+potencjalne wyniki testów krytycznych
+
+00:28.021 --> 00:31.266
+lub istotne wnioski.
+
+00:31.266 --> 00:33.549
+Niezgodności lateralizacji występują,
+gdy dyktowana strona nie pasuje do
+
+00:33.549 --> 00:35.832
+zleconego badania.
+
+00:35.833 --> 00:38.955
+Niezgodności płci polegają na
+porównaniu danych demograficznych
+
+00:38.955 --> 00:42.077
+pacjenta z terminami dotyczącymi płci
+w raporcie – te alerty są
+
+00:42.077 --> 00:45.199
+automatycznie pomijane w przypadku
+zidentyfikowania płci niebinarnej.
+
+00:45.200 --> 00:47.477
+Wyniki krytyczne i istotne wnioski są
+flagowane na podstawie wstępnie
+
+00:47.477 --> 00:49.755
+zdefiniowanych terminów
+skonfigurowanych przez administratora
+
+00:49.755 --> 00:52.033
+systemu.
+
+00:52.033 --> 00:56.099
+Po poprawieniu raportu odpowiedni
+alert jest automatycznie usuwany.
+
+00:56.666 --> 00:59.177
+Jeśli problem nie zostanie rozwiązany
+przed podpisaniem, funkcja sprawdzania
+
+00:59.177 --> 01:01.688
+jakości wyświetla ostrzeżenie, aby
+umożliwić przejrzenie rozbieżności
+
+01:01.688 --> 01:04.199
+przed zakończeniem raportu.

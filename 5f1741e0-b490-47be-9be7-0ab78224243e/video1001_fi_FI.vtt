@@ -1,0 +1,78 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Laadun tarkistus on reaaliaikainen
+ominaisuus, joka auttaa tunnistamaan
+
+00:05.344 --> 00:07.855
+yleisiä virheitä ja
+epäjohdonmukaisuuksia ennen raportin
+
+00:07.855 --> 00:10.366
+allekirjoittamista.
+
+00:10.366 --> 00:14.088
+Kun sanelet, Laadun tarkistus käy läpi
+automaattisesti raportin sisällön ja
+
+00:14.088 --> 00:17.810
+näyttää hälytykset sekä älykkään tuen
+ehdotukset, jotta voit korjata
+
+00:17.810 --> 00:21.533
+ongelmat ajoissa ennen raportin
+viimeistelyä.
+
+00:21.533 --> 00:24.777
+Se etsii kolmea yleistä
+poikkeamatyyppiä:
+
+00:24.777 --> 00:28.021
+lateraalisuuspoikkeamat,
+sukupuolipoikkeamat ja mahdolliset
+
+00:28.021 --> 00:31.266
+kriittiset testitulokset tai
+toimenpiteitä vaativat löydökset.
+
+00:31.266 --> 00:33.549
+Lateraalisuuspoikkeamat tapahtuvat,
+kun saneltu puoli ei vastaa tilattua
+
+00:33.549 --> 00:35.832
+tutkimusta.
+
+00:35.833 --> 00:38.955
+Sukupuolipoikkeamat vertaavat potilaan
+demografisia tietoja
+
+00:38.955 --> 00:42.077
+sukupuolikohtaisiin termeihin
+raportissa. Nämä hälytykset estetään
+
+00:42.077 --> 00:45.199
+automaattisesti, kun tunnistetaan
+ei-binäärinen sukupuoli.
+
+00:45.200 --> 00:48.616
+Kriittiset tulokset ja toimenpiteitä
+vaativat löydökset merkitään
+
+00:48.616 --> 00:52.033
+järjestelmänvalvojan ennalta
+määrittämien termien perusteella.
+
+00:52.033 --> 00:56.099
+Kun korjaat raportin, vastaava hälytys
+poistuu automaattisesti.
+
+00:56.666 --> 00:59.177
+Jos ongelmaa ei ratkaista ennen
+allekirjoitusta, laadun tarkistus
+
+00:59.177 --> 01:01.688
+näyttää varoituksen, jotta voit
+tarkistaa poikkeamat ennen raportin
+
+01:01.688 --> 01:04.199
+viimeistelemistä.

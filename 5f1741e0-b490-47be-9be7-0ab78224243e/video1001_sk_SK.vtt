@@ -1,0 +1,71 @@
+WEBVTT
+
+00:02.833 --> 00:06.599
+Kontrola kvality je funkcia v reálnom
+čase navrhnutá tak, aby pomáhala
+
+00:06.599 --> 00:10.366
+identifikovať bežné chyby a
+nezrovnalosti pred podpísaním správy.
+
+00:10.366 --> 00:14.088
+Počas diktovania funkcia Kontrola
+kvality automaticky preveruje obsah
+
+00:14.088 --> 00:17.810
+vašej správy a zobrazuje upozornenia a
+odporúčania funkcie Smart Assist, aby
+
+00:17.810 --> 00:21.533
+ste mohli problémy riešiť včas, ešte
+pred finalizáciou správy.
+
+00:21.533 --> 00:24.777
+Hľadá tri bežné typy nezrovnalostí:
+nesúlad v lateralite, nesúlad v
+
+00:24.777 --> 00:28.021
+pohlaví a potenciálne kritické
+výsledky vyšetrení alebo nálezy
+
+00:28.021 --> 00:31.266
+vyžadujúce ďalšie kroky.
+
+00:31.266 --> 00:33.549
+Nesúlad v lateralite nastáva, keď sa
+diktovaná strana nezhoduje s
+
+00:33.549 --> 00:35.832
+objednaným vyšetrením.
+
+00:35.833 --> 00:38.955
+Nesúlad v pohlaví porovnáva
+demografické údaje pacienta s výrazmi
+
+00:38.955 --> 00:42.077
+špecifickými pre pohlavie v správe.
+Tieto upozornenia sa automaticky
+
+00:42.077 --> 00:45.199
+potlačia, ak je identifikované
+nebinárne pohlavie.
+
+00:45.200 --> 00:48.616
+Kritické výsledky a nálezy vyžadujúce
+opatrenia sa označujú na základe
+
+00:48.616 --> 00:52.033
+preddefinovaných výrazov
+nakonfigurovaných správcom systému.
+
+00:52.033 --> 00:56.099
+Po oprave správy sa príslušné
+upozornenie automaticky odstráni.
+
+00:56.666 --> 01:00.432
+Ak sa problém nevyrieši pred
+podpísaním, Kontrola kvality zobrazí
+
+01:00.432 --> 01:04.199
+varovanie, aby ste mohli skontrolovať
+nezrovnalosti pred dokončením správy.

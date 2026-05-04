@@ -1,0 +1,92 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+La Vérification de qualité est une
+fonctionnalité en temps réel conçue
+
+00:05.344 --> 00:07.855
+pour aider à identifier des erreurs et
+incohérences courantes avant de signer
+
+00:07.855 --> 00:10.366
+un rapport.
+
+00:10.366 --> 00:12.599
+Pendant que vous dictez, la
+Vérification de qualité examine
+
+00:12.599 --> 00:14.832
+automatiquement le contenu de votre
+rapport et affiche des alertes ainsi
+
+00:14.832 --> 00:17.066
+que des suggestions d’assistance
+intelligente pour que vous puissiez
+
+00:17.066 --> 00:19.299
+corriger les problèmes de façon
+anticipée, avant même de finaliser le
+
+00:19.299 --> 00:21.533
+rapport.
+
+00:21.533 --> 00:24.777
+Elle détecte trois types courants de
+divergences : les discordances de
+
+00:24.777 --> 00:28.021
+latéralité, les discordances de sexe,
+ainsi que les résultats
+
+00:28.021 --> 00:31.266
+potentiellement critiques des tests ou
+les constatations exploitables.
+
+00:31.266 --> 00:33.549
+Les discordances de latéralité se
+produisent lorsque le côté dicté ne
+
+00:33.549 --> 00:35.832
+correspond pas à l’examen demandé.
+
+00:35.833 --> 00:38.955
+Les discordances de sexe comparent les
+données démographiques du patient aux
+
+00:38.955 --> 00:42.077
+termes spécifiquement liés au sexe
+dans le rapport. Ces alertes sont
+
+00:42.077 --> 00:45.199
+automatiquement supprimées lorsqu’un
+sexe non binaire est identifié.
+
+00:45.200 --> 00:47.477
+Les constatations exploitables et les
+résultats critiques sont signalés en
+
+00:47.477 --> 00:49.755
+fonction de termes prédéfinis et
+configurés par votre administrateur
+
+00:49.755 --> 00:52.033
+système.
+
+00:52.033 --> 00:54.066
+Une fois que vous corrigez le rapport,
+l’alerte correspondante est
+
+00:54.066 --> 00:56.099
+automatiquement supprimée.
+
+00:56.666 --> 00:59.177
+Si un problème n’est pas résolu avant
+la signature, la Vérification de
+
+00:59.177 --> 01:01.688
+qualité affiche un avertissement pour
+vous permettre d’examiner les
+
+01:01.688 --> 01:04.199
+discordances avant de finaliser le
+rapport.

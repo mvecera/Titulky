@@ -1,0 +1,86 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Pemeriksaan Kualitas adalah fitur real
+time yang dirancang untuk membantu
+
+00:05.344 --> 00:07.855
+mengidentifikasi kesalahan dan
+inkonsistensi umum sebelum laporan
+
+00:07.855 --> 00:10.366
+ditandatangani.
+
+00:10.366 --> 00:13.157
+Selagi Anda mendikte, Pemeriksaan
+Kualitas secara otomatis meninjau
+
+00:13.157 --> 00:15.949
+konten laporan dan menampilkan
+peringatan serta pertimbangan Bantuan
+
+00:15.949 --> 00:18.741
+Pintar agar masalah dapat ditangani
+lebih awal, sebelum laporan
+
+00:18.741 --> 00:21.533
+diselesaikan.
+
+00:21.533 --> 00:24.777
+Fitur ini mencari tiga jenis
+ketidaksesuaian umum: ketidaksesuaian
+
+00:24.777 --> 00:28.021
+lateralitas, ketidaksesuaian jenis
+kelamin, dan hasil tes kritis atau
+
+00:28.021 --> 00:31.266
+temuan yang dapat ditindaklanjuti.
+
+00:31.266 --> 00:33.549
+Ketidakcocokan lateralitas terjadi
+jika sisi yang didikte tidak sesuai
+
+00:33.549 --> 00:35.832
+dengan pemeriksaan yang dipesan.
+
+00:35.833 --> 00:38.955
+Ketidakcocokan jenis kelamin
+membandingkan demografi pasien dengan
+
+00:38.955 --> 00:42.077
+istilah spesifik jenis kelamin dalam
+laporan. Peringatan ini secara
+
+00:42.077 --> 00:45.199
+otomatis diabaikan jika jenis kelamin
+non-biner teridentifikasi.
+
+00:45.200 --> 00:47.477
+Hasil penting dan temuan yang dapat
+ditindaklanjuti ditandai berdasarkan
+
+00:47.477 --> 00:49.755
+ketentuan yang telah ditentukan
+sebelumnya dan dikonfigurasi oleh
+
+00:49.755 --> 00:52.033
+administrator sistem Anda.
+
+00:52.033 --> 00:54.066
+Setelah Anda mengoreksi laporan,
+peringatan terkait akan dihapus secara
+
+00:54.066 --> 00:56.099
+otomatis.
+
+00:56.666 --> 00:59.177
+Jika masalah tidak teratasi sebelum
+penandatanganan, Pemeriksaan Kualitas
+
+00:59.177 --> 01:01.688
+akan menampilkan peringatan sehingga
+Anda dapat meninjau ketidaksesuaian
+
+01:01.688 --> 01:04.199
+sebelum menyelesaikan laporan.

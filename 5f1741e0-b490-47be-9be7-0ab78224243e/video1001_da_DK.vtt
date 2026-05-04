@@ -1,0 +1,81 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Kvalitetskontrol er en funktion i
+realtid, der er designet til at hjælpe
+
+00:05.344 --> 00:07.855
+med at identificere almindelige fejl
+og uoverensstemmelser, før en rapport
+
+00:07.855 --> 00:10.366
+underskrives.
+
+00:10.366 --> 00:14.088
+Mens du dikterer, gennemgår
+Kvalitetskontrol automatisk indholdet
+
+00:14.088 --> 00:17.810
+i din rapport og viser advarsler og
+Smart Assist-overvejelser, så du kan
+
+00:17.810 --> 00:21.533
+tage fat på problemer tidligt, før du
+færdiggør rapporten.
+
+00:21.533 --> 00:24.777
+Den søger efter tre almindelige typer
+uoverensstemmelser: uoverensstemmelser
+
+00:24.777 --> 00:28.021
+i sideangivelse,
+kønsuoverensstemmelser og potentielle
+
+00:28.021 --> 00:31.266
+kritiske testresultater eller
+handlingsorienterede resultater.
+
+00:31.266 --> 00:33.549
+Uoverensstemmelser i sideangivelse
+opstår, når den dikterede side ikke
+
+00:33.549 --> 00:35.832
+stemmer overens med den bestilte
+undersøgelse.
+
+00:35.833 --> 00:38.955
+Kønsuoverensstemmelser sammenligner
+patientdemografi med kønsspecifikke
+
+00:38.955 --> 00:42.077
+termer i rapporten; disse advarsler
+undertrykkes automatisk, når et
+
+00:42.077 --> 00:45.199
+ikke-binært køn identificeres.
+
+00:45.200 --> 00:47.477
+Kritiske resultater og
+handlingsorienterede resultater
+
+00:47.477 --> 00:49.755
+markeres baseret på foruddefinerede
+termer, som er konfigureret af din
+
+00:49.755 --> 00:52.033
+systemadministrator.
+
+00:52.033 --> 00:56.099
+Når du retter rapporten, fjernes den
+tilsvarende advarsel automatisk.
+
+00:56.666 --> 00:59.177
+Hvis et problem ikke løses før
+underskrivelsen, viser
+
+00:59.177 --> 01:01.688
+Kvalitetskontrol en advarsel, så du
+kan gennemgå uoverensstemmelser, før
+
+01:01.688 --> 01:04.199
+du færdiggør rapporten.

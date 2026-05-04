@@ -1,0 +1,74 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Kiểm tra chất lượng là một tính năng
+theo thời gian thực được thiết kế để
+
+00:05.344 --> 00:07.855
+giúp nhận diện các lỗi và sự không
+nhất quán thường gặp trước khi báo cáo
+
+00:07.855 --> 00:10.366
+được ký.
+
+00:10.366 --> 00:14.088
+Khi bạn đọc chính tả, Kiểm tra chất
+lượng tự động xem xét nội dung báo cáo
+
+00:14.088 --> 00:17.810
+và hiển thị cảnh báo cùng các đề xuất
+Hỗ trợ thông minh để bạn có thể xử lý
+
+00:17.810 --> 00:21.533
+vấn đề sớm, trước khi hoàn tất báo
+cáo.
+
+00:21.533 --> 00:24.777
+Tính năng này tìm kiếm ba loại sai
+lệch phổ biến: sai lệch bên chụp, sai
+
+00:24.777 --> 00:28.021
+lệch giới tính và các kết quả xét
+nghiệm quan trọng hoặc phát hiện cần
+
+00:28.021 --> 00:31.266
+hành động.
+
+00:31.266 --> 00:33.549
+Sai lệch bên chụp xảy ra khi bên được
+đọc chính tả không khớp với chỉ định
+
+00:33.549 --> 00:35.832
+khám.
+
+00:35.833 --> 00:38.955
+Sai lệch giới tính đối chiếu thông tin
+nhân khẩu học của bệnh nhân với các
+
+00:38.955 --> 00:42.077
+thuật ngữ đặc thù theo giới tính trong
+báo cáo, các cảnh báo này sẽ tự động
+
+00:42.077 --> 00:45.199
+bị ẩn khi hệ thống xác định giới tính
+phi nhị nguyên.
+
+00:45.200 --> 00:48.616
+Các kết quả quan trọng và phát hiện
+cần hành động được gắn cờ dựa trên các
+
+00:48.616 --> 00:52.033
+thuật ngữ được xác định trước do người
+quản trị hệ thống cấu hình.
+
+00:52.033 --> 00:56.099
+Sau khi bạn sửa báo cáo, cảnh báo
+tương ứng sẽ tự động được loại bỏ.
+
+00:56.666 --> 01:00.432
+Nếu vấn đề không được giải quyết trước
+khi ký, Kiểm tra chất lượng sẽ hiển
+
+01:00.432 --> 01:04.199
+thị cảnh báo để bạn xem xét các sai
+lệch trước khi hoàn tất báo cáo.

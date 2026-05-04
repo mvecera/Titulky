@@ -1,0 +1,82 @@
+WEBVTT
+
+00:02.833 --> 00:05.344
+Kvalitetskontroll är en
+realtidsfunktion som är utformad för
+
+00:05.344 --> 00:07.855
+att identifiera vanliga fel och
+inkonsekvenser innan en rapport
+
+00:07.855 --> 00:10.366
+signeras.
+
+00:10.366 --> 00:14.088
+När du dikterar granskar
+kvalitetskontroll automatiskt ditt
+
+00:14.088 --> 00:17.810
+rapportinnehåll och visar aviseringar
+och överväganden för Smart Assist så
+
+00:17.810 --> 00:21.533
+att du kan åtgärda problem tidigt
+innan du slutför rapporten.
+
+00:21.533 --> 00:24.777
+Den söker efter tre vanliga typer av
+avvikelser: laterala matchningsfel,
+
+00:24.777 --> 00:28.021
+matchningsfel för kön och potentiella
+kritiska testresultat eller användbara
+
+00:28.021 --> 00:31.266
+resultat.
+
+00:31.266 --> 00:33.549
+Laterala matchningsfel uppstår när den
+dikterade sidan inte matchar det
+
+00:33.549 --> 00:35.832
+ordnade provet.
+
+00:35.833 --> 00:38.955
+Matchningsfel för kön jämför
+patientdemografi med könsspecifika
+
+00:38.955 --> 00:42.077
+termer i rapporten. Dessa aviseringar
+ignoreras automatiskt när ett
+
+00:42.077 --> 00:45.199
+icke-binärt kön identifieras.
+
+00:45.200 --> 00:47.477
+Kritiska resultat och åtgärdsbara
+resultat flaggas baserat på
+
+00:47.477 --> 00:49.755
+fördefinierade termer som
+konfigurerats av
+
+00:49.755 --> 00:52.033
+systemadministratören.
+
+00:52.033 --> 00:54.066
+När du har korrigerat rapporten tas
+motsvarande avisering bort
+
+00:54.066 --> 00:56.099
+automatiskt.
+
+00:56.666 --> 00:59.177
+Om ett problem inte löses innan du
+signerar visas en varning i
+
+00:59.177 --> 01:01.688
+kvalitetskontrollen så att du kan
+granska avvikelser innan du slutför
+
+01:01.688 --> 01:04.199
+rapporten.

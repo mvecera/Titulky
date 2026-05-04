@@ -1,0 +1,66 @@
+WEBVTT
+
+00:02.700 --> 00:05.422
+Um AutoTexto padrão é um modelo que é
+carregado automaticamente quando você
+
+00:05.422 --> 00:08.144
+inicia um relatório ou adendo, mas
+somente quando ele corresponde ao
+
+00:08.144 --> 00:10.866
+exame.
+
+00:10.866 --> 00:13.349
+Aqui está a chave: o AutoTexto padrão
+sempre deve estar vinculado aos
+
+00:13.349 --> 00:15.833
+códigos de procedimento.
+
+00:15.833 --> 00:17.649
+Isso é o que garante que o modelo
+certo seja carregado para o estudo
+
+00:17.649 --> 00:19.466
+correto.
+
+00:19.466 --> 00:22.582
+Para definir um AutoTexto padrão,
+edite o AutoTexto, abra Configurações
+
+00:22.582 --> 00:25.699
+e selecione o procedimento.
+
+00:25.700 --> 00:28.622
+De dentro dos códigos de procedimento,
+pesquise por código ou descrição do
+
+00:28.622 --> 00:31.544
+exame usando a pesquisa de
+palavra-chave ou filtre por site,
+
+00:31.544 --> 00:34.466
+modalidade e anatomia.
+
+00:34.466 --> 00:36.249
+Depois que o código desejado for
+selecionado, selecione o botão
+
+00:36.249 --> 00:38.032
+Adicionar.
+
+00:38.033 --> 00:40.633
+Isso atribuirá o código selecionado ao
+modelo.
+
+00:40.633 --> 00:42.333
+Selecione OK.
+
+00:42.333 --> 00:48.599
+Na lista suspensa padrão, selecione
+Relatório ou Adendo e salve.
+
+00:48.600 --> 00:51.266
+Da próxima vez que abrir esse exame,
+você estará pronto para ditar.

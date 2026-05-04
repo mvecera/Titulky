@@ -1,0 +1,67 @@
+WEBVTT
+
+00:02.700 --> 00:05.422
+Un texto automático predeterminado es
+una plantilla que se carga
+
+00:05.422 --> 00:08.144
+automáticamente al iniciar un informe
+o un anexo, pero solo si coincide con
+
+00:08.144 --> 00:10.866
+el examen.
+
+00:10.866 --> 00:13.349
+Esta es la clave: El autotexto
+predeterminado siempre debe estar
+
+00:13.349 --> 00:15.833
+vinculado a códigos de procedimiento.
+
+00:15.833 --> 00:17.649
+Eso es lo que garantiza que se cargue
+la plantilla adecuada para cada
+
+00:17.649 --> 00:19.466
+estudio.
+
+00:19.466 --> 00:22.582
+Para establecer un autotexto
+predeterminado, edite el autotexto,
+
+00:22.582 --> 00:25.699
+abra Configuración y seleccione el
+procedimiento.
+
+00:25.700 --> 00:28.622
+Dentro de los códigos de
+procedimiento, busca por código o por
+
+00:28.622 --> 00:31.544
+descripción de la prueba utilizando la
+búsqueda por palabra clave, o filtra
+
+00:31.544 --> 00:34.466
+por centro, modalidad y anatomía.
+
+00:34.466 --> 00:38.032
+Una vez seleccionado el código
+deseado, seleccione el botón agregar.
+
+00:38.033 --> 00:40.633
+Esto asignará el código seleccionado a
+la plantilla.
+
+00:40.633 --> 00:42.333
+Seleccione Aceptar.
+
+00:42.333 --> 00:45.466
+En la lista desplegable
+predeterminada, seleccione Informe o
+
+00:45.466 --> 00:48.599
+Anexo y guarde.
+
+00:48.600 --> 00:51.266
+La próxima vez que abra ese examen,
+estará listo para dictar.

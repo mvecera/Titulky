@@ -1,0 +1,62 @@
+WEBVTT
+
+00:02.833 --> 00:06.016
+Az alapértelmezett sablon legördülő
+menü gyors hozzáférést biztosít más
+
+00:06.016 --> 00:09.199
+releváns sablonokhoz, közvetlenül a
+jelentés fejlécéből.
+
+00:09.200 --> 00:13.099
+Ezt a legördülő menüt csak akkor
+látja, ha három feltétel teljesül: az
+
+00:13.099 --> 00:16.999
+alapértelmezett AutoText betöltődött,
+a további sablonok eljáráskód szerint
+
+00:16.999 --> 00:20.899
+vannak kategorizálva, és az AutoText
+sablonként van besorolva.
+
+00:20.900 --> 00:22.733
+Miután egy alapértelmezett sablon
+beillesztésre került, nézze meg a
+
+00:22.733 --> 00:24.566
+jelentés fejlécét.
+
+00:24.566 --> 00:27.466
+Itt található az alapértelmezett
+sablon legördülő menü.
+
+00:27.466 --> 00:30.099
+Nyissa meg a legördülő menüt, hogy
+lássa a rendelkezésre álló sablonokat.
+
+00:30.100 --> 00:33.233
+Itt láthatja a személyes és a webhely
+AutoText-elemeit is.
+
+00:33.233 --> 00:35.399
+Ha egy helyi sablon ugyanazzal a
+névvel rendelkezik, mint az egyik
+
+00:35.399 --> 00:37.566
+személyes sablonja, akkor a neve
+mellett szögletes zárójelben
+
+00:37.566 --> 00:39.733
+megjelenik [S] betű.
+
+00:39.733 --> 00:42.532
+Amikor kiválaszt egy sablont, az
+automatikusan lecseréli a meglévő
+
+00:42.532 --> 00:45.332
+jelentés szerkezeti szakaszait, mezőit
+és formázását a sablon beállításai
+
+00:45.332 --> 00:48.132
+alapján.

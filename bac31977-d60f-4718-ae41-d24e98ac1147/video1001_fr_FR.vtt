@@ -1,0 +1,58 @@
+WEBVTT
+
+00:02.833 --> 00:06.016
+Le menu déroulant du modèle par défaut
+vous donne un accès rapide à d’autres
+
+00:06.016 --> 00:09.199
+modèles pertinents, directement à
+partir de l’en-tête du rapport.
+
+00:09.200 --> 00:12.124
+Vous ne verrez cette liste déroulante
+que lorsque trois conditions requises
+
+00:12.124 --> 00:15.049
+sont remplies : le texte automatique
+par défaut a été rempli, les modèles
+
+00:15.049 --> 00:17.974
+supplémentaires sont classés par code
+de procédure et le texte automatique
+
+00:17.974 --> 00:20.899
+est classé en tant que modèle.
+
+00:20.900 --> 00:24.566
+Après l’insertion d’un modèle par
+défaut, regardez l’en-tête de rapport.
+
+00:24.566 --> 00:27.466
+C’est là que se trouve la liste
+déroulante de modèles par défaut.
+
+00:27.466 --> 00:30.099
+Ouvrez la liste déroulante pour
+afficher les modèles disponibles.
+
+00:30.100 --> 00:33.233
+Vous verrez ici les AutoText
+personnels et ceux du site.
+
+00:33.233 --> 00:36.483
+Si un modèle de site porte le même nom
+que l’un de vos modèles personnels, il
+
+00:36.483 --> 00:39.733
+affiche un [S] entre crochets.
+
+00:39.733 --> 00:42.532
+Lorsque vous sélectionnez un modèle,
+il remplace automatiquement la mise en
+
+00:42.532 --> 00:45.332
+forme, les sections et les champs de
+la structure du rapport en fonction de
+
+00:45.332 --> 00:48.132
+la configuration de ce modèle.

@@ -1,0 +1,159 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:03.500
+So können Sie in Microsoft 365 Copilot
+einen No-Code-Agent erstellen, der
+
+2
+00:00:03.500 --> 00:00:06.720
+sich um wiederkehrende Fragen kümmert.
+
+3
+00:00:07.160 --> 00:00:09.040
+Angenommen, Sie arbeiten im
+Personalwesen und möchten einen Agent,
+
+4
+00:00:09.040 --> 00:00:10.920
+der schnell Fragen von Mitarbeitern
+zur Unternehmensrichtlinie
+
+5
+00:00:10.920 --> 00:00:12.800
+beantwortet.
+
+6
+00:00:13.120 --> 00:00:18.600
+Wählen Sie unten „Neuer Agent“ aus.
+
+7
+00:00:18.800 --> 00:00:21.653
+Wählen Sie „Mehr anzeigen“, um
+Vorlagen zu durchsuchen, die Sie an
+
+8
+00:00:21.653 --> 00:00:24.506
+Ihr Szenario anpassen können, oder
+wechseln Sie direkt zu
+
+9
+00:00:24.506 --> 00:00:27.360
+„Konfigurieren“.
+
+10
+00:00:27.560 --> 00:00:30.160
+Um einen Agent von Grund auf neu zu
+erstellen, fügen Sie einen Namen, eine
+
+11
+00:00:30.160 --> 00:00:32.760
+Beschreibung und Anweisungen hinzu.
+
+12
+00:00:33.120 --> 00:00:35.560
+Hier legen Sie fest, wie der Agent
+antworten soll.
+
+13
+00:00:36.160 --> 00:00:38.020
+Wir kehren zum Agent-Generator zurück
+und erstellen einen Agent mithilfe
+
+14
+00:00:38.020 --> 00:00:39.880
+eines Prompts.
+
+15
+00:00:40.240 --> 00:00:41.879
+Beschreiben Sie die Aufgabe mit
+genügend Kontext, um die Antworten zu
+
+16
+00:00:41.879 --> 00:00:43.520
+steuern.
+
+17
+00:00:43.880 --> 00:00:46.413
+Beispielsweise helfen Sie
+Mitarbeitern, Antworten auf Fragen zur
+
+18
+00:00:46.413 --> 00:00:48.946
+Personalrichtlinien zu Leistungen,
+Urlaub und Arbeitsplatzrichtlinien zu
+
+19
+00:00:48.946 --> 00:00:51.480
+finden.
+
+20
+00:00:51.840 --> 00:00:54.520
+Bewahren Sie stets einen hilfsbereiten
+und professionellen Ton.
+
+21
+00:00:55.000 --> 00:00:55.840
+Wählen Sie „Senden“ aus.
+
+22
+00:01:01.080 --> 00:01:02.520
+Überprüfen Sie im Bereich
+„Konfigurieren“, wie der Agent
+
+23
+00:01:02.520 --> 00:01:03.960
+eingerichtet ist.
+
+24
+00:01:04.600 --> 00:01:07.100
+Scrollen Sie zum Abschnitt „Wissen“,
+um weitere Quellen hinzuzufügen, etwa
+
+25
+00:01:07.100 --> 00:01:09.600
+interne Dateien oder freigegebene
+Websites.
+
+26
+00:01:09.920 --> 00:01:11.760
+Diese Quellen stützen die Antworten
+auf den Informationen Ihres
+
+27
+00:01:11.760 --> 00:01:13.600
+Unternehmens.
+
+28
+00:01:14.520 --> 00:01:18.760
+Wählen Sie „Testen“ aus, um zu prüfen,
+wie der Agent antwortet, oder kehren
+
+29
+00:01:18.760 --> 00:01:23.000
+Sie zu „Konfigurieren“ zurück, um
+Anweisungen oder Wissen anzupassen.
+
+30
+00:01:23.320 --> 00:01:25.800
+Wenn alles bereit aussieht, wählen Sie
+„Erstellen“ aus.
+
+31
+00:01:28.160 --> 00:01:30.280
+Wählen Sie „Zum Agent wechseln“ aus,
+um ihn zu verwenden.
+
+32
+00:01:31.880 --> 00:01:34.400
+Um ihn später zu verfeinern, wählen
+Sie die...
+
+33
+00:01:34.560 --> 00:01:36.480
+Bearbeiten oder kopieren Sie dann den
+Link, um den Agent mit Ihrem Team zu
+
+34
+00:01:36.480 --> 00:01:38.400
+teilen.

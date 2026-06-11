@@ -1,0 +1,127 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:03.500
+Veja como você pode criar um agente
+sem código no Microsoft 365 Copilot
+
+2
+00:00:03.500 --> 00:00:06.720
+para lidar com perguntas repetitivas.
+
+3
+00:00:07.160 --> 00:00:09.040
+Digamos que você trabalhe no
+Departamento de Recursos Humanos e
+
+4
+00:00:09.040 --> 00:00:10.920
+queira um agente que responda às
+perguntas dos funcionários sobre as
+
+5
+00:00:10.920 --> 00:00:12.800
+políticas da empresa.
+
+6
+00:00:13.120 --> 00:00:18.600
+Selecione Novo Agente na parte
+inferior.
+
+7
+00:00:18.800 --> 00:00:23.080
+Selecione Ver Mais para explorar
+modelos que você possa adaptar à sua
+
+8
+00:00:23.080 --> 00:00:27.360
+situação ou pule diretamente para
+Configurar.
+
+9
+00:00:27.560 --> 00:00:32.760
+Para criar um agente do zero, adicione
+um nome, uma descrição e instruções.
+
+10
+00:00:33.120 --> 00:00:35.560
+É aqui que você define como o agente
+deve responder.
+
+11
+00:00:36.160 --> 00:00:39.880
+Voltaremos ao construtor do agente e
+criaremos um agente usando um prompt.
+
+12
+00:00:40.240 --> 00:00:43.520
+Descreva a tarefa com contexto
+suficiente para orientar as respostas.
+
+13
+00:00:43.880 --> 00:00:47.680
+Por exemplo, ajude os funcionários a
+encontrar respostas sobre políticas de
+
+14
+00:00:47.680 --> 00:00:51.480
+RH, como benefícios, folgas e
+diretrizes do local de trabalho.
+
+15
+00:00:51.840 --> 00:00:54.520
+Mantenha sempre um tom prestativo e
+profissional.
+
+16
+00:00:55.000 --> 00:00:55.840
+Selecione Enviar.
+
+17
+00:01:01.080 --> 00:01:03.960
+No painel Configurar, revise como o
+agente está configurado.
+
+18
+00:01:04.600 --> 00:01:07.100
+Role até a seção Conhecimento para
+adicionar mais fontes, como arquivos
+
+19
+00:01:07.100 --> 00:01:09.600
+internos ou sites aprovados.
+
+20
+00:01:09.920 --> 00:01:13.600
+Essas fontes baseiam as respostas nas
+informações da sua organização.
+
+21
+00:01:14.520 --> 00:01:18.760
+Selecione Experimentar para testar
+como o agente responde ou volte para
+
+22
+00:01:18.760 --> 00:01:23.000
+Configurar para ajustar as instruções
+ou o conhecimento.
+
+23
+00:01:23.320 --> 00:01:25.800
+Quando tudo estiver pronto, selecione
+Criar.
+
+24
+00:01:28.160 --> 00:01:30.280
+Selecione Ir para o Agente para
+começar a usá-lo.
+
+25
+00:01:31.880 --> 00:01:34.400
+Para refiná-lo mais tarde, selecione
+o...
+
+26
+00:01:34.560 --> 00:01:38.400
+Em seguida, edite ou copie o link para
+compartilhar o agente com sua equipe.

@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:03.500
+Berikut cara membuat Agen tanpa kode
+di Microsoft 365 Copilot untuk
+
+2
+00:00:03.500 --> 00:00:06.720
+menangani pertanyaan berulang.
+
+3
+00:00:07.160 --> 00:00:09.040
+Misalkan Anda bekerja di bagian Sumber
+Daya Manusia dan ingin memiliki agen
+
+4
+00:00:09.040 --> 00:00:10.920
+yang dapat menjawab pertanyaan
+karyawan mengenai kebijakan
+
+5
+00:00:10.920 --> 00:00:12.800
+perusahaan.
+
+6
+00:00:13.120 --> 00:00:18.600
+Pilih Agen Baru di bagian bawah.
+
+7
+00:00:18.800 --> 00:00:23.080
+Pilih Lihat Selengkapnya untuk
+menelusuri templat yang dapat
+
+8
+00:00:23.080 --> 00:00:27.360
+disesuaikan dengan skenario atau
+lompati ke bagian Konfigurasi.
+
+9
+00:00:27.560 --> 00:00:30.160
+Untuk membuat agen dari awal,
+tambahkan nama, deskripsi, dan
+
+10
+00:00:30.160 --> 00:00:32.760
+instruksi.
+
+11
+00:00:33.120 --> 00:00:35.560
+Di sini Anda memandu cara agen harus
+merespons.
+
+12
+00:00:36.160 --> 00:00:39.880
+Kita akan kembali ke pembuat agen dan
+membuat agen menggunakan prompt.
+
+13
+00:00:40.240 --> 00:00:41.879
+Jelaskan tugas dengan konteks yang
+cukup untuk memandu respons yang
+
+14
+00:00:41.879 --> 00:00:43.520
+diberikan.
+
+15
+00:00:43.880 --> 00:00:47.680
+Misalnya, bantu karyawan menemukan
+jawaban untuk pertanyaan menyangkut
+
+16
+00:00:47.680 --> 00:00:51.480
+kebijakan SDM tentang tunjangan, cuti,
+dan pedoman tempat kerja.
+
+17
+00:00:51.840 --> 00:00:54.520
+Selalu pilih nada yang membantu dan
+profesional.
+
+18
+00:00:55.000 --> 00:00:55.840
+Pilih Kirim.
+
+19
+00:01:01.080 --> 00:01:03.960
+Di panel Konfigurasikan, tinjau cara
+agen disiapkan.
+
+20
+00:01:04.600 --> 00:01:07.100
+Gulir ke bagian Pengetahuan untuk
+menambahkan lebih banyak sumber,
+
+21
+00:01:07.100 --> 00:01:09.600
+seperti file internal atau situs web
+yang sudah disetujui.
+
+22
+00:01:09.920 --> 00:01:13.600
+Sumber ini menjadi dasar respons dalam
+informasi organisasi Anda.
+
+23
+00:01:14.520 --> 00:01:18.760
+Pilih Coba untuk menguji cara agen
+merespons atau kembali ke Konfigurasi
+
+24
+00:01:18.760 --> 00:01:23.000
+untuk menyesuaikan instruksi atau
+pengetahuan.
+
+25
+00:01:23.320 --> 00:01:25.800
+Jika semuanya sudah siap, pilih Buat.
+
+26
+00:01:28.160 --> 00:01:30.280
+Pilih Buka Agen untuk mulai
+menggunakannya.
+
+27
+00:01:31.880 --> 00:01:34.400
+Untuk mempersempitnya nanti, pilih...
+
+28
+00:01:34.560 --> 00:01:38.400
+Atau edit atau salin tautan untuk
+membagikan agen dengan tim Anda.

@@ -1,0 +1,161 @@
+WEBVTT
+
+1
+00:00:00.040 --> 00:00:03.900
+Rollespill or læringsagenten er
+tilgjengelige for brukere med
+
+2
+00:00:03.900 --> 00:00:07.760
+Microsoft 365 Copilot-lisens og krever
+en Skillsoft-lisens for sluttbrukere.
+
+3
+00:00:08.560 --> 00:00:10.920
+Administratorer kan konfigurere
+rollespill fra delen for
+
+4
+00:00:10.920 --> 00:00:13.280
+innlevelsesbasert læring ved å
+aktivere CAISY: Conversation AI
+
+5
+00:00:13.280 --> 00:00:15.640
+Simulator, levert av Skillsoft, via
+alternativet Legg til leverandør for å
+
+6
+00:00:15.640 --> 00:00:18.000
+starte oppsettet.
+
+7
+00:00:18.080 --> 00:00:21.426
+Etter at oppsettet er startet, må
+administratorer angi
+
+8
+00:00:21.426 --> 00:00:24.773
+organisasjons-ID-en,
+tjenestekontonøkkelen og nettadressen
+
+9
+00:00:24.773 --> 00:00:28.120
+for datasenter-endepunkt for å
+fullføre konfigurasjonen.
+
+10
+00:00:28.280 --> 00:00:32.280
+Derfra administreres tilgangen ved å
+gjøre rollespill tilgjengelig for alle
+
+11
+00:00:32.280 --> 00:00:36.280
+i organisasjonen eller bare for
+bestemte grupper.
+
+12
+00:00:36.440 --> 00:00:39.760
+Når oppsettet er fullført, lukker du
+bare sidepanelet.
+
+13
+00:00:40.040 --> 00:00:41.840
+Det kan ta noen timer før
+konfigurasjonen med innholdsinntak er
+
+14
+00:00:41.840 --> 00:00:43.640
+fullført.
+
+15
+00:00:43.760 --> 00:00:46.373
+Når synkroniseringen er fullført, kan
+administratorer når som helst gå
+
+16
+00:00:46.373 --> 00:00:48.986
+tilbake for å administrere tilgangen
+på nytt eller fjerne leverandøren, ved
+
+17
+00:00:48.986 --> 00:00:51.600
+hjelp av menyen med tre prikker.
+
+18
+00:00:53.840 --> 00:00:56.140
+Når det er aktivert, blir rollespill
+tilgjengelig for alle organisasjonens
+
+19
+00:00:56.140 --> 00:00:58.440
+brukere som vil lære.
+
+20
+00:00:59.600 --> 00:01:02.460
+Rollespillanbefalinger som er
+tilpasset rollen til en bruker, vises
+
+21
+00:01:02.460 --> 00:01:05.320
+direkte på startsiden i
+læringsagenten.
+
+22
+00:01:05.920 --> 00:01:09.600
+Et enkelt klikk på et rollespillkort
+starter en samtale, og derfra kan
+
+23
+00:01:09.600 --> 00:01:13.280
+brukerne starte rollespill i side ved
+side-modus.
+
+24
+00:01:13.280 --> 00:01:15.960
+Første gang en bruker starter et
+rollespill, blir vedkommende bedt om å
+
+25
+00:01:15.960 --> 00:01:18.640
+logge på med Skillsoft-legitimasjonen
+sin.
+
+26
+00:01:18.960 --> 00:01:23.120
+Læringsagenten støtter enkel
+pålogging, så etter første pålogging
+
+27
+00:01:23.120 --> 00:01:27.280
+kan brukere sømløst få tilgang til
+Skillsoft-rollespillopplevelser.
+
+28
+00:01:28.440 --> 00:01:31.540
+Når rollespillet er ferdig, får
+brukerne tilpasset tilbakemelding som
+
+29
+00:01:31.540 --> 00:01:34.640
+peker på styrker og ferdigheter som
+kan forbedres.
+
+30
+00:01:36.240 --> 00:01:37.160
+Og det er ikke alt.
+
+31
+00:01:37.560 --> 00:01:41.306
+Relevante rollespillanbefalinger vises
+også når brukerne stiller spørsmål i
+
+32
+00:01:41.306 --> 00:01:45.053
+læringsagenten, eller som del av
+anbefalte svar for mikrolæring, slik
+
+33
+00:01:45.053 --> 00:01:48.800
+at brukerne kan øve på ferdigheter
+akkurat når de trenger det mest.

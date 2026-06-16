@@ -1,0 +1,130 @@
+WEBVTT
+
+1
+00:00:02.840 --> 00:00:06.180
+Bilgi Kaynakları ve Öğrenme Aracısı,
+kuruluşların SharePoint içindeki
+
+2
+00:00:06.180 --> 00:00:09.520
+içeriği kullanarak öğrenme
+deneyimlerini desteklemesini sağlar.
+
+3
+00:00:09.600 --> 00:00:13.226
+AAD rolleri olan kullanıcılar, Genel
+Yönetici, Bilgi Yöneticisi olan ya da
+
+4
+00:00:13.226 --> 00:00:16.853
+Viva Learning içindeki özellik
+yönetimi üzerinden erişim izni verilen
+
+5
+00:00:16.853 --> 00:00:20.480
+kullanıcılar, Öğrenme Aracısı yönetme
+seçeneğini görebilir.
+
+6
+00:00:20.640 --> 00:00:23.100
+Buradan yöneticiler, ayrılmış bir kart
+üzerinden Bilgi Kaynakları öğelerini
+
+7
+00:00:23.100 --> 00:00:25.560
+görüntüleyebilir ve yönetebilir.
+
+8
+00:00:26.680 --> 00:00:29.040
+Daha önce eklenen ve Kuruluş öğrenme
+içeriği içeren tüm SharePoint siteleri
+
+9
+00:00:29.040 --> 00:00:31.400
+burada listelenir.
+
+10
+00:00:32.520 --> 00:00:35.706
+Yöneticiler, İK eğitim içeriği gibi
+bir yapılandırma adı girip ilgili
+
+11
+00:00:35.706 --> 00:00:38.893
+siteye bağlantı ekleyerek yeni bir
+SharePoint sitesini bilgi kaynağı
+
+12
+00:00:38.893 --> 00:00:42.080
+olarak ekleyebilirler.
+
+13
+00:00:42.120 --> 00:00:44.740
+Eklendikten sonra bu kaynaklar,
+Öğrenme Aracısı tarafından temelli
+
+14
+00:00:44.740 --> 00:00:47.360
+yanıtlar oluşturmak için kullanılır.
+
+15
+00:00:48.520 --> 00:00:51.120
+Yöneticiler, düzenleme ve silme
+seçenekleri de dahil kullanılabilen
+
+16
+00:00:51.120 --> 00:00:53.720
+denetimleri kullanarak istedikleri
+zaman geri dönüp bilgi kaynaklarını
+
+17
+00:00:53.720 --> 00:00:56.320
+düzenleyebilir veya kaldırabilir.
+
+18
+00:00:56.440 --> 00:00:59.000
+Yapılandırıldıktan sonra bu bilgi
+kaynakları, kuruluş genelindeki
+
+19
+00:00:59.000 --> 00:01:01.560
+öğrenenler için kullanılabilir hale
+gelecektir.
+
+20
+00:01:01.680 --> 00:01:04.893
+Ardından Öğrenme Aracısı,
+yapılandırılmış SharePoint
+
+21
+00:01:04.893 --> 00:01:08.106
+sitelerindeki bu içeriği kullanarak
+mikro öğrenme yanıtları oluşturur ve
+
+22
+00:01:08.106 --> 00:01:11.320
+yönlendirmeli açıklamaları Kuruluş
+bilgisiyle birleştirir.
+
+23
+00:01:11.480 --> 00:01:14.640
+Yanıtlar içinde kullanıcılar, ilgili
+SharePoint belgelerine doğrudan
+
+24
+00:01:14.640 --> 00:01:17.800
+bağlantı veren alıntılara erişebilir
+ve böylece güvenilir kurumsal içeriği
+
+25
+00:01:17.800 --> 00:01:20.960
+ayırt edebilir.
+
+26
+00:01:21.080 --> 00:01:24.339
+Bu sayede tek bir deneyim içinde yapay
+zeka destekli öğrenmenin yanı sıra
+
+27
+00:01:24.339 --> 00:01:27.600
+dahili bilgiye sorunsuz erişim
+sağlanmış olur.

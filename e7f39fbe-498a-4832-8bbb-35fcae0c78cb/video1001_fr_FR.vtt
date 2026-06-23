@@ -1,0 +1,215 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+Dans cette vidéo, vous apprendrez
+comment afficher, modifier et publier
+
+2
+00:00:03.883 --> 00:00:07.133
+le Guide que les infirmiers utilisent
+dans l’application mobile.
+
+3
+00:00:07.133 --> 00:00:09.649
+« Le Guide est une référence
+structurée utilisée dans l’application
+
+4
+00:00:09.649 --> 00:00:12.166
+mobile pour les soins infirmiers.
+
+5
+00:00:12.166 --> 00:00:14.810
+Il aide les infirmiers à se rappeler
+ce qui doit être capturé lors d’une
+
+6
+00:00:14.810 --> 00:00:17.455
+documentation complexe. » « Utiliser
+un Guide personnalisé permet de
+
+7
+00:00:17.455 --> 00:00:20.100
+garantir une documentation cohérente
+et précise.
+
+8
+00:00:20.100 --> 00:00:22.921
+Il apporte de la clarté aux infirmiers
+pendant l’enregistrement, notamment
+
+9
+00:00:22.921 --> 00:00:25.743
+pour les flux de travail plus
+complexes. » « Pour commencer,
+
+10
+00:00:25.743 --> 00:00:28.566
+connectez-vous au centre
+d’administration Dragon.
+
+11
+00:00:28.566 --> 00:00:32.169
+Sous Dragon Copilot, sélectionnez «
+Infirmiers » et vérifiez que vous
+
+12
+00:00:32.169 --> 00:00:35.772
+travaillez dans le bon environnement.
+Sous Outils et configuration
+
+13
+00:00:35.772 --> 00:00:39.376
+infirmiers, sélectionnez « Guide ».
+Vous verrez le guide par défaut
+
+14
+00:00:39.376 --> 00:00:42.979
+déployé lors de la mise en service et
+pourrez prévisualiser son apparence
+
+15
+00:00:42.979 --> 00:00:46.583
+pour les infirmiers. Pour télécharger
+la configuration actuelle du Guide,
+
+16
+00:00:46.583 --> 00:00:50.186
+sélectionnez « Télécharger ». Cela
+enregistre un fichier JSON pour
+
+17
+00:00:50.186 --> 00:00:53.789
+référence ou suivi des versions.
+Pour modifier le Guide, sélectionnez «
+
+18
+00:00:53.789 --> 00:00:57.393
+Modifier ». Vous avez maintenant accès
+pour modifier les catégories,
+
+19
+00:00:57.393 --> 00:01:00.996
+composants et valeurs qui composent
+l’arborescence du guide. Le Guide est
+
+20
+00:01:00.996 --> 00:01:04.600
+organisé en catégories, composants et
+valeurs.
+
+21
+00:01:04.600 --> 00:01:06.416
+Cette structure forme la hiérarchie
+que les infirmiers voient dans
+
+22
+00:01:06.416 --> 00:01:08.233
+l’application.
+
+23
+00:01:08.233 --> 00:01:11.366
+Pour ajouter une nouvelle catégorie,
+sélectionnez une catégorie existante,
+
+24
+00:01:11.366 --> 00:01:14.499
+cliquez sur +, un menu déroulant
+apparaît, puis sélectionnez « Ajouter
+
+25
+00:01:14.499 --> 00:01:17.632
+une catégorie sœur ». Un nouvel
+élément d’arborescence de catégorie
+
+26
+00:01:17.632 --> 00:01:20.766
+est ajouté à la fin de la liste au
+niveau racine.
+
+27
+00:01:20.766 --> 00:01:24.566
+Renommez votre nouvelle catégorie et
+sélectionnez « Mettre à jour l’aperçu.
+
+28
+00:01:24.566 --> 00:01:27.479
+« Pour ajouter un composant sous une
+catégorie, ouvrez les options de la
+
+29
+00:01:27.479 --> 00:01:30.392
+catégorie, sélectionnez « Ajouter un
+nouveau composant », renommez-le et
+
+30
+00:01:30.392 --> 00:01:33.306
+mettez à jour l’aperçu. » « Pour
+ajouter une valeur, ouvrez les options
+
+31
+00:01:33.306 --> 00:01:36.219
+de l’élément, choisissez « Ajouter une
+nouvelle valeur », mettez à jour
+
+32
+00:01:36.219 --> 00:01:39.133
+l’étiquette et actualisez l’aperçu.
+» « Vous pouvez réorganiser n’importe
+
+33
+00:01:39.133 --> 00:01:42.046
+quel élément en le sélectionnant et en
+utilisant les contrôles déplacer vers
+
+34
+00:01:42.046 --> 00:01:44.959
+le haut ou vers le bas.
+boutons[IF1.1]. » « Pour supprimer un
+
+35
+00:01:44.959 --> 00:01:47.873
+élément, sélectionnez l’icône
+Supprimer dans le panneau Options.
+
+36
+00:01:47.873 --> 00:01:50.786
+» « Une fois vos modifications
+terminées, revenez à la page
+
+37
+00:01:50.786 --> 00:01:53.700
+principale.
+
+38
+00:01:53.700 --> 00:01:55.533
+Passez en revue vos modifications,
+sélectionnez « Publier », puis
+
+39
+00:01:55.533 --> 00:01:57.366
+confirmez.
+
+40
+00:01:57.366 --> 00:02:00.066
+La publication est nécessaire pour que
+les mises à jour apparaissent dans
+
+41
+00:02:00.066 --> 00:02:02.766
+l’application mobile. » « L’outil
+Guide vous permet de créer et de gérer
+
+42
+00:02:02.766 --> 00:02:05.466
+des conseils qui prennent en charge
+une documentation précise et
+
+43
+00:02:05.466 --> 00:02:08.166
+cohérente.
+
+44
+00:02:08.166 --> 00:02:10.166
+Merci de votre attention. »

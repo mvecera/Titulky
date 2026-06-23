@@ -1,0 +1,195 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+U ovom video zapisu ćete saznati kako
+da prikažete, uredite i objavite vodič
+
+2
+00:00:03.883 --> 00:00:07.133
+koji medicinske sestra koriste u
+aplikaciji za mobilne uređaje.
+
+3
+00:00:07.133 --> 00:00:09.649
+"Vodič je strukturirana referenca koja
+se koristi u aplikaciji za mobilne
+
+4
+00:00:09.649 --> 00:00:12.166
+uređaje za medicinske sestre.
+
+5
+00:00:12.166 --> 00:00:14.810
+Pomaže medicinskim sestrama u da se
+sete šta je potrebno snimiti u
+
+6
+00:00:14.810 --> 00:00:17.455
+slučajevima složene dokumentacije.”
+„Upotreba prilagođenog vodiča
+
+7
+00:00:17.455 --> 00:00:20.100
+osigurava doslednu, tačnu
+dokumentaciju.
+
+8
+00:00:20.100 --> 00:00:22.921
+To medicinskim sestrama donosi jasnoću
+tokom snimanja, posebno za složenije
+
+9
+00:00:22.921 --> 00:00:25.743
+tokove posla.“ „Da biste počeli,
+prijavite se u Dragon centar
+
+10
+00:00:25.743 --> 00:00:28.566
+administracije.
+
+11
+00:00:28.566 --> 00:00:32.569
+U okviru Dragon Copilot izaberite
+stavku "Medicinske sestre" i potvrdite
+
+12
+00:00:32.569 --> 00:00:36.573
+da radite u ispravnom okruženju." "U
+okviru „Alatke za negu i
+
+13
+00:00:36.573 --> 00:00:40.577
+konfiguraciju“ izaberite stavku
+„Vodič“. Videćete podrazumevani vodič
+
+14
+00:00:40.577 --> 00:00:44.581
+primenjen tokom obezbeđivanja i možete
+da pregledate kako izgleda medicinskim
+
+15
+00:00:44.581 --> 00:00:48.584
+sestrama." „Da biste preuzeli trenutnu
+konfiguraciju vodiča, izaberite stavku
+
+16
+00:00:48.584 --> 00:00:52.588
+„Preuzmi“. Ovo čuva JSON datoteku za
+referencu ili praćenje verzija." „Da
+
+17
+00:00:52.588 --> 00:00:56.592
+biste uredili Vodič, izaberite stavku
+„Uredi". Sada imate pristup da
+
+18
+00:00:56.592 --> 00:01:00.596
+izmenite kategorije, komponente i
+vrednosti koje sačinjaju stablo
+
+19
+00:01:00.596 --> 00:01:04.600
+smernica." Vodič je organizovan u
+kategorije, komponente i vrednosti.
+
+20
+00:01:04.600 --> 00:01:06.416
+Ova struktura oblikuje hijerarhiju
+koju medicinske sestre vide u
+
+21
+00:01:06.416 --> 00:01:08.233
+aplikaciji.
+
+22
+00:01:08.233 --> 00:01:11.366
+Da biste dodali novu kategoriju,
+izaberite postojeću, izaberite +
+
+23
+00:01:11.366 --> 00:01:14.499
+pojaviće se padajući meni i izaberite
+stavku „Dodaj kategoriju korisnika.
+
+24
+00:01:14.499 --> 00:01:17.632
+Nova stavka stabla kategorije se
+dodaje na kraj liste na osnovnom
+
+25
+00:01:17.632 --> 00:01:20.766
+nivou.
+
+26
+00:01:20.766 --> 00:01:24.566
+Preimenujte novu kategoriju i
+izaberite stavku „Ažuriraj pregled".
+
+27
+00:01:24.566 --> 00:01:27.803
+„Da biste dodali komponentu u okviru
+kategorije, otvorite opcije
+
+28
+00:01:27.803 --> 00:01:31.040
+kategorije, izaberite stavku „Dodaj
+novu komponentu", preimenujte je i
+
+29
+00:01:31.040 --> 00:01:34.277
+ažurirajte pregled." „Da biste dodali
+vrednost, otvorite opcije stavke,
+
+30
+00:01:34.277 --> 00:01:37.514
+odaberite stavku „Dodaj novu
+vrednost", ažurirajte oznaku i
+
+31
+00:01:37.514 --> 00:01:40.751
+osvežite pregled." „Možete da
+promenite redosled bilo koje stavke
+
+32
+00:01:40.751 --> 00:01:43.988
+tako što ćete je izabrati i koristiti
+kontrole premeštanja nagore ili
+
+33
+00:01:43.988 --> 00:01:47.225
+premeštanja nadole. dugmad[IF1.1]".
+„Da biste izbrisali stavku, izaberite
+
+34
+00:01:47.225 --> 00:01:50.462
+ikonu brisanja na tabli sa opcijama".
+„Kada se uređivanja dovrše, vratite se
+
+35
+00:01:50.462 --> 00:01:53.700
+na glavnu stranicu.
+
+36
+00:01:53.700 --> 00:01:57.366
+Pregledajte promene, izaberite stavku
+„Objavi“ i potvrdite.
+
+37
+00:01:57.366 --> 00:02:00.966
+Potrebno je objavljivanje da bi se
+ispravke pojavile u aplikaciji za
+
+38
+00:02:00.966 --> 00:02:04.566
+mobilne uređaje." „Alatka Vodič“ vam
+omogućava da kreirate uputstva koja
+
+39
+00:02:04.566 --> 00:02:08.166
+podržavaju tačnu i doslednu
+dokumentaciju o nezi.
+
+40
+00:02:08.166 --> 00:02:10.166
+Hvala što ste gledali.“

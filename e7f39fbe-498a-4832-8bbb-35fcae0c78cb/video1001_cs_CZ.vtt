@@ -1,0 +1,183 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+V tomto videu se dozvíte, jak
+zobrazit, upravit a publikovat
+
+2
+00:00:03.883 --> 00:00:07.133
+příručku, kterou používají zdravotní
+sestry v mobilní aplikaci.
+
+3
+00:00:07.133 --> 00:00:09.649
+Průvodce je strukturovaná příručka
+používaná v mobilní aplikaci pro
+
+4
+00:00:09.649 --> 00:00:12.166
+ošetřovatelství.
+
+5
+00:00:12.166 --> 00:00:14.810
+Pomáhá zdravotním sestrám zapamatovat
+si, co je třeba zaznamenat během
+
+6
+00:00:14.810 --> 00:00:17.455
+složité dokumentace. Používání
+přizpůsobeného průvodce pomáhá
+
+7
+00:00:17.455 --> 00:00:20.100
+zajistit konzistentní a přesnou
+dokumentaci.
+
+8
+00:00:20.100 --> 00:00:24.333
+To přináší sestrám jasnost při
+zaznamenávání, zejména u složitějších
+
+9
+00:00:24.333 --> 00:00:28.566
+pracovních postupů. Nejprve se
+přihlaste do centra pro správu Dragon.
+
+10
+00:00:28.566 --> 00:00:32.569
+V části Dragon Copilot vyberte možnost
+„Sestry“ a potvrďte, že pracujete ve
+
+11
+00:00:32.569 --> 00:00:36.573
+správném prostředí. V části Nástroje
+pro sestry a konfigurace vyberte
+
+12
+00:00:36.573 --> 00:00:40.577
+možnost „Průvodce“. Zobrazí se výchozí
+průvodce nasazený během zajištění a
+
+13
+00:00:40.577 --> 00:00:44.581
+můžete si prohlédnout, jak se
+zobrazuje sestrám. Pokud chcete
+
+14
+00:00:44.581 --> 00:00:48.584
+stáhnout aktuální konfiguraci
+průvodce, vyberte možnost „Stáhnout“.
+
+15
+00:00:48.584 --> 00:00:52.588
+Tím se uloží soubor JSON pro referenci
+nebo sledování verzí. Pokud chcete
+
+16
+00:00:52.588 --> 00:00:56.592
+průvodce upravit, vyberte možnost
+„Upravit“. Nyní máte přístup k úpravám
+
+17
+00:00:56.592 --> 00:01:00.596
+kategorií, komponent a hodnot, které
+tvoří strom průvodce. Průvodce je
+
+18
+00:01:00.596 --> 00:01:04.600
+rozdělen do kategorií, komponent a
+hodnot.
+
+19
+00:01:04.600 --> 00:01:08.233
+Tato struktura tvoří hierarchii,
+kterou sestry vidí v aplikaci.
+
+20
+00:01:08.233 --> 00:01:11.366
+Pro přidání nové kategorie vyberte
+existující kategorii, vyberte +,
+
+21
+00:01:11.366 --> 00:01:14.499
+zobrazí se rozevírací nabídka a
+vyberte možnost „Přidat související
+
+22
+00:01:14.499 --> 00:01:17.632
+kategorii“. Nová položka stromu
+kategorií se přidá na konec seznamu na
+
+23
+00:01:17.632 --> 00:01:20.766
+kořenové úrovni.
+
+24
+00:01:20.766 --> 00:01:24.566
+Přejmenujte novou kategorii a vyberte
+„Aktualizovat náhled“.
+
+25
+00:01:24.566 --> 00:01:28.207
+Pokud chcete přidat komponentu do
+kategorie, otevřete možnosti
+
+26
+00:01:28.207 --> 00:01:31.849
+kategorie, vyberte možnost „Přidat
+novou komponentu“, přejmenujte ji a
+
+27
+00:01:31.849 --> 00:01:35.491
+aktualizujte náhled. Pokud chcete
+přidat hodnotu, otevřete možnosti
+
+28
+00:01:35.491 --> 00:01:39.133
+položky, vyberte možnost „Přidat novou
+hodnotu“, aktualizujte štítek a
+
+29
+00:01:39.133 --> 00:01:42.774
+obnovte náhled. Pořadí položek můžete
+změnit tak, že je vyberete a použijete
+
+30
+00:01:42.774 --> 00:01:46.416
+ovládací prvky pro přesun nahoru nebo
+dolů. tlačítka[IF1.1]. Pokud chcete
+
+31
+00:01:46.416 --> 00:01:50.058
+položku odstranit, vyberte ikonu
+odstranění v panelu možností. Po
+
+32
+00:01:50.058 --> 00:01:53.700
+dokončení úprav se vraťte na hlavní
+stránku.
+
+33
+00:01:53.700 --> 00:01:57.366
+Zkontrolujte změny, vyberte
+„Publikovat“ a potvrďte.
+
+34
+00:01:57.366 --> 00:02:00.966
+Aby se aktualizace zobrazily v mobilní
+aplikaci, je nutné je publikovat.
+
+35
+00:02:00.966 --> 00:02:04.566
+Nástroj Průvodce umožňuje vytvářet a
+spravovat pokyny, které podporují
+
+36
+00:02:04.566 --> 00:02:08.166
+přesnou a konzistentní dokumentaci
+ošetřovatelské péče.
+
+37
+00:02:08.166 --> 00:02:10.166
+Děkujeme za zhlédnutí.

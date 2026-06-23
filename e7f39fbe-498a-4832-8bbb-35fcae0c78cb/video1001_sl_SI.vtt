@@ -1,0 +1,183 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+V tem videoposnetku se boste naučili,
+kako si ogledati, urediti in objaviti
+
+2
+00:00:03.883 --> 00:00:07.133
+Vodnik, ki ga medicinske sestre
+uporabljajo v mobilni aplikaciji.
+
+3
+00:00:07.133 --> 00:00:09.649
+Vodnik je strukturirano gradivo, ki se
+uporablja v mobilni aplikaciji za
+
+4
+00:00:09.649 --> 00:00:12.166
+negovanje.
+
+5
+00:00:12.166 --> 00:00:14.810
+Medicinskim sestram pomaga pri
+priklicu vsebine, ki jo je treba
+
+6
+00:00:14.810 --> 00:00:17.455
+zajeti med zahtevnim dokumentiranjem.”
+“Uporaba prilagojenega Vodnika pomaga
+
+7
+00:00:17.455 --> 00:00:20.100
+zagotoviti dosledno in natančno
+dokumentacijo.
+
+8
+00:00:20.100 --> 00:00:22.921
+Medicinskim sestram zagotavlja jasnost
+med snemanjem, zlasti pri zahtevnejših
+
+9
+00:00:22.921 --> 00:00:25.743
+potekih dela." "Če želite začeti, se
+prijavite v skrbniško središče za
+
+10
+00:00:25.743 --> 00:00:28.566
+Dragon.
+
+11
+00:00:28.566 --> 00:00:32.569
+V razdelku Dragon Copilot izberite
+»Medicinske sestre« in potrdite, da
+
+12
+00:00:32.569 --> 00:00:36.573
+delate v pravem okolju." "V razdelku
+»Orodja za negovanje in konfiguracija«
+
+13
+00:00:36.573 --> 00:00:40.577
+izberite »Vodnik«. Videli boste
+privzeti vodnik, nameščen med
+
+14
+00:00:40.577 --> 00:00:44.581
+omogočanjem uporabe, in si ogledali
+predogled prikaza za medicinske
+
+15
+00:00:44.581 --> 00:00:48.584
+sestre." "Za prenos trenutne
+konfiguracije vodnika izberite
+
+16
+00:00:48.584 --> 00:00:52.588
+»Prenesi«. S tem se shrani datoteka
+JSON za referenco ali sledenje
+
+17
+00:00:52.588 --> 00:00:56.592
+različicam." "Za urejanje vodnika
+izberite »Uredi«. Zdaj imate dostop do
+
+18
+00:00:56.592 --> 00:01:00.596
+spreminjanja kategorij, komponent in
+vrednosti, ki sestavljajo drevo
+
+19
+00:01:00.596 --> 00:01:04.600
+navodil." "Vodnik je organiziran v
+kategorije, komponente in vrednosti.
+
+20
+00:01:04.600 --> 00:01:08.233
+Ta struktura tvori hierarhijo, ki jo
+medicinske sestre vidijo v aplikaciji.
+
+21
+00:01:08.233 --> 00:01:12.410
+Če želite dodati novo kategorijo,
+izberite obstoječo, izberite +,
+
+22
+00:01:12.410 --> 00:01:16.588
+prikaže se spustni meni, nato izberite
+»Dodaj sorodno kategorijo«. Na konec
+
+23
+00:01:16.588 --> 00:01:20.766
+seznama na korenski ravni je dodan nov
+element drevesa kategorij.
+
+24
+00:01:20.766 --> 00:01:24.566
+Preimenujte novo kategorijo in
+izberite 'Posodobi predogled'.
+
+25
+00:01:24.566 --> 00:01:28.207
+“Če želite dodati komponento v
+kategorijo, odprite možnosti
+
+26
+00:01:28.207 --> 00:01:31.849
+kategorije, izberite »Dodaj novo
+komponento«, jo preimenujte in
+
+27
+00:01:31.849 --> 00:01:35.491
+posodobite predogled.” “Za dodajanje
+vrednosti odprite možnosti elementa,
+
+28
+00:01:35.491 --> 00:01:39.133
+izberite »Dodaj novo vrednost«,
+posodobite oznako in osvežite
+
+29
+00:01:39.133 --> 00:01:42.774
+predogled.” “Kateri koli element lahko
+prerazporedite tako, da ga izberete in
+
+30
+00:01:42.774 --> 00:01:46.416
+uporabite kontrolnika za premikanje
+navzgor ali navzdol. gumba [IF1.1].”
+
+31
+00:01:46.416 --> 00:01:50.058
+“Če želite izbrisati element, izberite
+ikono za brisanje v plošči z
+
+32
+00:01:50.058 --> 00:01:53.700
+možnostmi.” “Ko končate z urejanjem,
+se vrnite na glavno stran.
+
+33
+00:01:53.700 --> 00:01:57.366
+Preglejte spremembe, izberite »Objavi«
+in potrdite.
+
+34
+00:01:57.366 --> 00:02:00.966
+Objava je potrebna, da se posodobitve
+prikažejo v mobilni aplikaciji."
+
+35
+00:02:00.966 --> 00:02:04.566
+"Orodje Vodnik vam omogoča ustvarjanje
+in upravljanje navodil, ki podpirajo
+
+36
+00:02:04.566 --> 00:02:08.166
+natančno in dosledno dokumentiranje
+negovanja.
+
+37
+00:02:08.166 --> 00:02:10.166
+Hvala za ogled.”

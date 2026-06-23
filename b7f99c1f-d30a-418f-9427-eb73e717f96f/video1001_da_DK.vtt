@@ -1,0 +1,154 @@
+WEBVTT
+
+1
+00:00:01.366 --> 00:00:04.783
+I denne video lærer du, hvordan du
+uploader flowsheet-skemafiler, så dine
+
+2
+00:00:04.783 --> 00:00:08.200
+sygeplejearbejdsgange forbliver
+ensartede på tværs af miljøer.
+
+3
+00:00:08.800 --> 00:00:12.166
+Før du uploader et flowsheet-skema,
+skal du bekræfte, at du har rollen
+
+4
+00:00:12.166 --> 00:00:15.533
+Dragon-administrator, at dit miljø er
+klargjort, at dit EPJ er konfigureret,
+
+5
+00:00:15.533 --> 00:00:18.899
+og at dit flowsheet-skema er blevet
+eksporteret fra EPJ'en som en
+
+6
+00:00:18.899 --> 00:00:22.266
+JSON-fil.
+
+7
+00:00:22.266 --> 00:00:24.749
+Sørg for, at miljø-id'et i filen
+svarer til det miljø, som du
+
+8
+00:00:24.749 --> 00:00:27.232
+importerer til.
+
+9
+00:00:27.466 --> 00:00:29.933
+Når du har bekræftet disse krav, skal
+du følge disse trin for at uploade et
+
+10
+00:00:29.933 --> 00:00:32.400
+flowsheet-skema.
+
+11
+00:00:33.533 --> 00:00:35.466
+Når du er logget på Dragon
+Administration, skal du vælge
+
+12
+00:00:35.466 --> 00:00:37.399
+Sygeplejersker.
+
+13
+00:00:37.400 --> 00:00:41.266
+Brug rullelisten til at bekræfte eller
+vælge det korrekte miljø.
+
+14
+00:00:41.266 --> 00:00:43.866
+Gå til Konfiguration, og vælg derefter
+Flowsheet-leder under Værktøjer for
+
+15
+00:00:43.866 --> 00:00:46.466
+sygeplejeske.
+
+16
+00:00:47.566 --> 00:00:51.316
+Vælg "Upload flowsheet-skema". Vælg
+derefter "Gennemse", og vælg
+
+17
+00:00:51.316 --> 00:00:55.066
+JSON-eksportfilen fra computeren.
+
+18
+00:00:55.066 --> 00:00:58.266
+Vælg "Upload" for at begynde at
+importere skemaet.
+
+19
+00:00:58.266 --> 00:01:02.132
+Der vises en statusmeddelelse, når
+filen uploades.
+
+20
+00:01:02.133 --> 00:01:05.233
+Forlad ikke Dragon Administration,
+mens upload er i gang.
+
+21
+00:01:05.233 --> 00:01:08.016
+Tiden, der skal uploades, afhænger af
+størrelsen på det eksporterede skema
+
+22
+00:01:08.016 --> 00:01:10.799
+og netværkshastigheden.
+
+23
+00:01:12.033 --> 00:01:14.722
+Hvis du vil spore status, skal du åbne
+"Importhistorik" på siden
+
+24
+00:01:14.722 --> 00:01:17.411
+Sygeplejerskeoversigt. De seneste
+manuelle importer vises for de sidste
+
+25
+00:01:17.411 --> 00:01:20.100
+48 timer sammen med deres status.
+
+26
+00:01:20.533 --> 00:01:22.333
+Hvis der er en fejl, skal du vælge
+linket "Vis detaljer" for at få flere
+
+27
+00:01:22.333 --> 00:01:24.133
+oplysninger.
+
+28
+00:01:24.566 --> 00:01:27.254
+Upload af eksport af flowsheet-skemaer
+hjælper med at standardisere
+
+29
+00:01:27.254 --> 00:01:29.943
+skabeloner på tværs af miljøer, så
+datafelter og dokumentationslayout
+
+30
+00:01:29.943 --> 00:01:32.632
+holdes konsekvente.
+
+31
+00:01:32.633 --> 00:01:34.916
+Dette reducerer konfigurationstiden og
+minimerer fejl under arbejdsgange med
+
+32
+00:01:34.916 --> 00:01:37.199
+minimal aktivitet.
+
+33
+00:01:37.200 --> 00:01:38.933
+Tak, fordi du så med.

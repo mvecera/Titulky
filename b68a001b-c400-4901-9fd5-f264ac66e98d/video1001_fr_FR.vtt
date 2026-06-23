@@ -1,0 +1,180 @@
+WEBVTT
+
+1
+00:00:02.366 --> 00:00:05.157
+Dans cette vidéo, vous apprendrez
+comment configurer les paramètres dans
+
+2
+00:00:05.157 --> 00:00:07.949
+le centre d’administration Dragon pour
+façonner l’expérience Dragon Copilot
+
+3
+00:00:07.949 --> 00:00:10.741
+des infirmiers et aider à maintenir
+des flux de travail cohérents dans
+
+4
+00:00:10.741 --> 00:00:13.533
+toute votre entreprise.
+
+5
+00:00:14.033 --> 00:00:16.383
+Tout d’abord, vérifiez que votre
+administrateur général vous a attribué
+
+6
+00:00:16.383 --> 00:00:18.733
+le rôle d’administrateur Dragon.
+
+7
+00:00:18.733 --> 00:00:20.366
+Ensuite, connectez-vous.
+
+8
+00:00:20.633 --> 00:00:23.333
+Assurez-vous que l’environnement est
+déjà approvisionné.
+
+9
+00:00:24.566 --> 00:00:26.149
+Dans la section Dragon Copilot,
+sélectionnez Collaborateurs
+
+10
+00:00:26.149 --> 00:00:27.732
+infirmiers.
+
+11
+00:00:27.733 --> 00:00:29.732
+Utilisez la liste déroulante en haut
+pour confirmer ou choisir
+
+12
+00:00:29.732 --> 00:00:31.732
+l’environnement approprié.
+
+13
+00:00:31.733 --> 00:00:33.833
+Ensuite, ouvrez Paramètres.
+
+14
+00:00:33.833 --> 00:00:36.449
+Par défaut, les paramètres
+s’appliquent au niveau supérieur de
+
+15
+00:00:36.449 --> 00:00:39.066
+l’organisation et s’appliquent en
+cascade vers le bas.
+
+16
+00:00:39.066 --> 00:00:42.949
+Si vous devez configurer les
+paramètres d’une unité spécifique,
+
+17
+00:00:42.949 --> 00:00:46.833
+choisissez « Modifier l’affichage »,
+puis sélectionnez cette unité.
+
+18
+00:00:46.833 --> 00:00:49.616
+Modifiez les paramètres au niveau de
+l’environnement ou de l’unité, puis
+
+19
+00:00:49.616 --> 00:00:52.399
+sélectionnez Enregistrer les
+paramètres.
+
+20
+00:00:52.400 --> 00:00:54.050
+Toutes les modifications sont
+enregistrées pour le niveau que vous
+
+21
+00:00:54.050 --> 00:00:55.700
+avez sélectionné.
+
+22
+00:00:55.700 --> 00:00:57.799
+Voyons maintenant comment le
+verrouillage des paramètres à des
+
+23
+00:00:57.799 --> 00:00:59.899
+niveaux supérieurs protège les
+configurations uniformes entre les
+
+24
+00:00:59.899 --> 00:01:01.999
+grandes équipes.
+
+25
+00:01:02.000 --> 00:01:04.000
+Connectez-vous, sélectionnez
+Collaborateurs infirmiers, puis ouvrez
+
+26
+00:01:04.000 --> 00:01:06.000
+Paramètres.
+
+27
+00:01:06.000 --> 00:01:10.133
+Pour garantir la cohérence, vous
+pouvez verrouiller un paramètre au
+
+28
+00:01:10.133 --> 00:01:14.266
+niveau parent afin qu’il ne puisse pas
+être modifié par une unité enfant.
+
+29
+00:01:14.266 --> 00:01:16.866
+Par exemple, je peux choisir de
+désactiver l’enregistrement
+
+30
+00:01:16.866 --> 00:01:19.466
+automatique et de désactiver la
+fonctionnalité de verrouillage.
+
+31
+00:01:19.466 --> 00:01:22.499
+Sélectionnez « Enregistrer les
+paramètres » pour appliquer le verrou.
+
+32
+00:01:22.500 --> 00:01:26.966
+Les unités enfants ne pourront plus
+remplacer ce paramètre.
+
+33
+00:01:27.633 --> 00:01:30.349
+Les paramètres définissent le
+comportement du système et assurent la
+
+34
+00:01:30.349 --> 00:01:33.066
+cohérence des flux de travail au sein
+de l’organisation.
+
+35
+00:01:33.066 --> 00:01:35.499
+En les verrouillant, les
+configurations restent uniformes, ce
+
+36
+00:01:35.499 --> 00:01:37.932
+qui est particulièrement important
+dans les grandes organisations ou les
+
+37
+00:01:37.932 --> 00:01:40.366
+organisations distribuées.
+
+38
+00:01:40.733 --> 00:01:42.199
+Merci de votre attention.

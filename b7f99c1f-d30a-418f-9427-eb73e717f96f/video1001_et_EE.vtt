@@ -1,0 +1,131 @@
+WEBVTT
+
+1
+00:00:01.366 --> 00:00:04.783
+Sellest videost saate teada, kuidas
+üles laadida voolehe skeemifaile, et
+
+2
+00:00:04.783 --> 00:00:08.200
+teie õendusabi töövood oleksid igas
+keskkonnas järjepidevad.
+
+3
+00:00:08.800 --> 00:00:12.166
+Enne voolehe skeemi üleslaadimist
+veenduge, et teil oleks Dragoni
+
+4
+00:00:12.166 --> 00:00:15.533
+administraatori roll, teie keskkond
+oleks ette valmistatud, teie
+
+5
+00:00:15.533 --> 00:00:18.899
+e-terviselugu oleks konfigureeritud ja
+teie voolehe skeem oleks
+
+6
+00:00:18.899 --> 00:00:22.266
+e-terviseloost JSON-failina
+eksporditud.
+
+7
+00:00:22.266 --> 00:00:27.232
+Veenduge, et faili keskkonna ID sobiks
+keskkonnaga, kuhu impordite.
+
+8
+00:00:27.466 --> 00:00:29.933
+Kui olete nende tingimuste täitmise
+kinnitanud, järgige voolehe skeemi
+
+9
+00:00:29.933 --> 00:00:32.400
+üleslaadimiseks neid juhiseid.
+
+10
+00:00:33.533 --> 00:00:37.399
+Pärast Dragoni halduskeskusesse
+sisselogimist tehke valik Õed.
+
+11
+00:00:37.400 --> 00:00:41.266
+Kasutage ripploendit õige keskkonna
+kinnitamiseks või valimiseks.
+
+12
+00:00:41.266 --> 00:00:43.866
+Liikuge jaotises Õendusriistad
+valikuni Konfiguratsioon ja tehke
+
+13
+00:00:43.866 --> 00:00:46.466
+valik Voolehehaldur.
+
+14
+00:00:47.566 --> 00:00:51.316
+Tehke valik Laadi üles voolehe skeem.
+Seejärel tehke valik Sirvi ja valige
+
+15
+00:00:51.316 --> 00:00:55.066
+oma arvutist eksporditav JSON-fail.
+
+16
+00:00:55.066 --> 00:00:58.266
+Skeemi importimise alustamiseks tehke
+valik Laadi üles.
+
+17
+00:00:58.266 --> 00:01:02.132
+Faili üleslaadimisel kuvatakse
+edenemisteatis.
+
+18
+00:01:02.133 --> 00:01:05.233
+Ärge sulgege Dragoni halduskeskust,
+kui üleslaadimine on pooleli.
+
+19
+00:01:05.233 --> 00:01:10.799
+Üleslaadimise aeg oleneb eksporditava
+skeemi mahust ja võrgu kiirusest.
+
+20
+00:01:12.033 --> 00:01:16.066
+Edenemise jälgimiseks avage lehel
+Õdede ülevaated Importimise ajalugu.
+
+21
+00:01:16.066 --> 00:01:20.100
+Kuvatakse viimase 48 tunni käsitsi
+importimised koos olekuga.
+
+22
+00:01:20.533 --> 00:01:24.133
+Tõrke korral valige lisateabe
+saamiseks link Kuva üksikasjad.
+
+23
+00:01:24.566 --> 00:01:27.254
+Voolehe skeemi eksporditeabe
+üleslaadimine aitab ühtlustada malle
+
+24
+00:01:27.254 --> 00:01:29.943
+kõigis keskkondades, hoides
+andmeväljad ja dokumendipaigutused
+
+25
+00:01:29.943 --> 00:01:32.632
+järjepidevana.
+
+26
+00:01:32.633 --> 00:01:37.199
+See vähendab häälestusaega ja tõrkeid
+õenduse töövoogude ajal.
+
+27
+00:01:37.200 --> 00:01:38.933
+Aitäh vaatamast.

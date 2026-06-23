@@ -1,0 +1,157 @@
+WEBVTT
+
+1
+00:00:02.366 --> 00:00:05.157
+Neste vídeo, você aprenderá a
+configurar as definições no centro de
+
+2
+00:00:05.157 --> 00:00:07.949
+administração Dragon para definir a
+experiência do Dragon Copilot para
+
+3
+00:00:07.949 --> 00:00:10.741
+enfermeiros e ajudar a manter a
+consistência dos fluxos de trabalho em
+
+4
+00:00:10.741 --> 00:00:13.533
+toda a organização.
+
+5
+00:00:14.033 --> 00:00:16.383
+Primeiro, verifique se o administrador
+global já atribuiu a você a função de
+
+6
+00:00:16.383 --> 00:00:18.733
+Administrador do Dragon.
+
+7
+00:00:18.733 --> 00:00:20.366
+Em seguida, entre.
+
+8
+00:00:20.633 --> 00:00:23.333
+Verifique se o ambiente já está
+provisionado.
+
+9
+00:00:24.566 --> 00:00:27.732
+Na seção Dragon Copilot, selecione
+Enfermeiros.
+
+10
+00:00:27.733 --> 00:00:29.732
+Use a lista suspensa na parte superior
+para confirmar ou escolher o ambiente
+
+11
+00:00:29.732 --> 00:00:31.732
+correto.
+
+12
+00:00:31.733 --> 00:00:33.833
+Depois, abra Configurações.
+
+13
+00:00:33.833 --> 00:00:36.449
+Por padrão, as configurações são
+aplicadas no nível superior da
+
+14
+00:00:36.449 --> 00:00:39.066
+organização e propagadas para baixo.
+
+15
+00:00:39.066 --> 00:00:42.949
+Se precisar configurar as definições
+para uma unidade específica, escolha
+
+16
+00:00:42.949 --> 00:00:46.833
+"Alterar exibição" e selecione essa
+unidade.
+
+17
+00:00:46.833 --> 00:00:49.616
+Edite as configurações no nível do
+ambiente ou no nível da unidade e
+
+18
+00:00:49.616 --> 00:00:52.399
+selecione Salvar configurações.
+
+19
+00:00:52.400 --> 00:00:55.700
+Todas as alterações são salvas para o
+nível selecionado.
+
+20
+00:00:55.700 --> 00:00:58.849
+Agora, veja como o bloqueio de
+configurações em níveis superiores
+
+21
+00:00:58.849 --> 00:01:01.999
+protege configurações uniformes em
+equipes grandes.
+
+22
+00:01:02.000 --> 00:01:06.000
+Entre, selecione Enfermeiros e abra
+Configurações.
+
+23
+00:01:06.000 --> 00:01:10.133
+Para garantir a consistência, você
+pode bloquear uma configuração no
+
+24
+00:01:10.133 --> 00:01:14.266
+nível pai para que ela não possa ser
+alterada por nenhuma unidade filha.
+
+25
+00:01:14.266 --> 00:01:16.866
+Por exemplo, posso optar por desativar
+a gravação automática e alternar o
+
+26
+00:01:16.866 --> 00:01:19.466
+recurso de bloqueio.
+
+27
+00:01:19.466 --> 00:01:22.499
+Selecione "Salvar configurações" para
+aplicar o bloqueio.
+
+28
+00:01:22.500 --> 00:01:26.966
+As unidades filhas não poderão mais
+substituir essa configuração.
+
+29
+00:01:27.633 --> 00:01:30.349
+As configurações definem o
+comportamento do sistema e mantêm a
+
+30
+00:01:30.349 --> 00:01:33.066
+consistência dos fluxos de trabalho em
+toda a organização.
+
+31
+00:01:33.066 --> 00:01:36.716
+Bloqueá-las garante que as
+configurações permaneçam uniformes,
+
+32
+00:01:36.716 --> 00:01:40.366
+o que é particularmente importante em
+organizações grandes ou distribuídas.
+
+33
+00:01:40.733 --> 00:01:42.199
+Obrigado por assistir.

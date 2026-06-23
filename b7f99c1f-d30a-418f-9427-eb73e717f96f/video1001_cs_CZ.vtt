@@ -1,0 +1,159 @@
+WEBVTT
+
+1
+00:00:01.366 --> 00:00:03.644
+V tomto videu se naučíte, jak nahrát
+soubory schémat vývojových diagramů,
+
+2
+00:00:03.644 --> 00:00:05.922
+aby vaše ošetřovatelské pracovní
+postupy zůstaly konzistentní napříč
+
+3
+00:00:05.922 --> 00:00:08.200
+prostředími.
+
+4
+00:00:08.800 --> 00:00:13.288
+Před nahráním schématu vývojového
+diagramu potvrďte, že máte roli
+
+5
+00:00:13.288 --> 00:00:17.777
+správce Dragonu, prostředí je
+připravené, EHR je nakonfigurovaný a
+
+6
+00:00:17.777 --> 00:00:22.266
+schéma vývojového diagramu bylo z EHR
+exportováno jako soubor JSON.
+
+7
+00:00:22.266 --> 00:00:24.749
+Ujistěte se, že ID prostředí v souboru
+odpovídá prostředí, do kterého
+
+8
+00:00:24.749 --> 00:00:27.232
+importujete.
+
+9
+00:00:27.466 --> 00:00:29.933
+Jakmile potvrdíte tyto požadavky,
+postupujte podle těchto kroků pro
+
+10
+00:00:29.933 --> 00:00:32.400
+nahrání schématu vývojového diagramu.
+
+11
+00:00:33.533 --> 00:00:35.466
+Po přihlášení do centra pro správu
+Dragonu vyberte možnost Zdravotní
+
+12
+00:00:35.466 --> 00:00:37.399
+sestry.
+
+13
+00:00:37.400 --> 00:00:39.333
+Použijte rozbalovací seznam k
+potvrzení nebo výběru správného
+
+14
+00:00:39.333 --> 00:00:41.266
+prostředí.
+
+15
+00:00:41.266 --> 00:00:43.866
+V části Nástroje pro zdravotní sestry
+přejděte na Konfiguraci a poté vyberte
+
+16
+00:00:43.866 --> 00:00:46.466
+Správce vývojových diagramů.
+
+17
+00:00:47.566 --> 00:00:51.316
+Vyberte „Nahrát schéma vývojového
+diagramu“. Poté zvolte „Procházet“ a
+
+18
+00:00:51.316 --> 00:00:55.066
+vyberte exportovaný soubor JSON z
+vašeho počítače.
+
+19
+00:00:55.066 --> 00:00:58.266
+Vyberte „Nahrát“ pro zahájení importu
+schématu.
+
+20
+00:00:58.266 --> 00:01:02.132
+Během nahrávání souboru se zobrazí
+oznámení o průběhu.
+
+21
+00:01:02.133 --> 00:01:05.233
+Neopouštějte centrum pro správu
+Dragonu, dokud probíhá nahrávání.
+
+22
+00:01:05.233 --> 00:01:08.016
+Doba nahrávání závisí na velikosti
+exportovaného schématu a rychlosti
+
+23
+00:01:08.016 --> 00:01:10.799
+vaší sítě.
+
+24
+00:01:12.033 --> 00:01:14.722
+Pro sledování průběhu otevřete na
+stránce Přehled zdravotních sester
+
+25
+00:01:14.722 --> 00:01:17.411
+„Historii importů“. Nedávné ruční
+importy se zobrazí za posledních 48
+
+26
+00:01:17.411 --> 00:01:20.100
+hodin spolu se svým stavem.
+
+27
+00:01:20.533 --> 00:01:22.333
+Pokud dojde k chybě, více informací
+získáte výběrem odkazu „Zobrazit
+
+28
+00:01:22.333 --> 00:01:24.133
+podrobnosti“.
+
+29
+00:01:24.566 --> 00:01:27.254
+Nahrávání exportů schémat vývojových
+diagramů pomáhá standardizovat šablony
+
+30
+00:01:27.254 --> 00:01:29.943
+napříč prostředími a udržuje
+konzistentní datová pole a uspořádání
+
+31
+00:01:29.943 --> 00:01:32.632
+dokumentace.
+
+32
+00:01:32.633 --> 00:01:34.916
+To zkracuje dobu nastavení a
+minimalizuje chyby během pracovních
+
+33
+00:01:34.916 --> 00:01:37.199
+postupů zdravotních sester.
+
+34
+00:01:37.200 --> 00:01:38.933
+Děkujeme za sledování.

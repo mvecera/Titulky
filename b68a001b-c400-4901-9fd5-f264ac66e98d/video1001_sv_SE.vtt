@@ -1,0 +1,156 @@
+WEBVTT
+
+1
+00:00:02.366 --> 00:00:05.157
+I den här videon får du lära dig hur
+du konfigurerar inställningar i
+
+2
+00:00:05.157 --> 00:00:07.949
+administrationscentret för Dragon för
+att forma Dragon Copilot-upplevelsen
+
+3
+00:00:07.949 --> 00:00:10.741
+för sjuksköterskor och hjälpa till att
+hålla arbetsflöden konsekventa i hela
+
+4
+00:00:10.741 --> 00:00:13.533
+organisationen.
+
+5
+00:00:14.033 --> 00:00:16.383
+Kontrollera först att din globala
+administratör har tilldelat dig rollen
+
+6
+00:00:16.383 --> 00:00:18.733
+Dragon-administratör.
+
+7
+00:00:18.733 --> 00:00:20.366
+Logga sedan in.
+
+8
+00:00:20.633 --> 00:00:23.333
+Kontrollera att miljön redan har
+etablerats.
+
+9
+00:00:24.566 --> 00:00:27.732
+I avsnittet Dragon Copilot väljer du
+Sjuksköterskor.
+
+10
+00:00:27.733 --> 00:00:31.732
+Använd listrutan högst upp för att
+bekräfta eller välja rätt miljö.
+
+11
+00:00:31.733 --> 00:00:33.833
+Öppna sedan Inställningar.
+
+12
+00:00:33.833 --> 00:00:36.449
+Som standard tillämpas inställningarna
+på den översta organisationsnivån och
+
+13
+00:00:36.449 --> 00:00:39.066
+kaskad nedåt.
+
+14
+00:00:39.066 --> 00:00:42.949
+Om du behöver konfigurera
+inställningar för en viss enhet väljer
+
+15
+00:00:42.949 --> 00:00:46.833
+du “Ändra vy” och väljer sedan den
+enheten.
+
+16
+00:00:46.833 --> 00:00:49.616
+Redigera inställningarna på miljönivå
+eller enhetsnivå och välj sedan Spara
+
+17
+00:00:49.616 --> 00:00:52.399
+inställningar.
+
+18
+00:00:52.400 --> 00:00:55.700
+Alla ändringar sparas för den nivå du
+har valt.
+
+19
+00:00:55.700 --> 00:00:58.849
+Nu ska vi se hur låsning av
+inställningar på högre nivåer skyddar
+
+20
+00:00:58.849 --> 00:01:01.999
+enhetliga konfigurationer i stora
+team.
+
+21
+00:01:02.000 --> 00:01:06.000
+Logga in, välj Sjuksköterskor och
+öppna Inställningar.
+
+22
+00:01:06.000 --> 00:01:10.133
+För att säkerställa konsekvens kan du
+låsa en inställning på en överordnad
+
+23
+00:01:10.133 --> 00:01:14.266
+nivå så att den inte kan ändras av
+någon underordnad enhet.
+
+24
+00:01:14.266 --> 00:01:16.866
+Jag kan till exempel välja att
+inaktivera automatisk start av
+
+25
+00:01:16.866 --> 00:01:19.466
+inspelning och växla låsfunktionen.
+
+26
+00:01:19.466 --> 00:01:22.499
+Välj “Spara inställningar” för att
+tillämpa låset.
+
+27
+00:01:22.500 --> 00:01:24.733
+Underordnade enheter kommer inte
+längre att kunna åsidosätta den
+
+28
+00:01:24.733 --> 00:01:26.966
+inställningen.
+
+29
+00:01:27.633 --> 00:01:30.349
+Inställningar definierar hur systemet
+beter sig och de håller arbetsflöden
+
+30
+00:01:30.349 --> 00:01:33.066
+konsekventa i hela organisationen.
+
+31
+00:01:33.066 --> 00:01:36.716
+Genom att låsa dem säkerställs att
+konfigurationerna förblir enhetliga,
+
+32
+00:01:36.716 --> 00:01:40.366
+vilket är särskilt viktigt i stora
+eller distribuerade organisationer.
+
+33
+00:01:40.733 --> 00:01:42.199
+Tack för att du tittade.

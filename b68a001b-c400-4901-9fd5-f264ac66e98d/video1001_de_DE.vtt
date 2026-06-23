@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:02.366 --> 00:00:06.088
+In diesem Video erfahren Sie, wie Sie
+im Dragon Admin Center-Einstellungen
+
+2
+00:00:06.088 --> 00:00:09.810
+konfigurieren, um die Dragon
+Copilot-Erfahrung für Pflegekräfte zu
+
+3
+00:00:09.810 --> 00:00:13.533
+gestalten und Arbeitsabläufe in Ihrer
+Organisation einheitlich zu halten.
+
+4
+00:00:14.033 --> 00:00:16.383
+Stellen Sie zunächst sicher, dass Ihr
+globaler Administrator Ihnen die Rolle
+
+5
+00:00:16.383 --> 00:00:18.733
+„Dragon-Administrator“ zugewiesen hat.
+
+6
+00:00:18.733 --> 00:00:20.366
+Melden Sie sich dann an.
+
+7
+00:00:20.633 --> 00:00:23.333
+Stellen Sie sicher, dass die Umgebung
+bereits bereitgestellt ist.
+
+8
+00:00:24.566 --> 00:00:27.732
+Wählen Sie im Bereich Dragon Copilot
+die Option Pflegekräfte aus.
+
+9
+00:00:27.733 --> 00:00:29.732
+Verwenden Sie die Dropdown-Liste oben,
+um die richtige Umgebung zu bestätigen
+
+10
+00:00:29.732 --> 00:00:31.732
+oder auszuwählen.
+
+11
+00:00:31.733 --> 00:00:33.833
+Öffnen Sie dann „Einstellungen“.
+
+12
+00:00:33.833 --> 00:00:36.449
+Standardmäßig gelten Einstellungen auf
+der obersten Organisationsebene und
+
+13
+00:00:36.449 --> 00:00:39.066
+werden nach unten weitergegeben.
+
+14
+00:00:39.066 --> 00:00:42.949
+Wenn Sie Einstellungen für eine
+bestimmte Einheit konfigurieren
+
+15
+00:00:42.949 --> 00:00:46.833
+müssen, wählen Sie „Ansicht ändern“
+und dann diese Einheit aus.
+
+16
+00:00:46.833 --> 00:00:49.616
+Bearbeiten Sie die Einstellungen
+entweder auf Umgebungs- oder auf
+
+17
+00:00:49.616 --> 00:00:52.399
+Einheitenebene und wählen Sie dann
+Einstellungen speichern.
+
+18
+00:00:52.400 --> 00:00:55.700
+Alle Änderungen werden für die von
+Ihnen ausgewählte Ebene gespeichert.
+
+19
+00:00:55.700 --> 00:00:58.849
+Sehen wir uns nun an, wie das Sperren
+von Einstellungen auf höheren Ebenen
+
+20
+00:00:58.849 --> 00:01:01.999
+einheitliche Konfigurationen in großen
+Teams schützt.
+
+21
+00:01:02.000 --> 00:01:04.000
+Melden Sie sich an, wählen Sie
+Pflegekräfte aus und öffnen Sie die
+
+22
+00:01:04.000 --> 00:01:06.000
+Einstellungen.
+
+23
+00:01:06.000 --> 00:01:08.755
+Um Konsistenz zu gewährleisten, können
+Sie eine Einstellung auf einer
+
+24
+00:01:08.755 --> 00:01:11.510
+übergeordneten Ebene sperren, sodass
+sie von keiner untergeordneten Einheit
+
+25
+00:01:11.510 --> 00:01:14.266
+geändert werden kann.
+
+26
+00:01:14.266 --> 00:01:16.866
+Zum Beispiel kann ich die automatische
+Startaufnahme deaktivieren und die
+
+27
+00:01:16.866 --> 00:01:19.466
+Sperrfunktion aktivieren.
+
+28
+00:01:19.466 --> 00:01:22.499
+Wählen Sie „Einstellungen speichern“,
+um die Sperre anzuwenden.
+
+29
+00:01:22.500 --> 00:01:24.733
+Untergeordnete Einheiten können diese
+Einstellung dann nicht mehr
+
+30
+00:01:24.733 --> 00:01:26.966
+überschreiben.
+
+31
+00:01:27.633 --> 00:01:30.349
+Einstellungen bestimmen das
+Systemverhalten und sorgen für
+
+32
+00:01:30.349 --> 00:01:33.066
+einheitliche Arbeitsabläufe in der
+gesamten Organisation.
+
+33
+00:01:33.066 --> 00:01:35.499
+Das Sperren der Einstellungen stellt
+sicher, dass die Konfigurationen
+
+34
+00:01:35.499 --> 00:01:37.932
+einheitlich bleiben, was besonders in
+großen oder verteilten Organisationen
+
+35
+00:01:37.932 --> 00:01:40.366
+wichtig ist.
+
+36
+00:01:40.733 --> 00:01:42.199
+Danke fürs Zuschauen.

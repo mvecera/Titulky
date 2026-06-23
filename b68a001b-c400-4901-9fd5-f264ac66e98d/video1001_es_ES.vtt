@@ -1,0 +1,159 @@
+WEBVTT
+
+1
+00:00:02.366 --> 00:00:05.157
+En este vídeo, aprenderá a configurar
+los ajustes en el centro de
+
+2
+00:00:05.157 --> 00:00:07.949
+administración Dragon para adaptar la
+experiencia de Dragon Copilot a los
+
+3
+00:00:07.949 --> 00:00:10.741
+enfermeros y ayudar a mantener la
+coherencia en los flujos de trabajo de
+
+4
+00:00:10.741 --> 00:00:13.533
+toda su organización.
+
+5
+00:00:14.033 --> 00:00:16.383
+En primer lugar, asegúrese de que su
+administrador global le haya asignado
+
+6
+00:00:16.383 --> 00:00:18.733
+el rol de administrador de Dragon.
+
+7
+00:00:18.733 --> 00:00:20.366
+A continuación, inicie sesión.
+
+8
+00:00:20.633 --> 00:00:23.333
+Asegúrese de que el entorno ya está
+aprovisionado.
+
+9
+00:00:24.566 --> 00:00:27.732
+En la sección Dragon Copilot,
+seleccione Enfermeros.
+
+10
+00:00:27.733 --> 00:00:29.732
+Use la lista desplegable de la parte
+superior para confirmar o elegir el
+
+11
+00:00:29.732 --> 00:00:31.732
+entorno correcto.
+
+12
+00:00:31.733 --> 00:00:33.833
+A continuación, abra Configuración.
+
+13
+00:00:33.833 --> 00:00:36.449
+De forma predeterminada, la
+configuración se aplica en el nivel
+
+14
+00:00:36.449 --> 00:00:39.066
+superior de la organización y se
+propaga hacia abajo.
+
+15
+00:00:39.066 --> 00:00:42.949
+Si necesita configurar las opciones de
+una unidad específica, elija "Cambiar
+
+16
+00:00:42.949 --> 00:00:46.833
+vista" y, a continuación, seleccione
+esa unidad.
+
+17
+00:00:46.833 --> 00:00:49.616
+Edite la configuración a nivel de
+entorno o de unidad y, a continuación,
+
+18
+00:00:49.616 --> 00:00:52.399
+seleccione Guardar configuración.
+
+19
+00:00:52.400 --> 00:00:55.700
+Todos los cambios se guardan para el
+nivel que seleccionó.
+
+20
+00:00:55.700 --> 00:00:58.849
+Ahora, veamos cómo el bloqueo de la
+configuración en niveles superiores
+
+21
+00:00:58.849 --> 00:01:01.999
+protege la uniformidad de las
+configuraciones en equipos grandes.
+
+22
+00:01:02.000 --> 00:01:06.000
+Inicie sesión, seleccione Enfermeros y
+abra Configuración.
+
+23
+00:01:06.000 --> 00:01:10.133
+Para garantizar la coherencia, puede
+bloquear una configuración en un nivel
+
+24
+00:01:10.133 --> 00:01:14.266
+superior para que ninguna unidad
+secundaria pueda modificarla.
+
+25
+00:01:14.266 --> 00:01:16.866
+Por ejemplo, puedo elegir desactivar
+la grabación automática y activar o
+
+26
+00:01:16.866 --> 00:01:19.466
+desactivar la característica de
+bloqueo.
+
+27
+00:01:19.466 --> 00:01:22.499
+Seleccione "Guardar configuración"
+para aplicar el bloqueo.
+
+28
+00:01:22.500 --> 00:01:26.966
+Las unidades secundarias ya no podrán
+invalidar esa configuración.
+
+29
+00:01:27.633 --> 00:01:30.349
+La configuración define cómo se
+comporta el sistema y mantiene la
+
+30
+00:01:30.349 --> 00:01:33.066
+coherencia de los flujos de trabajo en
+toda la organización.
+
+31
+00:01:33.066 --> 00:01:36.716
+Bloquearlas garantiza que las
+configuraciones permanezcan uniformes,
+
+32
+00:01:36.716 --> 00:01:40.366
+lo que es especialmente importante en
+organizaciones grandes o distribuidas.
+
+33
+00:01:40.733 --> 00:01:42.199
+Gracias por su atención.

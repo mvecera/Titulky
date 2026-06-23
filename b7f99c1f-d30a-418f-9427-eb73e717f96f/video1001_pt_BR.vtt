@@ -1,0 +1,168 @@
+WEBVTT
+
+1
+00:00:01.366 --> 00:00:03.644
+Neste vídeo, você aprenderá como
+carregar arquivos de esquema de
+
+2
+00:00:03.644 --> 00:00:05.922
+fluxograma, para que seus fluxos de
+trabalho de enfermagem permaneçam
+
+3
+00:00:05.922 --> 00:00:08.200
+consistentes em todos os ambientes.
+
+4
+00:00:08.800 --> 00:00:12.166
+Antes de carregar um esquema de
+fluxograma, confirme se você tem a
+
+5
+00:00:12.166 --> 00:00:15.533
+função de Administrador Dragon, se o
+seu ambiente está provisionado, se o
+
+6
+00:00:15.533 --> 00:00:18.899
+seu EHR está configurado e se o seu
+esquema de fluxograma foi exportado do
+
+7
+00:00:18.899 --> 00:00:22.266
+EHR como um arquivo JSON.
+
+8
+00:00:22.266 --> 00:00:24.749
+Verifique se a ID do ambiente no
+arquivo corresponde ao ambiente para o
+
+9
+00:00:24.749 --> 00:00:27.232
+qual você está importando.
+
+10
+00:00:27.466 --> 00:00:29.933
+Depois de confirmar esses requisitos,
+siga estes passos para enviar um
+
+11
+00:00:29.933 --> 00:00:32.400
+esquema de fluxograma.
+
+12
+00:00:33.533 --> 00:00:35.466
+Depois de entrar no centro de
+administração Dragon, selecione
+
+13
+00:00:35.466 --> 00:00:37.399
+Enfermeiros.
+
+14
+00:00:37.400 --> 00:00:41.266
+Use a lista suspensa para confirmar ou
+escolher o ambiente correto.
+
+15
+00:00:41.266 --> 00:00:43.866
+Em Ferramentas de Enfermagem, vá para
+Configuração e depois selecione
+
+16
+00:00:43.866 --> 00:00:46.466
+Gerente de fluxograma.
+
+17
+00:00:47.566 --> 00:00:51.316
+Selecione "Carregar esquema de
+fluxograma." Depois escolha "Procurar"
+
+18
+00:00:51.316 --> 00:00:55.066
+e selecione o arquivo JSON exportado
+do seu computador.
+
+19
+00:00:55.066 --> 00:00:58.266
+Selecione "Carregar" para começar a
+importar o esquema.
+
+20
+00:00:58.266 --> 00:01:00.199
+Uma notificação de progresso será
+exibida à medida que o arquivo for
+
+21
+00:01:00.199 --> 00:01:02.132
+carregado.
+
+22
+00:01:02.133 --> 00:01:03.683
+Não saia do centro de administração
+Dragon enquanto o carregamento estiver
+
+23
+00:01:03.683 --> 00:01:05.233
+em andamento.
+
+24
+00:01:05.233 --> 00:01:08.016
+O tempo para carregar depende do
+tamanho do esquema exportado e da
+
+25
+00:01:08.016 --> 00:01:10.799
+velocidade da rede.
+
+26
+00:01:12.033 --> 00:01:14.722
+Para acompanhar o progresso, na página
+Visão geral dos enfermeiros, abra
+
+27
+00:01:14.722 --> 00:01:17.411
+“Histórico de importações”. As
+importações manuais recentes das
+
+28
+00:01:17.411 --> 00:01:20.100
+últimas 48 horas são exibidas junto
+com seu status.
+
+29
+00:01:20.533 --> 00:01:22.333
+Se houver um erro, selecione o link
+"Exibir detalhes" para obter mais
+
+30
+00:01:22.333 --> 00:01:24.133
+informações.
+
+31
+00:01:24.566 --> 00:01:27.254
+Carregar exportações de esquema de
+fluxograma ajuda a padronizar os
+
+32
+00:01:27.254 --> 00:01:29.943
+modelos entre ambientes, mantendo os
+campos de dados e os layouts de
+
+33
+00:01:29.943 --> 00:01:32.632
+documentação consistentes.
+
+34
+00:01:32.633 --> 00:01:34.916
+Isso reduz o tempo de configuração e
+minimiza erros durante os fluxos de
+
+35
+00:01:34.916 --> 00:01:37.199
+trabalho de enfermagem.
+
+36
+00:01:37.200 --> 00:01:38.933
+Obrigado por assistir.

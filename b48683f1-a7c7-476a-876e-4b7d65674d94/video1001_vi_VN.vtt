@@ -1,0 +1,118 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.149
+Trong video này, bạn sẽ học cách cấu
+hình kết nối với hệ thống Hồ sơ sức
+
+2
+00:00:04.149 --> 00:00:08.066
+khỏe điện tử trong Trung tâm quản trị
+Dragon.
+
+3
+00:00:08.066 --> 00:00:11.299
+Cài đặt này đảm bảo quy trình xác thực
+an toàn, ánh xạ người dùng chính xác
+
+4
+00:00:11.299 --> 00:00:14.532
+và trải nghiệm đáng tin cậy cho các
+bác sĩ lâm sàng.
+
+5
+00:00:14.533 --> 00:00:17.283
+Để bắt đầu, hãy đảm bảo bạn được gán
+vai trò Người quản trị Dragon hoặc
+
+6
+00:00:17.283 --> 00:00:20.033
+Người quản trị toàn cầu.
+
+7
+00:00:20.033 --> 00:00:22.866
+Sau đó đăng nhập vào Trung tâm quản
+trị Dragon.
+
+8
+00:00:22.866 --> 00:00:26.933
+Trong phần cấu hình Môi trường, hãy
+chọn Trình kết nối.
+
+9
+00:00:26.933 --> 00:00:31.566
+Chọn môi trường bạn vừa tạo từ danh
+sách thả xuống ở trên cùng.
+
+10
+00:00:31.566 --> 00:00:35.732
+Chọn danh sách thả xuống Cấu hình
+trong phần cấu hình trình kết nối.
+
+11
+00:00:35.733 --> 00:00:40.133
+Từ danh sách Hồ sơ sức khỏe điện tử,
+chọn EHR của bạn.
+
+12
+00:00:40.133 --> 00:00:44.849
+Thao tác này mở bảng điều khiển Cấu
+hình trình kết nối, nhập URL định danh
+
+13
+00:00:44.849 --> 00:00:49.566
+của hệ thống cấp danh tính. Chọn Lưu.
+
+14
+00:00:49.566 --> 00:00:52.232
+Tiếp theo, chọn tab SMART on FHIR.
+
+15
+00:00:52.233 --> 00:00:55.549
+Chuyển nút thành bật để kích hoạt, sau
+đó cung cấp các giá trị sau trong các
+
+16
+00:00:55.549 --> 00:00:58.866
+trường có sẵn.
+
+17
+00:00:58.866 --> 00:01:05.466
+URL cơ sở, URL reverse proxy và URL
+SMART on FHIR.
+
+18
+00:01:05.466 --> 00:01:08.399
+Khi hoàn tất, hãy chọn Lưu.
+
+19
+00:01:08.400 --> 00:01:11.850
+Cài đặt Trình kết nối và chi tiết
+SMART on FHIR sẽ được lưu cho môi
+
+20
+00:01:11.850 --> 00:01:15.300
+trường này.
+
+21
+00:01:15.300 --> 00:01:18.449
+Việc cấu hình EHR và cài đặt SMART on
+FHIR đảm bảo quy trình xác thực an
+
+22
+00:01:18.449 --> 00:01:21.599
+toàn và ánh xạ người dùng chính xác.
+
+23
+00:01:21.600 --> 00:01:24.716
+Việc này hỗ trợ các tiêu chuẩn liên
+tác trong chăm sóc sức khỏe và giảm
+
+24
+00:01:24.716 --> 00:01:27.832
+lỗi trong quá trình đăng nhập và cấp
+phép.
+
+25
+00:01:27.833 --> 00:01:28.933
+Cảm ơn bạn đã xem.

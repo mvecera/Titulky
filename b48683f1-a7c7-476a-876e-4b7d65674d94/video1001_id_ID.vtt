@@ -1,0 +1,119 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.149
+Dalam video ini, Anda akan mempelajari
+cara mengonfigurasi koneksi ke sistem
+
+2
+00:00:04.149 --> 00:00:08.066
+Rekam Kesehatan Elektronik di pusat
+administrasi Dragon.
+
+3
+00:00:08.066 --> 00:00:11.299
+Penyiapan ini memastikan autentikasi
+yang aman, pemetaan pengguna yang
+
+4
+00:00:11.299 --> 00:00:14.532
+tepat, dan pengalaman yang dapat
+diandalkan bagi klinisi.
+
+5
+00:00:14.533 --> 00:00:17.283
+Untuk memulai, pastikan Anda diberi
+peran administrator Dragon atau peran
+
+6
+00:00:17.283 --> 00:00:20.033
+Administrator Global.
+
+7
+00:00:20.033 --> 00:00:22.866
+Kemudian, masuk ke Pusat Admin Dragon.
+
+8
+00:00:22.866 --> 00:00:26.933
+Di bagian konfigurasi Lingkungan,
+pilih Konektor.
+
+9
+00:00:26.933 --> 00:00:31.566
+Pilih lingkungan yang baru saja dibuat
+dari menu drop-down di bagian atas.
+
+10
+00:00:31.566 --> 00:00:35.732
+Pilih drop-down Konfigurasikan di
+bawah teks konfigurasikan konektor.
+
+11
+00:00:35.733 --> 00:00:40.133
+Dari daftar Rekaman kesehatan
+elektronik, pilih EHR Anda.
+
+12
+00:00:40.133 --> 00:00:44.849
+Tindakan ini akan membuka panel
+Konfigurasi konektor, masukkan URL
+
+13
+00:00:44.849 --> 00:00:49.566
+klaim Penerbit. Pilih Simpan.
+
+14
+00:00:49.566 --> 00:00:52.232
+Berikutnya, pilih tab SMART on FHIR.
+
+15
+00:00:52.233 --> 00:00:55.549
+Aktifkan tombol untuk mengaktifkannya,
+lalu berikan nilai berikut dalam
+
+16
+00:00:55.549 --> 00:00:58.866
+bidang yang tersedia.
+
+17
+00:00:58.866 --> 00:01:05.466
+URL Dasar, URL proksi terbalik, dan
+URL SMART on FHIR.
+
+18
+00:01:05.466 --> 00:01:08.399
+Jika Anda sudah selesai, pilih
+Selesai.
+
+19
+00:01:08.400 --> 00:01:11.850
+Baik pengaturan Konektor maupun detail
+SMART on FHIR kini akan disimpan untuk
+
+20
+00:01:11.850 --> 00:01:15.300
+lingkungan ini.
+
+21
+00:01:15.300 --> 00:01:18.449
+Mengonfigurasi pengaturan EHR dan
+SMART on FHIR memastikan autentikasi
+
+22
+00:01:18.449 --> 00:01:21.599
+yang aman dan pemetaan pengguna yang
+akurat.
+
+23
+00:01:21.600 --> 00:01:24.716
+Layanan ini mendukung standar
+interoperabilitas layanan kesehatan
+
+24
+00:01:24.716 --> 00:01:27.832
+dan mengurangi kesalahan selama proses
+masuk dan penyediaan.
+
+25
+00:01:27.833 --> 00:01:28.933
+Terima kasih telah menonton.

@@ -1,0 +1,221 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+În acest videoclip, veți învăța cum să
+utilizați LDA Viewer, un instrument
+
+2
+00:00:05.077 --> 00:00:08.488
+esențial pentru verificarea a
+grupurilor Lines, Drains și Airways
+
+3
+00:00:08.488 --> 00:00:11.899
+activate pentru înregistrarea
+ambientală.
+
+4
+00:00:11.900 --> 00:00:14.780
+Această caracteristică permite
+administratorilor și informaticienilor
+
+5
+00:00:14.780 --> 00:00:17.660
+din domeniul medical să inspecteze cu
+ușurință grupurile LDA, rândurile,
+
+6
+00:00:17.660 --> 00:00:20.540
+macrocomenzile și structurile de date,
+pentru a asigura acuratețea înainte ca
+
+7
+00:00:20.540 --> 00:00:23.420
+acestea să ajungă la medici. Pentru a
+accesa LDA Viewer, conectați-vă la
+
+8
+00:00:23.420 --> 00:00:26.300
+centrul de administrare Dragon.
+
+9
+00:00:26.300 --> 00:00:31.066
+Odată ce sunteți în secțiunea Nurses,
+selectați AI Customization Manager.
+
+10
+00:00:31.066 --> 00:00:33.499
+Din panoul de navigare din stânga,
+selectați LDA Viewer pentru a deschide
+
+11
+00:00:33.499 --> 00:00:35.932
+instrumentul.
+
+12
+00:00:35.933 --> 00:00:38.866
+Fila „Groups” afișează toate grupurile
+LDA importate asociate cu șabloanele
+
+13
+00:00:38.866 --> 00:00:41.799
+compatibile cu mediul ambiant.
+
+14
+00:00:41.800 --> 00:00:44.100
+Puteți sorta sau filtra orice coloană.
+
+15
+00:00:44.100 --> 00:00:46.299
+Căutarea unui nume de grup, cum ar fi
+„dialysis”, restrânge instantaneu
+
+16
+00:00:46.299 --> 00:00:48.499
+lista.
+
+17
+00:00:48.500 --> 00:00:50.799
+Puteți exclude orice LDA din
+înregistrarea ambientală comutând
+
+18
+00:00:50.799 --> 00:00:53.099
+butonul Excluded.
+
+19
+00:00:53.100 --> 00:00:56.983
+Puteți exporta vizualizarea ca fișier
+JSON pentru audit sau analiză offline.
+
+20
+00:00:56.983 --> 00:01:00.866
+În fila Rows, puteți verifica fiecare
+rând din toate grupurile LDA. Fiecare
+
+21
+00:01:00.866 --> 00:01:04.749
+rând include detalii precum tipul
+rândului, tipul acțiunii, tipul
+
+22
+00:01:04.749 --> 00:01:08.632
+datelor și opțiunile de valori.
+
+23
+00:01:08.633 --> 00:01:11.166
+Acest lucru ajută administratorii să
+verifice structura schemei și să
+
+24
+00:01:11.166 --> 00:01:13.700
+detecteze inconsecvențe.
+
+25
+00:01:13.700 --> 00:01:17.400
+Utilizați bara de căutare pentru a
+găsi rapid rânduri specifice, cum ar
+
+26
+00:01:17.400 --> 00:01:21.100
+fi „Dressing”. Opțiunea Export este
+disponibilă și în această filă.
+
+27
+00:01:21.100 --> 00:01:23.949
+Fila „Macros” oferă o vedere detaliată
+asupra macrocomenzilor asociate cu
+
+28
+00:01:23.949 --> 00:01:26.799
+conținutul LDA.
+
+29
+00:01:26.800 --> 00:01:30.466
+Instrumentele de sortare și filtrare
+permit administratorilor să identifice
+
+30
+00:01:30.466 --> 00:01:34.132
+rapid macrocomenzile relevante, cum ar
+fi cele care conțin cuvântul „clean”.
+
+31
+00:01:34.132 --> 00:01:37.799
+Acest lucru asigură consistență și
+sprijină depanarea.
+
+32
+00:01:37.800 --> 00:01:40.249
+Comutatorul exclude from ambient și
+opțiunea de export sunt disponibile și
+
+33
+00:01:40.249 --> 00:01:42.699
+în această filă.
+
+34
+00:01:42.700 --> 00:01:45.133
+Vizualizarea ierarhică prezintă
+fiecare grup LDA într-un format
+
+35
+00:01:45.133 --> 00:01:47.566
+structurat de tip arbore.
+
+36
+00:01:47.566 --> 00:01:50.666
+Aceasta permite administratorilor să
+exploreze relațiile părinte-copil și
+
+37
+00:01:50.666 --> 00:01:53.766
+să confirme organizarea rândurilor și
+macrocomenzilor.
+
+38
+00:01:53.766 --> 00:01:56.466
+Meniul macrocomenzilor facilitează
+navigarea și verificarea structurilor
+
+39
+00:01:56.466 --> 00:01:59.166
+complexe.
+
+40
+00:01:59.166 --> 00:02:02.054
+LDA Viewer oferă administratorilor și
+informaticienilor din domeniul medical
+
+41
+00:02:02.054 --> 00:02:04.943
+o modalitate clară și centralizată de
+a valida structurile LDA înainte de a
+
+42
+00:02:04.943 --> 00:02:07.832
+fi puse în funcțiune.
+
+43
+00:02:07.833 --> 00:02:10.449
+Prin transparentizarea și ușurarea
+verificării detaliilor schemei,
+
+44
+00:02:10.449 --> 00:02:13.066
+vizualizatorul ajută la asigurarea
+unei documentații ambientale precise,
+
+45
+00:02:13.066 --> 00:02:15.683
+reduce timpul de depanare și
+îmbunătățește fiabilitatea pentru
+
+46
+00:02:15.683 --> 00:02:18.300
+medici.
+
+47
+00:02:19.033 --> 00:02:20.833
+Vă mulțumim pentru vizionare.

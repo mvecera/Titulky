@@ -1,0 +1,217 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+I denne videoen lærer du hvordan du
+bruker LDA-visningsprogrammet, et
+
+2
+00:00:05.077 --> 00:00:08.488
+viktig verktøy for gjennomgang av
+linjer, avløp og avløpsgrupper som er
+
+3
+00:00:08.488 --> 00:00:11.899
+aktivert for omgivelsesopptak.
+
+4
+00:00:11.900 --> 00:00:15.500
+Denne funksjonen gjør det mulig for
+administratorer og informatikere å
+
+5
+00:00:15.500 --> 00:00:19.100
+enkelt undersøke LDA-grupper, rader,
+makroer og datastrukturer for å sikre
+
+6
+00:00:19.100 --> 00:00:22.700
+nøyaktighet før de når klinikere For å
+få tilgang til LDA-visningsprogrammet
+
+7
+00:00:22.700 --> 00:00:26.300
+logger du på
+Dragon-administrasjonssenteret.
+
+8
+00:00:26.300 --> 00:00:28.683
+Når du er under Sykepleier-delen,
+velger du Tilpassingsbehandling for
+
+9
+00:00:28.683 --> 00:00:31.066
+kunstig intelligens.
+
+10
+00:00:31.066 --> 00:00:33.499
+Velg LDA-visningsprogrammet fra
+venstre navigasjonspanel for å åpne
+
+11
+00:00:33.499 --> 00:00:35.932
+verktøyet.
+
+12
+00:00:35.933 --> 00:00:38.866
+Grupper-fanen viser alle importerte
+LDA-grupper som er knyttet til
+
+13
+00:00:38.866 --> 00:00:41.799
+omgivelsesaktiverte maler.
+
+14
+00:00:41.800 --> 00:00:44.100
+Du kan sortere eller filtrere en
+hvilken som helst kolonne.
+
+15
+00:00:44.100 --> 00:00:46.299
+Når du søker etter et gruppenavn, for
+eksempel «dialyse», begrenses listen
+
+16
+00:00:46.299 --> 00:00:48.499
+umiddelbart.
+
+17
+00:00:48.500 --> 00:00:50.799
+Du kan utelate valgte LDA-er fra
+omgivelsesopptak ved å slå på bryteren
+
+18
+00:00:50.799 --> 00:00:53.099
+Ekskludert.
+
+19
+00:00:53.100 --> 00:00:56.983
+Du kan eksportere visningen som en
+JSON-fil for revisjon eller
+
+20
+00:00:56.983 --> 00:01:00.866
+gjennomgang uten nett. På fanen Rader
+kan du se gjennom alle rader i alle
+
+21
+00:01:00.866 --> 00:01:04.749
+LDA-grupper. Hver rad inneholder
+detaljer som radtype, handlingstype,
+
+22
+00:01:04.749 --> 00:01:08.632
+datatype og verdialternativer.
+
+23
+00:01:08.633 --> 00:01:11.166
+Dette hjelper administratorer med å
+bekrefte skjemastrukturen og oppdage
+
+24
+00:01:11.166 --> 00:01:13.700
+inkonsekvenser.
+
+25
+00:01:13.700 --> 00:01:17.400
+Bruk søkefeltet for raskt å finne
+bestemte rader, for eksempel
+
+26
+00:01:17.400 --> 00:01:21.100
+«Bandasje». Alternativet Eksporter er
+også tilgjengelig på denne fanen.
+
+27
+00:01:21.100 --> 00:01:23.949
+Fanen «Makroer» gir en detaljert
+visning av makroer som er knyttet til
+
+28
+00:01:23.949 --> 00:01:26.799
+LDA-innhold.
+
+29
+00:01:26.800 --> 00:01:30.466
+Sorterings- og filtreringsverktøy gjør
+det mulig for administratorer å raskt
+
+30
+00:01:30.466 --> 00:01:34.132
+finne relevante makroer, for eksempel
+makroer som inneholder ordet «ren».
+
+31
+00:01:34.132 --> 00:01:37.799
+Dette bidrar til konsistens og støtter
+feilsøking.
+
+32
+00:01:37.800 --> 00:01:40.249
+Alternativene Utelat fra
+omgivelsesopptak og Eksporter er også
+
+33
+00:01:40.249 --> 00:01:42.699
+tilgjengelige på denne fanen.
+
+34
+00:01:42.700 --> 00:01:45.133
+Den hierarkiske visningen presenterer
+hver LDA-gruppe i en strukturert
+
+35
+00:01:45.133 --> 00:01:47.566
+trevisning.
+
+36
+00:01:47.566 --> 00:01:49.632
+Dette gjør det mulig for
+administratorer å utforske
+
+37
+00:01:49.632 --> 00:01:51.699
+overordnede/underordnede relasjoner og
+bekrefte organiseringen av rader og
+
+38
+00:01:51.699 --> 00:01:53.766
+makroer.
+
+39
+00:01:53.766 --> 00:01:59.166
+Makromenyen gjør det enkelt å navigere
+i og kontrollere komplekse strukturer.
+
+40
+00:01:59.166 --> 00:02:02.054
+LDA-visningsprogrammet gir
+administratorer og informatikere en
+
+41
+00:02:02.054 --> 00:02:04.943
+klar, sentralisert måte å validere
+LDA-strukturer på før de sender
+
+42
+00:02:04.943 --> 00:02:07.832
+direkte.
+
+43
+00:02:07.833 --> 00:02:11.322
+Ved å gjøre skjemadetaljene
+gjennomsiktige og enkle å gjennomgå,
+
+44
+00:02:11.322 --> 00:02:14.811
+bidrar seeren til å sikre nøyaktig
+omgivelsesdokumentasjon, reduserer
+
+45
+00:02:14.811 --> 00:02:18.300
+feilsøkingstiden og forbedrer
+påliteligheten for klinikere.
+
+46
+00:02:19.033 --> 00:02:20.833
+Takk for at du så på.

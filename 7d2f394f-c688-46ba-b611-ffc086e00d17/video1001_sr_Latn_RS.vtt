@@ -1,0 +1,209 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+U ovom videu naučićete kako da
+koristite LDA Prikazivač, neophodnu
+
+2
+00:00:05.077 --> 00:00:08.488
+alatku za pregled grupa linija, odvoda
+i disajnih puteva omogućenih za
+
+3
+00:00:08.488 --> 00:00:11.899
+ambijentalno snimanje.
+
+4
+00:00:11.900 --> 00:00:14.780
+Ova funkcija omogućava
+administratorima i stručnjacima za
+
+5
+00:00:14.780 --> 00:00:17.660
+informatiku u zdravstvu da jednostavno
+pregledaju LDA grupe, redove, makroe i
+
+6
+00:00:17.660 --> 00:00:20.540
+strukture podataka radi provere
+tačnosti pre nego što dođu do
+
+7
+00:00:20.540 --> 00:00:23.420
+kliničkog osoblja. Da biste pristupili
+LDA Prikazivaču, prijavite se u Dragon
+
+8
+00:00:23.420 --> 00:00:26.300
+centar administracije.
+
+9
+00:00:26.300 --> 00:00:28.683
+Kada se nalazite u odeljku „Sestre“,
+izaberite Menadžer za prilagođavanje
+
+10
+00:00:28.683 --> 00:00:31.066
+veštačke inteligencije.
+
+11
+00:00:31.066 --> 00:00:33.499
+Iz leve table za navigaciju, izaberite
+LDA Prikazivač da biste otvorili
+
+12
+00:00:33.499 --> 00:00:35.932
+alatku.
+
+13
+00:00:35.933 --> 00:00:38.866
+Kartica „Grupe“ prikazuje sve uvezene
+LDA grupe povezane sa predlošcima koji
+
+14
+00:00:38.866 --> 00:00:41.799
+imaju omogućeno ambijentalno snimanje.
+
+15
+00:00:41.800 --> 00:00:44.100
+Možete da sortirate ili filtrirate
+bilo koju kolonu.
+
+16
+00:00:44.100 --> 00:00:48.499
+Pretraga po imenu grupe, kao što je
+„dijaliza“, odmah sužava listu.
+
+17
+00:00:48.500 --> 00:00:50.799
+Možete da isključite bilo koji LDA iz
+ambijentalnog snimanja korišćenjem
+
+18
+00:00:50.799 --> 00:00:53.099
+prekidača „Isključeno“.
+
+19
+00:00:53.100 --> 00:00:56.983
+Možete da izvezete prikaz kao JSON
+datoteku za reviziju ili pregled van
+
+20
+00:00:56.983 --> 00:01:00.866
+mreže. Na kartici „Redovi“ možete da
+pregledate svaki red unutar svih LDA
+
+21
+00:01:00.866 --> 00:01:04.749
+grupa. Svaki red uključuje detalje kao
+što su tip reda, tip radnje, tip
+
+22
+00:01:04.749 --> 00:01:08.632
+podataka i opcije vrednosti.
+
+23
+00:01:08.633 --> 00:01:11.166
+Ovo pomaže administratorima da provere
+strukturu šeme i otkriju
+
+24
+00:01:11.166 --> 00:01:13.700
+nedoslednosti.
+
+25
+00:01:13.700 --> 00:01:17.400
+Koristite traku za pretragu da biste
+brzo izdvojili određene redove, kao
+
+26
+00:01:17.400 --> 00:01:21.100
+što je „Zavoj“. Na ovoj kartici je
+dostupna i opcija „Izvoz“.
+
+27
+00:01:21.100 --> 00:01:26.799
+Kartica „Makroi“ pruža detaljan prikaz
+makroa povezanih sa LDA sadržajem.
+
+28
+00:01:26.800 --> 00:01:30.466
+Alatke za sortiranje i filtriranje
+omogućavaju administratorima da brzo
+
+29
+00:01:30.466 --> 00:01:34.132
+identifikuju relevantne makroe, kao
+što su oni koji sadrže reč „čisto“.
+
+30
+00:01:34.132 --> 00:01:37.799
+Ovo obezbeđuje doslednost i podržava
+rešavanje problema.
+
+31
+00:01:37.800 --> 00:01:42.699
+Opcije „Izuzmi iz ambijenta“ i „Izvoz“
+dostupne su i na ovoj kartici.
+
+32
+00:01:42.700 --> 00:01:45.133
+Hijerarhijski prikaz predstavlja svaku
+LDA grupu u strukturiranom formatu
+
+33
+00:01:45.133 --> 00:01:47.566
+stabla.
+
+34
+00:01:47.566 --> 00:01:50.666
+Ovo omogućava administratorima da
+istražuju odnose nadređenih i
+
+35
+00:01:50.666 --> 00:01:53.766
+podređenih elemenata i potvrde
+organizaciju redova i makroa.
+
+36
+00:01:53.766 --> 00:01:59.166
+Makro meni olakšava navigaciju i
+proveru složenih struktura.
+
+37
+00:01:59.166 --> 00:02:02.054
+LDA Prikazivač pruža administratorima
+i stručnjacima za informatiku u
+
+38
+00:02:02.054 --> 00:02:04.943
+zdravstvu jasan, centralizovan način
+za proveru valjanosti LDA strukture
+
+39
+00:02:04.943 --> 00:02:07.832
+pre nego što budu puštene u rad.
+
+40
+00:02:07.833 --> 00:02:10.449
+Omogućavajući transparentnost i
+jednostavan pregled detalja šeme,
+
+41
+00:02:10.449 --> 00:02:13.066
+prikazivač doprinosi tačnoj
+ambijentalnoj dokumentaciji, smanjuje
+
+42
+00:02:13.066 --> 00:02:15.683
+vreme za rešavanje problema i
+poboljšava pouzdanost za kliničko
+
+43
+00:02:15.683 --> 00:02:18.300
+osoblje.
+
+44
+00:02:19.033 --> 00:02:20.833
+Hvala što ste gledali.

@@ -1,0 +1,218 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+U ovom ćete videozapisu saznati kako
+upotrebljavati LDA preglednik, ključni
+
+2
+00:00:05.077 --> 00:00:08.488
+alat za pregled grupa Cjevčice,
+Drenovi i Dišni putevi omogućen za
+
+3
+00:00:08.488 --> 00:00:11.899
+ambijentalno snimanje.
+
+4
+00:00:11.900 --> 00:00:14.780
+Ova značajka omogućuje
+administratorima i informatičarima u
+
+5
+00:00:14.780 --> 00:00:17.660
+sestrinstvu jednostavan pregled LDA
+grupa, redaka, makronaredbi i
+
+6
+00:00:17.660 --> 00:00:20.540
+struktura podataka radi osiguranja
+točnosti prije nego što dosegnu
+
+7
+00:00:20.540 --> 00:00:23.420
+kliničare. Za pristup LDA pregledniku
+prijavite se u centar za
+
+8
+00:00:23.420 --> 00:00:26.300
+administratore značajke Dragon.
+
+9
+00:00:26.300 --> 00:00:28.683
+Kada otvorite sekciju Medicinske
+sestre, odaberite Upravitelj AI
+
+10
+00:00:28.683 --> 00:00:31.066
+prilagodbe.
+
+11
+00:00:31.066 --> 00:00:33.499
+Na lijevoj navigacijskoj ploči
+odaberite LDA preglednik za otvaranje
+
+12
+00:00:33.499 --> 00:00:35.932
+alata.
+
+13
+00:00:35.933 --> 00:00:38.866
+Na kartici „Grupe” prikazuju se sve
+uvezene LDA grupe povezane s
+
+14
+00:00:38.866 --> 00:00:41.799
+predlošcima s omogućenim ambijentom.
+
+15
+00:00:41.800 --> 00:00:44.100
+Možete sortirati ili filtrirati bilo
+koji stupac.
+
+16
+00:00:44.100 --> 00:00:48.499
+Pretraživanje naziva grupe kao što je
+„dijaliza“ odmah sužava popis.
+
+17
+00:00:48.500 --> 00:00:50.799
+Možete isključiti bilo koje LDA stavke
+iz ambijentalnog snimanja
+
+18
+00:00:50.799 --> 00:00:53.099
+prebacivanjem prekidača Isključeno.
+
+19
+00:00:53.100 --> 00:00:56.983
+Možete izvesti prikaz kao JSON
+datoteku za provjeru ili izvanmrežni
+
+20
+00:00:56.983 --> 00:01:00.866
+pregled. Na kartici Retci možete
+pregledati svaki redak unutar svih LDA
+
+21
+00:01:00.866 --> 00:01:04.749
+grupa. Svaki redak uključuje
+pojedinosti kao što su vrsta retka,
+
+22
+00:01:04.749 --> 00:01:08.632
+vrsta radnje, vrsta podataka i opcije
+vrijednosti.
+
+23
+00:01:08.633 --> 00:01:11.166
+To administratorima omogućuje provjeru
+strukture sheme i otkrivanje
+
+24
+00:01:11.166 --> 00:01:13.700
+nedosljednosti.
+
+25
+00:01:13.700 --> 00:01:17.400
+Upotrijebite traku za pretraživanje za
+brzo pronalaženje određenih redaka,
+
+26
+00:01:17.400 --> 00:01:21.100
+kao što je „Preljev”. Na ovoj je
+kartici dostupna i mogućnost izvoza.
+
+27
+00:01:21.100 --> 00:01:23.949
+Kartica „Makronaredbe” pruža detaljan
+prikaz makronaredbi povezanih sa
+
+28
+00:01:23.949 --> 00:01:26.799
+sadržajem LDA.
+
+29
+00:01:26.800 --> 00:01:30.466
+Alati za sortiranje i filtriranje
+omogućuju administratorima brzo
+
+30
+00:01:30.466 --> 00:01:34.132
+prepoznavanje relevantnih makronaredbi
+kao što su one koje sadrže riječ
+
+31
+00:01:34.132 --> 00:01:37.799
+„čisto“. Time se osigurava dosljednost
+i podržava otklanjanje poteškoća.
+
+32
+00:01:37.800 --> 00:01:40.249
+Na ovoj kartici dostupne su i
+mogućnosti izostavljanja iz okolnog
+
+33
+00:01:40.249 --> 00:01:42.699
+okruženja i izvoza.
+
+34
+00:01:42.700 --> 00:01:45.133
+Hijerarhijski prikaz prikazuje svaku
+LDA grupu u strukturiranom obliku
+
+35
+00:01:45.133 --> 00:01:47.566
+stabla.
+
+36
+00:01:47.566 --> 00:01:50.666
+To administratorima omogućuje
+istraživanje hijerarhijskih odnosa i
+
+37
+00:01:50.666 --> 00:01:53.766
+potvrđivanje organizacije redaka i
+makronaredbi.
+
+38
+00:01:53.766 --> 00:01:56.466
+Izbornik makronaredbi olakšava
+navigaciju i provjeru složenih
+
+39
+00:01:56.466 --> 00:01:59.166
+struktura.
+
+40
+00:01:59.166 --> 00:02:02.054
+LDA preglednik pruža administratorima
+i informatičarima u njegovateljstvu
+
+41
+00:02:02.054 --> 00:02:04.943
+jasan, centraliziran način za provjeru
+valjanosti LDA struktura prije
+
+42
+00:02:04.943 --> 00:02:07.832
+emitiranja uživo.
+
+43
+00:02:07.833 --> 00:02:11.322
+Transparentnim i jednostavnim
+pregledom pojedinosti sheme,
+
+44
+00:02:11.322 --> 00:02:14.811
+preglednik pridonosi točnom
+ambijentalnom dokumentiranju, smanjuje
+
+45
+00:02:14.811 --> 00:02:18.300
+vrijeme otklanjanja poteškoća i
+poboljšava pouzdanost za kliničare.
+
+46
+00:02:19.033 --> 00:02:20.833
+Hvala na gledanju.

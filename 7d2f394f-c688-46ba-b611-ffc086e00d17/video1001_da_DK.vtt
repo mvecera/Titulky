@@ -1,0 +1,221 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+I denne video får du mere at vide om,
+hvordan du bruger LDA Viewer, som er
+
+2
+00:00:05.077 --> 00:00:08.488
+et vigtigt værktøj til gennemgang af
+lednings-, dræn- og luftvejsgrupper,
+
+3
+00:00:08.488 --> 00:00:11.899
+der er aktiveret til optagelse i det
+omgivende miljø.
+
+4
+00:00:11.900 --> 00:00:15.500
+Denne funktion gør det muligt for
+administratorer og
+
+5
+00:00:15.500 --> 00:00:19.100
+sygeplejeinformatikere nemt at
+inspicere LDA-grupper, rækker, makroer
+
+6
+00:00:19.100 --> 00:00:22.700
+og datastrukturer for at sikre
+nøjagtighed, før de når klinikerne.
+
+7
+00:00:22.700 --> 00:00:26.300
+For at få adgang til LDA Viewer skal
+du logge ind på Dragon Administration.
+
+8
+00:00:26.300 --> 00:00:28.683
+Når du er under afsnittet
+Sygeplejersker, skal du vælge
+
+9
+00:00:28.683 --> 00:00:31.066
+tilpasningsadministrator med kunstig
+intelligens.
+
+10
+00:00:31.066 --> 00:00:33.499
+Vælg LDA Viewer i venstre
+navigationspanel for at åbne
+
+11
+00:00:33.499 --> 00:00:35.932
+værktøjet.
+
+12
+00:00:35.933 --> 00:00:38.866
+Fanen "Grupper" viser alle importerede
+LDA-grupper, der er knyttet til
+
+13
+00:00:38.866 --> 00:00:41.799
+skabeloner, der er aktiveret til
+omgivende.
+
+14
+00:00:41.800 --> 00:00:44.100
+Du kan sortere eller filtrere en
+hvilken som helst kolonne.
+
+15
+00:00:44.100 --> 00:00:46.299
+Når du søger efter et gruppenavn,
+f.eks “. dialyse" indsnævres listen
+
+16
+00:00:46.299 --> 00:00:48.499
+med det samme.
+
+17
+00:00:48.500 --> 00:00:50.799
+Du kan udelukke alle LDA'er fra
+optagelse i det omgivende miljø ved at
+
+18
+00:00:50.799 --> 00:00:53.099
+slå Parameteren Udeladt til/fra.
+
+19
+00:00:53.100 --> 00:00:56.983
+Du kan eksportere visningen som en
+JSON-fil til overvågning eller
+
+20
+00:00:56.983 --> 00:01:00.866
+offlinegennemgang På fanen Rækker kan
+du gennemse hver række i alle
+
+21
+00:01:00.866 --> 00:01:04.749
+LDA-grupper. Hver række indeholder
+oplysninger som f.eks. rækketype,
+
+22
+00:01:04.749 --> 00:01:08.632
+handlingstype, datatype og
+værdiindstillinger.
+
+23
+00:01:08.633 --> 00:01:11.166
+Dette hjælper administratorer med at
+kontrollere skemastrukturen og
+
+24
+00:01:11.166 --> 00:01:13.700
+registrere uoverensstemmelser.
+
+25
+00:01:13.700 --> 00:01:17.400
+Brug søgelinjen til hurtig målretning
+af bestemte rækker, f.eks.
+
+26
+00:01:17.400 --> 00:01:21.100
+"Formatering". Indstillingen Eksportér
+er også tilgængelig på denne fane.
+
+27
+00:01:21.100 --> 00:01:23.949
+Fanen "Makroer" giver en detaljeret
+visning af makroer, der er knyttet til
+
+28
+00:01:23.949 --> 00:01:26.799
+LDA-indhold.
+
+29
+00:01:26.800 --> 00:01:30.466
+Sorterings- og filtreringsværktøjer
+gør det muligt for administratorer
+
+30
+00:01:30.466 --> 00:01:34.132
+hurtigt at identificere relevante
+makroer, f.eks. dem, der indeholder
+
+31
+00:01:34.132 --> 00:01:37.799
+ordet "ren". Dette sikrer konsistens
+og understøtter fejlfinding.
+
+32
+00:01:37.800 --> 00:01:40.249
+Indstillingerne Udeluk fra omgivende
+miljø og eksport er også tilgængelige
+
+33
+00:01:40.249 --> 00:01:42.699
+på denne fane.
+
+34
+00:01:42.700 --> 00:01:45.133
+Den hierarkiske visning præsenterer
+hver LDA-gruppe i et struktureret
+
+35
+00:01:45.133 --> 00:01:47.566
+træformat.
+
+36
+00:01:47.566 --> 00:01:49.632
+Dette giver administratorer mulighed
+for at udforske
+
+37
+00:01:49.632 --> 00:01:51.699
+overordnede/underordnede relationer og
+bekræfte organiseringen af rækker og
+
+38
+00:01:51.699 --> 00:01:53.766
+makroer.
+
+39
+00:01:53.766 --> 00:01:59.166
+Makromenuen gør det nemt at navigere i
+og bekræfte komplekse strukturer.
+
+40
+00:01:59.166 --> 00:02:03.499
+LDA Viewer giver administratorer og
+sygeplejeinformatikere en klar og
+
+41
+00:02:03.499 --> 00:02:07.832
+centraliseret måde at validere
+LDA-strukturer på, før de går live.
+
+42
+00:02:07.833 --> 00:02:10.449
+Ved at gøre skemadetaljer
+gennemsigtige og nemme at gennemse
+
+43
+00:02:10.449 --> 00:02:13.066
+hjælper fremviseren med at sikre
+nøjagtig dokumentation om det
+
+44
+00:02:13.066 --> 00:02:15.683
+omgivende miljø, reducerer
+fejlfindingstiden og forbedrer
+
+45
+00:02:15.683 --> 00:02:18.300
+pålideligheden for klinikere.
+
+46
+00:02:19.033 --> 00:02:20.833
+Tak, fordi du så med.

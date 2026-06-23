@@ -1,0 +1,201 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+V tomto videu se naučíte používat
+Prohlížeč LDA, nezbytný nástroj pro
+
+2
+00:00:05.077 --> 00:00:08.488
+kontrolu skupin Cévky, Drény a Dýchací
+cesty povolených pro ambientní
+
+3
+00:00:08.488 --> 00:00:11.899
+nahrávání.
+
+4
+00:00:11.900 --> 00:00:15.500
+Tato funkce umožňuje správcům a
+informatikům zdravotních služeb snadno
+
+5
+00:00:15.500 --> 00:00:19.100
+kontrolovat skupiny LDA, řádky, makra
+a datové struktury, aby zajistili
+
+6
+00:00:19.100 --> 00:00:22.700
+přesnost před jejich předáním lékařům
+kliniky. Pro přístup k Prohlížeči LDA
+
+7
+00:00:22.700 --> 00:00:26.300
+se přihlaste do centra pro správu
+Dragonu.
+
+8
+00:00:26.300 --> 00:00:28.683
+Jakmile jste v sekci Zdravotní sestry,
+vyberte Správce vlastního nastavení
+
+9
+00:00:28.683 --> 00:00:31.066
+AI.
+
+10
+00:00:31.066 --> 00:00:35.932
+Otevřete nástroj výběrem Prohlížeče
+LDA v levém navigačním panelu.
+
+11
+00:00:35.933 --> 00:00:38.866
+Záložka „Skupiny“ zobrazuje všechny
+importované skupiny LDA spojené se
+
+12
+00:00:38.866 --> 00:00:41.799
+šablonami povolenými pro ambientní
+režim.
+
+13
+00:00:41.800 --> 00:00:44.100
+Můžete třídit nebo filtrovat jakýkoli
+sloupec.
+
+14
+00:00:44.100 --> 00:00:46.299
+Vyhledávání podle názvu skupiny,
+například „dialýza“, okamžitě zúží
+
+15
+00:00:46.299 --> 00:00:48.499
+seznam.
+
+16
+00:00:48.500 --> 00:00:50.799
+Kterékoli LDA můžete z ambientního
+záznamu vyloučit přepnutím přepínače
+
+17
+00:00:50.799 --> 00:00:53.099
+Vyloučeno.
+
+18
+00:00:53.100 --> 00:00:56.983
+Zobrazení můžete exportovat jako
+soubor JSON pro audit nebo kontrolu
+
+19
+00:00:56.983 --> 00:01:00.866
+offline. Na kartě Řádky můžete
+zkontrolovat každý řádek ve všech
+
+20
+00:01:00.866 --> 00:01:04.749
+skupinách LDA. Každý řádek obsahuje
+podrobnosti, jako je typ řádku, typ
+
+21
+00:01:04.749 --> 00:01:08.632
+akce, datový typ a možnosti hodnot.
+
+22
+00:01:08.633 --> 00:01:13.700
+To pomáhá správcům ověřovat strukturu
+schématu a zjišťovat nekonzistence.
+
+23
+00:01:13.700 --> 00:01:17.400
+Panel hledání slouží k rychlému
+zacílení konkrétních řádků, jako je
+
+24
+00:01:17.400 --> 00:01:21.100
+třeba „obvaz“. Možnost Export je k
+dispozici také na této kartě.
+
+25
+00:01:21.100 --> 00:01:23.949
+Karta Makra poskytuje podrobné
+zobrazení maker přidružených k obsahu
+
+26
+00:01:23.949 --> 00:01:26.799
+LDA.
+
+27
+00:01:26.800 --> 00:01:30.466
+Nástroje pro třídění a filtrování
+umožňují správcům rychle identifikovat
+
+28
+00:01:30.466 --> 00:01:34.132
+relevantní makra, například ta
+obsahující slovo „čistý“. To zajišťuje
+
+29
+00:01:34.132 --> 00:01:37.799
+konzistenci a podporuje řešení
+problémů.
+
+30
+00:01:37.800 --> 00:01:40.249
+Na této kartě jsou také k dispozici
+možnosti Vyloučit z ambientního a
+
+31
+00:01:40.249 --> 00:01:42.699
+Export.
+
+32
+00:01:42.700 --> 00:01:45.133
+Hierarchické zobrazení představuje
+každou skupinu LDA ve strukturovaném
+
+33
+00:01:45.133 --> 00:01:47.566
+stromovém formátu.
+
+34
+00:01:47.566 --> 00:01:50.666
+To umožňuje správcům prozkoumat vztahy
+rodič-potomek a potvrdit organizaci
+
+35
+00:01:50.666 --> 00:01:53.766
+řádků a maker.
+
+36
+00:01:53.766 --> 00:01:59.166
+Nabídka Makro usnadňuje navigaci a
+ověřování složitých struktur.
+
+37
+00:01:59.166 --> 00:02:03.499
+Prohlížeč LDA poskytuje správcům a
+informatikům zdravotních služeb jasný
+
+38
+00:02:03.499 --> 00:02:07.832
+a centralizovaný způsob ověřování
+struktur LDA před jejich nasazením.
+
+39
+00:02:07.833 --> 00:02:11.322
+Díky transparentnosti a snadné
+kontrole detailů schématu pomáhá
+
+40
+00:02:11.322 --> 00:02:14.811
+prohlížeč zajistit přesnou ambientní
+dokumentaci, zkracuje čas na řešení
+
+41
+00:02:14.811 --> 00:02:18.300
+problémů a zvyšuje spolehlivost pro
+lékaře kliniky.
+
+42
+00:02:19.033 --> 00:02:20.833
+Děkujeme za sledování.

@@ -1,0 +1,196 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+Sellest videost saate teada, kuidas
+kasutada keskkonnasalvestuseks lubatud
+
+2
+00:00:05.077 --> 00:00:08.488
+LDA vaaturit, mis on oluline tööriist
+torude, drenaaži ja hingamisteede
+
+3
+00:00:08.488 --> 00:00:11.899
+rühmade läbivaatamiseks.
+
+4
+00:00:11.900 --> 00:00:15.500
+See funktsioon võimaldab
+administraatoritel ja
+
+5
+00:00:15.500 --> 00:00:19.100
+õendusinformaatikutel hõlpsalt
+kontrollida LDA rühmi, ridu, makrosid
+
+6
+00:00:19.100 --> 00:00:22.700
+ja andmestruktuure, et tagada täpsus
+enne andmete arstini jõudmist. LDA
+
+7
+00:00:22.700 --> 00:00:26.300
+vaaturile juurdepääsemiseks logige
+sisse Dragoni halduskeskusesse.
+
+8
+00:00:26.300 --> 00:00:31.066
+Kui olete jaotises Õed, valige
+tehisintellekti kohandamise haldur.
+
+9
+00:00:31.066 --> 00:00:35.932
+Tööriista avamiseks valige vasakul
+navigeerimispaanil LDA vaatur.
+
+10
+00:00:35.933 --> 00:00:38.866
+Vahekaardil Rühmad kuvatakse kõik
+imporditud LDA rühmad, mis on
+
+11
+00:00:38.866 --> 00:00:41.799
+seostatud keskkonnatoega mallidega.
+
+12
+00:00:41.800 --> 00:00:44.100
+Saate veerge sortida ja filtreerida.
+
+13
+00:00:44.100 --> 00:00:48.499
+Rühma nimetuse (nt Dialüüs) otsimine
+kitsendab loendit kohe.
+
+14
+00:00:48.500 --> 00:00:50.799
+Saate välistada kõik LDA-d taustal
+salvestamisest, kui lülitate sisse
+
+15
+00:00:50.799 --> 00:00:53.099
+lüliti Välistatud.
+
+16
+00:00:53.100 --> 00:00:56.983
+Vaate saate eksportida JSON-failina
+auditeerimiseks või ühenduseta
+
+17
+00:00:56.983 --> 00:01:00.866
+läbivaatuseks vahekaardil Read, kus
+saate läbi vaadata kõik LDA rühmade
+
+18
+00:01:00.866 --> 00:01:04.749
+read. Igal real on näiteks rea tüüp,
+toimingu tüüp, andmetüüp ja
+
+19
+00:01:04.749 --> 00:01:08.632
+väärtusesuvandid.
+
+20
+00:01:08.633 --> 00:01:11.166
+See aitab administraatoritel skeemi
+struktuuri kontrollida ja
+
+21
+00:01:11.166 --> 00:01:13.700
+ebajärjepidevaid kohti leida.
+
+22
+00:01:13.700 --> 00:01:17.400
+Kindlate ridade (nt „Haavasidemed“)
+kiireks sihtimiseks saate kasutada
+
+23
+00:01:17.400 --> 00:01:21.100
+otsinguriba. Ka sellel vahekaardil on
+suvand Ekspordi.
+
+24
+00:01:21.100 --> 00:01:26.799
+Menüüs Makrod kuvatakse LDA sisuga
+seostatud makrode üksikasjalik vaade.
+
+25
+00:01:26.800 --> 00:01:30.466
+Sortimis- ja filtreerimisriistad
+võimaldavad administraatoritel
+
+26
+00:01:30.466 --> 00:01:34.132
+kiiresti tuvastada asjakohaseid
+makrosid, näiteks neid, mis sisaldavad
+
+27
+00:01:34.132 --> 00:01:37.799
+sõna „puhas“. See tagab järjepidevuse
+ja toetab tõrkeotsingut.
+
+28
+00:01:37.800 --> 00:01:40.249
+Sellel vahekaardil ka on taustast
+välistamise funktsioon ja
+
+29
+00:01:40.249 --> 00:01:42.699
+ekspordisuvand.
+
+30
+00:01:42.700 --> 00:01:45.133
+Hierarhilises vaates kuvatakse kõik
+LDA rühmad struktureeritud
+
+31
+00:01:45.133 --> 00:01:47.566
+puuvormingus.
+
+32
+00:01:47.566 --> 00:01:50.666
+See võimaldab administraatoritel
+uurida ema- ja tütarelementide seoseid
+
+33
+00:01:50.666 --> 00:01:53.766
+ning kinnitada ridade ja makrode
+korraldust.
+
+34
+00:01:53.766 --> 00:01:56.466
+Makromenüü hõlbustab keerukates
+struktuurides liikumist ja
+
+35
+00:01:56.466 --> 00:01:59.166
+kontrollimist.
+
+36
+00:01:59.166 --> 00:02:03.499
+LDA vaatur annab administraatoritele
+ja õendusinformaatikutele selge ja
+
+37
+00:02:03.499 --> 00:02:07.832
+keskse viisi LDA struktuuride
+valideerimiseks enne nende avaldamist.
+
+38
+00:02:07.833 --> 00:02:11.322
+Skeemi üksikasjade läbipaistvaks ja
+hõlpsaks läbivaatamiseks aitab vaatur
+
+39
+00:02:11.322 --> 00:02:14.811
+tagada täpse keskkonna
+dokumentatsiooni, vähendab
+
+40
+00:02:14.811 --> 00:02:18.300
+tõrkeotsinguaega ja suurendab arsti
+jaoks usaldusväärsust.
+
+41
+00:02:19.033 --> 00:02:20.833
+Aitäh vaatamast.

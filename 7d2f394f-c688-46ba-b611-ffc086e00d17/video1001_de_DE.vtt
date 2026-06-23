@@ -1,0 +1,238 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+In diesem Video lernen Sie, wie Sie
+den LDA Viewer verwenden, ein
+
+2
+00:00:05.077 --> 00:00:08.488
+unverzichtbares Tool zur Überprüfung
+von Lines-, Drains- und
+
+3
+00:00:08.488 --> 00:00:11.899
+Airways-Gruppen, die für die
+Ambient-Aufnahme aktiviert sind.
+
+4
+00:00:11.900 --> 00:00:14.780
+Diese Funktion ermöglicht
+Administratoren und
+
+5
+00:00:14.780 --> 00:00:17.660
+Pflegeinformatiker, LDA-Gruppen,
+Zeilen, Makros und Datenstrukturen
+
+6
+00:00:17.660 --> 00:00:20.540
+einfach zu überprüfen, um die
+Genauigkeit sicherzustellen, bevor sie
+
+7
+00:00:20.540 --> 00:00:23.420
+die Kliniker erreichen. Um auf den LDA
+Viewer zuzugreifen, melden Sie sich im
+
+8
+00:00:23.420 --> 00:00:26.300
+Dragon Admin Center an.
+
+9
+00:00:26.300 --> 00:00:28.683
+Sobald Sie sich im Bereich
+Pflegekräfte befinden, wählen Sie den
+
+10
+00:00:28.683 --> 00:00:31.066
+KI-Anpassungsmanager aus.
+
+11
+00:00:31.066 --> 00:00:33.499
+Wählen Sie im linken
+Navigationsbereich den LDA Viewer aus,
+
+12
+00:00:33.499 --> 00:00:35.932
+um das Tool zu öffnen.
+
+13
+00:00:35.933 --> 00:00:38.866
+Die Registerkarte „Gruppen“ zeigt alle
+importierten LDA-Gruppen an, die mit
+
+14
+00:00:38.866 --> 00:00:41.799
+ambienteaktivierten Vorlagen verknüpft
+sind.
+
+15
+00:00:41.800 --> 00:00:44.100
+Sie können jede Spalte sortieren oder
+filtern.
+
+16
+00:00:44.100 --> 00:00:46.299
+Durch die Suche nach einem
+Gruppennamen wie „Dialyse“ wird die
+
+17
+00:00:46.299 --> 00:00:48.499
+Liste sofort eingegrenzt.
+
+18
+00:00:48.500 --> 00:00:50.799
+Sie können alle LDAs von der
+Ambient-Aufnahme ausschließen, indem
+
+19
+00:00:50.799 --> 00:00:53.099
+Sie den Schalter „Ausgeschlossen“
+umschalten.
+
+20
+00:00:53.100 --> 00:00:56.983
+Sie können die Ansicht als JSON-Datei
+für die Überwachung oder
+
+21
+00:00:56.983 --> 00:01:00.866
+Offlineüberprüfung exportieren. Auf
+der Registerkarte „Zeilen“ können Sie
+
+22
+00:01:00.866 --> 00:01:04.749
+jede Zeile in allen LDA-Gruppen
+überprüfen. Jede Zeile enthält Details
+
+23
+00:01:04.749 --> 00:01:08.632
+wie Zeilentyp, Aktionstyp, Datentyp
+und Wertoptionen.
+
+24
+00:01:08.633 --> 00:01:11.166
+Dies hilft Administratoren, die
+Schema-Struktur zu überprüfen und
+
+25
+00:01:11.166 --> 00:01:13.700
+Inkonsistenzen zu erkennen.
+
+26
+00:01:13.700 --> 00:01:16.166
+Verwenden Sie die Suchleiste für die
+schnelle Zielgruppenadressierung
+
+27
+00:01:16.166 --> 00:01:18.633
+bestimmter Zeilen, z. B. „Verband“.
+Die Exportoption ist auch auf dieser
+
+28
+00:01:18.633 --> 00:01:21.100
+Registerkarte verfügbar.
+
+29
+00:01:21.100 --> 00:01:23.949
+Die Registerkarte „Makros“ bietet eine
+detaillierte Ansicht der Makros, die
+
+30
+00:01:23.949 --> 00:01:26.799
+dem LDA-Inhalt zugeordnet sind.
+
+31
+00:01:26.800 --> 00:01:29.549
+Sortier- und Filterwerkzeuge
+ermöglichen Administratoren, relevante
+
+32
+00:01:29.549 --> 00:01:32.299
+Makros schnell zu identifizieren,
+beispielsweise solche mit dem Wort
+
+33
+00:01:32.299 --> 00:01:35.049
+„bereinigen“. Dies gewährleistet
+Konsistenz und unterstützt die
+
+34
+00:01:35.049 --> 00:01:37.799
+Fehlerbehebung.
+
+35
+00:01:37.800 --> 00:01:40.249
+Die Optionen „Aus Ambiente
+ausschließen“ und „Exportieren“ sind
+
+36
+00:01:40.249 --> 00:01:42.699
+ebenfalls auf dieser Registerkarte
+verfügbar.
+
+37
+00:01:42.700 --> 00:01:45.133
+Die hierarchische Ansicht stellt jede
+LDA-Gruppe in einer strukturierten
+
+38
+00:01:45.133 --> 00:01:47.566
+Baumansicht dar.
+
+39
+00:01:47.566 --> 00:01:50.666
+Dies ermöglicht Administratoren,
+Eltern-Kind-Beziehungen zu erkunden
+
+40
+00:01:50.666 --> 00:01:53.766
+und die Organisation von Zeilen und
+Makros zu bestätigen.
+
+41
+00:01:53.766 --> 00:01:56.466
+Das Makromenü erleichtert das
+Navigieren und Überprüfen komplexer
+
+42
+00:01:56.466 --> 00:01:59.166
+Strukturen.
+
+43
+00:01:59.166 --> 00:02:02.054
+Der LDA Viewer bietet Administratoren
+und Pflegeinformatiker eine klare,
+
+44
+00:02:02.054 --> 00:02:04.943
+zentrale Möglichkeit, LDA-Strukturen
+zu validieren, bevor sie live
+
+45
+00:02:04.943 --> 00:02:07.832
+geschaltet werden.
+
+46
+00:02:07.833 --> 00:02:10.449
+Indem Schema-Details transparent und
+leicht überprüfbar gemacht werden,
+
+47
+00:02:10.449 --> 00:02:13.066
+hilft der Viewer, eine genaue
+Ambient-Dokumentation sicherzustellen,
+
+48
+00:02:13.066 --> 00:02:15.683
+die Fehlerbehebungszeit zu verkürzen
+und die Zuverlässigkeit für Kliniker
+
+49
+00:02:15.683 --> 00:02:18.300
+zu verbessern.
+
+50
+00:02:19.033 --> 00:02:20.833
+Danke fürs Zuschauen.

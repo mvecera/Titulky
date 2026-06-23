@@ -1,0 +1,229 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+Neste vídeo, vai aprender a usar o LDA
+Viewer, uma ferramenta essencial para
+
+2
+00:00:05.077 --> 00:00:08.488
+rever os grupos de Linhas, Drenos e
+Vias Aéreas ativados para gravação
+
+3
+00:00:08.488 --> 00:00:11.899
+ambiente.
+
+4
+00:00:11.900 --> 00:00:14.780
+Esta funcionalidade permite que
+administradores e informáticos de
+
+5
+00:00:14.780 --> 00:00:17.660
+enfermagem inspecionem facilmente
+grupos, linhas, macros e estruturas de
+
+6
+00:00:17.660 --> 00:00:20.540
+dados LDA para garantir a precisão
+antes que eles cheguem aos médicos.
+
+7
+00:00:20.540 --> 00:00:23.420
+Para aceder ao LDA Viewer, inicie
+sessão no centro de administração do
+
+8
+00:00:23.420 --> 00:00:26.300
+Dragon.
+
+9
+00:00:26.300 --> 00:00:28.683
+Quando estiver na secção Enfermeiros,
+selecione Gestor de personalização de
+
+10
+00:00:28.683 --> 00:00:31.066
+IA.
+
+11
+00:00:31.066 --> 00:00:33.499
+No painel de navegação à esquerda,
+selecione o LDA Viewer para abrir a
+
+12
+00:00:33.499 --> 00:00:35.932
+ferramenta.
+
+13
+00:00:35.933 --> 00:00:38.866
+O separador “Grupos” apresenta todos
+os grupos LDA importados associados a
+
+14
+00:00:38.866 --> 00:00:41.799
+modelos com gravação ambiente ativada.
+
+15
+00:00:41.800 --> 00:00:44.100
+Pode ordenar ou filtrar qualquer
+coluna.
+
+16
+00:00:44.100 --> 00:00:46.299
+Procurar um nome de grupo, como
+“diálise”, reduz instantaneamente a
+
+17
+00:00:46.299 --> 00:00:48.499
+lista.
+
+18
+00:00:48.500 --> 00:00:50.799
+Pode excluir quaisquer LDAs da
+gravação de ambiente ao alternar o
+
+19
+00:00:50.799 --> 00:00:53.099
+botão Excluído.
+
+20
+00:00:53.100 --> 00:00:56.983
+Pode exportar a vista como um ficheiro
+JSON para auditoria ou revisão offline
+
+21
+00:00:56.983 --> 00:01:00.866
+No separador Linhas, pode rever todas
+as linhas em todos os grupos LDA.
+
+22
+00:01:00.866 --> 00:01:04.749
+Cada linha inclui detalhes como o tipo
+de linha, o tipo de ação, o tipo de
+
+23
+00:01:04.749 --> 00:01:08.632
+dados e as opções de valor.
+
+24
+00:01:08.633 --> 00:01:11.166
+Isto ajuda os administradores a
+verificar a estrutura do esquema e a
+
+25
+00:01:11.166 --> 00:01:13.700
+detetar inconsistências.
+
+26
+00:01:13.700 --> 00:01:16.166
+Utilize a barra de pesquisa para
+localizar rapidamente linhas
+
+27
+00:01:16.166 --> 00:01:18.633
+específicas, como "Vestidos". A opção
+Exportar também está disponível neste
+
+28
+00:01:18.633 --> 00:01:21.100
+separador.
+
+29
+00:01:21.100 --> 00:01:23.949
+O separador "Macros" fornece uma vista
+detalhada das macros associadas ao
+
+30
+00:01:23.949 --> 00:01:26.799
+conteúdo LDA.
+
+31
+00:01:26.800 --> 00:01:29.549
+As ferramentas de ordenação e
+filtragem permitem que os
+
+32
+00:01:29.549 --> 00:01:32.299
+administradores identifiquem
+rapidamente macros relevantes, como
+
+33
+00:01:32.299 --> 00:01:35.049
+aquelas que contêm a palavra "limpar".
+Isto assegura consistência e apoia a
+
+34
+00:01:35.049 --> 00:01:37.799
+resolução de problemas.
+
+35
+00:01:37.800 --> 00:01:40.249
+As opções Excluir do Ambiente e
+Exportar também estão disponíveis
+
+36
+00:01:40.249 --> 00:01:42.699
+neste separador.
+
+37
+00:01:42.700 --> 00:01:45.133
+A Vista Hierárquica apresenta cada
+grupo de LDA num formato de árvore
+
+38
+00:01:45.133 --> 00:01:47.566
+estruturada.
+
+39
+00:01:47.566 --> 00:01:50.666
+Isto permite que os administradores
+explorem as relações principal-filho e
+
+40
+00:01:50.666 --> 00:01:53.766
+confirmem a organização de linhas e
+macros.
+
+41
+00:01:53.766 --> 00:01:56.466
+O menu de macros facilita a navegação
+e a verificação de estruturas
+
+42
+00:01:56.466 --> 00:01:59.166
+complexas.
+
+43
+00:01:59.166 --> 00:02:02.054
+O LDA Viewer oferece aos
+administradores e informáticos de
+
+44
+00:02:02.054 --> 00:02:04.943
+enfermagem uma forma clara e
+centralizada de validar as estruturas
+
+45
+00:02:04.943 --> 00:02:07.832
+LDA antes de serem implementadas.
+
+46
+00:02:07.833 --> 00:02:11.322
+Ao tornar os detalhes do esquema
+transparentes e fáceis de rever, o
+
+47
+00:02:11.322 --> 00:02:14.811
+viewer ajuda a garantir documentação
+ambiente precisa, reduz o tempo de
+
+48
+00:02:14.811 --> 00:02:18.300
+resolução de problemas e melhora a
+fiabilidade para os clínicos.
+
+49
+00:02:19.033 --> 00:02:20.833
+Obrigado por assistir.

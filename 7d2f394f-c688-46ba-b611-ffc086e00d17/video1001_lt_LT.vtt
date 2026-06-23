@@ -1,0 +1,221 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+Šiame vaizdo įraše sužinosite, kaip
+naudoti LDA peržiūros įrankį – svarbią
+
+2
+00:00:05.077 --> 00:00:08.488
+priemonę, skirtą peržiūrėti „Lines“,
+„Drains“ ir „Airways“ grupes,
+
+3
+00:00:08.488 --> 00:00:11.899
+įgalintas aplinkos įrašymui.
+
+4
+00:00:11.900 --> 00:00:14.780
+Ši funkcija leidžia administratoriams
+ir slaugos informatikams lengvai
+
+5
+00:00:14.780 --> 00:00:17.660
+tikrinti LDA grupes, eilutes,
+makrokomandas ir duomenų struktūras,
+
+6
+00:00:17.660 --> 00:00:20.540
+kad būtų užtikrintas tikslumas prieš
+pateikiant jas gydytojams. Norėdami
+
+7
+00:00:20.540 --> 00:00:23.420
+pasiekti LDA peržiūros įrankį,
+prisijunkite prie „Dragon“
+
+8
+00:00:23.420 --> 00:00:26.300
+administravimo centro.
+
+9
+00:00:26.300 --> 00:00:28.683
+Kai būsite skiltyje „Slaugytojai“,
+pasirinkite DI pritaikymo valdymo
+
+10
+00:00:28.683 --> 00:00:31.066
+įrankį.
+
+11
+00:00:31.066 --> 00:00:33.499
+Kairiajame naršymo skydelyje
+pasirinkite LDA peržiūros įrankį, kad
+
+12
+00:00:33.499 --> 00:00:35.932
+atidarytumėte šią priemonę.
+
+13
+00:00:35.933 --> 00:00:38.866
+Skiltyje „Grupės“ rodomos visos
+importuotos LDA grupės, susietos su
+
+14
+00:00:38.866 --> 00:00:41.799
+aplinkai įgalintais šablonais.
+
+15
+00:00:41.800 --> 00:00:44.100
+Galima rūšiuoti arba filtruoti bet
+kurį stulpelį.
+
+16
+00:00:44.100 --> 00:00:46.299
+Ieškodami grupės pavadinimo,
+pavyzdžiui, „dializė“, iškart
+
+17
+00:00:46.299 --> 00:00:48.499
+susiaurinsite sąrašą.
+
+18
+00:00:48.500 --> 00:00:50.799
+Galite neįtraukti bet kurių LDA iš
+aplinkos įrašymo, perjungdami jungiklį
+
+19
+00:00:50.799 --> 00:00:53.099
+„Neįtraukta“.
+
+20
+00:00:53.100 --> 00:00:56.983
+Galite eksportuoti rodinį kaip JSON
+failą audito arba peržiūros
+
+21
+00:00:56.983 --> 00:01:00.866
+neprisijungus tikslais. Skirtuke
+„Eilutės“ galite peržiūrėti kiekvieną
+
+22
+00:01:00.866 --> 00:01:04.749
+eilutę visose LDA grupėse. Kiekvienoje
+eilutėje pateikiama tokia informacija
+
+23
+00:01:04.749 --> 00:01:08.632
+kaip eilutės tipas, veiksmo tipas,
+duomenų tipas ir reikšmių parinktys.
+
+24
+00:01:08.633 --> 00:01:11.166
+Tai padeda administratoriams
+patikrinti schemos struktūrą ir
+
+25
+00:01:11.166 --> 00:01:13.700
+aptikti neatitikimus.
+
+26
+00:01:13.700 --> 00:01:17.400
+Naudokite ieškos lauką, kad greitai
+rastumėte konkrečias eilutes, pvz.,
+
+27
+00:01:17.400 --> 00:01:21.100
+„Tvarstis“. Šiame skirtuke taip pat
+galima naudoti eksporto parinktį.
+
+28
+00:01:21.100 --> 00:01:23.949
+Skirtuke „Makrokomandos“ pateikiamas
+išsamus su LDA turiniu susietų
+
+29
+00:01:23.949 --> 00:01:26.799
+makrokomandų rodinys.
+
+30
+00:01:26.800 --> 00:01:30.466
+Rūšiavimo ir filtravimo įrankiai
+leidžia administratoriams greitai
+
+31
+00:01:30.466 --> 00:01:34.132
+rasti svarbias makrokomandas,
+pavyzdžiui, tas, kurios turi žodį
+
+32
+00:01:34.132 --> 00:01:37.799
+„švarus“. Tai užtikrina nuoseklumą ir
+padeda spręsti problemas.
+
+33
+00:01:37.800 --> 00:01:40.249
+Šiame skirtuke taip pat pasiekiamos
+parinktys Neįtraukti iš aplinkos ir
+
+34
+00:01:40.249 --> 00:01:42.699
+Eksportavimo.
+
+35
+00:01:42.700 --> 00:01:45.133
+Hierarchinė peržiūra pateikia
+kiekvieną LDA grupę struktūrizuotu
+
+36
+00:01:45.133 --> 00:01:47.566
+medžio formatu.
+
+37
+00:01:47.566 --> 00:01:50.666
+Tai leidžia administratoriams tyrinėti
+tėvų ir vaikų ryšius bei patvirtinti
+
+38
+00:01:50.666 --> 00:01:53.766
+eilučių ir makrokomandų organizavimą.
+
+39
+00:01:53.766 --> 00:01:56.466
+Makrokomandų meniu leidžia lengvai
+naršyti ir patikrinti sudėtingas
+
+40
+00:01:56.466 --> 00:01:59.166
+struktūras.
+
+41
+00:01:59.166 --> 00:02:02.054
+LDA peržiūros įrankis suteikia
+administratoriams ir slaugos
+
+42
+00:02:02.054 --> 00:02:04.943
+informatikams aiškų, centralizuotą
+būdą patvirtinti LDA struktūras prieš
+
+43
+00:02:04.943 --> 00:02:07.832
+jas įvedant į sistemą.
+
+44
+00:02:07.833 --> 00:02:11.322
+Padarydamas schemos detales skaidrias
+ir lengvai peržiūrimas, peržiūros
+
+45
+00:02:11.322 --> 00:02:14.811
+įrankis padeda užtikrinti tikslią
+aplinkos dokumentaciją, sumažina
+
+46
+00:02:14.811 --> 00:02:18.300
+trikčių šalinimo laiką ir gerina
+patikimumą gydytojams.
+
+47
+00:02:19.033 --> 00:02:20.833
+Ačiū, kad žiūrėjote.

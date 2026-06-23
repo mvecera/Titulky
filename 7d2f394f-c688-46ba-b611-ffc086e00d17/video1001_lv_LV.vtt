@@ -1,0 +1,198 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+Šajā video jūs uzzināsiet, kā izmantot
+LDA skatītāju, būtisku rīku, lai
+
+2
+00:00:05.077 --> 00:00:08.488
+pārskatītu līniju, drenāžu un elpceļu
+grupas, kas ir iespējotas apkārtējās
+
+3
+00:00:08.488 --> 00:00:11.899
+vides ierakstīšanai.
+
+4
+00:00:11.900 --> 00:00:15.500
+Šī funkcija ļauj administratoriem un
+medicīnas informātiķiem viegli
+
+5
+00:00:15.500 --> 00:00:19.100
+pārbaudīt LDA grupas, rindas, makro un
+datu struktūras, lai nodrošinātu
+
+6
+00:00:19.100 --> 00:00:22.700
+precizitāti pirms to nonākšanas pie
+klīniskajiem speciālistiem. Lai
+
+7
+00:00:22.700 --> 00:00:26.300
+piekļūtu LDA skatītājam, piesakieties
+Dragon administrēšanas centrā.
+
+8
+00:00:26.300 --> 00:00:28.683
+Kad esat sadaļā Māsu sadaļa,
+izvēlieties AI pielāgošanas
+
+9
+00:00:28.683 --> 00:00:31.066
+pārvaldnieku.
+
+10
+00:00:31.066 --> 00:00:33.499
+No kreisās navigācijas paneļa
+izvēlieties LDA skatītāju, lai atvērtu
+
+11
+00:00:33.499 --> 00:00:35.932
+rīku.
+
+12
+00:00:35.933 --> 00:00:38.866
+Cilnē “Grupas” tiek parādītas visas
+importētās LDA grupas, kas saistītas
+
+13
+00:00:38.866 --> 00:00:41.799
+ar apkārtējās vides iespējotajām
+veidnēm.
+
+14
+00:00:41.800 --> 00:00:44.100
+Jūs varat kārtot vai filtrēt jebkuru
+kolonnu.
+
+15
+00:00:44.100 --> 00:00:46.299
+Meklējot grupas nosaukumu, piemēram,
+“dialīze”, saraksts tiek nekavējoties
+
+16
+00:00:46.299 --> 00:00:48.499
+sašaurināts.
+
+17
+00:00:48.500 --> 00:00:50.799
+Varat izslēgt visas LDAs no apkārtējās
+ierakstīšanas, pārslēdzot izslēgto
+
+18
+00:00:50.799 --> 00:00:53.099
+slēdzi.
+
+19
+00:00:53.100 --> 00:00:56.983
+Varat eksportēt skatu kā JSON failu
+auditēšanas vai bezsaistes
+
+20
+00:00:56.983 --> 00:01:00.866
+pārskatīšanai Cilnē Rindas varat
+pārskatīt katru rindu visās LDA
+
+21
+00:01:00.866 --> 00:01:04.749
+grupās. Katrā rindā ir ietverta
+detalizēta informācija, piemēram,
+
+22
+00:01:04.749 --> 00:01:08.632
+rindas tips, darbības tips, datu tips
+un vērtību opcijas.
+
+23
+00:01:08.633 --> 00:01:11.166
+Tas palīdz administratoriem pārbaudīt
+shēmas struktūru un atklāt
+
+24
+00:01:11.166 --> 00:01:13.700
+neatbilstības.
+
+25
+00:01:13.700 --> 00:01:17.400
+Izmantojiet meklēšanas joslu, lai ātri
+veiktu adresēšanu konkrētām rindām,
+
+26
+00:01:17.400 --> 00:01:21.100
+piemēram, "Dressing". Šajā cilnē ir
+pieejama arī eksportēšanas opcija.
+
+27
+00:01:21.100 --> 00:01:26.799
+Cilne “Makro” nodrošina detalizētu ar
+LDA saturu saistīto makro skatu.
+
+28
+00:01:26.800 --> 00:01:30.466
+Kārtošanas un filtrēšanas rīki ļauj
+administratoriem ātri identificēt
+
+29
+00:01:30.466 --> 00:01:34.132
+atbilstošus makro, piemēram, tos,
+kuros ir vārds “tīrs”. Tas nodrošina
+
+30
+00:01:34.132 --> 00:01:37.799
+konsekvenci un atbalsta problēmu
+novēršanu.
+
+31
+00:01:37.800 --> 00:01:42.699
+Šajā cilnē ir pieejamas arī opcijas
+Izslēgt no ambienta un Eksportēšana.
+
+32
+00:01:42.700 --> 00:01:47.566
+Hierarhiskais skats attēlo katru LDA
+grupu strukturētā koka formātā.
+
+33
+00:01:47.566 --> 00:01:50.666
+Tas ļauj administratoriem izpētīt
+vecāku-bērnu attiecības un apstiprināt
+
+34
+00:01:50.666 --> 00:01:53.766
+rindu un makro organizāciju.
+
+35
+00:01:53.766 --> 00:01:59.166
+Makro izvēlne ļauj ērti naviģēt un
+pārbaudīt sarežģītas struktūras.
+
+36
+00:01:59.166 --> 00:02:03.499
+LDA skatītājs sniedz administratoriem
+un medicīnas informātiķiem skaidru,
+
+37
+00:02:03.499 --> 00:02:07.832
+centralizētu veidu, kā pārbaudīt LDA
+struktūras pirms to aktivizēšanas.
+
+38
+00:02:07.833 --> 00:02:11.322
+Padarot shēmas detaļas pārskatāmas un
+viegli pārbaudāmas, skatītājs palīdz
+
+39
+00:02:11.322 --> 00:02:14.811
+nodrošināt precīzu apkārtējās vides
+dokumentāciju, samazina problēmu
+
+40
+00:02:14.811 --> 00:02:18.300
+novēršanas laiku un uzlabo uzticamību
+klīniskajiem speciālistiem.
+
+41
+00:02:19.033 --> 00:02:20.833
+Paldies par skatīšanos.

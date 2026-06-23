@@ -1,0 +1,234 @@
+WEBVTT
+
+1
+00:00:01.666 --> 00:00:05.077
+In questo video imparerai a usare LDA
+Viewer, uno strumento essenziale per
+
+2
+00:00:05.077 --> 00:00:08.488
+esaminare gruppi LDA (Lines, Drains,
+and Airway) abilitati per la
+
+3
+00:00:08.488 --> 00:00:11.899
+registrazione ambientale.
+
+4
+00:00:11.900 --> 00:00:14.780
+Questa funzionalità consente ad
+amministratori e infermieri
+
+5
+00:00:14.780 --> 00:00:17.660
+informatici di verificare facilmente
+gruppi LDA, righe, macro e strutture
+
+6
+00:00:17.660 --> 00:00:20.540
+dati per garantirne l'accuratezza
+prima che giungano ai medici. Per
+
+7
+00:00:20.540 --> 00:00:23.420
+usufruire di LDA Viewer, accedi
+all'interfaccia di amministrazione di
+
+8
+00:00:23.420 --> 00:00:26.300
+Dragon.
+
+9
+00:00:26.300 --> 00:00:31.066
+Nella sezione Infermieri seleziona AI
+Customization Manager.
+
+10
+00:00:31.066 --> 00:00:33.499
+Nel riquadro di navigazione sinistro
+seleziona LDA Viewer per aprire lo
+
+11
+00:00:33.499 --> 00:00:35.932
+strumento.
+
+12
+00:00:35.933 --> 00:00:38.866
+Nella scheda “Groups” vengono
+visualizzati tutti i gruppi LDA
+
+13
+00:00:38.866 --> 00:00:41.799
+importati associati ai modelli
+abilitati per l'ambiente.
+
+14
+00:00:41.800 --> 00:00:44.100
+È possibile ordinare o filtrare
+qualsiasi colonna.
+
+15
+00:00:44.100 --> 00:00:46.299
+Cercando un nome di gruppo, come ad
+esempio “dialisi”, l’elenco si
+
+16
+00:00:46.299 --> 00:00:48.499
+restringe immediatamente.
+
+17
+00:00:48.500 --> 00:00:50.799
+Puoi escludere qualsiasi LDA dalla
+registrazione ambientale attivando o
+
+18
+00:00:50.799 --> 00:00:53.099
+disattivando l'opzione Escluso.
+
+19
+00:00:53.100 --> 00:00:56.983
+Puoi esportare la vista come file JSON
+a scopo di audit o per una revisione
+
+20
+00:00:56.983 --> 00:01:00.866
+offline. Nella scheda “Righe” puoi
+esaminare ogni riga all'interno di
+
+21
+00:01:00.866 --> 00:01:04.749
+tutti i gruppi LDA. Ogni riga include
+dettagli quali il tipo di riga, il
+
+22
+00:01:04.749 --> 00:01:08.632
+tipo di azione, il tipo di dati e le
+opzioni di valore.
+
+23
+00:01:08.633 --> 00:01:11.166
+In questo modo, gli amministratori
+possono verificare la struttura dello
+
+24
+00:01:11.166 --> 00:01:13.700
+schema e rilevare eventuali
+incongruenze.
+
+25
+00:01:13.700 --> 00:01:16.166
+Utilizza la barra di ricerca per
+individuare rapidamente righe
+
+26
+00:01:16.166 --> 00:01:18.633
+specifiche, come ad esempio
+“Dressing”. In questa scheda è
+
+27
+00:01:18.633 --> 00:01:21.100
+disponibile anche l’opzione “Esporta”.
+
+28
+00:01:21.100 --> 00:01:23.949
+La scheda “Macros” offre una
+panoramica dettagliata delle macro
+
+29
+00:01:23.949 --> 00:01:26.799
+associate ai contenuti LDA.
+
+30
+00:01:26.800 --> 00:01:29.549
+Gli strumenti di ordinamento e filtro
+consentono agli amministratori di
+
+31
+00:01:29.549 --> 00:01:32.299
+identificare rapidamente le macro
+pertinenti, ad esempio quelle
+
+32
+00:01:32.299 --> 00:01:35.049
+contenenti la parola “clean”. In
+questo modo, viene garantita la
+
+33
+00:01:35.049 --> 00:01:37.799
+coerenza e agevolata la risoluzione
+dei problemi.
+
+34
+00:01:37.800 --> 00:01:40.249
+In questa scheda sono disponibili
+anche le opzioni Escludi dall’ambiente
+
+35
+00:01:40.249 --> 00:01:42.699
+ed Esporta.
+
+36
+00:01:42.700 --> 00:01:45.133
+La vista gerarchica presenta ciascun
+gruppo LDA in un formato ad albero
+
+37
+00:01:45.133 --> 00:01:47.566
+strutturato.
+
+38
+00:01:47.566 --> 00:01:50.666
+Gli amministratori possono quindi
+esplorare le relazioni genitore-figlio
+
+39
+00:01:50.666 --> 00:01:53.766
+e confermare l'organizzazione di righe
+e macro.
+
+40
+00:01:53.766 --> 00:01:56.466
+Il menu macro semplifica la
+navigazione e la verifica di strutture
+
+41
+00:01:56.466 --> 00:01:59.166
+complesse.
+
+42
+00:01:59.166 --> 00:02:02.054
+LDA Viewer offre agli amministratori e
+agli esperti di informatica
+
+43
+00:02:02.054 --> 00:02:04.943
+infermieristica uno strumento chiaro e
+centralizzato per verificare le
+
+44
+00:02:04.943 --> 00:02:07.832
+strutture LDA prima della loro messa
+in produzione.
+
+45
+00:02:07.833 --> 00:02:10.449
+Rendendo i dettagli degli schemi
+trasparenti e facilmente consultabili,
+
+46
+00:02:10.449 --> 00:02:13.066
+LDA Viewer contribuisce a garantire
+una documentazione ambientale
+
+47
+00:02:13.066 --> 00:02:15.683
+accurata, riduce i tempi di
+risoluzione dei problemi e migliora
+
+48
+00:02:15.683 --> 00:02:18.300
+l'affidabilità per i medici.
+
+49
+00:02:19.033 --> 00:02:20.833
+Grazie per l'attenzione.

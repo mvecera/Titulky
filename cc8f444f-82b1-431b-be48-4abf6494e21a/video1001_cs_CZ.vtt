@@ -1,0 +1,163 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+V tomto videu prozkoumáme Flowsheet
+Analyzer, nástroj, který pomáhá
+
+2
+00:00:05.033 --> 00:00:08.366
+správcům identifikovat problémy se
+schématem v šablonách vývojových
+
+3
+00:00:08.366 --> 00:00:11.699
+diagramů povolených pro ambientní
+nahrávání.
+
+4
+00:00:11.700 --> 00:00:13.516
+Pojďme se podívat, jak zajišťuje
+přesnost a spolehlivost vaší
+
+5
+00:00:13.516 --> 00:00:15.333
+dokumentace.
+
+6
+00:00:15.333 --> 00:00:17.333
+Flowsheet Analyzer kontroluje šablony
+schémat vývojových diagramů z hlediska
+
+7
+00:00:17.333 --> 00:00:19.333
+běžných problémů.
+
+8
+00:00:19.333 --> 00:00:22.833
+Tyto problémy můžou klidně přerušit
+přesnost extrakce.
+
+9
+00:00:22.833 --> 00:00:25.316
+Tento nástroj je okamžitě zobrazí,
+abyste je mohli opravit přímo ve
+
+10
+00:00:25.316 --> 00:00:27.800
+zdroji dat.
+
+11
+00:00:27.966 --> 00:00:31.757
+Než začnete, ujistěte se, že máte
+přiřazenou roli správce Dragonu, že je
+
+12
+00:00:31.757 --> 00:00:35.549
+prostředí připravené a EHR
+nakonfigurovaný, že schémata
+
+13
+00:00:35.549 --> 00:00:39.341
+vývojových diagramů byla exportována
+jako JSON a úspěšně nahrána a že
+
+14
+00:00:39.341 --> 00:00:43.133
+šablony jsou ve správci vývojových
+diagramů povolené v ambientním režimu.
+
+15
+00:00:43.133 --> 00:00:47.133
+Tyto kroky zajistí, že analyzátor může
+provádět validace.
+
+16
+00:00:47.433 --> 00:00:49.583
+Chcete-li spustit Flowsheet Analyzer,
+přihlaste se do centra pro správu
+
+17
+00:00:49.583 --> 00:00:51.733
+Dragonu.
+
+18
+00:00:51.733 --> 00:00:55.332
+V sekci Dragon Copilot vyberte
+Zdravotní sestry, zvolte své prostředí
+
+19
+00:00:55.332 --> 00:00:58.932
+a otevřete správce vlastního nastavení
+AI.
+
+20
+00:00:58.933 --> 00:01:02.933
+Poté v levém navigačním panelu vyberte
+Flowsheet Analyzer.
+
+21
+00:01:02.933 --> 00:01:06.299
+Analyzátor se otevře na kartě Profily,
+která obsahuje role uživatelů s
+
+22
+00:01:06.299 --> 00:01:09.666
+povolenými více verzemi stejné
+šablony.
+
+23
+00:01:09.666 --> 00:01:12.816
+Abyste zajistili přesný výstup,
+vyhněte se duplicitním šablonám, aby
+
+24
+00:01:12.816 --> 00:01:15.966
+umělá inteligence věděla, kterou
+šablonu naplnit.
+
+25
+00:01:15.966 --> 00:01:19.666
+Karta Šablony zobrazuje souhrn
+problémů pro jednotlivé šablony.
+
+26
+00:01:19.666 --> 00:01:21.666
+Chcete-li zobrazit podrobnosti o
+těchto problémech, vyberte kartu Řádky
+
+27
+00:01:21.666 --> 00:01:23.666
+Flowsheet.
+
+28
+00:01:24.766 --> 00:01:27.599
+Karta Skupiny LDA zobrazuje souhrn
+všech skupin LDA, které sdílejí stejný
+
+29
+00:01:27.599 --> 00:01:30.432
+název.
+
+30
+00:01:30.433 --> 00:01:34.133
+Pokud chcete zobrazit podrobnosti,
+vyberte kartu Řádky LDA.
+
+31
+00:01:34.400 --> 00:01:37.566
+Flowsheet Analyzer pracuje na pozadí a
+udržuje šablony čisté, konzistentní a
+
+32
+00:01:37.566 --> 00:01:40.732
+optimalizované pro přesnou extrakci,
+prevenci chyb a zlepšení výkonu
+
+33
+00:01:40.732 --> 00:01:43.899
+ambientní dokumentace.
+
+34
+00:01:44.000 --> 00:01:45.100
+Děkujeme za zhlédnutí.

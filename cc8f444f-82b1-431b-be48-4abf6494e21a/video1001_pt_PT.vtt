@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:04.199
+Neste vídeo, vamos explorar o
+Analisador de Folhas de Fluxo, a
+
+2
+00:00:04.199 --> 00:00:06.699
+ferramenta que ajuda os
+administradores a identificar
+
+3
+00:00:06.699 --> 00:00:09.199
+problemas de esquema em modelos de
+folhas de fluxo ativados para gravação
+
+4
+00:00:09.199 --> 00:00:11.699
+ambiente.
+
+5
+00:00:11.700 --> 00:00:15.333
+Vamos ver como mantém a sua
+documentação precisa e fiável.
+
+6
+00:00:15.333 --> 00:00:17.333
+O Analisador de Folhas de Fluxo
+verifica se há problemas comuns nos
+
+7
+00:00:17.333 --> 00:00:19.333
+modelos de esquema da folha de fluxo.
+
+8
+00:00:19.333 --> 00:00:21.083
+Estes problemas podem comprometer
+silenciosamente a precisão da
+
+9
+00:00:21.083 --> 00:00:22.833
+extração.
+
+10
+00:00:22.833 --> 00:00:25.316
+Esta ferramenta revela-os
+instantaneamente para que possa
+
+11
+00:00:25.316 --> 00:00:27.800
+corrigi-los na origem.
+
+12
+00:00:27.966 --> 00:00:30.999
+Antes de começar, certifique-se de que
+lhe foi atribuída a função de
+
+13
+00:00:30.999 --> 00:00:34.032
+Administrador do Dragon, que o seu
+ambiente está aprovisionado, que o seu
+
+14
+00:00:34.032 --> 00:00:37.066
+RES está configurado, que os esquemas
+da folha de fluxo foram exportados
+
+15
+00:00:37.066 --> 00:00:40.099
+como JSON e carregados com sucesso, e
+que os modelos estão ativados no
+
+16
+00:00:40.099 --> 00:00:43.133
+Ambiente no Gestor de Folhas de Fluxo.
+
+17
+00:00:43.133 --> 00:00:47.133
+Estes passos garantem que o Analisador
+pode executar validações.
+
+18
+00:00:47.433 --> 00:00:49.583
+Para iniciar o Analisador de Folhas de
+Fluxo, entre no centro de
+
+19
+00:00:49.583 --> 00:00:51.733
+administração do Dragon.
+
+20
+00:00:51.733 --> 00:00:55.332
+Na secção Dragon Copilot, selecione
+Enfermeiros, escolha o seu ambiente e
+
+21
+00:00:55.332 --> 00:00:58.932
+abra o Gestor de Personalização de IA.
+
+22
+00:00:58.933 --> 00:01:00.933
+Em seguida, selecione Analisador de
+Folhas de Fluxo no painel de navegação
+
+23
+00:01:00.933 --> 00:01:02.933
+esquerdo.
+
+24
+00:01:02.933 --> 00:01:06.299
+O Analisador é aberto no separador
+Perfis, que lista as funções de
+
+25
+00:01:06.299 --> 00:01:09.666
+utilizador com várias versões do mesmo
+modelo ativadas.
+
+26
+00:01:09.666 --> 00:01:12.816
+Para garantir resultados precisos,
+evite modelos duplicados para que a IA
+
+27
+00:01:12.816 --> 00:01:15.966
+saiba qual o modelo a preencher.
+
+28
+00:01:15.966 --> 00:01:19.666
+O separador Modelos mostra um resumo
+dos problemas de cada modelo.
+
+29
+00:01:19.666 --> 00:01:21.666
+Para ver detalhes sobre estes
+problemas, selecione o separador
+
+30
+00:01:21.666 --> 00:01:23.666
+linhas da Folha de Fluxo.
+
+31
+00:01:24.766 --> 00:01:27.599
+O separador grupos LDA mostra um
+resumo de todos os grupos LDA que
+
+32
+00:01:27.599 --> 00:01:30.432
+partilham o mesmo nome.
+
+33
+00:01:30.433 --> 00:01:34.133
+Para ver detalhes, selecione o
+separador linhas LDA.
+
+34
+00:01:34.400 --> 00:01:37.566
+O Analisador de Folhas de Fluxo
+funciona em segundo plano para manter
+
+35
+00:01:37.566 --> 00:01:40.732
+os modelos limpos, consistentes e
+otimizados para extração precisa,
+
+36
+00:01:40.732 --> 00:01:43.899
+evitando erros e melhorando o
+desempenho da documentação ambiente.
+
+37
+00:01:44.000 --> 00:01:45.100
+Obrigado por assistir.

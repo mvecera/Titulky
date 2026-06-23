@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+Šiame vaizdo įraše apžvelgsime
+„Flowsheet Analyzer“ – įrankį,
+
+2
+00:00:05.033 --> 00:00:08.366
+padedantį administratoriams nustatyti
+schemos problemas srautų šablonuose,
+
+3
+00:00:08.366 --> 00:00:11.699
+įgalintuose aplinkos įrašymui.
+
+4
+00:00:11.700 --> 00:00:13.516
+Pažiūrėkime, kaip jis padeda išlaikyti
+jūsų dokumentaciją tikslią ir
+
+5
+00:00:13.516 --> 00:00:15.333
+patikimą.
+
+6
+00:00:15.333 --> 00:00:17.333
+„Flowsheet Analyzer“ tikrina srautų
+schemos šablonus dėl dažniausiai
+
+7
+00:00:17.333 --> 00:00:19.333
+pasitaikančių problemų.
+
+8
+00:00:19.333 --> 00:00:22.833
+Šios problemos gali nepastebimai
+pakenkti duomenų tikslumui.
+
+9
+00:00:22.833 --> 00:00:27.800
+Šis įrankis jas iškart parodo, kad
+galėtumėte ištaisyti ties šaltiniu.
+
+10
+00:00:27.966 --> 00:00:31.757
+Prieš pradedant, įsitikinkite, kad
+jums priskirtas „Dragon“
+
+11
+00:00:31.757 --> 00:00:35.549
+administratoriaus vaidmuo, aplinka
+paruošta, jūsų ESI sukonfigūruotas,
+
+12
+00:00:35.549 --> 00:00:39.341
+srautų lentelių schemos eksportuotos
+kaip JSON ir sėkmingai įkeltos, o
+
+13
+00:00:39.341 --> 00:00:43.133
+šablonai įjungti „Flowsheet Manager“
+aplinkoje.
+
+14
+00:00:43.133 --> 00:00:47.133
+Šie veiksmai užtikrina, kad „Analyzer“
+galėtų vykdyti patikrinimus.
+
+15
+00:00:47.433 --> 00:00:49.583
+Norėdami paleisti „Flowsheet
+Analyzer“, prisijunkite prie „Dragon“
+
+16
+00:00:49.583 --> 00:00:51.733
+administravimo centro.
+
+17
+00:00:51.733 --> 00:00:55.332
+Skiltyje „Dragon Copilot“ pasirinkite
+„Slaugytojai“, pasirinkite savo
+
+18
+00:00:55.332 --> 00:00:58.932
+aplinką ir atidarykite DI pritaikymo
+valdymo įrankį.
+
+19
+00:00:58.933 --> 00:01:02.933
+Tada kairėje naršymo juostoje
+pasirinkite „Flowsheet Analyzer“.
+
+20
+00:01:02.933 --> 00:01:05.177
+„Analyzer“ atidaromas skirtuke
+„Profiliai“, kuriame pateikiami
+
+21
+00:01:05.177 --> 00:01:07.421
+vartotojų vaidmenys su įjungtomis
+keliomis tos pačios šablono
+
+22
+00:01:07.421 --> 00:01:09.666
+versijomis.
+
+23
+00:01:09.666 --> 00:01:12.816
+Kad išvestis būtų tiksli, venkite
+pasikartojančių šablonų, kad DI
+
+24
+00:01:12.816 --> 00:01:15.966
+žinotų, kurį šabloną pildyti.
+
+25
+00:01:15.966 --> 00:01:19.666
+Skirtuke „Šablonai“ pateikiama
+kiekvieno šablono problemų suvestinė.
+
+26
+00:01:19.666 --> 00:01:21.666
+Norėdami peržiūrėti šių problemų
+informaciją, pasirinkite skirtuką
+
+27
+00:01:21.666 --> 00:01:23.666
+„Flowsheet“ eilutės.
+
+28
+00:01:24.766 --> 00:01:27.599
+Skirtuke „LDA grupės“ pateikiama
+suvestinė apie visus „LDA“ grupių
+
+29
+00:01:27.599 --> 00:01:30.432
+pavadinimus, kurie sutampa.
+
+30
+00:01:30.433 --> 00:01:32.283
+Norėdami peržiūrėti išsamią
+informaciją, pasirinkite skirtuką „LDA
+
+31
+00:01:32.283 --> 00:01:34.133
+eilutės“.
+
+32
+00:01:34.400 --> 00:01:37.566
+„Flowsheet Analyzer“ veikia fone, kad
+šablonai būtų tvarkingi, nuoseklūs ir
+
+33
+00:01:37.566 --> 00:01:40.732
+optimizuoti tiksliam ištraukimui, taip
+padėdamas išvengti klaidų ir
+
+34
+00:01:40.732 --> 00:01:43.899
+gerindamas dokumentavimo naudojant
+aplinkos įrašymą našumą.
+
+35
+00:01:44.000 --> 00:01:45.100
+Ačiū, kad žiūrėjote.

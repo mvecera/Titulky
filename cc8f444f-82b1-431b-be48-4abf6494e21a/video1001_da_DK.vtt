@@ -1,0 +1,155 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+I denne video udforsker vi Flowsheet
+Analyzer, som er det værktøj, der
+
+2
+00:00:05.033 --> 00:00:08.366
+hjælper administratorer med at
+identificere skemaproblemer i
+
+3
+00:00:08.366 --> 00:00:11.699
+flowsheet-skabeloner, der er aktiveret
+til omgivende optagelse.
+
+4
+00:00:11.700 --> 00:00:15.333
+Lad os se på, hvordan den holder din
+dokumentation nøjagtig og pålidelig.
+
+5
+00:00:15.333 --> 00:00:17.333
+Flowsheet Analyzer kontrollerer
+skabeloner til flowsheet-skemaer for
+
+6
+00:00:17.333 --> 00:00:19.333
+almindelige problemer.
+
+7
+00:00:19.333 --> 00:00:22.833
+Disse problemer kan stille og roligt
+bryde nøjagtigheden af udtrækningen.
+
+8
+00:00:22.833 --> 00:00:27.800
+Dette værktøj viser dem øjeblikkeligt,
+så du kan rette dem ved kilden.
+
+9
+00:00:27.966 --> 00:00:31.757
+Før du går i gang, skal du sikre dig,
+at du er tildelt rollen
+
+10
+00:00:31.757 --> 00:00:35.549
+Dragon-administrator, at dit miljø er
+klargjort, at dit EPJ er konfigureret,
+
+11
+00:00:35.549 --> 00:00:39.341
+at flowsheet-skemaer er blevet
+eksporteret som JSON og er uploadet,
+
+12
+00:00:39.341 --> 00:00:43.133
+og at skabeloner er aktiveret til
+omgivende i Flowsheet-leder.
+
+13
+00:00:43.133 --> 00:00:47.133
+Disse trin sikrer, at Analyzer kan
+køre valideringer.
+
+14
+00:00:47.433 --> 00:00:49.583
+Hvis du vil starte Flowsheet Analyzer,
+skal du logge på Dragon
+
+15
+00:00:49.583 --> 00:00:51.733
+Administration.
+
+16
+00:00:51.733 --> 00:00:55.332
+Vælg Sygeplejersker i sektionen Dragon
+Copilot, vælg dit miljø, og åbn
+
+17
+00:00:55.332 --> 00:00:58.932
+tilpasningsadministrator med kunstig
+intelligens.
+
+18
+00:00:58.933 --> 00:01:02.933
+Vælg derefter Flowsheet Analyzer i
+venstre navigationspanel.
+
+19
+00:01:02.933 --> 00:01:06.299
+Analyzer åbner på fanen Profiler, som
+viser brugerroller med flere versioner
+
+20
+00:01:06.299 --> 00:01:09.666
+af den samme skabelon aktiveret.
+
+21
+00:01:09.666 --> 00:01:12.816
+For at sikre et nøjagtigt resultat
+skal du undgå dublerede skabeloner, så
+
+22
+00:01:12.816 --> 00:01:15.966
+AI'en ved, hvilken skabelon den skal
+udfylde.
+
+23
+00:01:15.966 --> 00:01:19.666
+Fanen Skabeloner viser en oversigt
+over problemer for hver skabelon.
+
+24
+00:01:19.666 --> 00:01:21.666
+Hvis du vil se detaljer om disse
+problemer, skal du vælge fanen
+
+25
+00:01:21.666 --> 00:01:23.666
+Flowsheet-rækker.
+
+26
+00:01:24.766 --> 00:01:27.599
+Fanen LDA-grupper viser en oversigt
+over eventuelle LDA-grupper, der har
+
+27
+00:01:27.599 --> 00:01:30.432
+samme navn.
+
+28
+00:01:30.433 --> 00:01:34.133
+Hvis du vil se detaljerne, skal du
+vælge fanen LDA-rækker.
+
+29
+00:01:34.400 --> 00:01:37.566
+Flowsheet Analyzer arbejder i
+baggrunden for at holde skabeloner
+
+30
+00:01:37.566 --> 00:01:40.732
+rene, ensartede og optimerede til
+nøjagtigt udtræk, så fejl forebygges,
+
+31
+00:01:40.732 --> 00:01:43.899
+og ydeevnen for ambient dokumentation
+forbedres.
+
+32
+00:01:44.000 --> 00:01:45.100
+Tak, fordi du så med.

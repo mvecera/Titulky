@@ -1,0 +1,162 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+U ovom videu ćemo istražiti alatku
+„Analizator evidencionog lista“, koja
+
+2
+00:00:05.033 --> 00:00:08.366
+pomaže administratorima da
+identifikuju probleme sa šemom u
+
+3
+00:00:08.366 --> 00:00:11.699
+predlošcima evidencionog lista
+omogućenim za ambijentalno snimanje.
+
+4
+00:00:11.700 --> 00:00:15.333
+Pogledajmo kako on održava vašu
+dokumentaciju tačnom i pouzdanom.
+
+5
+00:00:15.333 --> 00:00:17.333
+Analizator evidencionog lista
+proverava šeme predložaka evidencionog
+
+6
+00:00:17.333 --> 00:00:19.333
+lista u potrazi za uobičajenim
+problemima.
+
+7
+00:00:19.333 --> 00:00:22.833
+Ovi problemi mogu neprimetno narušiti
+tačnost izdvajanja.
+
+8
+00:00:22.833 --> 00:00:27.800
+Ova alatka ih odmah otkriva tako da ih
+možete ispraviti u samom izvoru.
+
+9
+00:00:27.966 --> 00:00:30.999
+Pre nego što počnete, uverite se da
+vam je dodeljena uloga Dragon
+
+10
+00:00:30.999 --> 00:00:34.032
+administratora, da je vaše okruženje
+obezbeđeno, da je vaš EHR
+
+11
+00:00:34.032 --> 00:00:37.066
+konfigurisan, da su šeme evidencionog
+lista izvezene kao JSON i uspešno
+
+12
+00:00:37.066 --> 00:00:40.099
+otpremljene i da su predlošci
+omogućeni za ambijentalno
+
+13
+00:00:40.099 --> 00:00:43.133
+prikazivanje u Menadžer evidencionih
+listova.
+
+14
+00:00:43.133 --> 00:00:47.133
+Ovi koraci osiguravaju da analizator
+može da pokreće provere valjanosti.
+
+15
+00:00:47.433 --> 00:00:49.583
+Da biste pokrenuli alatku „Analizator
+evidencionog lista“, prijavite se u
+
+16
+00:00:49.583 --> 00:00:51.733
+Dragon centar administracije.
+
+17
+00:00:51.733 --> 00:00:55.332
+U odeljku Dragon Copilot izaberite
+stavku Sestre, izaberite okruženje i
+
+18
+00:00:55.332 --> 00:00:58.932
+otvorite Menadžera za prilagođavanje
+veštačke inteligencije.
+
+19
+00:00:58.933 --> 00:01:00.933
+Zatim izaberite alatku „Analizator
+evidencionog lista“ iz leve
+
+20
+00:01:00.933 --> 00:01:02.933
+navigacionog table.
+
+21
+00:01:02.933 --> 00:01:06.299
+Analizator se otvara na kartici
+„Profili“koja navodi korisničke uloge
+
+22
+00:01:06.299 --> 00:01:09.666
+sa više omogućenih verzija istog
+predloška.
+
+23
+00:01:09.666 --> 00:01:12.816
+Da biste obezbedili tačan izlaz,
+izbegavajte duplirane predloške kako
+
+24
+00:01:12.816 --> 00:01:15.966
+bi AI znao koji predložak treba da
+popuni.
+
+25
+00:01:15.966 --> 00:01:19.666
+Kartica „Predlošci“ prikazuje rezime
+problema za svaki predložak.
+
+26
+00:01:19.666 --> 00:01:21.666
+Da biste videli detalje o ovim
+problemima, izaberite karticu „Redovi
+
+27
+00:01:21.666 --> 00:01:23.666
+evidencionog lista“.
+
+28
+00:01:24.766 --> 00:01:30.432
+Kartica „LDA grupe“ prikazuje rezime
+svih LDA grupa koje dele isto ime.
+
+29
+00:01:30.433 --> 00:01:34.133
+Da biste prikazali detalje, izaberite
+karticu „LDA redovi“.
+
+30
+00:01:34.400 --> 00:01:37.566
+Analizator evidencionog lista radi u
+pozadini kako bi predlošci ostali
+
+31
+00:01:37.566 --> 00:01:40.732
+čisti, dosledni i optimizovani za
+precizno izdvajanje, sprečavanje
+
+32
+00:01:40.732 --> 00:01:43.899
+grešaka i poboljšanje performansi
+ambijentalne dokumentacije.
+
+33
+00:01:44.000 --> 00:01:45.100
+Hvala što ste gledali.

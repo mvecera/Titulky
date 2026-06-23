@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:04.199
+En este vídeo, exploraremos Analizador
+de diagramas de flujo, la herramienta
+
+2
+00:00:04.199 --> 00:00:06.699
+que ayuda a los administradores a
+identificar problemas de esquema en
+
+3
+00:00:06.699 --> 00:00:09.199
+las plantillas de diagramas de flujo
+habilitadas para el registro
+
+4
+00:00:09.199 --> 00:00:11.699
+ambiental.
+
+5
+00:00:11.700 --> 00:00:15.333
+Veamos cómo mantiene la precisión y
+fiabilidad de su documentación.
+
+6
+00:00:15.333 --> 00:00:17.333
+El Analizador de diagramas de flujo
+comprueba las plantillas de diagramas
+
+7
+00:00:17.333 --> 00:00:19.333
+de flujo en busca de problemas
+comunes.
+
+8
+00:00:19.333 --> 00:00:21.083
+Estos problemas pueden afectar
+silenciosamente a la precisión de la
+
+9
+00:00:21.083 --> 00:00:22.833
+extracción.
+
+10
+00:00:22.833 --> 00:00:25.316
+Esta herramienta los detecta al
+instante para que puedas corregirlos
+
+11
+00:00:25.316 --> 00:00:27.800
+en el origen.
+
+12
+00:00:27.966 --> 00:00:30.999
+Antes de comenzar, asegúrese de que se
+le haya asignado el rol de
+
+13
+00:00:30.999 --> 00:00:34.032
+administrador de Dragon, que su
+entorno esté aprovisionado, que su EHR
+
+14
+00:00:34.032 --> 00:00:37.066
+esté configurado, que los esquemas de
+diagrama de flujo se hayan exportado
+
+15
+00:00:37.066 --> 00:00:40.099
+como JSON y se hayan cargado
+correctamente, y que las plantillas
+
+16
+00:00:40.099 --> 00:00:43.133
+estén habilitadas para el entorno en
+Analizador de diagramas de flujo.
+
+17
+00:00:43.133 --> 00:00:45.133
+Estos pasos garantizan que el
+Analizador pueda ejecutar
+
+18
+00:00:45.133 --> 00:00:47.133
+validaciones.
+
+19
+00:00:47.433 --> 00:00:49.583
+Para iniciar el Analizador de
+diagramas de flujo, inicie sesión en
+
+20
+00:00:49.583 --> 00:00:51.733
+el centro de administración de Dragon.
+
+21
+00:00:51.733 --> 00:00:55.332
+En la sección Dragon Copilot,
+seleccione Enfermeros, elija su
+
+22
+00:00:55.332 --> 00:00:58.932
+entorno y abra el Administrador de
+personalización de IA.
+
+23
+00:00:58.933 --> 00:01:00.933
+A continuación, seleccione Analizador
+del diagrama de flujo en el panel de
+
+24
+00:01:00.933 --> 00:01:02.933
+navegación izquierdo.
+
+25
+00:01:02.933 --> 00:01:06.299
+El analizador se abre en la pestaña
+Perfiles, que muestra los roles de
+
+26
+00:01:06.299 --> 00:01:09.666
+usuario con varias versiones de la
+misma plantilla habilitada.
+
+27
+00:01:09.666 --> 00:01:12.816
+Para garantizar una salida precisa,
+evite plantillas duplicadas para que
+
+28
+00:01:12.816 --> 00:01:15.966
+la inteligencia artificial sepa qué
+plantilla rellenar.
+
+29
+00:01:15.966 --> 00:01:17.816
+La pestaña Plantillas muestra un
+resumen de los problemas de cada
+
+30
+00:01:17.816 --> 00:01:19.666
+plantilla.
+
+31
+00:01:19.666 --> 00:01:21.666
+Para ver detalles sobre estos
+problemas, seleccione la pestaña Filas
+
+32
+00:01:21.666 --> 00:01:23.666
+del diagrama de flujo.
+
+33
+00:01:24.766 --> 00:01:27.599
+La pestaña Grupos de LDA muestra un
+resumen de los grupos LDA que
+
+34
+00:01:27.599 --> 00:01:30.432
+comparten el mismo nombre.
+
+35
+00:01:30.433 --> 00:01:34.133
+Para ver los detalles, seleccione la
+pestaña Filas de LDA.
+
+36
+00:01:34.400 --> 00:01:36.774
+Analizador del diagrama de flujo
+funciona en segundo plano para
+
+37
+00:01:36.774 --> 00:01:39.149
+mantener las plantillas limpias,
+coherentes y optimizadas para una
+
+38
+00:01:39.149 --> 00:01:41.524
+extracción precisa, evitando errores y
+mejorando el rendimiento de la
+
+39
+00:01:41.524 --> 00:01:43.899
+documentación ambiente.
+
+40
+00:01:44.000 --> 00:01:45.100
+Gracias por su atención.

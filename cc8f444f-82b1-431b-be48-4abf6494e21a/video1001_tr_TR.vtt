@@ -1,0 +1,164 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+Bu videoda, yöneticilerin ortam kaydı
+için etkinleştirilmiş akış şeması
+
+2
+00:00:05.033 --> 00:00:08.366
+şablonlarındaki şema sorunlarını
+belirlemelerine yardımcı olan Akış
+
+3
+00:00:08.366 --> 00:00:11.699
+Şeması Çözümleyicisi aracını
+inceleyeceğiz.
+
+4
+00:00:11.700 --> 00:00:15.333
+Belgelemenizi nasıl doğru ve güvenilir
+halde tuttuğuna bir bakalım.
+
+5
+00:00:15.333 --> 00:00:17.333
+Akış Şeması Çözümleyicisi, akış şeması
+şablonlarını yaygın sorunlar açısından
+
+6
+00:00:17.333 --> 00:00:19.333
+kontrol eder.
+
+7
+00:00:19.333 --> 00:00:22.833
+Bu sorunlar haber vermeden çıkarım
+doğruluğunu bozabilir.
+
+8
+00:00:22.833 --> 00:00:25.316
+Bu araç, sorunları hemen ortaya
+çıkarır, böylece kaynağında
+
+9
+00:00:25.316 --> 00:00:27.800
+düzeltebilirsiniz.
+
+10
+00:00:27.966 --> 00:00:30.999
+Başlamadan önce, Dragon Yönetici
+rolüne atandığınızdan, ortamınızın
+
+11
+00:00:30.999 --> 00:00:34.032
+hazır olduğundan, EHR'nizin
+yapılandırıldığından, akış sayfası
+
+12
+00:00:34.032 --> 00:00:37.066
+şemalarının JSON olarak dışa
+aktarıldığından ve başarıyla
+
+13
+00:00:37.066 --> 00:00:40.099
+yüklendiğinden ve şablonların Akış
+Şeması Yöneticisinde ortam
+
+14
+00:00:40.099 --> 00:00:43.133
+etkinleştirildiğinden emin olun.
+
+15
+00:00:43.133 --> 00:00:47.133
+Bu adımlar, Çözümleyicinin doğrulama
+yapabilmesini sağlar.
+
+16
+00:00:47.433 --> 00:00:49.583
+Akış Şeması Çözümleyicisini başlatmak
+için Dragon yönetim merkezine giriş
+
+17
+00:00:49.583 --> 00:00:51.733
+yapın.
+
+18
+00:00:51.733 --> 00:00:55.332
+Dragon Copilot bölümünde, Hemşireler
+seçeneğini seçin, ortamınızı seçin ve
+
+19
+00:00:55.332 --> 00:00:58.932
+Yapay Zeka Özelleştirme Yöneticisini
+açın.
+
+20
+00:00:58.933 --> 00:01:02.933
+Daha sonra sol gezinme panelinden Akış
+Şeması Çözümleyicisini seçin.
+
+21
+00:01:02.933 --> 00:01:06.299
+Çözümleyici, aynı şablonun birden
+fazla sürümünün etkinleştirildiği
+
+22
+00:01:06.299 --> 00:01:09.666
+kullanıcı rollerini listeleyen
+Profiller sekmesiyle açılır.
+
+23
+00:01:09.666 --> 00:01:12.816
+Doğru sonuçlar elde etmek için,
+şablonların tekrarlanmasından kaçının,
+
+24
+00:01:12.816 --> 00:01:15.966
+böylece yapay zeka hangi şablonu
+doldurması gerektiğini bilecektir.
+
+25
+00:01:15.966 --> 00:01:19.666
+Şablonlar sekmesi, her şablonun
+sorunlarının özetini gösterir.
+
+26
+00:01:19.666 --> 00:01:21.666
+Bu konularla ilgili ayrıntıları görmek
+için Akış Şeması Satırları sekmesini
+
+27
+00:01:21.666 --> 00:01:23.666
+seçin.
+
+28
+00:01:24.766 --> 00:01:27.599
+LDA grupları sekmesi, aynı adı taşıyan
+tüm LDA gruplarının bir özetini
+
+29
+00:01:27.599 --> 00:01:30.432
+gösterir.
+
+30
+00:01:30.433 --> 00:01:34.133
+Ayrıntıları görüntülemek için LDA
+satırları sekmesini seçin.
+
+31
+00:01:34.400 --> 00:01:37.566
+Akış Şeması Çözümleyicisi, şablonları
+temiz, tutarlı ve doğru veri çıkarma
+
+32
+00:01:37.566 --> 00:01:40.732
+için iyileştirilmiş halde tutmak üzere
+arka planda çalışır, böylece hataları
+
+33
+00:01:40.732 --> 00:01:43.899
+önler ve ortam belge performansını
+artırır.
+
+34
+00:01:44.000 --> 00:01:45.100
+İzlediğiniz için teşekkürler.

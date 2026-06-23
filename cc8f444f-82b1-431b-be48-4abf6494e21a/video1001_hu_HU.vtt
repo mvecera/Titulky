@@ -1,0 +1,181 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+Ebben a videóban megismerjük a
+Flowsheet Analyzer eszközt, amely
+
+2
+00:00:05.033 --> 00:00:08.366
+segíti a rendszergazdákat a környezeti
+rögzítésre engedélyezett
+
+3
+00:00:08.366 --> 00:00:11.699
+folyamatlapsablonok sémahibáinak
+azonosításában.
+
+4
+00:00:11.700 --> 00:00:13.516
+Nézzük meg, hogyan gondoskodik a
+dokumentáció pontosságáról és
+
+5
+00:00:13.516 --> 00:00:15.333
+megbízhatóságáról.
+
+6
+00:00:15.333 --> 00:00:17.333
+A Flowsheet Analyzer ellenőrzi a
+folyamatlap-sémasablonokat a gyakori
+
+7
+00:00:17.333 --> 00:00:19.333
+hibák szempontjából.
+
+8
+00:00:19.333 --> 00:00:22.833
+Ezek a hibák a háttérben ronthatják az
+adatkinyerés pontosságát.
+
+9
+00:00:22.833 --> 00:00:27.800
+Ez az eszköz azonnal feltárja ezeket,
+hogy a forrásnál javíthassa őket.
+
+10
+00:00:27.966 --> 00:00:30.999
+A kezdés előtt győződjön meg arról,
+hogy a Dragon-rendszergazda
+
+11
+00:00:30.999 --> 00:00:34.032
+szerepkörhöz van rendelve, a környezet
+ki van építve, az EHR konfigurálva
+
+12
+00:00:34.032 --> 00:00:37.066
+van, a folyamatlap sémái JSON-ként
+lettek exportálva, és sikeresen fel
+
+13
+00:00:37.066 --> 00:00:40.099
+lettek töltve, valamint hogy a
+sablonoknál engedélyezve lett a
+
+14
+00:00:40.099 --> 00:00:43.133
+környezet támogatása a Flowsheet
+Managerben.
+
+15
+00:00:43.133 --> 00:00:45.133
+Ezek a lépések biztosítják, hogy az
+Analyzer futtathasson
+
+16
+00:00:45.133 --> 00:00:47.133
+érvényesítéseket.
+
+17
+00:00:47.433 --> 00:00:49.583
+A Flowsheet Analyzer elindításához
+jelentkezzen be a Dragon felügyeleti
+
+18
+00:00:49.583 --> 00:00:51.733
+központba.
+
+19
+00:00:51.733 --> 00:00:55.332
+A Dragon Copilot szakaszban válassza
+az Ápolók lehetőséget, válassza ki a
+
+20
+00:00:55.332 --> 00:00:58.932
+környezetét, és nyissa meg az AI
+Testreszabáskezelőt.
+
+21
+00:00:58.933 --> 00:01:00.933
+Ezután válassza a Flowsheet Analyzer
+elemet a bal oldali navigációs
+
+22
+00:01:00.933 --> 00:01:02.933
+panelen.
+
+23
+00:01:02.933 --> 00:01:05.177
+Az Analyzer megnyitja a Profilok
+lapot, amely felsorolja azokat a
+
+24
+00:01:05.177 --> 00:01:07.421
+felhasználói szerepköröket, amelyeknél
+ugyanannak a sablonnak több verziója
+
+25
+00:01:07.421 --> 00:01:09.666
+van engedélyezve.
+
+26
+00:01:09.666 --> 00:01:12.816
+A pontos kimenet érdekében kerülje az
+ismétlődő sablonokat, hogy az AI
+
+27
+00:01:12.816 --> 00:01:15.966
+tudja, melyik sablont kell kitöltenie.
+
+28
+00:01:15.966 --> 00:01:17.816
+A Sablonok lap összefoglalót jelenít
+meg az egyes sablonokhoz tartozó
+
+29
+00:01:17.816 --> 00:01:19.666
+problémákról.
+
+30
+00:01:19.666 --> 00:01:21.666
+A problémák részleteinek
+megtekintéséhez válassza a
+
+31
+00:01:21.666 --> 00:01:23.666
+Flowsheet-sorok lapot.
+
+32
+00:01:24.766 --> 00:01:27.599
+Az LDA-csoportok lap összefoglalót
+jelenít meg azokról az
+
+33
+00:01:27.599 --> 00:01:30.432
+LDA-csoportokról, amelyek ugyanazzal a
+névvel rendelkeznek.
+
+34
+00:01:30.433 --> 00:01:34.133
+A részletek megtekintéséhez válassza
+az LDA-sorok lapot.
+
+35
+00:01:34.400 --> 00:01:37.566
+A Flowsheet Analyzer a háttérben
+működik, hogy a sablonok tiszták,
+
+36
+00:01:37.566 --> 00:01:40.732
+egységesek és az pontos kinyeréshez
+optimalizáltak maradjanak, megelőzve a
+
+37
+00:01:40.732 --> 00:01:43.899
+hibákat és javítva a környezeti
+dokumentáció teljesítményét.
+
+38
+00:01:44.000 --> 00:01:45.100
+Köszönöm a figyelmet.

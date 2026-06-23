@@ -1,0 +1,178 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:04.199
+În acest videoclip vom explora
+Instrumentul de analizare a foilor de
+
+2
+00:00:04.199 --> 00:00:06.699
+observație, care ajută administratorii
+să identifice probleme de schemă în
+
+3
+00:00:06.699 --> 00:00:09.199
+șabloanele de foaie de observație
+activate pentru înregistrare
+
+4
+00:00:09.199 --> 00:00:11.699
+ambientală.
+
+5
+00:00:11.700 --> 00:00:15.333
+Să vedem cum menține acesta
+documentația precisă și fiabilă.
+
+6
+00:00:15.333 --> 00:00:17.333
+Instrumentul de analizare a foilor de
+observație verifică existența
+
+7
+00:00:17.333 --> 00:00:19.333
+problemelor frecvente în șabloanele de
+schemă pentru foaia de observație.
+
+8
+00:00:19.333 --> 00:00:22.833
+Aceste probleme pot afecta în mod
+subtil acuratețea extragerii datelor.
+
+9
+00:00:22.833 --> 00:00:25.316
+Acest instrument le evidențiază
+imediat pentru a le putea corecta
+
+10
+00:00:25.316 --> 00:00:27.800
+direct la sursă.
+
+11
+00:00:27.966 --> 00:00:30.999
+Înainte de a începe, asigurați-vă că
+aveți rolul de administrator Dragon
+
+12
+00:00:30.999 --> 00:00:34.032
+atribuit, mediul dumneavoastră are
+acces asigurat, înregistrarea medicală
+
+13
+00:00:34.032 --> 00:00:37.066
+electronică este configurată, schemele
+foii de observație au fost exportate
+
+14
+00:00:37.066 --> 00:00:40.099
+ca JSON și încărcate cu succes, iar
+șabloanele au activare ambientală în
+
+15
+00:00:40.099 --> 00:00:43.133
+Managerul foilor de observație.
+
+16
+00:00:43.133 --> 00:00:47.133
+Acești pași garantează că Instrumentul
+de analiză poate rula validări.
+
+17
+00:00:47.433 --> 00:00:49.583
+Pentru a lansa Instrumentul de
+analizare a foilor de observație,
+
+18
+00:00:49.583 --> 00:00:51.733
+conectați-vă la centrul de
+administrare Dragon.
+
+19
+00:00:51.733 --> 00:00:54.132
+În secțiunea Dragon Copilot, selectați
+Asistenți medicali, alegeți mediul
+
+20
+00:00:54.132 --> 00:00:56.532
+dorit și deschideți Managerul de
+personalizare cu inteligență
+
+21
+00:00:56.532 --> 00:00:58.932
+artificială.
+
+22
+00:00:58.933 --> 00:01:00.933
+Apoi selectați Instrumentul de
+analizare a foilor de observație din
+
+23
+00:01:00.933 --> 00:01:02.933
+panoul de navigare din stânga.
+
+24
+00:01:02.933 --> 00:01:06.299
+Analizorul se deschide în fila Profil,
+care listează rolurile de utilizator
+
+25
+00:01:06.299 --> 00:01:09.666
+cu mai multe versiuni ale aceluiași
+șablon activate.
+
+26
+00:01:09.666 --> 00:01:12.816
+Pentru a asigura rezultate precise,
+evitați șabloanele duplicate, astfel
+
+27
+00:01:12.816 --> 00:01:15.966
+încât inteligența artificială să știe
+ce șablon să completeze.
+
+28
+00:01:15.966 --> 00:01:19.666
+Fila Șabloane afișează un rezumat al
+problemelor pentru fiecare șablon.
+
+29
+00:01:19.666 --> 00:01:21.666
+Pentru a vedea detalii despre aceste
+probleme, selectați fila Rânduri de
+
+30
+00:01:21.666 --> 00:01:23.666
+foi de observație.
+
+31
+00:01:24.766 --> 00:01:27.599
+Fila Grupuri LDA afișează un rezumat
+al grupurilor LDA care au același
+
+32
+00:01:27.599 --> 00:01:30.432
+nume.
+
+33
+00:01:30.433 --> 00:01:34.133
+Pentru a vedea detaliile, selectați
+fila rânduri LDA.
+
+34
+00:01:34.400 --> 00:01:37.566
+Analizorul de foi de observație
+lucrează în fundal pentru a menține
+
+35
+00:01:37.566 --> 00:01:40.732
+șabloanele curate, consecvente și
+optimizate pentru extragerea precisă,
+
+36
+00:01:40.732 --> 00:01:43.899
+prevenind erorile și îmbunătățind
+performanța documentației ambientale.
+
+37
+00:01:44.000 --> 00:01:45.100
+Vă mulțumim pentru vizionare.

@@ -1,0 +1,158 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+I denne videoen skal vi utforske
+Flowsheet Analyzer, verktøyet som
+
+2
+00:00:05.033 --> 00:00:08.366
+hjelper administratorer med å
+identifisere skjemaproblemer i
+
+3
+00:00:08.366 --> 00:00:11.699
+flytarkmaler som er aktivert for
+omgivelsesopptak.
+
+4
+00:00:11.700 --> 00:00:15.333
+La oss se på hvordan den holder
+dokumentasjonen nøyaktig og pålitelig.
+
+5
+00:00:15.333 --> 00:00:17.333
+Flowsheet Analyzer kontrollerer
+skjemamaler for flytark for vanlige
+
+6
+00:00:17.333 --> 00:00:19.333
+problemer.
+
+7
+00:00:19.333 --> 00:00:22.833
+Disse problemene kan rolig ødelegge
+uttrekkingsnøyaktighet.
+
+8
+00:00:22.833 --> 00:00:25.316
+Dette verktøyet viser dem umiddelbart,
+slik at du kan korrigere dem ved
+
+9
+00:00:25.316 --> 00:00:27.800
+kilden.
+
+10
+00:00:27.966 --> 00:00:31.757
+Før du begynner, må du sørge for at du
+er tilordnet rollen som
+
+11
+00:00:31.757 --> 00:00:35.549
+Dragon-administrator, at miljøet ditt
+er klargjort, EHR-en er konfigurert,
+
+12
+00:00:35.549 --> 00:00:39.341
+at flytarkskjemaer er eksportert som
+JSON og lastet opp, og at malene er
+
+13
+00:00:39.341 --> 00:00:43.133
+omgivelsesaktivert i Flowsheet
+Manager.
+
+14
+00:00:43.133 --> 00:00:47.133
+Disse trinnene sikrer at Analyzer kan
+kjøre valideringer.
+
+15
+00:00:47.433 --> 00:00:49.583
+Logg på administrasjonssenteret for
+Dragon for å starte Flowsheet
+
+16
+00:00:49.583 --> 00:00:51.733
+Analyzer.
+
+17
+00:00:51.733 --> 00:00:55.332
+I Dragon Copilot-delen velger du
+Sykepleiere, velger miljøet og åpner
+
+18
+00:00:55.332 --> 00:00:58.932
+tilpasningsbehandling for kunstig
+intelligens.
+
+19
+00:00:58.933 --> 00:01:02.933
+Velg deretter Flowsheet Analyzer fra
+venstre navigasjonspanel.
+
+20
+00:01:02.933 --> 00:01:06.299
+Analyzer åpnes på Profiler-fanen, som
+viser brukerroller med flere versjoner
+
+21
+00:01:06.299 --> 00:01:09.666
+av samme mal aktivert.
+
+22
+00:01:09.666 --> 00:01:12.816
+For å sikre nøyaktige resultater må du
+unngå dupliserte maler, slik at KI vet
+
+23
+00:01:12.816 --> 00:01:15.966
+hvilken mal som skal fylles ut.
+
+24
+00:01:15.966 --> 00:01:19.666
+Maler-fanen viser et sammendrag av
+problemer for hver mal.
+
+25
+00:01:19.666 --> 00:01:21.666
+Hvis du vil se mer informasjon om
+disse problemene, velger du fanen
+
+26
+00:01:21.666 --> 00:01:23.666
+Flytarkrader.
+
+27
+00:01:24.766 --> 00:01:27.599
+Fanen for LDA-grupper viser et
+sammendrag av LDA-grupper med samme
+
+28
+00:01:27.599 --> 00:01:30.432
+navn.
+
+29
+00:01:30.433 --> 00:01:34.133
+Velg fanen for LDA-grupper for å se
+mer informasjon.
+
+30
+00:01:34.400 --> 00:01:37.566
+Flowsheet Analyzer jobber bak
+kulissene for å holde maler rene,
+
+31
+00:01:37.566 --> 00:01:40.732
+konsistente og optimaliserte for
+presis uttrekking, for å hindre feil
+
+32
+00:01:40.732 --> 00:01:43.899
+og for å gi bedre resultater for
+ambient dokumentasjon.
+
+33
+00:01:44.000 --> 00:01:45.100
+Takk for at du så på.

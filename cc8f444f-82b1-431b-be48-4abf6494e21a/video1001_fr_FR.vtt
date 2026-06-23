@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:04.199
+Dans cette vidéo, nous allons explorer
+l’analyse de diagrammes de soins,
+
+2
+00:00:04.199 --> 00:00:06.699
+l’outil qui aide les administrateurs à
+identifier les problèmes de schéma
+
+3
+00:00:06.699 --> 00:00:09.199
+dans les modèles de diagrammes de
+soins activés pour l’enregistrement
+
+4
+00:00:09.199 --> 00:00:11.699
+ambiant.
+
+5
+00:00:11.700 --> 00:00:13.516
+Voyons comment il permet de garantir
+l’exactitude et la fiabilité de votre
+
+6
+00:00:13.516 --> 00:00:15.333
+documentation.
+
+7
+00:00:15.333 --> 00:00:17.333
+L’analyse de diagrammes de soins
+vérifie les modèles de schéma de
+
+8
+00:00:17.333 --> 00:00:19.333
+diagrammes de soins à la recherche de
+problèmes courants.
+
+9
+00:00:19.333 --> 00:00:22.833
+Ces problèmes peuvent nuire à
+l’exactitude de l’extraction.
+
+10
+00:00:22.833 --> 00:00:25.316
+Cet outil les détecte instantanément
+pour que vous puissiez les corriger à
+
+11
+00:00:25.316 --> 00:00:27.800
+la source.
+
+12
+00:00:27.966 --> 00:00:30.493
+Avant de commencer, assurez-vous que
+vous disposez du rôle d’administrateur
+
+13
+00:00:30.493 --> 00:00:33.021
+Dragon, que votre environnement est
+provisionné, que votre dossier médical
+
+14
+00:00:33.021 --> 00:00:35.549
+informatisé (DMI) est configuré, que
+les schémas de diagrammes de soins ont
+
+15
+00:00:35.549 --> 00:00:38.077
+été exportés au format JSON et
+téléchargés avec succès, et que les
+
+16
+00:00:38.077 --> 00:00:40.605
+modèles sont activés pour
+l’enregistrement ambiant dans le
+
+17
+00:00:40.605 --> 00:00:43.133
+gestionnaire de diagrammes de soins.
+
+18
+00:00:43.133 --> 00:00:45.133
+Ces étapes garantissent que
+l’analyseur peut exécuter des
+
+19
+00:00:45.133 --> 00:00:47.133
+validations.
+
+20
+00:00:47.433 --> 00:00:49.583
+Pour lancer l’analyse de diagrammes de
+soins, connectez-vous au centre
+
+21
+00:00:49.583 --> 00:00:51.733
+d’administration Dragon.
+
+22
+00:00:51.733 --> 00:00:55.332
+Dans la section Dragon Copilot,
+sélectionnez Infirmiers, choisissez
+
+23
+00:00:55.332 --> 00:00:58.932
+votre environnement et ouvrez la
+personnalisation IA.
+
+24
+00:00:58.933 --> 00:01:00.933
+Sélectionnez ensuite l’analyse de
+diagrammes de soins dans le panneau de
+
+25
+00:01:00.933 --> 00:01:02.933
+navigation de gauche.
+
+26
+00:01:02.933 --> 00:01:06.299
+L’analyseur s’ouvre sur l’onglet
+Profils, qui répertorie les rôles
+
+27
+00:01:06.299 --> 00:01:09.666
+d’utilisateur avec plusieurs versions
+du même modèle activées.
+
+28
+00:01:09.666 --> 00:01:12.816
+Pour garantir une sortie précise,
+évitez les modèles en double afin que
+
+29
+00:01:12.816 --> 00:01:15.966
+l’IA sache quel modèle remplir.
+
+30
+00:01:15.966 --> 00:01:19.666
+L’onglet Modèles affiche un résumé des
+problèmes pour chaque modèle.
+
+31
+00:01:19.666 --> 00:01:21.666
+Pour afficher des détails sur ces
+problèmes, sélectionnez l’onglet de
+
+32
+00:01:21.666 --> 00:01:23.666
+lignes Diagramme de soins.
+
+33
+00:01:24.766 --> 00:01:27.599
+L’onglet Groupes LDA affiche un résumé
+des groupes LDA qui partagent le même
+
+34
+00:01:27.599 --> 00:01:30.432
+nom.
+
+35
+00:01:30.433 --> 00:01:34.133
+Pour afficher les détails,
+sélectionnez l’onglet Lignes LDA.
+
+36
+00:01:34.400 --> 00:01:36.774
+L’analyse de diagrammes de soins
+fonctionne en arrière-plan pour
+
+37
+00:01:36.774 --> 00:01:39.149
+conserver les modèles propres,
+cohérents et optimisés pour une
+
+38
+00:01:39.149 --> 00:01:41.524
+extraction précise, en empêchant les
+erreurs et en améliorant les
+
+39
+00:01:41.524 --> 00:01:43.899
+performances ambiantes de la
+documentation.
+
+40
+00:01:44.000 --> 00:01:45.100
+Merci de votre attention.

@@ -1,0 +1,194 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+In diesem Video erkunden wir die
+Flussdiagramm-Analyse, das Tool, das
+
+2
+00:00:05.033 --> 00:00:08.366
+Admins dabei unterstützt,
+Schema-Probleme in für die
+
+3
+00:00:08.366 --> 00:00:11.699
+Umgebungsaufzeichnung aktivierten
+Flussdiagramm-Vorlagen zu erkennen.
+
+4
+00:00:11.700 --> 00:00:13.516
+Sehen wir uns an, wie es Ihre
+Dokumentation genau und zuverlässig
+
+5
+00:00:13.516 --> 00:00:15.333
+hält.
+
+6
+00:00:15.333 --> 00:00:17.333
+Die Flussdiagramm-Analyse überprüft
+Flussdiagramm-Schemavorlagen auf
+
+7
+00:00:17.333 --> 00:00:19.333
+häufige Probleme.
+
+8
+00:00:19.333 --> 00:00:21.083
+Diese Probleme können die Genauigkeit
+der Extraktion unbemerkt
+
+9
+00:00:21.083 --> 00:00:22.833
+beeinträchtigen.
+
+10
+00:00:22.833 --> 00:00:25.316
+Dieses Tool macht sie sofort sichtbar,
+damit Sie sie an der Quelle
+
+11
+00:00:25.316 --> 00:00:27.800
+korrigieren können.
+
+12
+00:00:27.966 --> 00:00:30.999
+Bevor Sie beginnen, stellen Sie
+sicher, dass Ihnen die Rolle
+
+13
+00:00:30.999 --> 00:00:34.032
+Dragon-Admin zugewiesen ist, Ihre
+Umgebung bereitgestellt wurde, Ihre
+
+14
+00:00:34.032 --> 00:00:37.066
+EKA konfiguriert ist,
+Flussdiagramm-Schemata als JSON
+
+15
+00:00:37.066 --> 00:00:40.099
+exportiert und erfolgreich hochgeladen
+wurden und dass Vorlagen im
+
+16
+00:00:40.099 --> 00:00:43.133
+Flussdiagramm-Manager für Ambient
+aktiviert sind.
+
+17
+00:00:43.133 --> 00:00:45.133
+Diese Schritte stellen sicher, dass
+das Analysetool Validierungen
+
+18
+00:00:45.133 --> 00:00:47.133
+durchführen kann.
+
+19
+00:00:47.433 --> 00:00:49.583
+Um die Flussdiagramm-Analyse zu
+starten, melden Sie sich im Dragon
+
+20
+00:00:49.583 --> 00:00:51.733
+Admin Center an.
+
+21
+00:00:51.733 --> 00:00:55.332
+Wählen Sie im Dragon Copilot-Bereich
+„Pflegekräfte“ aus, wählen Sie Ihre
+
+22
+00:00:55.332 --> 00:00:58.932
+Umgebung und öffnen Sie den
+KI-Anpassungsmanager.
+
+23
+00:00:58.933 --> 00:01:00.933
+Wählen Sie dann im linken
+Navigationsbereich die
+
+24
+00:01:00.933 --> 00:01:02.933
+Flussdiagramm-Analyse aus.
+
+25
+00:01:02.933 --> 00:01:05.177
+Der Analyzer wird auf der
+Registerkarte „Profile“ geöffnet.
+
+26
+00:01:05.177 --> 00:01:07.421
+Dort werden Benutzerrollen
+aufgelistet, für die mehrere Versionen
+
+27
+00:01:07.421 --> 00:01:09.666
+derselben Vorlage aktiviert sind.
+
+28
+00:01:09.666 --> 00:01:12.816
+Um genaue Ergebnisse zu gewährleisten,
+vermeiden Sie doppelte Vorlagen, damit
+
+29
+00:01:12.816 --> 00:01:15.966
+die KI weiß, welche Vorlage sie
+ausfüllen soll.
+
+30
+00:01:15.966 --> 00:01:17.816
+Die Registerkarte „Vorlagen“ zeigt
+eine Übersicht der Probleme für jede
+
+31
+00:01:17.816 --> 00:01:19.666
+Vorlage an.
+
+32
+00:01:19.666 --> 00:01:21.666
+Um Details zu diesen Problemen
+anzuzeigen, wählen Sie die
+
+33
+00:01:21.666 --> 00:01:23.666
+Registerkarte „Flussdiagramm-Zeilen“
+aus.
+
+34
+00:01:24.766 --> 00:01:27.599
+Die Registerkarte „LDA-Gruppen“ zeigt
+eine Übersicht aller LDA-Gruppen an,
+
+35
+00:01:27.599 --> 00:01:30.432
+die denselben Namen verwenden.
+
+36
+00:01:30.433 --> 00:01:34.133
+Um Details anzuzeigen, wählen Sie die
+Registerkarte „LDA-Zeilen“ aus.
+
+37
+00:01:34.400 --> 00:01:36.774
+Die Flussdiagramm-Analyse arbeitet im
+Hintergrund, um Vorlagen sauber,
+
+38
+00:01:36.774 --> 00:01:39.149
+konsistent und für eine präzise
+Datenextraktion zu optimieren. Dadurch
+
+39
+00:01:39.149 --> 00:01:41.524
+werden Fehler vermieden und die
+Leistung der Umgebungsdokumentation
+
+40
+00:01:41.524 --> 00:01:43.899
+verbessert.
+
+41
+00:01:44.000 --> 00:01:45.100
+Vielen Dank für Ihr Interesse.

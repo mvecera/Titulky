@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:01.700 --> 00:00:05.033
+Tässä videossa tutustumme Flowsheet
+Analyzer -työkaluun, jonka avulla
+
+2
+00:00:05.033 --> 00:00:08.366
+järjestelmänvalvojat voivat tunnistaa
+ympäristön tallennukseen soveltuvien
+
+3
+00:00:08.366 --> 00:00:11.699
+prosessikaaviomallien skeemavirheet.
+
+4
+00:00:11.700 --> 00:00:13.516
+Katsotaanpa, miten se pitää
+dokumentaation tarkkana ja
+
+5
+00:00:13.516 --> 00:00:15.333
+luotettavana.
+
+6
+00:00:15.333 --> 00:00:17.333
+Flowsheet Analyzer tarkistaa
+flowsheet-kaaviomallit yleisimpien
+
+7
+00:00:17.333 --> 00:00:19.333
+ongelmien varalta.
+
+8
+00:00:19.333 --> 00:00:22.833
+Nämä ongelmat voivat hiljaa heikentää
+uuttamisen tarkkuutta.
+
+9
+00:00:22.833 --> 00:00:25.316
+Tämä työkalu tuo ne välittömästi
+esiin, jotta voit korjata ne
+
+10
+00:00:25.316 --> 00:00:27.800
+lähteellä.
+
+11
+00:00:27.966 --> 00:00:30.999
+Ennen kuin aloitat, varmista, että
+sinulle on annettu
+
+12
+00:00:30.999 --> 00:00:34.032
+Dragon-järjestelmänvalvojan rooli,
+ympäristösi on varustettu,
+
+13
+00:00:34.032 --> 00:00:37.066
+EHR-järjestelmäsi on määritetty,
+virtauskaaviomallit on viety
+
+14
+00:00:37.066 --> 00:00:40.099
+JSON-muodossa ja ladattu onnistuneesti
+ja että mallit ovat ympäristön
+
+15
+00:00:40.099 --> 00:00:43.133
+mukaisia Flowsheet Managerissa.
+
+16
+00:00:43.133 --> 00:00:47.133
+Nämä vaiheet varmistavat, että
+Analyzer voi suorittaa tarkistukset.
+
+17
+00:00:47.433 --> 00:00:49.583
+Käynnistä Flowsheet Analyzer
+kirjautumalla
+
+18
+00:00:49.583 --> 00:00:51.733
+Dragon-hallintakeskukseen.
+
+19
+00:00:51.733 --> 00:00:55.332
+Valitse Dragon Copilot -osiosta
+Sairaanhoitajat, valitse ympäristösi
+
+20
+00:00:55.332 --> 00:00:58.932
+ja avaa Tekoälyn mukautuksen hallinta.
+
+21
+00:00:58.933 --> 00:01:00.933
+Valitse sitten vasemman reunan
+navigaatiopaneelista Flowsheet
+
+22
+00:01:00.933 --> 00:01:02.933
+Analyzer.
+
+23
+00:01:02.933 --> 00:01:06.299
+Analyzer avautuu
+Profiles-välilehdelle, jossa näkyvät
+
+24
+00:01:06.299 --> 00:01:09.666
+käyttäjäroolit, joille sama malli on
+otettu käyttöön useassa versiossa.
+
+25
+00:01:09.666 --> 00:01:12.816
+Jotta tulos olisi tarkka, vältä
+kaksoiskappaleina olevia malleja,
+
+26
+00:01:12.816 --> 00:01:15.966
+jotta tekoäly tietää, minkä mallin se
+täyttää.
+
+27
+00:01:15.966 --> 00:01:19.666
+Mallit-välilehti näyttää yhteenvedon
+kunkin mallin ongelmista.
+
+28
+00:01:19.666 --> 00:01:21.666
+Jos haluat tarkastella näiden asioiden
+yksityiskohtia, valitse Flowsheet
+
+29
+00:01:21.666 --> 00:01:23.666
+rivin -välilehti.
+
+30
+00:01:24.766 --> 00:01:27.599
+LDA-ryhmät-välilehdessä näkyy
+yhteenveto kaikista LDA-ryhmistä,
+
+31
+00:01:27.599 --> 00:01:30.432
+joilla on sama nimi.
+
+32
+00:01:30.433 --> 00:01:34.133
+Voit tarkastella yksityiskohtia
+valitsemalla LDA-rivit-välilehden.
+
+33
+00:01:34.400 --> 00:01:36.774
+Flowsheet Analyzer toimii taustalla
+varmistaakseen, että mallit pysyvät
+
+34
+00:01:36.774 --> 00:01:39.149
+siisteinä, yhdenmukaisina ja
+optimoituina tarkkaa tietojen
+
+35
+00:01:39.149 --> 00:01:41.524
+poimintaa varten, mikä ehkäisee
+virheitä ja parantaa ympäröivän
+
+36
+00:01:41.524 --> 00:01:43.899
+dokumentaation tehokkuutta.
+
+37
+00:01:44.000 --> 00:01:45.100
+Kiitos ajastasi.

@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+U ovom ćete videozapisu saznati kako
+prikazati prenesene sheme tijeka rada
+
+2
+00:00:05.266 --> 00:00:08.133
+koje se upotrebljavaju u tijekovima
+rada za sestrinstvo.
+
+3
+00:00:08.133 --> 00:00:12.410
+Za prikaz shema tijeka rada potvrdite
+da imate administratorsku ulogu za
+
+4
+00:00:12.410 --> 00:00:16.688
+Dragon, da su okruženju dodijeljeni
+resursi, da je EZK konfiguriran i da
+
+5
+00:00:16.688 --> 00:00:20.966
+je izvoz sheme JSON datoteka iz EZK-a.
+
+6
+00:00:20.966 --> 00:00:23.699
+Provjerite podudara li se ID okruženja
+u datoteci s okruženjem u kojem
+
+7
+00:00:23.699 --> 00:00:26.432
+radite.
+
+8
+00:00:26.433 --> 00:00:28.816
+Zatim slijedite ove korake za prikaz
+shema tijeka rada: Prijavite se u
+
+9
+00:00:28.816 --> 00:00:31.199
+centar za administratore značajke
+Dragon.
+
+10
+00:00:31.200 --> 00:00:34.266
+U sekciji Dragon Copilot odaberite
+„Medicinske sestre”. Upotrijebite
+
+11
+00:00:34.266 --> 00:00:37.332
+popis okruženja za potvrdu ili
+promjenu okruženja koje želite
+
+12
+00:00:37.332 --> 00:00:40.399
+pregledati.
+
+13
+00:00:40.400 --> 00:00:42.216
+U sekcijama Alati za sestrinstvo i
+Konfiguracija odaberite Upravitelj
+
+14
+00:00:42.216 --> 00:00:44.033
+sheme tijeka rada.
+
+15
+00:00:44.033 --> 00:00:47.366
+Ovdje ćete vidjeti cijeli popis
+učitanih predložaka tijeka rada.
+
+16
+00:00:47.366 --> 00:00:50.899
+Svaki predložak prikazuje ključne
+pojedinosti kao što su naziv, ID, red
+
+17
+00:00:50.899 --> 00:00:54.432
+servisa, ambijentalno stanje, stupac
+Prikaži sve retke te vremenske oznake
+
+18
+00:00:54.432 --> 00:00:57.966
+za vrijeme izvoza i posljednju izmjenu
+sheme.
+
+19
+00:00:57.966 --> 00:01:02.266
+Upotrijebite filtre stupaca ili okvir
+pretraživanja za sužavanje prikaza.
+
+20
+00:01:02.266 --> 00:01:06.099
+Odaberite naziv predloška za prikaz
+redaka i vrijednosti.
+
+21
+00:01:06.100 --> 00:01:08.733
+Na taj ćete način brzo pronaći
+određene predloške ili otkloniti
+
+22
+00:01:08.733 --> 00:01:11.366
+poteškoće s konfiguracijom.
+
+23
+00:01:11.366 --> 00:01:14.999
+Pregled učitanih shema tijeka rada
+pomaže administratorima osigurati da
+
+24
+00:01:14.999 --> 00:01:18.633
+su predlošci točni, ažurni i usklađeni
+s postavkama EZK-a okruženja.
+
+25
+00:01:18.633 --> 00:01:21.283
+Podržava i otklanjanje poteškoća i
+održava dosljednost i pouzdanost
+
+26
+00:01:21.283 --> 00:01:23.933
+dokumentacije za sestrinstvo.
+
+27
+00:01:23.933 --> 00:01:25.233
+Hvala na gledanju.

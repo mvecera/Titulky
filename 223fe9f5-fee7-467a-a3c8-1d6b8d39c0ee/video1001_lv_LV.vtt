@@ -1,0 +1,212 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+Šajā apmācībā jūs uzzināsiet, kā
+definēt organizācijas hierarhiju
+
+2
+00:00:04.166 --> 00:00:08.099
+Dragon administrēšanas centrā.
+
+3
+00:00:08.100 --> 00:00:11.077
+Labi strukturēta hierarhija tiek
+panākta, izveidojot organizatoriskās
+
+4
+00:00:11.077 --> 00:00:14.054
+vienības, kas atvieglo iestatījumu,
+atļauju un pārskatu pārvaldību
+
+5
+00:00:14.054 --> 00:00:17.032
+sarežģītās veselības aprūpes vidēs.
+
+6
+00:00:17.033 --> 00:00:19.699
+Stabila hierarhija arī nodrošina
+konsekvenci, atbilstību un
+
+7
+00:00:19.699 --> 00:00:22.366
+vienmērīgāku darbību.
+
+8
+00:00:22.366 --> 00:00:25.232
+Sāciet, piesakoties Dragon
+administrēšanas centrā.
+
+9
+00:00:25.233 --> 00:00:27.533
+Vispirms pārliecinieties, ka jūsu
+globālais administrators ir piešķīris
+
+10
+00:00:27.533 --> 00:00:29.833
+jums Dragon administratora lomu.
+
+11
+00:00:29.833 --> 00:00:34.533
+Sākumlapā izvēlieties “Organizācija”
+zem Vides konfigurācijas izvēlnes.
+
+12
+00:00:34.533 --> 00:00:39.199
+nolaižamā izvēlne.
+
+13
+00:00:39.200 --> 00:00:41.533
+Lai sāktu veidot hierarhiju,
+izvēlieties “Pievienot organizatorisko
+
+14
+00:00:41.533 --> 00:00:43.866
+vienību”.
+
+15
+00:00:43.866 --> 00:00:47.116
+Piešķiriet jaunajai vienībai
+nosaukumu, kas atspoguļo tās lomu
+
+16
+00:00:47.116 --> 00:00:50.366
+reālajā pasaulē, piemēram, iestādi,
+nodaļu vai komandu.
+
+17
+00:00:50.366 --> 00:00:53.332
+Izvēlieties šīs vienības atrašanās
+vietu hierarhijā.
+
+18
+00:00:53.333 --> 00:00:58.233
+Paturēt noklusējuma vecākobjektu vai
+atlasīt citu, ja nepieciešams.
+
+19
+00:00:58.233 --> 00:01:00.066
+Atlasiet Saglabāt.
+
+20
+00:01:00.066 --> 00:01:03.588
+Jūsu atjauninātā struktūra tagad tiek
+piemērota videi, un iestatījumus var
+
+21
+00:01:03.588 --> 00:01:07.110
+pielāgot katrā līmenī. Šeit ir dažas
+labākās prakses, ko ņemt vērā,
+
+22
+00:01:07.110 --> 00:01:10.632
+izstrādājot organizatoriskās vienības.
+
+23
+00:01:10.633 --> 00:01:13.577
+Sāciet ar iestādes līmeni, piemēram,
+slimnīca vai klīnika. Pievienojiet zem
+
+24
+00:01:13.577 --> 00:01:16.521
+tās nodaļas un pēc tam apakšdaļas,
+piemēram, nodaļas vai funkcionālas
+
+25
+00:01:16.521 --> 00:01:19.466
+komandas.
+
+26
+00:01:19.466 --> 00:01:25.199
+Atspoguļojot savu reālo organizāciju,
+daudz vieglāk ir kartēt un ziņot.
+
+27
+00:01:25.200 --> 00:01:29.800
+Izmantot vecākelementus organizācijas
+mēroga iestatījumiem.
+
+28
+00:01:29.800 --> 00:01:33.633
+Lietojiet nodaļai raksturīgās
+konfigurācijas zemākā līmenī.
+
+29
+00:01:33.633 --> 00:01:39.699
+Pārmantošana samazina kļūdas un neļauj
+dublētu darbu.
+
+30
+00:01:39.700 --> 00:01:42.333
+Izmantojiet notīrītus nosaukumdošanas
+modeļus, piemēram,
+
+31
+00:01:42.333 --> 00:01:44.966
+FacilityName_Department_Unit.
+
+32
+00:01:44.966 --> 00:01:50.132
+Konsekventi nosaukumi palīdz ar
+meklēšanu un ziņošanu.
+
+33
+00:01:50.133 --> 00:01:51.816
+Pārliecinieties, vai vienības ir
+saistītas ar jēgpilniem
+
+34
+00:01:51.816 --> 00:01:53.499
+identifikatoriem.
+
+35
+00:01:53.500 --> 00:01:57.277
+Tas palīdz informācijas paneļiem un
+atbilstības atskaitēm parādīt
+
+36
+00:01:57.277 --> 00:02:01.055
+cilvēkiem lasāmu informāciju, nevis
+šifrēšanas ID Uzturēt skaidru
+
+37
+00:02:01.055 --> 00:02:04.833
+dokumentāciju par jūsu organizācijas
+struktūrvienības struktūru.
+
+38
+00:02:04.833 --> 00:02:08.877
+Iekļaujiet shēmas un piezīmi, kas
+pārvalda katru hierarhijas daļu
+
+39
+00:02:08.877 --> 00:02:12.921
+Atkārtoti pārskatiet savu OU
+struktūru, kad jūsu organizācija
+
+40
+00:02:12.921 --> 00:02:16.966
+mainās, piemēram, jaunas vienības vai
+apvienošana.
+
+41
+00:02:16.966 --> 00:02:20.499
+Regulāri pārbaudiet atļaujas un
+mantotos iestatījumus, lai saglabātu
+
+42
+00:02:20.499 --> 00:02:24.032
+visu precīzu.
+
+43
+00:02:24.033 --> 00:02:26.833
+Izmantojot pārdomātu hierarhiju, jūsu
+vide paliek organizēta, konsekventa un
+
+44
+00:02:26.833 --> 00:02:29.633
+gatava mērogot.
+
+45
+00:02:29.633 --> 00:02:31.266
+Paldies par skatīšanos

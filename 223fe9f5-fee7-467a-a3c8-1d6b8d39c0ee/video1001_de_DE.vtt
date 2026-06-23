@@ -1,0 +1,235 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+In diesem Leitfaden lernen Sie, wie
+Sie eine Organisationshierarchie im
+
+2
+00:00:04.166 --> 00:00:08.099
+Dragon Admin Center definieren.
+
+3
+00:00:08.100 --> 00:00:10.333
+Eine gut strukturierte Hierarchie
+entsteht durch das Erstellen von
+
+4
+00:00:10.333 --> 00:00:12.566
+Organisationseinheiten, was die
+Verwaltung von Einstellungen,
+
+5
+00:00:12.566 --> 00:00:14.799
+Berechtigungen und Berichten in
+komplexen Gesundheitsumgebungen
+
+6
+00:00:14.799 --> 00:00:17.032
+erleichtert.
+
+7
+00:00:17.033 --> 00:00:19.699
+Eine solide Hierarchie unterstützt
+außerdem Konsistenz, Compliance und
+
+8
+00:00:19.699 --> 00:00:22.366
+reibungslosere Abläufe.
+
+9
+00:00:22.366 --> 00:00:25.232
+Melden Sie sich zunächst im Dragon
+Admin Center an.
+
+10
+00:00:25.233 --> 00:00:27.533
+Stellen Sie zunächst sicher, dass Ihr
+globaler Administrator Ihnen die
+
+11
+00:00:27.533 --> 00:00:29.833
+Dragon-Admin-Rolle zugewiesen hat.
+
+12
+00:00:29.833 --> 00:00:32.183
+Wählen Sie auf der Startseite unter
+dem Menüpunkt Umgebungskonfiguration
+
+13
+00:00:32.183 --> 00:00:34.533
+die Option „Organisation“ aus.
+
+14
+00:00:34.533 --> 00:00:39.199
+Dropdownmenü.
+
+15
+00:00:39.200 --> 00:00:41.533
+Um mit dem Aufbau Ihrer Hierarchie zu
+beginnen, wählen Sie
+
+16
+00:00:41.533 --> 00:00:43.866
+‚Organisationseinheit hinzufügen‘.
+
+17
+00:00:43.866 --> 00:00:47.116
+Geben Sie der neuen Einheit einen
+Namen, der ihre reale Funktion
+
+18
+00:00:47.116 --> 00:00:50.366
+widerspiegelt, wie Einrichtung,
+Abteilung oder Team.
+
+19
+00:00:50.366 --> 00:00:51.849
+Wählen Sie aus, wo diese Einheit in
+der Hierarchie eingeordnet werden
+
+20
+00:00:51.849 --> 00:00:53.332
+soll.
+
+21
+00:00:53.333 --> 00:00:55.783
+Behalten Sie die Standardübergeordnete
+bei oder wählen Sie bei Bedarf eine
+
+22
+00:00:55.783 --> 00:00:58.233
+andere aus.
+
+23
+00:00:58.233 --> 00:01:00.066
+Wählen Sie „Speichern“ aus.
+
+24
+00:01:00.066 --> 00:01:02.707
+Ihre aktualisierte Struktur wird nun
+auf die Umgebung angewendet, und
+
+25
+00:01:02.707 --> 00:01:05.349
+Einstellungen können auf jeder Ebene
+angepasst werden. Hier sind einige
+
+26
+00:01:05.349 --> 00:01:07.990
+bewährte Vorgehensweisen für die
+Entwicklung von
+
+27
+00:01:07.990 --> 00:01:10.632
+Organisationseinheiten.
+
+28
+00:01:10.633 --> 00:01:13.577
+Beginnen Sie auf der Ebene der
+Einrichtung, wie einem Krankenhaus
+
+29
+00:01:13.577 --> 00:01:16.521
+oder einer Klinik. Fügen Sie darunter
+Abteilungen hinzu und dann
+
+30
+00:01:16.521 --> 00:01:19.466
+Untereinheiten wie Stationen oder
+Funktionsteams.
+
+31
+00:01:19.466 --> 00:01:22.332
+Die Abbildung Ihrer realen
+Organisation erleichtert die Zuordnung
+
+32
+00:01:22.332 --> 00:01:25.199
+und Berichterstellung erheblich.
+
+33
+00:01:25.200 --> 00:01:29.800
+Verwenden Sie übergeordnete Einheiten
+für organisationsweite Einstellungen.
+
+34
+00:01:29.800 --> 00:01:33.633
+Wenden Sie abteilungsspezifische
+Konfigurationen auf unteren Ebenen an.
+
+35
+00:01:33.633 --> 00:01:39.699
+Vererbung reduziert Fehler und
+verhindert doppelte Arbeit.
+
+36
+00:01:39.700 --> 00:01:44.966
+Verwenden Sie klare Namensmuster wie
+Einrichtungsname_Abteilung_Einheit.
+
+37
+00:01:44.966 --> 00:01:50.132
+Konsistente Namen erleichtern die
+Suche und Berichterstellung.
+
+38
+00:01:50.133 --> 00:01:51.816
+Stellen Sie sicher, dass Einheiten mit
+aussagekräftigen Kennungen verknüpft
+
+39
+00:01:51.816 --> 00:01:53.499
+sind.
+
+40
+00:01:53.500 --> 00:01:57.277
+Dadurch können Dashboards und
+Compliance-Berichte für Menschen
+
+41
+00:01:57.277 --> 00:02:01.055
+lesbare Informationen anzeigen und
+keine kryptischen IDs. Führen Sie eine
+
+42
+00:02:01.055 --> 00:02:04.833
+klare Dokumentation Ihrer
+Organisationseinheitsstruktur.
+
+43
+00:02:04.833 --> 00:02:08.877
+Fügen Sie Diagramme hinzu und notieren
+Sie, wer jeden Teil der Hierarchie
+
+44
+00:02:08.877 --> 00:02:12.921
+verwaltet. Überprüfen Sie Ihre
+OU-Struktur bei Änderungen in der
+
+45
+00:02:12.921 --> 00:02:16.966
+Organisation, wie neuen Einheiten oder
+Fusionen.
+
+46
+00:02:16.966 --> 00:02:20.499
+Überwachen Sie Berechtigungen und
+vererbte Einstellungen regelmäßig, um
+
+47
+00:02:20.499 --> 00:02:24.032
+alles genau zu halten.
+
+48
+00:02:24.033 --> 00:02:26.833
+Mit einer durchdachten Hierarchie
+bleibt Ihre Umgebung organisiert,
+
+49
+00:02:26.833 --> 00:02:29.633
+konsistent und bereit für Wachstum.
+
+50
+00:02:29.633 --> 00:02:31.266
+Danke fürs Zuschauen

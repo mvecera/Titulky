@@ -1,0 +1,124 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+Trong video này, bạn sẽ học cách xem
+các sơ đồ bảng theo dõi đã tải lên
+
+2
+00:00:05.266 --> 00:00:08.133
+được sử dụng trong quy trình làm việc
+của điều dưỡng.
+
+3
+00:00:08.133 --> 00:00:12.410
+Để xem sơ đồ bảng theo dõi, hãy xác
+nhận bạn có vai trò Người quản trị
+
+4
+00:00:12.410 --> 00:00:16.688
+Dragon, môi trường của bạn đã được
+cung cấp, EHR của bạn đã được cấu hình
+
+5
+00:00:16.688 --> 00:00:20.966
+và tệp xuất sơ đồ là tệp JSON từ EHR
+của bạn.
+
+6
+00:00:20.966 --> 00:00:23.699
+Hãy đảm bảo ID môi trường trong tệp
+khớp với môi trường mà bạn đang làm
+
+7
+00:00:23.699 --> 00:00:26.432
+việc.
+
+8
+00:00:26.433 --> 00:00:28.816
+Sau đó, làm theo các bước sau để xem
+sơ đồ bảng theo dõi: Đăng nhập vào
+
+9
+00:00:28.816 --> 00:00:31.199
+Trung tâm quản trị Dragon.
+
+10
+00:00:31.200 --> 00:00:35.799
+Trong phần Dragon Copilot, hãy chọn
+"Điều dưỡng." Sử dụng danh sách môi
+
+11
+00:00:35.799 --> 00:00:40.399
+trường để xác nhận hoặc thay đổi môi
+trường bạn muốn xem xét.
+
+12
+00:00:40.400 --> 00:00:42.216
+Dưới Công cụ dành cho điều dưỡng và
+Cấu hình, chọn Trình quản lý bảng theo
+
+13
+00:00:42.216 --> 00:00:44.033
+dõi.
+
+14
+00:00:44.033 --> 00:00:47.366
+Tại đây, bạn sẽ thấy danh sách đầy đủ
+các mẫu bảng theo dõi đã tải lên.
+
+15
+00:00:47.366 --> 00:00:50.899
+Mỗi mẫu hiển thị các chi tiết chính
+như tên, ID, dòng dịch vụ, trạng thái
+
+16
+00:00:50.899 --> 00:00:54.432
+môi trường, hiển thị tất cả hàng cột
+và dấu thời gian khi sơ đồ được xuất
+
+17
+00:00:54.432 --> 00:00:57.966
+và sửa đổi lần cuối.
+
+18
+00:00:57.966 --> 00:01:02.266
+Sử dụng bộ lọc cột hoặc hộp tìm kiếm
+để thu hẹp phạm vi xem.
+
+19
+00:01:02.266 --> 00:01:06.099
+Chọn tên mẫu để xem các hàng và giá
+trị trong đó.
+
+20
+00:01:06.100 --> 00:01:08.733
+Điều này giúp bạn nhanh chóng tìm các
+mẫu cụ thể hoặc khắc phục sự cố cấu
+
+21
+00:01:08.733 --> 00:01:11.366
+hình.
+
+22
+00:01:11.366 --> 00:01:14.999
+Việc xem xét các sơ đồ bảng theo dõi
+đã tải lên giúp người quản trị đảm bảo
+
+23
+00:01:14.999 --> 00:01:18.633
+các mẫu chính xác, cập nhật và phù hợp
+với thiết lập EHR của môi trường.
+
+24
+00:01:18.633 --> 00:01:21.283
+Công cụ này cũng hỗ trợ khắc phục sự
+cố và giữ cho tài liệu điều dưỡng nhất
+
+25
+00:01:21.283 --> 00:01:23.933
+quán và đáng tin cậy.
+
+26
+00:01:23.933 --> 00:01:25.233
+Cảm ơn bạn đã xem.

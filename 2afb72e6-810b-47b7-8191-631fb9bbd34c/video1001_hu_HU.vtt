@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+Ebben a videóban megismerheti, hogyan
+tekintheti meg a feltöltött
+
+2
+00:00:05.266 --> 00:00:08.133
+folyamatlapsémákat, amelyeket az
+ápolási munkafolyamatokban használnak.
+
+3
+00:00:08.133 --> 00:00:11.341
+A folyamatlapsémák megtekintéséhez
+győződjön meg arról, hogy rendelkezik
+
+4
+00:00:11.341 --> 00:00:14.549
+Dragon rendszergazdai szerepkörrel, a
+környezete ki van építve, az EHR
+
+5
+00:00:14.549 --> 00:00:17.757
+konfigurálva van, és a séma
+exportálása JSON fájl használatával
+
+6
+00:00:17.757 --> 00:00:20.966
+történik az EHR-ből.
+
+7
+00:00:20.966 --> 00:00:23.699
+Győződjön meg arról, hogy a fájlban
+szereplő környezeti azonosító
+
+8
+00:00:23.699 --> 00:00:26.432
+megegyezik azzal a környezettel,
+amiben dolgozik.
+
+9
+00:00:26.433 --> 00:00:28.816
+Ezután kövesse az alábbi lépéseket a
+folyamatlapsémák megtekintéséhez:
+
+10
+00:00:28.816 --> 00:00:31.199
+Jelentkezzen be a Dragon felügyeleti
+központba.
+
+11
+00:00:31.200 --> 00:00:35.799
+A Dragon Copilot szakaszban válassza
+az „Ápolók” lehetőséget. A környezeti
+
+12
+00:00:35.799 --> 00:00:40.399
+listával erősítse meg vagy módosítsa a
+megtekinteni kívánt környezetet.
+
+13
+00:00:40.400 --> 00:00:44.033
+Az Ápolói eszközök és Konfiguráció
+alatt válassza a Folyamatlap-kezelőt.
+
+14
+00:00:44.033 --> 00:00:47.366
+Itt láthatja a feltöltött
+folyamatlapsablonok teljes listáját.
+
+15
+00:00:47.366 --> 00:00:50.016
+Minden sablon megjeleníti a
+legfontosabb részleteket, például a
+
+16
+00:00:50.016 --> 00:00:52.666
+nevét, az azonosítóját, a
+szolgáltatási területét, a környezeti
+
+17
+00:00:52.666 --> 00:00:55.316
+állapotot, az összes sor oszlopát,
+valamint a séma exportálásának és
+
+18
+00:00:55.316 --> 00:00:57.966
+utolsó módosításának időbélyegeit.
+
+19
+00:00:57.966 --> 00:01:02.266
+Használja az oszlop szűrőket vagy a
+keresőmezőt a nézet szűkítéséhez.
+
+20
+00:01:02.266 --> 00:01:06.099
+Válasszon egy sablonnevet, hogy
+megtekinthesse a sorait és értékeit.
+
+21
+00:01:06.100 --> 00:01:08.733
+Ez segít gyorsan megtalálni a konkrét
+sablonokat vagy elhárítani a
+
+22
+00:01:08.733 --> 00:01:11.366
+konfigurációs problémákat.
+
+23
+00:01:11.366 --> 00:01:13.788
+A feltöltött folyamatlapsémák
+áttekintése segíti a rendszergazdákat
+
+24
+00:01:13.788 --> 00:01:16.210
+abban, hogy a sablonok pontosak,
+naprakészek legyenek, és összhangban
+
+25
+00:01:16.210 --> 00:01:18.633
+álljanak a környezet
+EHR-beállításaival.
+
+26
+00:01:18.633 --> 00:01:21.283
+Ez támogatja a hibakeresést is, és
+biztosítja, hogy az ápolási
+
+27
+00:01:21.283 --> 00:01:23.933
+dokumentáció következetes és
+megbízható maradjon.
+
+28
+00:01:23.933 --> 00:01:25.233
+Köszönöm a figyelmet!

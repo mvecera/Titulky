@@ -1,0 +1,143 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+En este vídeo, aprenderá a ver los
+esquemas de diagramas de flujo
+
+2
+00:00:05.266 --> 00:00:08.133
+cargados que se utilizan en los flujos
+de trabajo de enfermería.
+
+3
+00:00:08.133 --> 00:00:11.341
+Para ver los esquemas de diagramas de
+flujo, confirme que tiene el rol de
+
+4
+00:00:11.341 --> 00:00:14.549
+administrador de Dragon, que su
+entorno está aprovisionado, que su HCE
+
+5
+00:00:14.549 --> 00:00:17.757
+está configurada y que la exportación
+del esquema es un archivo JSON de su
+
+6
+00:00:17.757 --> 00:00:20.966
+HCE.
+
+7
+00:00:20.966 --> 00:00:23.699
+Asegúrese de que el id. del entorno
+que figura en el archivo coincida con
+
+8
+00:00:23.699 --> 00:00:26.432
+el entorno en el que está trabajando.
+
+9
+00:00:26.433 --> 00:00:28.816
+A continuación, siga estos pasos para
+ver los esquemas de diagramas de
+
+10
+00:00:28.816 --> 00:00:31.199
+flujo: inicie sesión en el centro de
+administración Dragon.
+
+11
+00:00:31.200 --> 00:00:35.799
+En la sección Dragon Copilot,
+seleccione "Enfermeros". Use la lista
+
+12
+00:00:35.799 --> 00:00:40.399
+de entornos para confirmar o cambiar
+el entorno que desea revisar.
+
+13
+00:00:40.400 --> 00:00:42.216
+En Herramientas de enfermería y
+configuración, seleccione
+
+14
+00:00:42.216 --> 00:00:44.033
+Administrador de diagramas de flujo.
+
+15
+00:00:44.033 --> 00:00:45.699
+Aquí verá la lista completa de
+plantillas de diagrama de flujo
+
+16
+00:00:45.699 --> 00:00:47.366
+cargadas.
+
+17
+00:00:47.366 --> 00:00:50.016
+Cada plantilla muestra detalles clave,
+como el nombre, el identificador, la
+
+18
+00:00:50.016 --> 00:00:52.666
+línea de servicio, el estado
+ambiental, la columna mostrar todas
+
+19
+00:00:52.666 --> 00:00:55.316
+las filas y las marcas de tiempo de
+cuándo se exportó y modificó por
+
+20
+00:00:55.316 --> 00:00:57.966
+última vez el esquema.
+
+21
+00:00:57.966 --> 00:01:02.266
+Use los filtros de columna o el cuadro
+de búsqueda para limitar la vista.
+
+22
+00:01:02.266 --> 00:01:06.099
+Seleccione un nombre de plantilla para
+ver sus filas y valores.
+
+23
+00:01:06.100 --> 00:01:08.733
+Esto le ayuda a encontrar rápidamente
+plantillas específicas o a resolver
+
+24
+00:01:08.733 --> 00:01:11.366
+problemas de configuración.
+
+25
+00:01:11.366 --> 00:01:13.788
+La revisión de los esquemas de
+diagramas de flujo cargados ayuda a
+
+26
+00:01:13.788 --> 00:01:16.210
+los administradores a garantizar que
+las plantillas sean precisas, estén
+
+27
+00:01:16.210 --> 00:01:18.633
+actualizadas y se ajusten a la
+configuración de la HCE del entorno.
+
+28
+00:01:18.633 --> 00:01:21.283
+También ayuda a resolver problemas y
+mantiene la documentación de
+
+29
+00:01:21.283 --> 00:01:23.933
+enfermería coherente y fiable.
+
+30
+00:01:23.933 --> 00:01:25.233
+Gracias por su atención.

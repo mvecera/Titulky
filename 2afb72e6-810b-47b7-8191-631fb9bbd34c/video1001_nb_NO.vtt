@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+I denne videoen finner du ut hvordan
+du kan vise opplastede flytskjemaer
+
+2
+00:00:05.266 --> 00:00:08.133
+som brukes i arbeidsflyter for
+sykepleie.
+
+3
+00:00:08.133 --> 00:00:11.341
+For å se flytskjemaer må du bekrefte
+at du har rollen som
+
+4
+00:00:11.341 --> 00:00:14.549
+Dragon-administrator, at miljøet er
+klargjort, at elektronisk
+
+5
+00:00:14.549 --> 00:00:17.757
+pasientjournal (EPJ) er konfigurert,
+og at skjemaeksporten er en JSON-fil
+
+6
+00:00:17.757 --> 00:00:20.966
+fra din elektroniske pasientjournal.
+
+7
+00:00:20.966 --> 00:00:26.432
+Kontroller at miljø-ID-en i filen
+samsvarer med miljøet du arbeider i.
+
+8
+00:00:26.433 --> 00:00:28.816
+Følg deretter disse trinnene for å
+vise flytskjemaer: Logg på
+
+9
+00:00:28.816 --> 00:00:31.199
+administrasjonssenteret for Dragon.
+
+10
+00:00:31.200 --> 00:00:35.799
+I Dragon Copilot-delen velger du
+«Sykepleiere». Bruk listen over
+
+11
+00:00:35.799 --> 00:00:40.399
+miljøer for å bekrefte eller endre
+miljøet du vil se på.
+
+12
+00:00:40.400 --> 00:00:42.216
+Under Sykepleierverktøy og
+Konfigurasjon velger du
+
+13
+00:00:42.216 --> 00:00:44.033
+Flytskjemaadministrator.
+
+14
+00:00:44.033 --> 00:00:47.366
+Her ser du hele listen over opplastede
+maler for flytskjemaer.
+
+15
+00:00:47.366 --> 00:00:50.899
+Hver mal viser viktige detaljer som
+navn, ID, tjenestelinje,
+
+16
+00:00:50.899 --> 00:00:54.432
+ambient-status, kolonne for vis alle
+rader og tidsstempler for når skjemaet
+
+17
+00:00:54.432 --> 00:00:57.966
+ble eksportert og sist endret.
+
+18
+00:00:57.966 --> 00:01:02.266
+Bruk kolonnefiltrene eller søkeboksen
+til å begrense visningen.
+
+19
+00:01:02.266 --> 00:01:06.099
+Velg et malnavn for å se malens rader
+og verdier.
+
+20
+00:01:06.100 --> 00:01:08.733
+Dette hjelper med å raskt finne
+spesifikke maler eller feilsøke
+
+21
+00:01:08.733 --> 00:01:11.366
+konfigurasjonsproblemer.
+
+22
+00:01:11.366 --> 00:01:13.788
+Ved å gå gjennom opplastede
+flytskjemaer kan administratorene
+
+23
+00:01:13.788 --> 00:01:16.210
+sikre at malene er nøyaktige,
+oppdaterte og i tråd med miljøets
+
+24
+00:01:16.210 --> 00:01:18.633
+oppsett for elektronisk
+pasientjournal.
+
+25
+00:01:18.633 --> 00:01:21.283
+Det støtter også feilsøking og holder
+sykepleiedokumentasjonen konsekvent og
+
+26
+00:01:21.283 --> 00:01:23.933
+pålitelig.
+
+27
+00:01:23.933 --> 00:01:25.233
+Takk for at du så på.

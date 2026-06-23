@@ -1,0 +1,138 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+Neste vídeo, você aprenderá a exibir
+esquemas de planilhas de fluxo usados
+
+2
+00:00:05.266 --> 00:00:08.133
+em fluxos de trabalho de enfermagem.
+
+3
+00:00:08.133 --> 00:00:12.410
+Para exibir esquemas de planilhas de
+fluxo, confirme se você tem a função
+
+4
+00:00:12.410 --> 00:00:16.688
+de Administrador Dragon, se o ambiente
+está provisionado, se o EHR está
+
+5
+00:00:16.688 --> 00:00:20.966
+configurado e se a exportação do
+esquema é um arquivo JSON do seu EHR.
+
+6
+00:00:20.966 --> 00:00:23.699
+Verifique se a ID do ambiente no
+arquivo corresponde ao ambiente em que
+
+7
+00:00:23.699 --> 00:00:26.432
+você está trabalhando.
+
+8
+00:00:26.433 --> 00:00:28.816
+Em seguida, siga estas etapas para
+exibir esquemas de planilhas de fluxo:
+
+9
+00:00:28.816 --> 00:00:31.199
+entre no centro de administração
+Dragon.
+
+10
+00:00:31.200 --> 00:00:35.799
+Na seção Dragon Copilot, selecione
+"Enfermeiros". Use a lista de
+
+11
+00:00:35.799 --> 00:00:40.399
+ambientes para confirmar ou alterar o
+ambiente que você deseja revisar.
+
+12
+00:00:40.400 --> 00:00:42.216
+Em Ferramentas de enfermagem e
+configuração, selecione Gerenciador de
+
+13
+00:00:42.216 --> 00:00:44.033
+planilhas de fluxo.
+
+14
+00:00:44.033 --> 00:00:45.699
+Aqui você verá a lista completa de
+modelos de planilhas de fluxo
+
+15
+00:00:45.699 --> 00:00:47.366
+carregados.
+
+16
+00:00:47.366 --> 00:00:50.016
+Cada modelo mostra detalhes
+importantes, como nome, ID, linha de
+
+17
+00:00:50.016 --> 00:00:52.666
+serviço, status de ambiente, coluna
+Mostrar todas as linhas e carimbos de
+
+18
+00:00:52.666 --> 00:00:55.316
+data e hora de quando o esquema foi
+exportado e modificado pela última
+
+19
+00:00:55.316 --> 00:00:57.966
+vez.
+
+20
+00:00:57.966 --> 00:01:02.266
+Use os filtros de coluna ou a caixa de
+pesquisa para restringir sua exibição.
+
+21
+00:01:02.266 --> 00:01:06.099
+Selecione um nome de modelo para ver
+suas linhas e valores.
+
+22
+00:01:06.100 --> 00:01:08.733
+Isso ajuda você a localizar
+rapidamente modelos específicos ou
+
+23
+00:01:08.733 --> 00:01:11.366
+resolver problemas de configuração.
+
+24
+00:01:11.366 --> 00:01:13.788
+A revisão de esquemas de planilhas de
+fluxo enviados ajuda os
+
+25
+00:01:13.788 --> 00:01:16.210
+administradores a garantir que os
+modelos sejam precisos, atuais e
+
+26
+00:01:16.210 --> 00:01:18.633
+estejam alinhados com a configuração
+do EHR do ambiente.
+
+27
+00:01:18.633 --> 00:01:21.283
+Ele também dá suporte à solução de
+problemas e mantém a documentação de
+
+28
+00:01:21.283 --> 00:01:23.933
+enfermagem consistente e confiável.
+
+29
+00:01:23.933 --> 00:01:25.233
+Obrigado por assistir.

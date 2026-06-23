@@ -1,0 +1,127 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+I denne video får du mere at vide om,
+hvordan du får vist uploadede
+
+2
+00:00:05.266 --> 00:00:08.133
+flowsheet-skemaer, der bruges i
+sygeplejearbejdsgange.
+
+3
+00:00:08.133 --> 00:00:12.410
+Hvis du vil have vist
+flowsheet-skemaer, skal du bekræfte,
+
+4
+00:00:12.410 --> 00:00:16.688
+at du har rollen Dragon-administrator,
+at dit miljø er klargjort, at dit EPJ
+
+5
+00:00:16.688 --> 00:00:20.966
+er konfigureret, og at skemaeksporten
+er en JSON-fil fra din EPJ.
+
+6
+00:00:20.966 --> 00:00:26.432
+Sørg for, at miljø-id'et i filen
+svarer til miljøet, som du arbejder i.
+
+7
+00:00:26.433 --> 00:00:28.816
+Følg derefter disse trin for at få
+vist flowsheet-skemaer: Log på Dragon
+
+8
+00:00:28.816 --> 00:00:31.199
+Administration.
+
+9
+00:00:31.200 --> 00:00:35.799
+Vælg "Sygeplejersker" i afsnittet
+Dragon Copilot. Brug miljølisten til
+
+10
+00:00:35.799 --> 00:00:40.399
+at bekræfte eller ændre miljøet, som
+du vil gennemse.
+
+11
+00:00:40.400 --> 00:00:42.216
+Under Sygeplejeværktøjer og
+konfiguration skal du vælge
+
+12
+00:00:42.216 --> 00:00:44.033
+Flowsheet-administrator.
+
+13
+00:00:44.033 --> 00:00:47.366
+Her kan du se den komplette liste over
+uploadede flowsheet-skabeloner.
+
+14
+00:00:47.366 --> 00:00:50.899
+Hver skabelon viser nøgleoplysninger,
+f.eks. navn, id, tjenestelinje,
+
+15
+00:00:50.899 --> 00:00:54.432
+omgivende status, vis alle
+rækkekolonner og tidsstempler for,
+
+16
+00:00:54.432 --> 00:00:57.966
+hvornår skemaet blev eksporteret og
+senest ændret.
+
+17
+00:00:57.966 --> 00:01:02.266
+Brug kolonnefiltrene eller søgefeltet
+til at indsnævre visningen.
+
+18
+00:01:02.266 --> 00:01:06.099
+Vælg et skabelonnavn for at se dets
+rækker og værdier.
+
+19
+00:01:06.100 --> 00:01:08.733
+Dette hjælper dig med hurtigt at finde
+bestemte skabeloner eller foretage
+
+20
+00:01:08.733 --> 00:01:11.366
+fejlfinding af
+konfigurationsproblemer.
+
+21
+00:01:11.366 --> 00:01:13.788
+Gennemgang af uploadede
+flowsheet-skemaer hjælper
+
+22
+00:01:13.788 --> 00:01:16.210
+administratorer med at sikre, at
+skabelonerne er nøjagtige, aktuelle og
+
+23
+00:01:16.210 --> 00:01:18.633
+justeret i forhold til miljøets
+EPJ-konfiguration.
+
+24
+00:01:18.633 --> 00:01:21.283
+Den understøtter også fejlfinding og
+sikrer ensartet og pålidelig
+
+25
+00:01:21.283 --> 00:01:23.933
+dokumentation.
+
+26
+00:01:23.933 --> 00:01:25.233
+Tak, fordi du så med.

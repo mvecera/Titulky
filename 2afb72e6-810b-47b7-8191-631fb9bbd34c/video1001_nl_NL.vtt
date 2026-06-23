@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:02.400 --> 00:00:05.266
+In deze video leer je hoe je geüploade
+flowsheet-schema's bekijkt die worden
+
+2
+00:00:05.266 --> 00:00:08.133
+gebruikt in verpleegkundige workflows.
+
+3
+00:00:08.133 --> 00:00:12.410
+Om flowsheet-schema's te bekijken,
+controleer je of je de rol van Dragon
+
+4
+00:00:12.410 --> 00:00:16.688
+Beheerder hebt, je omgeving is
+ingericht, je EPD is geconfigureerd en
+
+5
+00:00:16.688 --> 00:00:20.966
+de schema-export een JSON-bestand is
+van je EPD.
+
+6
+00:00:20.966 --> 00:00:23.699
+Zorg dat de omgeving-ID in het bestand
+overeenkomt met de omgeving waarin je
+
+7
+00:00:23.699 --> 00:00:26.432
+werkt.
+
+8
+00:00:26.433 --> 00:00:28.816
+Volg daarna deze stappen om
+flowsheet-schema's te bekijken: Meld
+
+9
+00:00:28.816 --> 00:00:31.199
+je aan bij het Dragon-beheercentrum.
+
+10
+00:00:31.200 --> 00:00:34.266
+Selecteer in de Dragon Copilot-sectie
+'Verpleegkundigen'. Gebruik de
+
+11
+00:00:34.266 --> 00:00:37.332
+omgevingslijst om te bevestigen of te
+wijzigen welke omgeving je wilt
+
+12
+00:00:37.332 --> 00:00:40.399
+bekijken.
+
+13
+00:00:40.400 --> 00:00:42.216
+Selecteer onder Verpleegkundige
+hulpmiddelen en Configuratie de
+
+14
+00:00:42.216 --> 00:00:44.033
+Flowsheet-manager.
+
+15
+00:00:44.033 --> 00:00:47.366
+Hier zie je de volledige lijst met
+geüploade flowsheet-sjablonen.
+
+16
+00:00:47.366 --> 00:00:50.899
+Elk sjabloon toont belangrijke details
+zoals de naam, ID, servicelijn, status
+
+17
+00:00:50.899 --> 00:00:54.432
+van de omgeving, kolom Alle rijen
+weergeven en tijdstempels van wanneer
+
+18
+00:00:54.432 --> 00:00:57.966
+het schema is geëxporteerd en voor het
+laatst is gewijzigd.
+
+19
+00:00:57.966 --> 00:01:02.266
+Gebruik de kolomfilters of het zoekvak
+om je weergave te verfijnen.
+
+20
+00:01:02.266 --> 00:01:06.099
+Selecteer een sjabloonnaam om de rijen
+en waarden te zien.
+
+21
+00:01:06.100 --> 00:01:08.733
+Dit helpt je snel specifieke sjablonen
+te vinden of configuratieproblemen op
+
+22
+00:01:08.733 --> 00:01:11.366
+te lossen.
+
+23
+00:01:11.366 --> 00:01:13.788
+Het bekijken van geüploade
+flowsheet-schema's helpt beheerders om
+
+24
+00:01:13.788 --> 00:01:16.210
+te zorgen dat sjablonen nauwkeurig,
+actueel en afgestemd zijn op de
+
+25
+00:01:16.210 --> 00:01:18.633
+EPD-configuratie van de omgeving.
+
+26
+00:01:18.633 --> 00:01:21.283
+Het ondersteunt ook het oplossen van
+problemen en zorgt ervoor dat
+
+27
+00:01:21.283 --> 00:01:23.933
+verpleegkundige documentatie
+consistent en betrouwbaar blijft.
+
+28
+00:01:23.933 --> 00:01:25.233
+Bedankt voor het kijken.

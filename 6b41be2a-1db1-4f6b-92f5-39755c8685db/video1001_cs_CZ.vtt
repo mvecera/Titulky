@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+V tomto videu se naučíte, jak se
+orientovat v nástroji pro přizpůsobení
+
+2
+00:00:04.410 --> 00:00:07.388
+AI a jak používat prohlížeč průběžných
+diagramů, abyste porozuměli ambientním
+
+3
+00:00:07.388 --> 00:00:10.366
+šablonám průběžných diagramů.
+
+4
+00:00:11.033 --> 00:00:14.277
+Prohlížeč průběžných diagramů vám
+umožňuje prozkoumat všechny komponenty
+
+5
+00:00:14.277 --> 00:00:17.521
+ambientních šablon průběžných
+diagramů, včetně skupin, řádků a maker
+
+6
+00:00:17.521 --> 00:00:20.766
+– to vše v mřížce nebo hierarchickém
+zobrazení.
+
+7
+00:00:21.333 --> 00:00:25.388
+Než začnete, ověřte, že máte
+požadovanou roli, že je vaše prostředí
+
+8
+00:00:25.388 --> 00:00:29.444
+připraveno, že je nastaven přístup k
+EHR, že jsou exportována a nahrána
+
+9
+00:00:29.444 --> 00:00:33.500
+schémata šablon a že jsou šablony
+označeny jako ambientní.
+
+10
+00:00:34.300 --> 00:00:37.833
+Přihlaste se do centra pro správu
+Dragonu a přejděte do části Sestry.
+
+11
+00:00:37.833 --> 00:00:41.833
+V části Nástroje pro sestry vyberte
+Správce přizpůsobení AI.
+
+12
+00:00:41.900 --> 00:00:44.266
+Prohlížeč průběžných diagramů se
+otevře na nové kartě.
+
+13
+00:00:44.266 --> 00:00:46.666
+Můžete si ho označit záložkou pro
+rychlý přístup.
+
+14
+00:00:46.666 --> 00:00:48.799
+Karta Šablony obsahuje seznam všech
+šablon Flowsheet, které jsou povolené
+
+15
+00:00:48.799 --> 00:00:50.933
+pro ambientní nahrávání.
+
+16
+00:00:50.933 --> 00:00:53.344
+Výsledky seřadíte a upřesníte pomocí
+panelu hledání nebo sloupce. Přepnutím
+
+17
+00:00:53.344 --> 00:00:55.755
+přepínače Vyloučené odeberete
+jakoukoli šablonu z ambientní
+
+18
+00:00:55.755 --> 00:00:58.166
+nahrávky.
+
+19
+00:00:58.166 --> 00:01:02.166
+Exportujte zobrazení jako soubor JSON
+pomocí ikony stažení.
+
+20
+00:01:02.433 --> 00:01:04.899
+Karta Skupiny zobrazuje všechny
+skupiny napříč šablonami.
+
+21
+00:01:04.900 --> 00:01:07.083
+Seřaďte nebo hledejte – například
+„respirační“ pro rychlé vyhledání
+
+22
+00:01:07.083 --> 00:01:09.266
+konkrétních skupin.
+
+23
+00:01:09.266 --> 00:01:12.483
+Přepínač Vyloučit z ambientního a
+možnost exportu jsou na této kartě k
+
+24
+00:01:12.483 --> 00:01:15.700
+dispozici.
+
+25
+00:01:15.700 --> 00:01:18.916
+Karta Řádky obsahuje seznam všech
+řádků s podrobnostmi, jako je
+
+26
+00:01:18.916 --> 00:01:22.132
+nadřazená skupina, název řádku, typ
+hodnoty a možnosti hodnoty.
+
+27
+00:01:22.133 --> 00:01:24.799
+Seřaďte a filtrujte podle potřeby.
+
+28
+00:01:24.800 --> 00:01:26.316
+Například vyhledání výrazu „kašel“
+okamžitě vyfiltruje odpovídající
+
+29
+00:01:26.316 --> 00:01:27.833
+řádky.
+
+30
+00:01:27.833 --> 00:01:31.033
+Přepínač Vyloučit z ambientního a
+možnost exportu jsou na této kartě
+
+31
+00:01:31.033 --> 00:01:34.233
+také k dispozici.
+
+32
+00:01:34.233 --> 00:01:38.133
+Karta Makra zobrazuje všechna makra
+přidružená k ambientním šablonám.
+
+33
+00:01:38.133 --> 00:01:40.183
+Můžete řadit, filtrovat a exportovat
+podrobnosti, jako je typ a název
+
+34
+00:01:40.183 --> 00:01:42.233
+makra.
+
+35
+00:01:42.233 --> 00:01:46.233
+Přepínač Vyloučit z ambientního je na
+této kartě také k dispozici.
+
+36
+00:01:46.700 --> 00:01:48.316
+Pomocí hierarchického zobrazení můžete
+prozkoumat šablony ve strukturovaném
+
+37
+00:01:48.316 --> 00:01:49.933
+rozložení.
+
+38
+00:01:49.933 --> 00:01:53.983
+Vyhledávání termínů jako „Reaguje“
+nebo „Základní“ filtruje a zobrazuje
+
+39
+00:01:53.983 --> 00:01:58.033
+odpovídající řádky nebo skupiny,
+včetně jejich nadřazených prvků.
+
+40
+00:01:58.800 --> 00:02:01.475
+Prohlížeč průběžných diagramů
+poskytuje odborníkům na
+
+41
+00:02:01.475 --> 00:02:04.150
+ošetřovatelskou informatiku jasný a
+centralizovaný způsob, jak ověřit
+
+42
+00:02:04.150 --> 00:02:06.824
+strukturu šablon, včas odhalit
+problémy a podpořit bezpečné pracovní
+
+43
+00:02:06.824 --> 00:02:09.500
+postupy při dokumentaci, než se
+šablony dostanou k lékařům.
+
+44
+00:02:09.500 --> 00:02:10.900
+Děkujeme za zhlédnutí.

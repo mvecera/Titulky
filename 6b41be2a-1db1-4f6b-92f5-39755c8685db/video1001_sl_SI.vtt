@@ -1,0 +1,223 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+V tem videoposnetku se boste naučili
+krmariti po upravitelju za
+
+2
+00:00:04.410 --> 00:00:07.388
+prilagajanje UI in uporabljati
+pregledovalnik diagramov poteka za
+
+3
+00:00:07.388 --> 00:00:10.366
+razumevanje predlog ambientalnih
+diagramov poteka.
+
+4
+00:00:11.033 --> 00:00:14.277
+Pregledovalnik diagramov poteka vam
+omogoča raziskovanje vseh komponent
+
+5
+00:00:14.277 --> 00:00:17.521
+predlog ambientalnih diagramov poteka,
+vključno s skupinami, vrsticami in
+
+6
+00:00:17.521 --> 00:00:20.766
+makri – vse v mrežnem ali hierarhičnem
+pogledu.
+
+7
+00:00:21.333 --> 00:00:25.388
+Preden začnete, potrdite, da imate
+ustrezno vlogo, da je vaše okolje
+
+8
+00:00:25.388 --> 00:00:29.444
+omogočeno za uporabo, da je dostop do
+EHR nastavljen, da so sheme predlog
+
+9
+00:00:29.444 --> 00:00:33.500
+izvožene in naložene ter da so
+predloge označene kot ambientalne.
+
+10
+00:00:34.300 --> 00:00:36.066
+Prijavite se v skrbniško središče za
+Dragon in pojdite v razdelek
+
+11
+00:00:36.066 --> 00:00:37.833
+»Medicinske mladine«.
+
+12
+00:00:37.833 --> 00:00:39.833
+V razdelku Orodja za negovanje
+izberite Upravitelj za prilagajanje
+
+13
+00:00:39.833 --> 00:00:41.833
+UI.
+
+14
+00:00:41.900 --> 00:00:44.266
+Pregledovalnik diagramov poteka se
+odpre v novem zavihku.
+
+15
+00:00:44.266 --> 00:00:46.666
+Lahko ga dodate med zaznamke za hiter
+dostop.
+
+16
+00:00:46.666 --> 00:00:48.799
+Na zavihku »Predloge« so navedene vse
+predloge diagramov poteka, ki so
+
+17
+00:00:48.799 --> 00:00:50.933
+omogočene za ambientalno snemanje.
+
+18
+00:00:50.933 --> 00:00:53.344
+Za razvrščanje in zoženje rezultatov
+uporabite iskalno vrstico ali stolpec.
+
+19
+00:00:53.344 --> 00:00:55.755
+Preklopite stikalo »Izključeno«, da
+odstranite katero koli predlogo iz
+
+20
+00:00:55.755 --> 00:00:58.166
+ambientnega snemanja.
+
+21
+00:00:58.166 --> 00:01:02.166
+Pogled izvozite kot datoteko JSON z
+ikono za prenos.
+
+22
+00:01:02.433 --> 00:01:04.899
+V zavihku »Skupine« so prikazane vse
+skupine v vseh predlogah.
+
+23
+00:01:04.900 --> 00:01:07.083
+Razvrstite ali iščite – na primer
+»respiratorno«, da hitro poiščete
+
+24
+00:01:07.083 --> 00:01:09.266
+določene skupine.
+
+25
+00:01:09.266 --> 00:01:12.483
+Na tem zavihku sta na voljo stikalo za
+izključitev iz ambientnega načina in
+
+26
+00:01:12.483 --> 00:01:15.700
+možnost izvoza.
+
+27
+00:01:15.700 --> 00:01:18.916
+Na zavihku »Vrstice« so navedene vse
+vrstice s podrobnostmi, kot so
+
+28
+00:01:18.916 --> 00:01:22.132
+nadrejena skupina, ime vrstice, vrsta
+vrednosti in možnosti vrednosti.
+
+29
+00:01:22.133 --> 00:01:24.799
+Po potrebi jih razvrstite in
+filtrirajte.
+
+30
+00:01:24.800 --> 00:01:27.833
+Če na primer poiščete »kašelj«, se
+ujemajoče vrstice takoj filtrirajo.
+
+31
+00:01:27.833 --> 00:01:31.033
+Na tem zavihku sta na voljo tudi
+stikalo za izključitev iz ambientnega
+
+32
+00:01:31.033 --> 00:01:34.233
+načina in možnost izvoza.
+
+33
+00:01:34.233 --> 00:01:36.183
+Na zavihku »Makri« so prikazani vsi
+makri, povezani z ambientalnimi
+
+34
+00:01:36.183 --> 00:01:38.133
+predlogami.
+
+35
+00:01:38.133 --> 00:01:40.183
+Razvrščate, filtrirate in izvažate
+lahko podrobnosti, kot sta vrsta in
+
+36
+00:01:40.183 --> 00:01:42.233
+ime makra.
+
+37
+00:01:42.233 --> 00:01:44.233
+Na tem zavihku je na voljo tudi
+stikalo za izključitev iz ambientnega
+
+38
+00:01:44.233 --> 00:01:46.233
+načina.
+
+39
+00:01:46.700 --> 00:01:48.316
+Uporabite hierarhični pogled za
+raziskovanje predlog v strukturirani
+
+40
+00:01:48.316 --> 00:01:49.933
+postavitvi.
+
+41
+00:01:49.933 --> 00:01:53.983
+Iskanje izrazov, kot sta »Reagira« ali
+»Osnovno«, filtrira in prikaže
+
+42
+00:01:53.983 --> 00:01:58.033
+ustrezne vrstice ali skupine, vključno
+z njihovimi nadrejenimi elementi.
+
+43
+00:01:58.800 --> 00:02:01.475
+Pregledovalnik diagramov poteka
+omogoča informatikom v negovanju jasen
+
+44
+00:02:01.475 --> 00:02:04.150
+in centraliziran način za preverjanje
+veljavnosti strukture predlog, zgodnje
+
+45
+00:02:04.150 --> 00:02:06.824
+odkrivanje težav in podporo varnim
+potekom dela z dokumentacijo, preden
+
+46
+00:02:06.824 --> 00:02:09.500
+predloge dosežejo zdravnike.
+
+47
+00:02:09.500 --> 00:02:10.900
+Hvala za ogled.

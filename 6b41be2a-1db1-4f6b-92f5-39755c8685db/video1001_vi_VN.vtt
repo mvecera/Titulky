@@ -1,0 +1,199 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+Trong video này, bạn sẽ học cách điều
+hướng trình quản lý tùy chỉnh AI và sử
+
+2
+00:00:04.410 --> 00:00:07.388
+dụng Trình xem bảng theo dõi để hiểu
+các mẫu bảng theo dõi đã bật ghi nhận
+
+3
+00:00:07.388 --> 00:00:10.366
+tự động.
+
+4
+00:00:11.033 --> 00:00:14.277
+Trình xem bảng theo dõi cho phép bạn
+khám phá tất cả thành phần của mẫu
+
+5
+00:00:14.277 --> 00:00:17.521
+bảng theo dõi đã bật ghi nhận tự động,
+bao gồm nhóm, hàng và macro – hiển thị
+
+6
+00:00:17.521 --> 00:00:20.766
+dưới dạng lưới hoặc cấu trúc phân cấp.
+
+7
+00:00:21.333 --> 00:00:25.388
+Trước khi bắt đầu, hãy xác nhận bạn có
+vai trò cần thiết, môi trường đã được
+
+8
+00:00:25.388 --> 00:00:29.444
+cung cấp, quyền truy cập EHR đã được
+thiết lập, các sơ đồ mẫu đã được xuất
+
+9
+00:00:29.444 --> 00:00:33.500
+và tải lên và các mẫu đã được đánh dấu
+là bật ghi nhận tự động.
+
+10
+00:00:34.300 --> 00:00:37.833
+Đăng nhập vào Trung tâm quản trị
+Dragon và đến phần Điều dưỡng.
+
+11
+00:00:37.833 --> 00:00:41.833
+Chọn Trình quản lý tùy chỉnh AI trong
+Công cụ dành cho điều dưỡng.
+
+12
+00:00:41.900 --> 00:00:44.266
+Trình xem bảng theo dõi sẽ mở trong
+tab mới.
+
+13
+00:00:44.266 --> 00:00:46.666
+Bạn có thể đánh dấu trang để truy nhập
+nhanh.
+
+14
+00:00:46.666 --> 00:00:48.799
+Tab Mẫu liệt kê tất cả mẫu bảng theo
+dõi được bật cho tính năng ghi âm môi
+
+15
+00:00:48.799 --> 00:00:50.933
+trường xung quanh.
+
+16
+00:00:50.933 --> 00:00:53.344
+Dùng thanh tìm kiếm hoặc cột để sắp
+xếp và thu hẹp kết quả. Bật nút chuyển
+
+17
+00:00:53.344 --> 00:00:55.755
+Đã loại trừ để loại bỏ bất kỳ mẫu nào
+khỏi tính năng ghi âm môi trường xung
+
+18
+00:00:55.755 --> 00:00:58.166
+quanh.
+
+19
+00:00:58.166 --> 00:01:02.166
+Xuất dạng xem dưới dạng tệp JSON bằng
+biểu tượng tải xuống.
+
+20
+00:01:02.433 --> 00:01:04.899
+Tab Nhóm sẽ hiển thị tất cả nhóm trong
+các mẫu.
+
+21
+00:01:04.900 --> 00:01:09.266
+Sắp xếp hoặc tìm kiếm – ví dụ, "hô
+hấp" để nhanh chóng tìm nhóm cụ thể.
+
+22
+00:01:09.266 --> 00:01:12.483
+Nút chuyển Loại trừ khỏi ghi âm môi
+trường xung quanh và tùy chọn xuất có
+
+23
+00:01:12.483 --> 00:01:15.700
+trong thẻ này.
+
+24
+00:01:15.700 --> 00:01:18.916
+Tab Hàng liệt kê tất cả hàng với chi
+tiết như nhóm phần tử cha, tên hàng,
+
+25
+00:01:18.916 --> 00:01:22.132
+loại giá trị và các tùy chọn giá trị.
+
+26
+00:01:22.133 --> 00:01:24.799
+Sắp xếp và lọc khi cần.
+
+27
+00:01:24.800 --> 00:01:27.833
+Ví dụ: tìm kiếm "ho" sẽ ngay lập tức
+lọc ra các hàng phù hợp.
+
+28
+00:01:27.833 --> 00:01:31.033
+Nút chuyển Loại trừ khỏi ghi âm môi
+trường xung quanh và tùy chọn xuất
+
+29
+00:01:31.033 --> 00:01:34.233
+cũng có trong thẻ này.
+
+30
+00:01:34.233 --> 00:01:36.183
+Tab Macros hiển thị tất cả macro được
+liên kết với các mẫu đã bật ghi âm môi
+
+31
+00:01:36.183 --> 00:01:38.133
+trường xung quanh.
+
+32
+00:01:38.133 --> 00:01:42.233
+Bạn có thể sắp xếp, lọc và xuất các
+chi tiết như tên và loại macro.
+
+33
+00:01:42.233 --> 00:01:44.233
+Tùy chọn loại trừ khỏi ghi âm môi
+trường xung quanh cũng có sẵn trên tab
+
+34
+00:01:44.233 --> 00:01:46.233
+này.
+
+35
+00:01:46.700 --> 00:01:49.933
+Sử dụng Dạng xem phân cấp để khám phá
+các mẫu trong bố cục có cấu trúc.
+
+36
+00:01:49.933 --> 00:01:53.983
+Việc tìm kiếm các cụm từ như "Reacts"
+hoặc "Basic" sẽ lọc và hiển thị các
+
+37
+00:01:53.983 --> 00:01:58.033
+hàng hoặc nhóm phù hợp, bao gồm cả các
+phần tử cha tương ứng.
+
+38
+00:01:58.800 --> 00:02:01.475
+Trình xem bảng theo dõi cung cấp cho
+chuyên viên tin học điều dưỡng một
+
+39
+00:02:01.475 --> 00:02:04.150
+cách thức rõ ràng, tập trung để xác
+thực cấu trúc mẫu, phát hiện sớm các
+
+40
+00:02:04.150 --> 00:02:06.824
+vấn đề và hỗ trợ quy trình ghi chép an
+toàn trước khi các mẫu đến tay nhân
+
+41
+00:02:06.824 --> 00:02:09.500
+viên y tế.
+
+42
+00:02:09.500 --> 00:02:10.900
+Cảm ơn bạn đã xem.

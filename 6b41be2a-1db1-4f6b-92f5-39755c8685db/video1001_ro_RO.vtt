@@ -1,0 +1,245 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:03.666
+În acest videoclip, veți afla cum să
+navigați la managerul de personalizare
+
+2
+00:00:03.666 --> 00:00:05.899
+a inteligenței artificiale și să
+utilizați Vizualizatorul foilor de
+
+3
+00:00:05.899 --> 00:00:08.132
+flux pentru a înțelege șabloanele
+foilor de flux activate în funcție de
+
+4
+00:00:08.132 --> 00:00:10.366
+mediu.
+
+5
+00:00:11.033 --> 00:00:13.466
+Vizualizatorul foilor de flux vă
+permite să explorați toate
+
+6
+00:00:13.466 --> 00:00:15.899
+componentele șabloanelor foilor de
+flux activate în funcție de mediu,
+
+7
+00:00:15.899 --> 00:00:18.332
+inclusiv grupurile, rândurile și
+macrocomenzile, toate în vizualizări
+
+8
+00:00:18.332 --> 00:00:20.766
+de tip grilă sau ierarhice.
+
+9
+00:00:21.333 --> 00:00:24.374
+Înainte de a începe, confirmați că
+aveți rolul necesar, că este asigurat
+
+10
+00:00:24.374 --> 00:00:27.416
+accesul pentru mediu, că accesul EHR
+este configurat, că schemele
+
+11
+00:00:27.416 --> 00:00:30.458
+șabloanelor sunt exportate și
+încărcate și că șabloanele sunt
+
+12
+00:00:30.458 --> 00:00:33.500
+semnalizate drept activate pentru
+mediu.
+
+13
+00:00:34.300 --> 00:00:36.066
+Conectați-vă la centrul de
+administrare Dragon și accesați
+
+14
+00:00:36.066 --> 00:00:37.833
+secțiunea Asistente medicale.
+
+15
+00:00:37.833 --> 00:00:39.833
+Selectați Managerul de personalizare a
+inteligenței artificiale din secțiunea
+
+16
+00:00:39.833 --> 00:00:41.833
+Instrumente pentru asistente medicale.
+
+17
+00:00:41.900 --> 00:00:44.266
+Vizualizatorul foilor de flux se
+deschide într-o filă nouă.
+
+18
+00:00:44.266 --> 00:00:46.666
+Îl puteți include în preferințe,
+pentru a avea un acces rapid.
+
+19
+00:00:46.666 --> 00:00:48.799
+Fila Templates afișează toate
+șabloanele de fișe de observație
+
+20
+00:00:48.799 --> 00:00:50.933
+activate pentru înregistrare de fond.
+
+21
+00:00:50.933 --> 00:00:53.344
+Utilizați bara de căutare sau coloana
+pentru a sorta și a restrânge
+
+22
+00:00:53.344 --> 00:00:55.755
+rezultatele. Activați comutatorul
+Excluded pentru a elimina orice șablon
+
+23
+00:00:55.755 --> 00:00:58.166
+din înregistrarea de fond.
+
+24
+00:00:58.166 --> 00:01:02.166
+Exportați vizualizarea ca fișier JSON
+utilizând pictograma de descărcare.
+
+25
+00:01:02.433 --> 00:01:04.899
+Fila Grupuri afișează toate grupurile
+din șabloane.
+
+26
+00:01:04.900 --> 00:01:07.083
+Sortați sau căutați. De exemplu,
+„respirator” pentru a găsi rapid
+
+27
+00:01:07.083 --> 00:01:09.266
+anumite grupuri.
+
+28
+00:01:09.266 --> 00:01:12.483
+Comutatorul exclude from ambient și
+opțiunea de export sunt disponibile în
+
+29
+00:01:12.483 --> 00:01:15.700
+această filă.
+
+30
+00:01:15.700 --> 00:01:18.916
+Fila Rânduri afișează toate rândurile
+cu detalii cum ar fi grupul părinte,
+
+31
+00:01:18.916 --> 00:01:22.132
+numele rândului, tipul de valoare și
+opțiunile de valoare.
+
+32
+00:01:22.133 --> 00:01:24.799
+Sortați și filtrați după cum este
+necesar.
+
+33
+00:01:24.800 --> 00:01:27.833
+De exemplu, căutarea „cough” filtrează
+instantaneu rândurile care corespund.
+
+34
+00:01:27.833 --> 00:01:31.033
+Comutatorul exclude from ambient și
+opțiunea de export sunt disponibile și
+
+35
+00:01:31.033 --> 00:01:34.233
+în această filă.
+
+36
+00:01:34.233 --> 00:01:36.183
+Fila Macrocomenzi afișează toate
+macrocomenzile asociate cu șabloanele
+
+37
+00:01:36.183 --> 00:01:38.133
+activate în funcție de mediu.
+
+38
+00:01:38.133 --> 00:01:40.183
+Puteți sorta, filtra și exporta
+detalii, cum ar fi tipul de
+
+39
+00:01:40.183 --> 00:01:42.233
+macrocomandă și numele.
+
+40
+00:01:42.233 --> 00:01:44.233
+Comutatorul exclude from ambient este,
+de asemenea, disponibil în această
+
+41
+00:01:44.233 --> 00:01:46.233
+filă.
+
+42
+00:01:46.700 --> 00:01:48.316
+Utilizați Vizualizarea ierarhică
+pentru a explora șabloanele într-un
+
+43
+00:01:48.316 --> 00:01:49.933
+aspect structurat.
+
+44
+00:01:49.933 --> 00:01:52.632
+Căutarea termenilor cum ar fi
+„reacționează” sau „de bază” filtrează
+
+45
+00:01:52.632 --> 00:01:55.332
+și afișează rândurile sau grupurile
+care corespund, inclusiv elementele
+
+46
+00:01:55.332 --> 00:01:58.033
+acestora de tip „părinte”.
+
+47
+00:01:58.800 --> 00:02:00.939
+Vizualizatorul foilor de flux le oferă
+informaticienilor care oferă suport
+
+48
+00:02:00.939 --> 00:02:03.079
+asistentelor medicale o modalitate
+clară și centralizată de a valida
+
+49
+00:02:03.079 --> 00:02:05.219
+structura șabloanelor, de a identifica
+problemele în timp util și de a oferi
+
+50
+00:02:05.219 --> 00:02:07.359
+suport pentru fluxuri de lucru sigure
+pentru documentație, înainte ca
+
+51
+00:02:07.359 --> 00:02:09.500
+șabloanele să ajungă la clinicieni.
+
+52
+00:02:09.500 --> 00:02:10.900
+Vă mulțumim pentru vizionare.

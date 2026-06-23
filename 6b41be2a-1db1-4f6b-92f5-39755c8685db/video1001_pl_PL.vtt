@@ -1,0 +1,227 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+W tym wideo dowiesz się, jak poruszać
+się po menedżerze dostosowywania AI i
+
+2
+00:00:04.410 --> 00:00:07.388
+używać przeglądarki arkuszy przepływu,
+aby zrozumieć szablony arkuszy
+
+3
+00:00:07.388 --> 00:00:10.366
+przepływu z włączonym otoczeniem.
+
+4
+00:00:11.033 --> 00:00:14.277
+Przeglądarka arkuszy przepływu
+umożliwia przeglądanie wszystkich
+
+5
+00:00:14.277 --> 00:00:17.521
+składników szablonów arkuszy przepływu
+z włączonym trybem otoczenia, w tym
+
+6
+00:00:17.521 --> 00:00:20.766
+grup, wierszy i makr – wszystko w
+widoku siatki lub hierarchicznym.
+
+7
+00:00:21.333 --> 00:00:24.374
+Przed rozpoczęciem potwierdź, że masz
+wymaganą rolę, Twoje środowisko jest
+
+8
+00:00:24.374 --> 00:00:27.416
+zainicjowane, dostęp do systemu EDM
+jest skonfigurowany, schematy
+
+9
+00:00:27.416 --> 00:00:30.458
+szablonów są wyeksportowane i
+przesłane, a szablony są oznaczone
+
+10
+00:00:30.458 --> 00:00:33.500
+jako z włączonym otoczeniem.
+
+11
+00:00:34.300 --> 00:00:36.066
+Zaloguj się do centrum
+administracyjnego aplikacji Dragon i
+
+12
+00:00:36.066 --> 00:00:37.833
+przejdź do sekcji Pielęgniarki.
+
+13
+00:00:37.833 --> 00:00:39.833
+Wybierz pozycję Menedżer
+dostosowywania AI w obszarze Narzędzia
+
+14
+00:00:39.833 --> 00:00:41.833
+pielęgniarskie.
+
+15
+00:00:41.900 --> 00:00:44.266
+Przeglądarka arkuszy przepływu
+zostanie otwarta w nowej karcie.
+
+16
+00:00:44.266 --> 00:00:46.666
+Możesz dodać ją do zakładek, aby mieć
+do niej szybki dostęp.
+
+17
+00:00:46.666 --> 00:00:48.799
+Karta Szablony zawiera listę
+wszystkich szablonów arkuszy przepływu
+
+18
+00:00:48.799 --> 00:00:50.933
+włączonych na potrzeby nagrywania
+otoczenia.
+
+19
+00:00:50.933 --> 00:00:53.344
+Użyj paska wyszukiwania lub kolumny,
+aby sortować i zawężać wyniki.
+
+20
+00:00:53.344 --> 00:00:55.755
+Przełącz przełącznik Wykluczone, aby
+usunąć dowolny szablon z nagrywania
+
+21
+00:00:55.755 --> 00:00:58.166
+otoczenia.
+
+22
+00:00:58.166 --> 00:01:02.166
+Wyeksportuj widok jako plik JSON za
+pomocą ikony pobierania.
+
+23
+00:01:02.433 --> 00:01:04.899
+Na karcie Grupy widoczne są wszystkie
+grupy w szablonach.
+
+24
+00:01:04.900 --> 00:01:07.083
+Sortuj lub wyszukuj – na przykład
+„oddechowy”, aby szybko zlokalizować
+
+25
+00:01:07.083 --> 00:01:09.266
+określone grupy.
+
+26
+00:01:09.266 --> 00:01:12.483
+Na tej karcie są dostępne przełącznik
+wykluczania z otoczenia i opcja
+
+27
+00:01:12.483 --> 00:01:15.700
+eksportu.
+
+28
+00:01:15.700 --> 00:01:17.844
+Na karcie Wiersze znajduje się lista
+wszystkich wierszy ze szczegółami
+
+29
+00:01:17.844 --> 00:01:19.988
+takimi jak grupa nadrzędna, nazwa
+wiersza, typ wartości i opcje
+
+30
+00:01:19.988 --> 00:01:22.132
+wartości.
+
+31
+00:01:22.133 --> 00:01:24.799
+Sortuj i filtruj według potrzeb.
+
+32
+00:01:24.800 --> 00:01:27.833
+Na przykład wyszukanie hasła „kaszel”
+natychmiast filtruje pasujące wiersze.
+
+33
+00:01:27.833 --> 00:01:31.033
+Na tej karcie są również dostępne
+przełącznik wykluczania z otoczenia i
+
+34
+00:01:31.033 --> 00:01:34.233
+opcja eksportu.
+
+35
+00:01:34.233 --> 00:01:36.183
+Na karcie Makra wyświetlane są
+wszystkie makra powiązane z szablonami
+
+36
+00:01:36.183 --> 00:01:38.133
+z włączonym otoczeniem.
+
+37
+00:01:38.133 --> 00:01:40.183
+Możesz sortować, filtrować i
+eksportować szczegóły, takie jak typ i
+
+38
+00:01:40.183 --> 00:01:42.233
+nazwa makra.
+
+39
+00:01:42.233 --> 00:01:46.233
+Na tej karcie jest również dostępny
+przełącznik wykluczania z otoczenia.
+
+40
+00:01:46.700 --> 00:01:48.316
+Użyj widoku hierarchicznego, aby
+przeglądać szablony w
+
+41
+00:01:48.316 --> 00:01:49.933
+ustrukturyzowanym układzie.
+
+42
+00:01:49.933 --> 00:01:53.983
+Wyszukiwanie terminów takich jak
+„Reakcje” lub „Podstawowe” filtruje i
+
+43
+00:01:53.983 --> 00:01:58.033
+pokazuje pasujące wiersze lub grupy, w
+tym ich elementy nadrzędne.
+
+44
+00:01:58.800 --> 00:02:01.475
+Przeglądarka arkuszy przepływu
+zapewnia informatykom pielęgniarskim
+
+45
+00:02:01.475 --> 00:02:04.150
+przejrzysty, scentralizowany sposób na
+weryfikację struktury szablonów,
+
+46
+00:02:04.150 --> 00:02:06.824
+wczesne wykrywanie problemów i
+wspieranie bezpiecznych przepływów
+
+47
+00:02:06.824 --> 00:02:09.500
+pracy dokumentacji, zanim szablony
+trafią do lekarzy.
+
+48
+00:02:09.500 --> 00:02:10.900
+Dziękujemy za uwagę.

@@ -1,0 +1,238 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:03.666
+U ovom video zapisu ćete saznati kako
+se kretati menadžerom prilagođavanja
+
+2
+00:00:03.666 --> 00:00:05.899
+veštačke inteligencije i kako
+upotrebljavati prikazivač evidencionog
+
+3
+00:00:05.899 --> 00:00:08.132
+lista kako biste razumeli predloške
+šeme toka rada s omogućenim
+
+4
+00:00:08.132 --> 00:00:10.366
+ambijentalnim načinom rada.
+
+5
+00:00:11.033 --> 00:00:13.466
+Prikazivač evidencionog lista vam
+omogućava da istražite sve komponente
+
+6
+00:00:13.466 --> 00:00:15.899
+predložaka evidencionog lista sa
+omogućenim ambijentom, uključujući
+
+7
+00:00:15.899 --> 00:00:18.332
+grupe, redove i makroe – sve u
+prikazima koordinatne mreže ili
+
+8
+00:00:18.332 --> 00:00:20.766
+hijerarhije.
+
+9
+00:00:21.333 --> 00:00:24.374
+Pre početka potvrdite da imate
+potrebnu ulogu, da je okruženje sa
+
+10
+00:00:24.374 --> 00:00:27.416
+dodeljenim privilegijama,da je EHR
+pristup podešen, šeme predložaka se
+
+11
+00:00:27.416 --> 00:00:30.458
+izvoze i otpremaju, a predlošci su
+označeni zastavicom kao omogućeni
+
+12
+00:00:30.458 --> 00:00:33.500
+ambijent.
+
+13
+00:00:34.300 --> 00:00:36.066
+Prijavite se u Dragon centar
+administracije i idite u odeljak
+
+14
+00:00:36.066 --> 00:00:37.833
+„Medicinsko osoblje".
+
+15
+00:00:37.833 --> 00:00:41.833
+Izaberite menadžer za prilagođavanje
+AI-ja u okviru „Alatke za negu“.
+
+16
+00:00:41.900 --> 00:00:44.266
+Prikazivač evidencionog lista se
+otvara na novoj kartici.
+
+17
+00:00:44.266 --> 00:00:46.666
+Možete da ga obeležite za brzi
+pristup.
+
+18
+00:00:46.666 --> 00:00:48.799
+Kartica „Predlošci“ navodi sve
+predloške evidencionog lista omogućene
+
+19
+00:00:48.799 --> 00:00:50.933
+za ambijentalno snimanje.
+
+20
+00:00:50.933 --> 00:00:53.344
+Koristite polje za pretragu ili kolonu
+da biste sortirali i suzili rezultate.
+
+21
+00:00:53.344 --> 00:00:55.755
+Uključite prekidač „Isključeno“ da
+biste uklonili bilo koji predložak iz
+
+22
+00:00:55.755 --> 00:00:58.166
+ambijentalnog snimanja.
+
+23
+00:00:58.166 --> 00:01:02.166
+Izvezite prikaz kao JSON datoteku
+pomoću ikone za preuzimanje.
+
+24
+00:01:02.433 --> 00:01:04.899
+Kartica „Grupe“ prikazuje sve grupe u
+predlošcima.
+
+25
+00:01:04.900 --> 00:01:07.083
+Sortirajte ili pretražite – na primer,
+„respiratorni“ da biste brzo pronašli
+
+26
+00:01:07.083 --> 00:01:09.266
+određene grupe.
+
+27
+00:01:09.266 --> 00:01:12.483
+Prekidač za isključivanje iz
+ambijentalnog snimanja i opcija izvoza
+
+28
+00:01:12.483 --> 00:01:15.700
+dostupni su na ovoj kartici.
+
+29
+00:01:15.700 --> 00:01:18.916
+Kartica „Redovi“ navodi sve redove sa
+detaljima kao što su nadređena grupa,
+
+30
+00:01:18.916 --> 00:01:22.132
+ime reda, tip vrednosti i opcije
+vrednosti.
+
+31
+00:01:22.133 --> 00:01:24.799
+Sortirajte i filtrirajte po potrebi.
+
+32
+00:01:24.800 --> 00:01:26.316
+Na primer, pretraga „kašalj“
+momentalno filtrira odgovarajuće
+
+33
+00:01:26.316 --> 00:01:27.833
+redove.
+
+34
+00:01:27.833 --> 00:01:31.033
+Prekidač za isključivanje iz
+ambijentalnog snimanja i opcija izvoza
+
+35
+00:01:31.033 --> 00:01:34.233
+takođe su dostupni na ovoj kartici.
+
+36
+00:01:34.233 --> 00:01:36.183
+Kartica „Makroi“ prikazuje sve makroe
+povezane sa predlošcima omogućenim za
+
+37
+00:01:36.183 --> 00:01:38.133
+ambijent.
+
+38
+00:01:38.133 --> 00:01:40.183
+Možete da sortirate, filtrirate i
+izvezete detalje kao što su tip makroa
+
+39
+00:01:40.183 --> 00:01:42.233
+i ime.
+
+40
+00:01:42.233 --> 00:01:44.233
+Prekidač za isključivanje iz
+ambijentalnog snimanja takođe je
+
+41
+00:01:44.233 --> 00:01:46.233
+dostupan na ovoj kartici.
+
+42
+00:01:46.700 --> 00:01:48.316
+Koristite hijerarhijski prikaz da
+biste istražili predloške u
+
+43
+00:01:48.316 --> 00:01:49.933
+strukturiranom rasporedu.
+
+44
+00:01:49.933 --> 00:01:52.632
+Pretraživanje termina kao što su
+filteri „Reakcije“ ili „Osnovno" i
+
+45
+00:01:52.632 --> 00:01:55.332
+otkriva podudarne redove ili grupe,
+uključujući njihove nadređene
+
+46
+00:01:55.332 --> 00:01:58.033
+elemente.
+
+47
+00:01:58.800 --> 00:02:01.475
+Prikazivač evidencionog lista pruža
+informatičarima jasan, centralizovan
+
+48
+00:02:01.475 --> 00:02:04.150
+način za proveru valjanosti strukture
+predložaka, rano hvatanje problema i
+
+49
+00:02:04.150 --> 00:02:06.824
+podršku tokovima posla sa bezbednom
+dokumentacijom pre nego što predlošci
+
+50
+00:02:06.824 --> 00:02:09.500
+stignu do kliničkih radnika.
+
+51
+00:02:09.500 --> 00:02:10.900
+Hvala što ste gledali.

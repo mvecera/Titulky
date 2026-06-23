@@ -1,0 +1,220 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+Šiame vaizdo įraše sužinosite, kaip
+naršyti dirbtinio intelekto tinkinimo
+
+2
+00:00:04.410 --> 00:00:07.388
+tvarkytuvą ir naudoti srautų šablono
+peržiūros programą, kad suprastumėte
+
+3
+00:00:07.388 --> 00:00:10.366
+srautų šablonus, kuriuose įgalinta
+aplinkos funkcija.
+
+4
+00:00:11.033 --> 00:00:14.277
+Srautų šablono peržiūros programa
+leidžia tyrinėti visus aplinkai
+
+5
+00:00:14.277 --> 00:00:17.521
+pritaikytų srautų šablonų komponentus,
+įskaitant grupes, eilutes ir
+
+6
+00:00:17.521 --> 00:00:20.766
+makrokomandas – tiek tinklelio, tiek
+hierarchiniuose vaizduose.
+
+7
+00:00:21.333 --> 00:00:25.388
+Prieš pradėdami įsitikinkite, kad
+turite reikiamą rolę, aplinka yra
+
+8
+00:00:25.388 --> 00:00:29.444
+paruošta, nustatytas ESI prieigos
+lygis, eksportuoti ir įkelti šablonų
+
+9
+00:00:29.444 --> 00:00:33.500
+schemos, o šablonai pažymėti kaip
+aplinkai pritaikyti.
+
+10
+00:00:34.300 --> 00:00:36.066
+Prisijunkite prie „Dragon“
+administravimo centro ir eikite į
+
+11
+00:00:36.066 --> 00:00:37.833
+skyrių „Slaugytojai“.
+
+12
+00:00:37.833 --> 00:00:41.833
+Pasirinkite DI pritaikymo valdymo
+įrankį dalyje „Slaugos įrankiai“.
+
+13
+00:00:41.900 --> 00:00:44.266
+Srautų šablono peržiūros programa
+atsidaro naujame skirtuke.
+
+14
+00:00:44.266 --> 00:00:46.666
+Galima įrašyti ją į žymes greitam
+pasiekiamumui.
+
+15
+00:00:46.666 --> 00:00:48.799
+Skirtuke „Šablonai“ pateikiami visi
+lapo šablonai, įgalinti aplinkos
+
+16
+00:00:48.799 --> 00:00:50.933
+įrašymui.
+
+17
+00:00:50.933 --> 00:00:53.344
+Naudokite ieškos juostą arba stulpelį,
+kad surikiuotumėte ir susiaurintumėte
+
+18
+00:00:53.344 --> 00:00:55.755
+rezultatus. Perjunkite jungiklį
+„Neįtraukta“, kad pašalintumėte bet
+
+19
+00:00:55.755 --> 00:00:58.166
+kurį šabloną iš aplinkos įrašymo.
+
+20
+00:00:58.166 --> 00:01:02.166
+Eksportuokite rodinį kaip JSON failą
+naudodami atsisiuntimo piktogramą.
+
+21
+00:01:02.433 --> 00:01:04.899
+Skirtuke „Grupės“ rodomos visos grupės
+iš visų šablonų.
+
+22
+00:01:04.900 --> 00:01:07.083
+Rikiuokite arba ieškokite –
+pavyzdžiui, įveskite „kvėpavimas“, kad
+
+23
+00:01:07.083 --> 00:01:09.266
+greitai rastumėte konkrečias grupes.
+
+24
+00:01:09.266 --> 00:01:12.483
+Šiame skirtuke taip pat galima naudoti
+jungiklį „neįtraukti į aplinkos“ ir
+
+25
+00:01:12.483 --> 00:01:15.700
+eksportavimo parinktį.
+
+26
+00:01:15.700 --> 00:01:18.916
+Eilučių skirtuke pateikiamos visos
+eilutės su detalėmis, tokiomis kaip
+
+27
+00:01:18.916 --> 00:01:22.132
+pirminė grupė, eilutės pavadinimas,
+reikšmės tipas ir reikšmių parinktys.
+
+28
+00:01:22.133 --> 00:01:24.799
+Rikiuokite ir filtruokite pagal
+poreikį.
+
+29
+00:01:24.800 --> 00:01:27.833
+Pavyzdžiui, įvedus „kosulys“, iškart
+filtruojamos atitinkančios eilutės.
+
+30
+00:01:27.833 --> 00:01:31.033
+Šiame skirtuke taip pat galima naudoti
+jungiklį „neįtraukti į aplinkos“ ir
+
+31
+00:01:31.033 --> 00:01:34.233
+eksportavimo parinktį.
+
+32
+00:01:34.233 --> 00:01:36.183
+Makrokomandų skirtuke rodomos visos
+makrokomandos, susijusios su aplinkai
+
+33
+00:01:36.183 --> 00:01:38.133
+pritaikytais šablonais.
+
+34
+00:01:38.133 --> 00:01:40.183
+Galite rikiuoti, filtruoti ir
+eksportuoti detales, tokias kaip
+
+35
+00:01:40.183 --> 00:01:42.233
+makrokomandos tipas ir pavadinimas.
+
+36
+00:01:42.233 --> 00:01:46.233
+Šiame skirtuke taip pat galima naudoti
+jungiklį „neįtraukti į aplinkos“.
+
+37
+00:01:46.700 --> 00:01:48.316
+Naudokite hierarchinį vaizdą, kad
+tyrinėtumėte šablonus struktūrizuotu
+
+38
+00:01:48.316 --> 00:01:49.933
+išdėstymu.
+
+39
+00:01:49.933 --> 00:01:52.632
+Ieškodami terminų, tokių kaip
+„Reakcijos“ arba „Pagrindinis“,
+
+40
+00:01:52.632 --> 00:01:55.332
+filtruojamos ir rodomos atitinkančios
+eilutės ar grupės kartu su jų
+
+41
+00:01:55.332 --> 00:01:58.033
+pirminiais elementais.
+
+42
+00:01:58.800 --> 00:02:01.475
+Šablonų srauto peržiūros programa
+suteikia slaugos informatikos
+
+43
+00:02:01.475 --> 00:02:04.150
+specialistams aiškų, centralizuotą
+būdą patikrinti šablonų struktūrą,
+
+44
+00:02:04.150 --> 00:02:06.824
+anksti pastebėti problemas ir
+palaikyti saugius dokumentacijos
+
+45
+00:02:06.824 --> 00:02:09.500
+procesus prieš šablonų pateikimą
+gydytojams.
+
+46
+00:02:09.500 --> 00:02:10.900
+Ačiū, kad žiūrėjote.

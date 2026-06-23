@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+Neste vídeo, você aprenderá a navegar
+no gerenciador de personalização de IA
+
+2
+00:00:04.410 --> 00:00:07.388
+e a usar o Visualizador de Planilhas
+para entender os modelos de planilha
+
+3
+00:00:07.388 --> 00:00:10.366
+habilitados para ambiente.
+
+4
+00:00:11.033 --> 00:00:14.277
+O Visualizador de Planilhas permite
+explorar todos os componentes dos
+
+5
+00:00:14.277 --> 00:00:17.521
+modelos de planilha habilitados para
+ambiente, incluindo grupos, linhas e
+
+6
+00:00:17.521 --> 00:00:20.766
+macros, tudo em exibições de grade ou
+hierárquicas.
+
+7
+00:00:21.333 --> 00:00:24.374
+Antes de começar, confirme se você tem
+a função necessária, se o ambiente
+
+8
+00:00:24.374 --> 00:00:27.416
+está provisionado, se o acesso ao EHR
+está configurado, se os esquemas de
+
+9
+00:00:27.416 --> 00:00:30.458
+modelo estão exportados e carregados e
+se os modelos estão sinalizados como
+
+10
+00:00:30.458 --> 00:00:33.500
+habilitados para ambiente.
+
+11
+00:00:34.300 --> 00:00:37.833
+Entre no centro de administração
+Dragon e acesse a seção Enfermeiros.
+
+12
+00:00:37.833 --> 00:00:39.833
+Selecione Gerenciador de
+Personalização de IA em Ferramentas de
+
+13
+00:00:39.833 --> 00:00:41.833
+Enfermagem.
+
+14
+00:00:41.900 --> 00:00:44.266
+O Visualizador de Planilhas será
+aberto em uma nova guia.
+
+15
+00:00:44.266 --> 00:00:46.666
+Você pode adicionar um indicador para
+acesso rápido.
+
+16
+00:00:46.666 --> 00:00:48.799
+A guia Modelos lista todos os modelos
+de fluxuograma habilitados para
+
+17
+00:00:48.799 --> 00:00:50.933
+gravação de ambiente.
+
+18
+00:00:50.933 --> 00:00:53.344
+Use a barra de pesquisa ou a coluna
+para classificar e refinar os
+
+19
+00:00:53.344 --> 00:00:55.755
+resultados. Ative a opção Excluído
+para remover qualquer modelo da
+
+20
+00:00:55.755 --> 00:00:58.166
+gravação de ambiente.
+
+21
+00:00:58.166 --> 00:01:02.166
+Exporte a exibição como um arquivo
+JSON usando o ícone de download.
+
+22
+00:01:02.433 --> 00:01:04.899
+A guia Grupos mostra todos os grupos
+em todos os modelos.
+
+23
+00:01:04.900 --> 00:01:07.083
+Classifique ou pesquise, por exemplo,
+"respiratório" para localizar
+
+24
+00:01:07.083 --> 00:01:09.266
+rapidamente grupos específicos.
+
+25
+00:01:09.266 --> 00:01:12.483
+A opção de exclusão da gravação
+ambiente e a opção de exportação estão
+
+26
+00:01:12.483 --> 00:01:15.700
+disponíveis nesta guia.
+
+27
+00:01:15.700 --> 00:01:18.916
+A guia Linhas lista todas as linhas
+com detalhes como grupo pai, nome da
+
+28
+00:01:18.916 --> 00:01:22.132
+linha, tipo de valor e opções de
+valor.
+
+29
+00:01:22.133 --> 00:01:24.799
+Classifique e filtre conforme
+necessário.
+
+30
+00:01:24.800 --> 00:01:26.316
+Por exemplo, a pesquisa por "tosse"
+filtra instantaneamente as linhas
+
+31
+00:01:26.316 --> 00:01:27.833
+correspondentes.
+
+32
+00:01:27.833 --> 00:01:31.033
+A opção de exclusão da gravação
+ambiente e a opção de exportação
+
+33
+00:01:31.033 --> 00:01:34.233
+também estão disponíveis nesta guia.
+
+34
+00:01:34.233 --> 00:01:36.183
+A guia Macros exibe todas as macros
+associadas a modelos habilitados para
+
+35
+00:01:36.183 --> 00:01:38.133
+ambiente.
+
+36
+00:01:38.133 --> 00:01:40.183
+Você pode classificar, filtrar e
+exportar detalhes como tipo e nome da
+
+37
+00:01:40.183 --> 00:01:42.233
+macro.
+
+38
+00:01:42.233 --> 00:01:44.233
+A opção de exclusão da gravação
+ambiente também está disponível nesta
+
+39
+00:01:44.233 --> 00:01:46.233
+guia.
+
+40
+00:01:46.700 --> 00:01:48.316
+Use a Exibição Hierárquica para
+explorar modelos em um layout
+
+41
+00:01:48.316 --> 00:01:49.933
+estruturado.
+
+42
+00:01:49.933 --> 00:01:53.983
+A pesquisa de termos como "Reage" ou
+"Básico" filtra e revela linhas ou
+
+43
+00:01:53.983 --> 00:01:58.033
+grupos correspondentes, incluindo seus
+elementos pai.
+
+44
+00:01:58.800 --> 00:02:00.939
+O Visualizador de Planilha oferece aos
+informaticistas de enfermagem uma
+
+45
+00:02:00.939 --> 00:02:03.079
+maneira clara e centralizada de
+validar a estrutura do modelo,
+
+46
+00:02:03.079 --> 00:02:05.219
+detectar problemas antecipadamente
+e dar suporte a fluxos de trabalho de
+
+47
+00:02:05.219 --> 00:02:07.359
+documentação segura antes que os
+modelos cheguem aos profissionais de
+
+48
+00:02:07.359 --> 00:02:09.500
+saúde.
+
+49
+00:02:09.500 --> 00:02:10.900
+Obrigado por assistir.

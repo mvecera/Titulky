@@ -1,0 +1,243 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+In questo video scoprirai come
+esplorare Gestione personalizzazione
+
+2
+00:00:04.410 --> 00:00:07.388
+IA e usare il Visualizzatore di
+diagrammi di flusso per comprendere i
+
+3
+00:00:07.388 --> 00:00:10.366
+modelli di diagrammi di flusso
+abilitati per l'ambiente.
+
+4
+00:00:11.033 --> 00:00:13.466
+Il Visualizzatore di diagrammi di
+flusso consente di esplorare tutti i
+
+5
+00:00:13.466 --> 00:00:15.899
+componenti dei modelli di diagrammi di
+flusso abilitati per l'ambiente,
+
+6
+00:00:15.899 --> 00:00:18.332
+inclusi gruppi, righe e macro, tutto
+in visualizzazioni griglia o
+
+7
+00:00:18.332 --> 00:00:20.766
+gerarchiche.
+
+8
+00:00:21.333 --> 00:00:23.766
+Prima di iniziare, verifica di avere
+il ruolo richiesto, conferma che il
+
+9
+00:00:23.766 --> 00:00:26.199
+provisioning dell'ambiente sia stato
+effettuato, che l'accesso alla
+
+10
+00:00:26.199 --> 00:00:28.633
+cartella clinica elettronica sia
+configurato, gli schemi di modelli
+
+11
+00:00:28.633 --> 00:00:31.066
+siano stati esportati e caricati e i
+modelli siano contrassegnati come
+
+12
+00:00:31.066 --> 00:00:33.500
+abilitati per l'ambiente.
+
+13
+00:00:34.300 --> 00:00:36.066
+Accedi all'Interfaccia di
+amministrazione di Dragon e passa alla
+
+14
+00:00:36.066 --> 00:00:37.833
+sezione Infermieri.
+
+15
+00:00:37.833 --> 00:00:41.833
+Seleziona Gestione personalizzazione
+IA in Strumenti per infermieri.
+
+16
+00:00:41.900 --> 00:00:44.266
+Il Visualizzatore di diagrammi di
+flusso si apre in una nuova scheda.
+
+17
+00:00:44.266 --> 00:00:46.666
+Puoi aggiungerlo ai segnalibri per un
+accesso rapido.
+
+18
+00:00:46.666 --> 00:00:48.799
+La scheda Modelli elenca tutti i
+modelli di Flowsheet abilitati per la
+
+19
+00:00:48.799 --> 00:00:50.933
+registrazione dell'ambiente.
+
+20
+00:00:50.933 --> 00:00:53.344
+Usa la barra di ricerca o una colonna
+per ordinare e restringere i
+
+21
+00:00:53.344 --> 00:00:55.755
+risultati. Attiva/disattiva
+l'interruttore Esclusi per rimuovere
+
+22
+00:00:55.755 --> 00:00:58.166
+un modello dalla registrazione
+dell'ambiente.
+
+23
+00:00:58.166 --> 00:01:02.166
+Esporta la visualizzazione come file
+JSON usando l'icona di download.
+
+24
+00:01:02.433 --> 00:01:04.899
+La scheda Gruppi visualizza tutti i
+gruppi tra i modelli.
+
+25
+00:01:04.900 --> 00:01:07.083
+Ordina o esegui una ricerca, ad
+esempio "respiratorio" per individuare
+
+26
+00:01:07.083 --> 00:01:09.266
+rapidamente gruppi specifici.
+
+27
+00:01:09.266 --> 00:01:12.483
+L'attivazione/disattivazione
+dell'esclusione dall'ambiente e
+
+28
+00:01:12.483 --> 00:01:15.700
+l'opzione di esportazione sono
+disponibili in questa scheda.
+
+29
+00:01:15.700 --> 00:01:18.916
+La scheda Righe elenca tutte le righe
+con dettagli come il gruppo padre, il
+
+30
+00:01:18.916 --> 00:01:22.132
+nome della riga, il tipo di valore e
+le opzioni del valore.
+
+31
+00:01:22.133 --> 00:01:24.799
+Ordina e filtra in base alle esigenze.
+
+32
+00:01:24.800 --> 00:01:27.833
+Ad esempio, cercando "tosse" filtri
+subito le righe corrispondenti.
+
+33
+00:01:27.833 --> 00:01:31.033
+L'attivazione/disattivazione
+dell'esclusione dall'ambiente e
+
+34
+00:01:31.033 --> 00:01:34.233
+l'opzione di esportazione sono
+disponibili anche in questa scheda.
+
+35
+00:01:34.233 --> 00:01:36.183
+Nella scheda Macro vengono
+visualizzate tutte le macro associate
+
+36
+00:01:36.183 --> 00:01:38.133
+ai modelli abilitati per l'ambiente.
+
+37
+00:01:38.133 --> 00:01:40.183
+Puoi ordinare, filtrare ed esportare i
+dettagli, ad esempio il tipo e il nome
+
+38
+00:01:40.183 --> 00:01:42.233
+della macro.
+
+39
+00:01:42.233 --> 00:01:44.233
+L'attivazione/disattivazione
+dell'esclusione dall'ambiente è
+
+40
+00:01:44.233 --> 00:01:46.233
+disponibile anche in questa scheda.
+
+41
+00:01:46.700 --> 00:01:48.316
+Usa la visualizzazione gerarchica per
+esplorare i modelli in un layout
+
+42
+00:01:48.316 --> 00:01:49.933
+strutturato.
+
+43
+00:01:49.933 --> 00:01:52.632
+La ricerca di termini come "Reazione"
+o "Di base" consente di filtrare e
+
+44
+00:01:52.632 --> 00:01:55.332
+visualizzare righe o gruppi
+corrispondenti, inclusi i relativi
+
+45
+00:01:55.332 --> 00:01:58.033
+elementi padre.
+
+46
+00:01:58.800 --> 00:02:00.939
+Il Visualizzatore di diagrammi di
+flusso offre agli informatici in
+
+47
+00:02:00.939 --> 00:02:03.079
+ambito infermieristico un modo chiaro
+e centralizzato per convalidare la
+
+48
+00:02:03.079 --> 00:02:05.219
+struttura del modello, rilevare i
+problemi in anticipo e supportare
+
+49
+00:02:05.219 --> 00:02:07.359
+flussi di lavoro di documentazione
+sicuri prima che i modelli raggiungano
+
+50
+00:02:07.359 --> 00:02:09.500
+i medici.
+
+51
+00:02:09.500 --> 00:02:10.900
+Grazie per l'attenzione.

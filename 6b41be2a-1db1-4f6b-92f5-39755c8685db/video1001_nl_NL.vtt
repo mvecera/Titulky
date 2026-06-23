@@ -1,0 +1,211 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+In deze video leer je hoe je door de
+AI-aanpassingsbeheerder navigeert en
+
+2
+00:00:04.410 --> 00:00:07.388
+de Flowsheet Viewer gebruikt om
+omgevingsgeschikte flowsheet-sjablonen
+
+3
+00:00:07.388 --> 00:00:10.366
+te begrijpen.
+
+4
+00:00:11.033 --> 00:00:14.277
+De Flowsheet Viewer laat je alle
+onderdelen van omgevingsgeschikte
+
+5
+00:00:14.277 --> 00:00:17.521
+flowsheet-sjablonen verkennen,
+inclusief groepen, rijen en macro's -
+
+6
+00:00:17.521 --> 00:00:20.766
+allemaal in raster- of hiërarchische
+weergaven.
+
+7
+00:00:21.333 --> 00:00:25.388
+Controleer voordat je begint of je de
+vereiste rol hebt, je omgeving is
+
+8
+00:00:25.388 --> 00:00:29.444
+ingericht, EPD-toegang is ingesteld,
+sjabloonschema's zijn geëxporteerd en
+
+9
+00:00:29.444 --> 00:00:33.500
+geüpload, en sjablonen als
+omgevingsgeschikt zijn gemarkeerd.
+
+10
+00:00:34.300 --> 00:00:37.833
+Log in op het Dragon-beheercentrum en
+ga naar de sectie Verpleegkundigen.
+
+11
+00:00:37.833 --> 00:00:41.833
+Selecteer AI-aanpassingsbeheerder
+onder Verpleegkundige hulpmiddelen.
+
+12
+00:00:41.900 --> 00:00:44.266
+De Flowsheet Viewer opent in een nieuw
+tabblad.
+
+13
+00:00:44.266 --> 00:00:46.666
+Je kunt het als bladwijzer opslaan
+voor snelle toegang.
+
+14
+00:00:46.666 --> 00:00:48.799
+Op het tabblad Templates staan alle
+flowsheet-sjablonen die zijn
+
+15
+00:00:48.799 --> 00:00:50.933
+ingeschakeld voor ambient recording.
+
+16
+00:00:50.933 --> 00:00:53.344
+Gebruik de zoekbalk of een kolom om
+resultaten te sorteren en te
+
+17
+00:00:53.344 --> 00:00:55.755
+verfijnen. Schakel de
+Uitsluiten-schakelaar in om een
+
+18
+00:00:55.755 --> 00:00:58.166
+sjabloon te verwijderen uit ambient
+recording.
+
+19
+00:00:58.166 --> 00:01:00.166
+Exporteer de weergave als een
+JSON-bestand met het
+
+20
+00:01:00.166 --> 00:01:02.166
+downloadpictogram.
+
+21
+00:01:02.433 --> 00:01:04.899
+Het tabblad Groepen toont alle groepen
+in de sjablonen.
+
+22
+00:01:04.900 --> 00:01:07.083
+Sorteer of zoek, bijvoorbeeld op
+'luchtwegen' om snel specifieke
+
+23
+00:01:07.083 --> 00:01:09.266
+groepen te vinden.
+
+24
+00:01:09.266 --> 00:01:12.483
+De optie uitsluiten van ambient en de
+exportoptie zijn beschikbaar op dit
+
+25
+00:01:12.483 --> 00:01:15.700
+tabblad.
+
+26
+00:01:15.700 --> 00:01:18.916
+Het tabblad Rijen toont alle rijen met
+details zoals bovenliggende groep,
+
+27
+00:01:18.916 --> 00:01:22.132
+rijnaam, waardetype en waardeopties.
+
+28
+00:01:22.133 --> 00:01:24.799
+Sorteer en filter indien nodig.
+
+29
+00:01:24.800 --> 00:01:27.833
+Zoek bijvoorbeeld op 'kuch' om direct
+de overeenkomende rijen te filteren.
+
+30
+00:01:27.833 --> 00:01:31.033
+De optie uitsluiten van ambient en de
+exportoptie zijn ook beschikbaar op
+
+31
+00:01:31.033 --> 00:01:34.233
+dit tabblad.
+
+32
+00:01:34.233 --> 00:01:36.183
+Op het tabblad Macro's worden alle
+macro's weergegeven die zijn gekoppeld
+
+33
+00:01:36.183 --> 00:01:38.133
+aan sjablonen met
+omgevingsfunctionaliteit.
+
+34
+00:01:38.133 --> 00:01:42.233
+Je kunt details zoals macrotype en
+naam sorteren, filteren en exporteren.
+
+35
+00:01:42.233 --> 00:01:46.233
+De optie uitsluiten van ambient is ook
+beschikbaar op dit tabblad.
+
+36
+00:01:46.700 --> 00:01:48.316
+Gebruik de hiërarchische weergave om
+sjablonen in een gestructureerde
+
+37
+00:01:48.316 --> 00:01:49.933
+indeling te verkennen.
+
+38
+00:01:49.933 --> 00:01:53.983
+Door termen zoals Reacties of Basis te
+zoeken, worden overeenkomende rijen of
+
+39
+00:01:53.983 --> 00:01:58.033
+groepen weergegeven, inclusief de
+bovenliggende elementen.
+
+40
+00:01:58.800 --> 00:02:01.475
+De Flowsheet Viewer biedt
+verpleegkundige informatici een
+
+41
+00:02:01.475 --> 00:02:04.150
+duidelijk, gecentraliseerd middel om
+de sjabloonstructuur te valideren,
+
+42
+00:02:04.150 --> 00:02:06.824
+problemen vroeg te signaleren en
+veilige documentatiestromen te
+
+43
+00:02:06.824 --> 00:02:09.500
+ondersteunen voordat sjablonen bij
+zorgverleners terechtkomen.
+
+44
+00:02:09.500 --> 00:02:10.900
+Bedankt voor het kijken.

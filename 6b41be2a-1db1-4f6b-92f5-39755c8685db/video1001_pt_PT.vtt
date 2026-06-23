@@ -1,0 +1,224 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+Neste vídeo, irá aprender a navegar no
+gestor de personalização de IA e a
+
+2
+00:00:04.410 --> 00:00:07.388
+utilizar o Visualizador de Folhas de
+Fluxo para compreender os modelos de
+
+3
+00:00:07.388 --> 00:00:10.366
+folhas de fluxo ativados para
+ambiente.
+
+4
+00:00:11.033 --> 00:00:13.466
+O Visualizador de Folhas de Fluxo
+permite-lhe explorar todos os
+
+5
+00:00:13.466 --> 00:00:15.899
+componentes dos modelos de folhas de
+fluxo ativados para ambiente,
+
+6
+00:00:15.899 --> 00:00:18.332
+incluindo grupos, linhas e macros –
+tudo em vistas de grelha ou
+
+7
+00:00:18.332 --> 00:00:20.766
+hierárquicas.
+
+8
+00:00:21.333 --> 00:00:24.374
+Antes de começar, confirme que tem a
+função necessária, que o seu ambiente
+
+9
+00:00:24.374 --> 00:00:27.416
+está aprovisionado, o acesso ao RES
+está configurado, os esquemas de
+
+10
+00:00:27.416 --> 00:00:30.458
+modelos estão exportados e carregados
+e que os modelos estão assinalados
+
+11
+00:00:30.458 --> 00:00:33.500
+como ativados para ambiente.
+
+12
+00:00:34.300 --> 00:00:36.066
+Inicie sessão no centro de
+administração do Dragon e vá para a
+
+13
+00:00:36.066 --> 00:00:37.833
+secção de Enfermeiros.
+
+14
+00:00:37.833 --> 00:00:41.833
+Selecione Gestor de Personalização de
+IA em Ferramentas de Enfermagem.
+
+15
+00:00:41.900 --> 00:00:44.266
+O Visualizador de Folhas de Fluxo abre
+num novo separador.
+
+16
+00:00:44.266 --> 00:00:46.666
+Pode adicionar aos favoritos para
+acesso rápido.
+
+17
+00:00:46.666 --> 00:00:48.799
+O separador Modelos lista todos os
+modelos de folha de fluxo ativados
+
+18
+00:00:48.799 --> 00:00:50.933
+para gravação ambiente.
+
+19
+00:00:50.933 --> 00:00:53.344
+Utilize a barra de pesquisa ou a
+coluna para ordenar e filtrar os
+
+20
+00:00:53.344 --> 00:00:55.755
+resultados. Ative ou desative o botão
+Excluídos para remover qualquer modelo
+
+21
+00:00:55.755 --> 00:00:58.166
+da gravação ambiente.
+
+22
+00:00:58.166 --> 00:01:02.166
+Exporte a vista como um ficheiro JSON
+com o ícone de transferência.
+
+23
+00:01:02.433 --> 00:01:04.899
+O separador Grupos mostra todos os
+grupos entre modelos.
+
+24
+00:01:04.900 --> 00:01:07.083
+Ordene ou pesquise – por exemplo,
+"respiratório" para localizar
+
+25
+00:01:07.083 --> 00:01:09.266
+rapidamente grupos específicos.
+
+26
+00:01:09.266 --> 00:01:12.483
+A opção excluir do ambiente de
+alternar e exportar está disponível
+
+27
+00:01:12.483 --> 00:01:15.700
+neste separador.
+
+28
+00:01:15.700 --> 00:01:18.916
+O separador Linhas lista todas as
+linhas com detalhes como o grupo
+
+29
+00:01:18.916 --> 00:01:22.132
+principal, o nome da linha, o tipo de
+valor e as opções de valor.
+
+30
+00:01:22.133 --> 00:01:24.799
+Ordenar e filtrar conforme necessário.
+
+31
+00:01:24.800 --> 00:01:26.316
+Por exemplo, ao pesquisar "tosse",
+filtra instantaneamente as linhas
+
+32
+00:01:26.316 --> 00:01:27.833
+correspondentes.
+
+33
+00:01:27.833 --> 00:01:31.033
+A opção de ativação/desativação da
+exclusão do ambiente e a opção de
+
+34
+00:01:31.033 --> 00:01:34.233
+exportação também estão disponíveis
+neste separador.
+
+35
+00:01:34.233 --> 00:01:36.183
+O separador Macros apresenta todas as
+macros associadas a modelos com
+
+36
+00:01:36.183 --> 00:01:38.133
+ambiente ativado.
+
+37
+00:01:38.133 --> 00:01:42.233
+Pode ordenar, filtrar e exportar
+detalhes como tipo e nome da macro.
+
+38
+00:01:42.233 --> 00:01:46.233
+A opção de excluir do ambiente também
+está disponível neste separador.
+
+39
+00:01:46.700 --> 00:01:48.316
+Utilize a Vista Hierárquica para
+explorar os modelos numa disposição
+
+40
+00:01:48.316 --> 00:01:49.933
+estruturada.
+
+41
+00:01:49.933 --> 00:01:53.983
+Pesquisar termos como "Reage" ou
+"Básico" filtra e revela linhas ou
+
+42
+00:01:53.983 --> 00:01:58.033
+grupos correspondentes, incluindo os
+respetivos elementos principais.
+
+43
+00:01:58.800 --> 00:02:01.475
+O Visualizador de Folhas de Fluxo
+oferece aos informáticos de enfermagem
+
+44
+00:02:01.475 --> 00:02:04.150
+uma forma clara e centralizada de
+validar a estrutura do modelo, detetar
+
+45
+00:02:04.150 --> 00:02:06.824
+problemas precocemente e apoiar fluxos
+de trabalho de documentação segura
+
+46
+00:02:06.824 --> 00:02:09.500
+antes de os modelos chegarem aos
+clínicos.
+
+47
+00:02:09.500 --> 00:02:10.900
+Obrigado por assistir.

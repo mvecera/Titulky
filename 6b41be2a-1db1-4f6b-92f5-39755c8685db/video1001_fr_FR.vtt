@@ -1,0 +1,244 @@
+WEBVTT
+
+1
+00:00:01.433 --> 00:00:04.410
+Dans cette vidéo, vous apprendrez à
+naviguer dans le gestionnaire de
+
+2
+00:00:04.410 --> 00:00:07.388
+personnalisation IA et à utiliser le
+Visionneur de Flowsheet pour
+
+3
+00:00:07.388 --> 00:00:10.366
+comprendre les modèles de flowsheet
+activés pour l’ambient.
+
+4
+00:00:11.033 --> 00:00:14.277
+Le Visionneur de Flowsheet vous permet
+d’explorer tous les composants des
+
+5
+00:00:14.277 --> 00:00:17.521
+modèles de flowsheet activés pour
+l’ambient, y compris les groupes, les
+
+6
+00:00:17.521 --> 00:00:20.766
+lignes et les macros – le tout en vues
+en grille ou hiérarchiques.
+
+7
+00:00:21.333 --> 00:00:24.374
+Avant de commencer, vérifiez que vous
+disposez du rôle requis, que votre
+
+8
+00:00:24.374 --> 00:00:27.416
+environnement est provisionné, que
+l’accès au DSE est configuré, que les
+
+9
+00:00:27.416 --> 00:00:30.458
+schémas de modèles sont exportés et
+téléchargés, et que les modèles sont
+
+10
+00:00:30.458 --> 00:00:33.500
+marqués comme activés pour l’ambient.
+
+11
+00:00:34.300 --> 00:00:36.066
+Connectez-vous au centre
+d’administration Dragon et accédez à
+
+12
+00:00:36.066 --> 00:00:37.833
+la section Infirmières.
+
+13
+00:00:37.833 --> 00:00:39.833
+Sélectionnez Gestionnaire de
+personnalisation IA sous Outils
+
+14
+00:00:39.833 --> 00:00:41.833
+infirmiers.
+
+15
+00:00:41.900 --> 00:00:44.266
+Le visualiseur de schéma s’ouvre dans
+un nouvel onglet.
+
+16
+00:00:44.266 --> 00:00:46.666
+Vous pouvez l’ajouter aux favoris pour
+y accéder rapidement.
+
+17
+00:00:46.666 --> 00:00:48.799
+L’onglet Modèles répertorie tous les
+modèles de diagrammes de soins activés
+
+18
+00:00:48.799 --> 00:00:50.933
+pour l’enregistrement ambiant.
+
+19
+00:00:50.933 --> 00:00:53.344
+Utilisez la barre de recherche ou les
+colonnes pour trier et affiner les
+
+20
+00:00:53.344 --> 00:00:55.755
+résultats. Activez le bouton Exclu
+pour supprimer un modèle de
+
+21
+00:00:55.755 --> 00:00:58.166
+l’enregistrement ambiant.
+
+22
+00:00:58.166 --> 00:01:00.166
+Exportez la vue en tant que fichier
+JSON en utilisant l’icône de
+
+23
+00:01:00.166 --> 00:01:02.166
+téléchargement.
+
+24
+00:01:02.433 --> 00:01:04.899
+L’onglet Groupes affiche tous les
+groupes pour les modèles.
+
+25
+00:01:04.900 --> 00:01:07.083
+Triez ou recherchez, par exemple,
+« respiratoire » pour localiser
+
+26
+00:01:07.083 --> 00:01:09.266
+rapidement des groupes spécifiques.
+
+27
+00:01:09.266 --> 00:01:12.483
+L’option d’exclusion de la bascule
+ambiante et l’option d’exportation
+
+28
+00:01:12.483 --> 00:01:15.700
+sont disponibles sous cet onglet.
+
+29
+00:01:15.700 --> 00:01:17.844
+L’onglet Lignes répertorie toutes les
+lignes avec des détails comme le
+
+30
+00:01:17.844 --> 00:01:19.988
+groupe parent, le nom de la ligne, le
+type de valeur et les options de
+
+31
+00:01:19.988 --> 00:01:22.132
+valeur.
+
+32
+00:01:22.133 --> 00:01:24.799
+Triez et filtrez, le cas échéant.
+
+33
+00:01:24.800 --> 00:01:26.316
+Par exemple, la recherche de « toux »
+filtre instantanément les lignes
+
+34
+00:01:26.316 --> 00:01:27.833
+correspondantes.
+
+35
+00:01:27.833 --> 00:01:31.033
+L’option d’exclusion de la bascule
+d’environnement ambiant et l’option
+
+36
+00:01:31.033 --> 00:01:34.233
+d’exportation sont disponibles sous
+cet onglet.
+
+37
+00:01:34.233 --> 00:01:36.183
+L’onglet Macros affiche toutes les
+macros associées aux modèles activés
+
+38
+00:01:36.183 --> 00:01:38.133
+pour l’environnement ambiant.
+
+39
+00:01:38.133 --> 00:01:40.183
+Vous pouvez trier, filtrer et exporter
+des détails tels que le type et le nom
+
+40
+00:01:40.183 --> 00:01:42.233
+de la macro.
+
+41
+00:01:42.233 --> 00:01:44.233
+L’option d’exclusion de la bascule
+d’environnement ambiant est aussi
+
+42
+00:01:44.233 --> 00:01:46.233
+disponible sous cet onglet.
+
+43
+00:01:46.700 --> 00:01:48.316
+Utilisez la Vue hiérarchique pour
+explorer les modèles dans une
+
+44
+00:01:48.316 --> 00:01:49.933
+disposition structurée.
+
+45
+00:01:49.933 --> 00:01:52.632
+La recherche de termes comme
+« Réagit » ou « Basique » filtre et
+
+46
+00:01:52.632 --> 00:01:55.332
+affiche les lignes ou groupes
+correspondants, y compris leurs
+
+47
+00:01:55.332 --> 00:01:58.033
+éléments parents.
+
+48
+00:01:58.800 --> 00:02:01.475
+Le Visionneur de Flowsheet offre aux
+informaticiens en soins infirmiers un
+
+49
+00:02:01.475 --> 00:02:04.150
+moyen clair et centralisé de valider
+la structure des modèles, de détecter
+
+50
+00:02:04.150 --> 00:02:06.824
+les problèmes tôt et de soutenir des
+flux de travail de documentation
+
+51
+00:02:06.824 --> 00:02:09.500
+sécurisés avant que les modèles
+n’atteignent les cliniciens.
+
+52
+00:02:09.500 --> 00:02:10.900
+Merci de votre attention.

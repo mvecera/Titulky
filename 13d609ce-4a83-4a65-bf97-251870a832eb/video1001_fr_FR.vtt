@@ -1,0 +1,221 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+Dans cette vidéo, vous apprendrez
+comment modifier les métadonnées du
+
+2
+00:00:04.499 --> 00:00:07.366
+modèle de feuille de flux dans le
+centre d’administration Dragon pour
+
+3
+00:00:07.366 --> 00:00:10.233
+mieux soutenir les flux de travail
+infirmiers dans votre entreprise.
+
+4
+00:00:10.233 --> 00:00:12.882
+En tant qu’administrateur(-trice),
+vous pouvez modifier les paramètres
+
+5
+00:00:12.882 --> 00:00:15.532
+clés qui façonnent la documentation
+clinique, notamment en éditant les
+
+6
+00:00:15.532 --> 00:00:18.182
+lignes de service, les rôles et les
+types de modèles, ainsi qu’en activant
+
+7
+00:00:18.182 --> 00:00:20.832
+ou désactivant le mode Ambiant.
+
+8
+00:00:20.833 --> 00:00:23.233
+Avant de commencer, vérifiez que vous
+disposez du rôle d’Administrateurs
+
+9
+00:00:23.233 --> 00:00:25.633
+Dragon.
+
+10
+00:00:25.633 --> 00:00:28.388
+Votre environnement est entièrement
+provisionné, votre connexion DSE est
+
+11
+00:00:28.388 --> 00:00:31.143
+configurée et vos schémas de feuille
+de flux ont été exportés sous forme de
+
+12
+00:00:31.143 --> 00:00:33.899
+fichiers JSON.
+
+13
+00:00:33.900 --> 00:00:36.583
+Vérifiez également que l’identifiant
+de l’environnement est correct et que
+
+14
+00:00:36.583 --> 00:00:39.266
+le téléchargement de votre schéma est
+terminé.
+
+15
+00:00:39.266 --> 00:00:40.766
+Commençons.
+
+16
+00:00:40.766 --> 00:00:43.032
+Premièrement, connectez-vous au centre
+d’administration Dragon.
+
+17
+00:00:43.033 --> 00:00:45.666
+Dans la section Dragon Copilot,
+sélectionnez « Infirmiers ». Puis
+
+18
+00:00:45.666 --> 00:00:48.299
+confirmez ou choisissez
+l’environnement dans lequel vous
+
+19
+00:00:48.299 --> 00:00:50.933
+souhaitez effectuer vos mises à jour.
+
+20
+00:00:50.933 --> 00:00:54.166
+Ensuite, sous Outils et configuration
+infirmiers, sélectionnez
+
+21
+00:00:54.166 --> 00:00:57.399
+« Gestionnaire de feuilles de flux ».
+C’est ici que vous gérez et mettez à
+
+22
+00:00:57.399 --> 00:01:00.632
+jour les modèles de feuilles de flux.
+Sélectionnez un ou plusieurs modèles;
+
+23
+00:01:00.632 --> 00:01:03.866
+une fois sélectionnés, la barre
+d’outils active les options d’édition.
+
+24
+00:01:03.866 --> 00:01:06.666
+Sélectionnez « Modifier » pour ouvrir
+le panneau des métadonnées à droite.
+
+25
+00:01:06.666 --> 00:01:09.149
+Ici, vous pouvez mettre à jour la
+ligne de service, le rôle et le type
+
+26
+00:01:09.149 --> 00:01:11.632
+de modèle.
+
+27
+00:01:11.633 --> 00:01:14.683
+La ligne de service et le rôle peuvent
+inclure plusieurs valeurs, tandis que
+
+28
+00:01:14.683 --> 00:01:17.733
+le type de modèle ne permet qu’une
+seule sélection.
+
+29
+00:01:17.733 --> 00:01:20.059
+Ajustez les champs selon les besoins
+pour correspondre aux flux de travail
+
+30
+00:01:20.059 --> 00:01:22.386
+de vos équipes infirmières. Une fois
+vos modifications terminées,
+
+31
+00:01:22.386 --> 00:01:24.712
+sélectionnez « Enregistrer les
+modifications ». Le tableau du
+
+32
+00:01:24.712 --> 00:01:27.039
+gestionnaire de feuilles de flux se
+mettra à jour automatiquement pour
+
+33
+00:01:27.039 --> 00:01:29.366
+afficher vos modifications.
+
+34
+00:01:29.366 --> 00:01:32.366
+Vous pouvez également utiliser le
+gestionnaire de feuilles de flux pour
+
+35
+00:01:32.366 --> 00:01:35.366
+activer ou désactiver le mode Ambiant
+pour des modèles spécifiques.
+
+36
+00:01:35.366 --> 00:01:38.477
+Si un modèle a le mode Ambiant activé,
+l’option Modifier vous permettra de le
+
+37
+00:01:38.477 --> 00:01:41.588
+désactiver; si le mode Ambiant est
+désactivé, l’option Modifier vous
+
+38
+00:01:41.588 --> 00:01:44.699
+permettra de l’activer.
+
+39
+00:01:44.700 --> 00:01:47.650
+Lors de la sélection de plusieurs
+modèles avec des statuts Ambiant
+
+40
+00:01:47.650 --> 00:01:50.600
+mixtes, l’option devient inactive.
+Veillez donc à ce que tous les modèles
+
+41
+00:01:50.600 --> 00:01:53.550
+sélectionnés partagent le même statut
+si vous souhaitez les mettre à jour
+
+42
+00:01:53.550 --> 00:01:56.500
+ensemble.
+
+43
+00:01:56.500 --> 00:02:00.311
+Modifier les métadonnées des feuilles
+de flux garantit que la documentation
+
+44
+00:02:00.311 --> 00:02:04.122
+clinique reste pertinente, précise et
+alignée sur les flux de travail de
+
+45
+00:02:04.122 --> 00:02:07.933
+votre entreprise – améliorant ainsi la
+cohérence et la qualité des données.
+
+46
+00:02:07.933 --> 00:02:12.966
+Merci d’avoir regardé !

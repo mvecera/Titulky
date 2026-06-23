@@ -1,0 +1,201 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:03.532
+Šiame vaizdo įraše apžvelgsime
+Importavimo istoriją – įrankį,
+
+2
+00:00:03.532 --> 00:00:06.099
+leidžiantį sekti kiekvieną pakeitimą,
+atliktą su aplinkai pritaikytais
+
+3
+00:00:06.099 --> 00:00:08.666
+srautų šablonais.
+
+4
+00:00:08.666 --> 00:00:11.544
+Importo istorija pateikia išsamų
+šablonų įkėlimo žurnalą visoje jūsų
+
+5
+00:00:11.544 --> 00:00:14.422
+aplinkoje, rodydama pakeitimus,
+papildymus, ištrynimus, versijų
+
+6
+00:00:14.422 --> 00:00:17.300
+palyginimus ir dar daugiau.
+
+7
+00:00:17.300 --> 00:00:21.300
+Tai būtina norint suprasti, kaip
+šablonai keičiasi laikui bėgant.
+
+8
+00:00:21.300 --> 00:00:24.541
+Prieš pradėdami įsitikinkite, kad
+pagrindai yra paruošti: jums priskirta
+
+9
+00:00:24.541 --> 00:00:27.783
+„Dragon“ administratoriaus rolė,
+aplinka sukurta, jūsų ESI
+
+10
+00:00:27.783 --> 00:00:31.024
+sukonfigūruota, šablonų schemos
+eksportuotos ir įkeltos, o šablonai
+
+11
+00:00:31.024 --> 00:00:34.266
+yra aplinkai pritaikyti.
+
+12
+00:00:34.266 --> 00:00:36.032
+Norėdami pasiekti Importavimo
+istoriją, prisijunkite prie „Dragon“
+
+13
+00:00:36.032 --> 00:00:37.799
+administravimo centro.
+
+14
+00:00:37.800 --> 00:00:41.083
+Skiltyje „Dragon Copilot“ pasirinkite
+„Slaugytojai“, pasirinkite savo
+
+15
+00:00:41.083 --> 00:00:44.366
+aplinką ir atidarykite DI pritaikymo
+valdymo įrankį.
+
+16
+00:00:44.366 --> 00:00:48.599
+Tada naršymo skydelyje pasirinkite
+Importavimo retrospektyvą.
+
+17
+00:00:48.600 --> 00:00:51.800
+Importavimo retrospektyva atidaroma
+skirtuke „Apžvalga“.
+
+18
+00:00:51.866 --> 00:00:54.699
+Čia matysite bendrą įtrauktų ar
+pakeistų šablonų, įtrauktų ar ištrintų
+
+19
+00:00:54.699 --> 00:00:57.533
+eilučių ir grupių atnaujinimų skaičių.
+
+20
+00:00:57.533 --> 00:01:01.266
+Tai suteikia aukšto lygio apžvalgą,
+kas ir kiek pasikeitė.
+
+21
+00:01:01.266 --> 00:01:04.732
+Tada skirtukas „Šablonai“ suskirsto
+naujinimus pagal šablonus.
+
+22
+00:01:04.733 --> 00:01:07.433
+Kiekvienam šablonui matysite, kiek
+eilučių ir grupių buvo įtraukta,
+
+23
+00:01:07.433 --> 00:01:10.133
+pakeista ar pašalinta visuose
+importavimuose.
+
+24
+00:01:10.133 --> 00:01:14.266
+Tai padeda greitai pastebėti šablonus,
+kuriuose vyksta daug pakeitimų.
+
+25
+00:01:14.266 --> 00:01:16.349
+Skirtukas „Grupės“ sutelkia dėmesį į
+tai, kokie pakeitimai buvo atlikti
+
+26
+00:01:16.349 --> 00:01:18.433
+kiekvienoje grupėje.
+
+27
+00:01:18.433 --> 00:01:22.016
+Galite sekti įtrauktas, ištrintas ar
+pakeistas eilutes konkrečiose grupėse
+
+28
+00:01:22.016 --> 00:01:25.599
+– tai puiku, norint pastebėti
+struktūrinius šablonų pokyčius.
+
+29
+00:01:25.600 --> 00:01:29.211
+Dalyje Eilučių keitimai rasite
+išsamiausią informacijos lygį, atskirų
+
+30
+00:01:29.211 --> 00:01:32.822
+eilučių modifikavimą, kad galėtumėte
+patikrinti, ar pakeitimai buvo
+
+31
+00:01:32.822 --> 00:01:36.433
+tyčiniai ir tikslūs.
+
+32
+00:01:36.433 --> 00:01:39.586
+Galiausiai, skirtuke Visos versijos
+rodomas naujausių importavimo įvykių
+
+33
+00:01:39.586 --> 00:01:42.739
+sąrašas Kiekvienas įrašas įrašo
+versijos ID, paskutinio modifikavimo
+
+34
+00:01:42.739 --> 00:01:45.892
+datą, „eTag“ ir turinio ilgį, taip pat
+galimybę peržiūrėti arba eksportuoti
+
+35
+00:01:45.892 --> 00:01:49.045
+visą to importavimo JSON, kad būtų
+galima atlikti trikčių diagnostiką
+
+36
+00:01:49.045 --> 00:01:52.199
+arba atlikti auditą.
+
+37
+00:01:52.200 --> 00:01:54.350
+Importavimo istorija suteikia
+administratoriams skaidrumą ir
+
+38
+00:01:54.350 --> 00:01:56.500
+pasitikėjimą.
+
+39
+00:01:56.500 --> 00:01:59.777
+Ji atskleidžia kiekvieną šablono
+pakeitimą, padeda spręsti klaidas ir
+
+40
+00:01:59.777 --> 00:02:03.055
+užtikrina, kad jūsų aplinkai
+pritaikyti šablonai išliktų tvarkingi,
+
+41
+00:02:03.055 --> 00:02:06.333
+nuoseklūs ir atnaujinti visose
+aplinkose.
+
+42
+00:02:06.333 --> 00:02:07.499
+Ačiū, kad žiūrėjote.

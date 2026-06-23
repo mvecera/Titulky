@@ -1,0 +1,188 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:04.816
+V tomto videu preskúmame Históriu
+importov, nástroj na sledovanie každej
+
+2
+00:00:04.816 --> 00:00:08.666
+zmeny vykonanej v šablónach vývojových
+diagramov s ambientnou podporou.
+
+3
+00:00:08.666 --> 00:00:11.544
+História importov poskytuje podrobný
+záznam nahrávania šablón v celom
+
+4
+00:00:11.544 --> 00:00:14.422
+prostredí, zobrazuje zmeny, pridanie,
+odstránenie, porovnanie verzií a
+
+5
+00:00:14.422 --> 00:00:17.300
+ďalšie.
+
+6
+00:00:17.300 --> 00:00:21.300
+To je nevyhnutné na pochopenie, ako sa
+šablóny vyvíjajú v priebehu času.
+
+7
+00:00:21.300 --> 00:00:24.541
+Než začnete, uistite sa, že je
+vykonané základné nastavenie: Ste
+
+8
+00:00:24.541 --> 00:00:27.783
+priradení k úlohe správcu Dragonu,
+prostredie je pripravené, EHR je
+
+9
+00:00:27.783 --> 00:00:31.024
+nakonfigurovaný, schémy šablón sú
+exportované a nahrané a šablóny sú
+
+10
+00:00:31.024 --> 00:00:34.266
+povolené pre ambient.
+
+11
+00:00:34.266 --> 00:00:36.032
+Pre prístup k Histórii importov sa
+prihláste do centra spravovania
+
+12
+00:00:36.032 --> 00:00:37.799
+Dragonu.
+
+13
+00:00:37.800 --> 00:00:41.083
+V sekcii Dragon Copilot vyberte
+Zdravotné sestry, zvoľte svoje
+
+14
+00:00:41.083 --> 00:00:44.366
+prostredie a otvorte správcu vlastného
+nastavenia AI.
+
+15
+00:00:44.366 --> 00:00:48.599
+Potom v navigačnom paneli vyberte
+Históriu importov.
+
+16
+00:00:48.600 --> 00:00:51.800
+História importu sa otvorí na karte
+Prehľad.
+
+17
+00:00:51.866 --> 00:00:54.699
+Tu uvidíte celkové počty pridaných
+alebo zmenených šablón, pridaných
+
+18
+00:00:54.699 --> 00:00:57.533
+alebo odstránených riadkov a
+aktualizácií skupín.
+
+19
+00:00:57.533 --> 00:01:01.266
+To vám poskytuje prehľadný snímok
+toho, čo sa zmenilo a v akom rozsahu.
+
+20
+00:01:01.266 --> 00:01:04.732
+Ďalej karta Šablóny rozdelí
+aktualizácie podľa šablóny.
+
+21
+00:01:04.733 --> 00:01:07.433
+Pri každej šablóne uvidíte, koľko
+riadkov a skupín bolo pridaných,
+
+22
+00:01:07.433 --> 00:01:10.133
+zmenených alebo odstránených vo
+všetkých importoch.
+
+23
+00:01:10.133 --> 00:01:12.199
+To vám pomôže rýchlo identifikovať
+šablóny, ktoré sú intenzívne
+
+24
+00:01:12.199 --> 00:01:14.266
+upravované.
+
+25
+00:01:14.266 --> 00:01:18.433
+Karta Skupiny sa zameriava na zmeny
+vykonané v rámci každej skupiny.
+
+26
+00:01:18.433 --> 00:01:22.016
+Môžete sledovať pridané, odstránené
+alebo upravené riadky pre konkrétne
+
+27
+00:01:22.016 --> 00:01:25.599
+skupiny, čo je ideálne na zachytenie
+štrukturálnych posunov v šablónach.
+
+28
+00:01:25.600 --> 00:01:29.211
+V časti Zmeny riadkov nájdete
+najpodrobnejšiu úroveň detailov –
+
+29
+00:01:29.211 --> 00:01:32.822
+úpravy jednotlivých riadkov, ktoré vám
+pomôžu overiť, či boli zmeny zámerné a
+
+30
+00:01:32.822 --> 00:01:36.433
+presné.
+
+31
+00:01:36.433 --> 00:01:40.374
+Nakoniec karta Všetky verzie zobrazí
+zoznam nedávnych udalostí importu.
+
+32
+00:01:40.374 --> 00:01:44.316
+Každá položka obsahuje ID verzie,
+dátum poslednej úpravy, eTag a dĺžku
+
+33
+00:01:44.316 --> 00:01:48.257
+obsahu, ako aj možnosť zobraziť alebo
+exportovať celý JSON daného importu na
+
+34
+00:01:48.257 --> 00:01:52.199
+riešenie problémov alebo audit.
+
+35
+00:01:52.200 --> 00:01:56.500
+História importov prináša správcom
+transparentnosť a spoľahlivosť.
+
+36
+00:01:56.500 --> 00:01:59.777
+Zobrazuje každú zmenu šablóny, pomáha
+riešiť chyby a zaisťuje, že vaše
+
+37
+00:01:59.777 --> 00:02:03.055
+šablóny s ambientnou podporou
+zostávajú čisté, konzistentné a
+
+38
+00:02:03.055 --> 00:02:06.333
+aktuálne naprieč prostrediami.
+
+39
+00:02:06.333 --> 00:02:07.499
+Ďakujeme za sledovanie.

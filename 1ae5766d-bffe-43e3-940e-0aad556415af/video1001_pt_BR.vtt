@@ -1,0 +1,212 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:03.532
+Neste vídeo, exploraremos o Histórico
+de Importação, sua ferramenta para
+
+2
+00:00:03.532 --> 00:00:06.099
+acompanhar todas as alterações feitas
+em modelos de fluxogramas habilitados
+
+3
+00:00:06.099 --> 00:00:08.666
+para ambiente.
+
+4
+00:00:08.666 --> 00:00:11.544
+O Histórico de Importação fornece um
+log detalhado de carregamentos de
+
+5
+00:00:11.544 --> 00:00:14.422
+modelo em seu ambiente, mostrando
+alterações, adições, exclusões,
+
+6
+00:00:14.422 --> 00:00:17.300
+comparações de versão e muito mais.
+
+7
+00:00:17.300 --> 00:00:21.300
+Isso é essencial para entender como os
+modelos evoluem ao longo do tempo.
+
+8
+00:00:21.300 --> 00:00:23.893
+Antes de começar, certifique-se de que
+os requisitos básicos estejam
+
+9
+00:00:23.893 --> 00:00:26.486
+atendidos: você foi designado como
+Administrador do Dragon, seu ambiente
+
+10
+00:00:26.486 --> 00:00:29.079
+está provisionado, seu EHR está
+configurado, os esquemas de modelos
+
+11
+00:00:29.079 --> 00:00:31.672
+foram exportados e carregados e os
+modelos estão habilitados para
+
+12
+00:00:31.672 --> 00:00:34.266
+ambiente.
+
+13
+00:00:34.266 --> 00:00:36.032
+Para acessar o Histórico de
+Importação, faça logon no centro de
+
+14
+00:00:36.032 --> 00:00:37.799
+administração Dragon.
+
+15
+00:00:37.800 --> 00:00:41.083
+No Dragon Copilot, selecione
+Enfermeiros, escolha seu ambiente e
+
+16
+00:00:41.083 --> 00:00:44.366
+abra o Gerente de Personalização de
+IA.
+
+17
+00:00:44.366 --> 00:00:48.599
+Depois, selecione Histórico de
+Importação no painel de navegação.
+
+18
+00:00:48.600 --> 00:00:51.800
+O Histórico de Importação é aberto na
+guia Visão geral.
+
+19
+00:00:51.866 --> 00:00:54.699
+Aqui você verá totais de modelos
+adicionados ou alterados, linhas
+
+20
+00:00:54.699 --> 00:00:57.533
+adicionadas ou excluídas e
+atualizações de grupo.
+
+21
+00:00:57.533 --> 00:01:01.266
+Isso lhe dá um panorama geral do que
+mudou e em que medida.
+
+22
+00:01:01.266 --> 00:01:04.732
+Em seguida, a guia Modelos detalha as
+atualizações por modelo.
+
+23
+00:01:04.733 --> 00:01:07.433
+Para cada modelo, você verá quantas
+linhas e grupos foram adicionados,
+
+24
+00:01:07.433 --> 00:01:10.133
+alterados ou removidos em todas as
+importações.
+
+25
+00:01:10.133 --> 00:01:12.199
+Isso ajuda você a identificar
+rapidamente os modelos que estão
+
+26
+00:01:12.199 --> 00:01:14.266
+passando por muitas modificações.
+
+27
+00:01:14.266 --> 00:01:18.433
+A guia Grupos concentra-se em quais
+alterações foram feitas em cada grupo.
+
+28
+00:01:18.433 --> 00:01:20.821
+Você pode acompanhar linhas
+adicionadas, excluídas ou modificadas
+
+29
+00:01:20.821 --> 00:01:23.210
+para grupos específicos, ideal para
+capturar mudanças estruturais em
+
+30
+00:01:23.210 --> 00:01:25.599
+modelos.
+
+31
+00:01:25.600 --> 00:01:29.211
+Em Alterações de linhas, você encontra
+o nível mais detalhado de informação,
+
+32
+00:01:29.211 --> 00:01:32.822
+com as modificações individuais de
+cada linha, ajudando você a verificar
+
+33
+00:01:32.822 --> 00:01:36.433
+se as alterações foram intencionais e
+precisas.
+
+34
+00:01:36.433 --> 00:01:39.586
+Por fim, a guia Todas Versões exibe a
+lista de eventos de importação
+
+35
+00:01:39.586 --> 00:01:42.739
+recentes. Cada entrada captura a ID da
+versão, a data da última modificação,
+
+36
+00:01:42.739 --> 00:01:45.892
+o eTag e o tamanho do conteúdo, além
+de permitir visualizar ou exportar o
+
+37
+00:01:45.892 --> 00:01:49.045
+JSON completo dessa importação para
+fins de solução de problemas ou
+
+38
+00:01:49.045 --> 00:01:52.199
+auditoria.
+
+39
+00:01:52.200 --> 00:01:54.350
+O Histórico de Importação dá aos
+administradores transparência e
+
+40
+00:01:54.350 --> 00:01:56.500
+segurança.
+
+41
+00:01:56.500 --> 00:01:59.777
+Ele exibe todas as alterações de
+modelo, ajuda a solucionar problemas e
+
+42
+00:01:59.777 --> 00:02:03.055
+garante que seus modelos habilitados
+para ambiente permaneçam limpos,
+
+43
+00:02:03.055 --> 00:02:06.333
+consistentes e atualizados entre
+ambientes.
+
+44
+00:02:06.333 --> 00:02:07.499
+Obrigado por assistir.

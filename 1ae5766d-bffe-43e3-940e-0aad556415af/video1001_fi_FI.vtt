@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:03.532
+Tässä videossa tutustumme
+tuontihistoriaan, joka on työkalu,
+
+2
+00:00:03.532 --> 00:00:06.099
+jolla voit seurata kaikkia muutoksia,
+jotka on tehty ambient-ominaisuuden
+
+3
+00:00:06.099 --> 00:00:08.666
+sisältäviin prosessikaaviomalleihin.
+
+4
+00:00:08.666 --> 00:00:11.544
+Tuontihistoria tarjoaa
+yksityiskohtaisen lokin mallien
+
+5
+00:00:11.544 --> 00:00:14.422
+latauksista ympäristössäsi, ja siinä
+näkyvät muutokset, lisäykset, poistot,
+
+6
+00:00:14.422 --> 00:00:17.300
+versioiden vertailut ja paljon muuta.
+
+7
+00:00:17.300 --> 00:00:19.300
+Tämä on olennaista, jotta voidaan
+ymmärtää, miten mallit kehittyvät ajan
+
+8
+00:00:19.300 --> 00:00:21.300
+myötä.
+
+9
+00:00:21.300 --> 00:00:24.541
+Ennen kuin aloitat, varmista, että
+perusasiat ovat kunnossa: Sinulle on
+
+10
+00:00:24.541 --> 00:00:27.783
+annettu Dragon-järjestelmänvalvojan
+rooli, ympäristösi on varustettu,
+
+11
+00:00:27.783 --> 00:00:31.024
+EHR-järjestelmäsi on konfiguroitu,
+mallikaaviot on viety ja ladattu ja
+
+12
+00:00:31.024 --> 00:00:34.266
+mallit ovat ympäristön mukaisia.
+
+13
+00:00:34.266 --> 00:00:36.032
+Voit tarkastella tuontihistoriaa
+kirjautumalla
+
+14
+00:00:36.032 --> 00:00:37.799
+Dragon-hallintakeskukseen.
+
+15
+00:00:37.800 --> 00:00:41.083
+Valitse Dragon Copilot -ohjelmassa
+Sairaanhoitajat, valitse ympäristösi
+
+16
+00:00:41.083 --> 00:00:44.366
+ja avaa Tekoälyn mukautuksen hallinta.
+
+17
+00:00:44.366 --> 00:00:48.599
+Valitse sitten navigointipaneelista
+Tuo historia.
+
+18
+00:00:48.600 --> 00:00:51.800
+Tuontihistoria avautuu
+Yleiskatsaus-välilehdessä.
+
+19
+00:00:51.866 --> 00:00:54.699
+Täällä näet lisättyjen tai muutettujen
+mallien, lisättyjen tai poistettujen
+
+20
+00:00:54.699 --> 00:00:57.533
+rivien sekä ryhmäpäivitysten
+kokonaismäärät.
+
+21
+00:00:57.533 --> 00:01:01.266
+Tämä antaa sinulle yleiskuvan siitä,
+mitä on muuttunut ja kuinka paljon.
+
+22
+00:01:01.266 --> 00:01:04.732
+Seuraavaksi Mallit-välilehti erittelee
+päivitykset mallikohtaisesti.
+
+23
+00:01:04.733 --> 00:01:07.433
+Jokaisesta mallista näet, kuinka monta
+riviä ja ryhmää on lisätty, muutettu
+
+24
+00:01:07.433 --> 00:01:10.133
+tai poistettu kaikissa tuonneissa.
+
+25
+00:01:10.133 --> 00:01:12.199
+Tämä auttaa sinua havaitsemaan
+nopeasti mallit, joihin on tehty
+
+26
+00:01:12.199 --> 00:01:14.266
+suuria muutoksia.
+
+27
+00:01:14.266 --> 00:01:18.433
+Ryhmät-välilehti keskittyy kunkin
+ryhmän sisällä tehtyihin muutoksiin.
+
+28
+00:01:18.433 --> 00:01:20.821
+Voit seurata tiettyjen ryhmien rivejä,
+jotka on lisätty, poistettu tai
+
+29
+00:01:20.821 --> 00:01:23.210
+muutettu, mikä on ihanteellista
+mallipohjien rakenteellisten muutosten
+
+30
+00:01:23.210 --> 00:01:25.599
+havaitsemiseen.
+
+31
+00:01:25.600 --> 00:01:29.211
+Rivien muutokset -kohdassa näet
+yksityiskohtaisimman tason:
+
+32
+00:01:29.211 --> 00:01:32.822
+yksittäiset rivimuutokset. Niiden
+avulla voit varmistaa, että muutokset
+
+33
+00:01:32.822 --> 00:01:36.433
+olivat tarkoituksenmukaisia ja oikein
+tehtyjä.
+
+34
+00:01:36.433 --> 00:01:39.586
+Lopuksi, Kaikki versiot -välilehti
+näyttää luettelon viimeaikaisista
+
+35
+00:01:39.586 --> 00:01:42.739
+tuontitapahtumista. Jokainen merkintä
+sisältää version tunnuksen, viimeisen
+
+36
+00:01:42.739 --> 00:01:45.892
+muokkauspäivämäärän, eTag-tunnuksen ja
+sisällön pituuden. Lisäksi on
+
+37
+00:01:45.892 --> 00:01:49.045
+mahdollista tarkastella tai viedä
+kyseisen tuonnin koko JSON-tiedosto
+
+38
+00:01:49.045 --> 00:01:52.199
+vianmääritys- tai
+tarkastustarkoituksiin.
+
+39
+00:01:52.200 --> 00:01:54.350
+Tuontihistoria tarjoaa
+järjestelmänvalvojille läpinäkyvyyttä
+
+40
+00:01:54.350 --> 00:01:56.500
+ja luotettavuutta.
+
+41
+00:01:56.500 --> 00:01:59.777
+Se tuo esiin kaikki mallimuutokset,
+auttaa virheiden selvittämisessä ja
+
+42
+00:01:59.777 --> 00:02:03.055
+varmistaa, että ympäristön mukautuvat
+mallisi pysyvät puhtaina,
+
+43
+00:02:03.055 --> 00:02:06.333
+yhdenmukaisina ja ajan tasalla
+kaikissa ympäristöissä.
+
+44
+00:02:06.333 --> 00:02:07.499
+Kiitos katsomisesta.

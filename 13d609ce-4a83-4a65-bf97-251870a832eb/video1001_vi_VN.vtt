@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+Trong video này, bạn sẽ học cách chỉnh
+sửa siêu dữ liệu mẫu bảng theo dõi
+
+2
+00:00:04.499 --> 00:00:07.366
+trong Trung tâm quản trị Dragon để hỗ
+trợ các quy trình làm việc điều dưỡng
+
+3
+00:00:07.366 --> 00:00:10.233
+trong toàn tổ chức của bạn tốt hơn.
+
+4
+00:00:10.233 --> 00:00:13.766
+Với tư cách người quản trị, bạn có thể
+chỉnh sửa các cài đặt chính ảnh hưởng
+
+5
+00:00:13.766 --> 00:00:17.299
+đến tài liệu lâm sàng, bao gồm chỉnh
+sửa các dòng dịch vụ, vai trò, loại
+
+6
+00:00:17.299 --> 00:00:20.832
+mẫu, cũng như cách bật hoặc tắt Chế độ
+ghi nhận tự động.
+
+7
+00:00:20.833 --> 00:00:23.233
+Trước khi bắt đầu, hãy đảm bảo bạn đã
+được gán vai trò Người quản trị
+
+8
+00:00:23.233 --> 00:00:25.633
+Dragon.
+
+9
+00:00:25.633 --> 00:00:29.766
+Môi trường của bạn đã được cung cấp
+đầy đủ, kết nối EHR đã được cấu hình
+
+10
+00:00:29.766 --> 00:00:33.899
+và các sơ đồ bảng theo dõi đã được
+xuất dưới dạng tệp JSON.
+
+11
+00:00:33.900 --> 00:00:36.583
+Ngoài ra, hãy xác nhận để đảm bảo ID
+môi trường chính xác và quá trình tải
+
+12
+00:00:36.583 --> 00:00:39.266
+lên sơ đồ của bạn đã hoàn tất.
+
+13
+00:00:39.266 --> 00:00:40.766
+Cùng bắt đầu nào.
+
+14
+00:00:40.766 --> 00:00:43.032
+Trước tiên, hãy đăng nhập vào Trung
+tâm quản trị Dragon.
+
+15
+00:00:43.033 --> 00:00:46.983
+Trong phần Dragon Copilot, chọn “Y
+tá". Sau đó xác nhận hoặc chọn môi
+
+16
+00:00:46.983 --> 00:00:50.933
+trường bạn muốn thực hiện cập nhật.
+
+17
+00:00:50.933 --> 00:00:54.166
+Tiếp theo, trong phần Công cụ và cấu
+hình điều dưỡng, hãy chọn “Trình quản
+
+18
+00:00:54.166 --> 00:00:57.399
+lý bảng theo dõi”. Đây là nơi bạn quản
+lý và cập nhật các mẫu bảng theo dõi.
+
+19
+00:00:57.399 --> 00:01:00.632
+Chọn một hoặc nhiều mẫu; sau khi chọn,
+thanh công cụ sẽ kích hoạt các tùy
+
+20
+00:01:00.632 --> 00:01:03.866
+chọn chỉnh sửa.
+
+21
+00:01:03.866 --> 00:01:06.666
+Chọn “Chỉnh sửa” để mở bảng siêu dữ
+liệu ở bên phải.
+
+22
+00:01:06.666 --> 00:01:11.632
+Tại đây, bạn có thể cập nhật Dòng dịch
+vụ, Vai trò và Loại mẫu.
+
+23
+00:01:11.633 --> 00:01:14.683
+Dòng dịch vụ và Vai trò có thể chứa
+nhiều giá trị, trong khi Loại mẫu chỉ
+
+24
+00:01:14.683 --> 00:01:17.733
+cho phép chọn một giá trị.
+
+25
+00:01:17.733 --> 00:01:20.641
+Điều chỉnh các trường theo nhu cầu để
+phù hợp với quy trình làm việc của các
+
+26
+00:01:20.641 --> 00:01:23.549
+nhóm điều dưỡng. Sau khi cập nhật
+xong, hãy chọn “Lưu các thay đổi”.
+
+27
+00:01:23.549 --> 00:01:26.457
+Bảng trình quản lý bảng theo dõi sẽ tự
+động làm mới để hiển thị nội dung cập
+
+28
+00:01:26.457 --> 00:01:29.366
+nhật của bạn.
+
+29
+00:01:29.366 --> 00:01:32.366
+Bạn cũng có thể sử dụng trình quản lý
+bảng theo dõi để bật hoặc tắt Chế độ
+
+30
+00:01:32.366 --> 00:01:35.366
+ghi nhận tự động cho các mẫu cụ thể.
+
+31
+00:01:35.366 --> 00:01:38.477
+Nếu một mẫu đã bật Chế độ ghi nhận tự
+động, tùy chọn Chỉnh sửa sẽ cho phép
+
+32
+00:01:38.477 --> 00:01:41.588
+bạn tắt chế độ đó; nếu Chế độ ghi nhận
+tự động đang tắt, tùy chọn Chỉnh sửa
+
+33
+00:01:41.588 --> 00:01:44.699
+sẽ cho phép bạn bật lại.
+
+34
+00:01:44.700 --> 00:01:48.633
+Khi chọn nhiều mẫu có trạng thái Ghi
+nhận tự động khác nhau, tùy chọn này
+
+35
+00:01:48.633 --> 00:01:52.566
+sẽ không hoạt động, vì vậy hãy đảm bảo
+tất cả mẫu được chọn có cùng trạng
+
+36
+00:01:52.566 --> 00:01:56.500
+thái nếu bạn muốn cập nhật chúng cùng
+lúc.
+
+37
+00:01:56.500 --> 00:02:00.311
+Việc chỉnh sửa siêu dữ liệu bảng theo
+dõi giúp tài liệu lâm sàng luôn phù
+
+38
+00:02:00.311 --> 00:02:04.122
+hợp, chính xác và đồng bộ với quy
+trình làm việc của tổ chức – từ đó cải
+
+39
+00:02:04.122 --> 00:02:07.933
+thiện cả tính nhất quán và chất lượng
+dữ liệu.
+
+40
+00:02:07.933 --> 00:02:12.966
+Cảm ơn bạn đã xem!

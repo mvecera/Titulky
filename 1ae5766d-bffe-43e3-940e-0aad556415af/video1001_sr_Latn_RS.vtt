@@ -1,0 +1,207 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:03.532
+U ovom videu ćemo istražiti Istoriju
+uvoza, vašu alatku za praćenje svake
+
+2
+00:00:03.532 --> 00:00:06.099
+promene napravljene u predlošcima
+evidencionog lista omogućenim za
+
+3
+00:00:06.099 --> 00:00:08.666
+ambijentalno snimanje.
+
+4
+00:00:08.666 --> 00:00:11.544
+Istorija uvoza vam pruža detaljan
+dnevnik otpremanja predloška u vašem
+
+5
+00:00:11.544 --> 00:00:14.422
+okruženju, prikazujući promene,
+dodatke, brisanja, poređenja verzija i
+
+6
+00:00:14.422 --> 00:00:17.300
+još mnogo toga.
+
+7
+00:00:17.300 --> 00:00:21.300
+Ovo je ključno za razumevanje kako se
+predlošci razvijaju tokom vremena.
+
+8
+00:00:21.300 --> 00:00:24.541
+Pre nego što počnete, proverite da li
+su osnovne stvari na mestu: dodeljena
+
+9
+00:00:24.541 --> 00:00:27.783
+vam je uloga Dragon administratora,
+vaše okruženje je obezbeđeno, vaš EHR
+
+10
+00:00:27.783 --> 00:00:31.024
+je konfigurisan, šeme predloška su
+izvezene i otpremljene, i predlošci su
+
+11
+00:00:31.024 --> 00:00:34.266
+omogućeni za ambijentalno snimanje.
+
+12
+00:00:34.266 --> 00:00:36.032
+Da biste pristupili istoriji uvoza,
+prijavite se u Dragon centar
+
+13
+00:00:36.032 --> 00:00:37.799
+administracije.
+
+14
+00:00:37.800 --> 00:00:39.988
+U okviru odeljka Dragon Copilot
+izaberite stavku Sestre, izaberite
+
+15
+00:00:39.988 --> 00:00:42.177
+svoje okruženje i otvorite Menadžera
+za prilagođavanje veštačke
+
+16
+00:00:42.177 --> 00:00:44.366
+inteligencije.
+
+17
+00:00:44.366 --> 00:00:48.599
+Zatim izaberite „Uvezi istoriju“ iz
+navigacione table.
+
+18
+00:00:48.600 --> 00:00:51.800
+Istorija uvoza se otvara na kartici
+„Pregled“.
+
+19
+00:00:51.866 --> 00:00:54.699
+Ovde ćete videti ukupne brojeve za
+dodate ili izmenjene predloške, dodate
+
+20
+00:00:54.699 --> 00:00:57.533
+ili obrisane redove i novosti grupe.
+
+21
+00:00:57.533 --> 00:01:01.266
+Ovo vam pruža opšti pregled toga šta
+se i u kojoj meri promenilo.
+
+22
+00:01:01.266 --> 00:01:04.732
+Zatim, kartica „Predlošci“ analizira
+ažuriranja po predlošku.
+
+23
+00:01:04.733 --> 00:01:07.433
+Za svaki predložak ćete videti koliko
+je redova i grupa dodato, promenjeno
+
+24
+00:01:07.433 --> 00:01:10.133
+ili uklonjeno tokom svih uvoza.
+
+25
+00:01:10.133 --> 00:01:12.199
+Ovo vam pomaže da brzo uočite
+predloške koji su pretrpeli mnogo
+
+26
+00:01:12.199 --> 00:01:14.266
+izmena.
+
+27
+00:01:14.266 --> 00:01:16.349
+Kartica „Grupe“ fokusira se na to koje
+su promene napravljene unutar svake
+
+28
+00:01:16.349 --> 00:01:18.433
+grupe.
+
+29
+00:01:18.433 --> 00:01:20.821
+Možete da pratite redove koji su
+dodati, obrisani ili izmenjeni za
+
+30
+00:01:20.821 --> 00:01:23.210
+određene grupe, što je idealno za
+praćenje strukturnih promena unutar
+
+31
+00:01:23.210 --> 00:01:25.599
+predložaka.
+
+32
+00:01:25.600 --> 00:01:29.211
+U okviru stavke „Promene redova“
+pronaći ćete najdetaljniji nivo
+
+33
+00:01:29.211 --> 00:01:32.822
+informacija, pojedinačne izmene
+redova, što vam pomaže da proverite da
+
+34
+00:01:32.822 --> 00:01:36.433
+li su promene bile namerne i precizne.
+
+35
+00:01:36.433 --> 00:01:40.374
+Na kraju, kartica „Sve verzije“
+prikazuje listu nedavnih događaja
+
+36
+00:01:40.374 --> 00:01:44.316
+uvoza. Svaki zapis sadrži ID verzije,
+datum poslednje izmene, eOznaku i
+
+37
+00:01:44.316 --> 00:01:48.257
+dužinu sadržaja – zajedno sa
+mogućnošću prikaza ili izvoza
+
+38
+00:01:48.257 --> 00:01:52.199
+kompletnog JSON-a tog uvoza za potrebe
+rešavanja problema ili nadzora.
+
+39
+00:01:52.200 --> 00:01:54.350
+Istorija uvoza omogućava
+administratorima transparentnost i
+
+40
+00:01:54.350 --> 00:01:56.500
+pouzdanost.
+
+41
+00:01:56.500 --> 00:01:59.777
+Prikazuje svaku promenu predloška,
+pomaže u rešavanju grešaka i osigurava
+
+42
+00:01:59.777 --> 00:02:03.055
+da vaši predlošci omogućeni za
+ambijentalno snimanje ostanu čisti,
+
+43
+00:02:03.055 --> 00:02:06.333
+dosledni i ažurni u svim okruženjima.
+
+44
+00:02:06.333 --> 00:02:07.499
+Hvala što ste gledali.

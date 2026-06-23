@@ -1,0 +1,208 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+În acest videoclip, veți învăța cum să
+editați metadatele șabloanelor foilor
+
+2
+00:00:04.499 --> 00:00:07.366
+de observație în Centrul de
+administrare Dragon, pentru a optimiza
+
+3
+00:00:07.366 --> 00:00:10.233
+fluxurile de lucru ale asistenților
+medicali din întreaga organizație.
+
+4
+00:00:10.233 --> 00:00:13.766
+În calitate de administrator, puteți
+edita setările esențiale care definesc
+
+5
+00:00:13.766 --> 00:00:17.299
+documentația clinică, de la linii de
+servicii și roluri la tipuri de
+
+6
+00:00:17.299 --> 00:00:20.832
+șabloane și activarea sau dezactivarea
+modului Ambient.
+
+7
+00:00:20.833 --> 00:00:23.233
+Înainte de a începe, asigurați-vă că
+aveți atribuit rolul de administrator
+
+8
+00:00:23.233 --> 00:00:25.633
+Dragon.
+
+9
+00:00:25.633 --> 00:00:28.388
+Mediul dvs. are accesul complet
+asigurat, conexiunea EHR este
+
+10
+00:00:28.388 --> 00:00:31.143
+configurată, iar schemele foilor de
+observație au fost exportate în format
+
+11
+00:00:31.143 --> 00:00:33.899
+JSON.
+
+12
+00:00:33.900 --> 00:00:36.583
+De asemenea, verificați dacă ID-ul
+mediului este corect și dacă schema a
+
+13
+00:00:36.583 --> 00:00:39.266
+fost încărcată.
+
+14
+00:00:39.266 --> 00:00:40.766
+Să începem.
+
+15
+00:00:40.766 --> 00:00:43.032
+Mai întâi, conectați-vă la Centrul de
+administrare Dragon.
+
+16
+00:00:43.033 --> 00:00:46.983
+În secțiunea Dragon Copilot, selectați
+„Asistenți medicali”. Apoi confirmați
+
+17
+00:00:46.983 --> 00:00:50.933
+sau alegeți mediul în care doriți să
+faceți actualizările.
+
+18
+00:00:50.933 --> 00:00:53.519
+În continuare, din „Instrumente și
+configurare pentru asistenți”,
+
+19
+00:00:53.519 --> 00:00:56.106
+selectați „Manager foi de observație”.
+Aici veți gestiona și actualiza
+
+20
+00:00:56.106 --> 00:00:58.692
+șabloanele foilor de observație.
+Selectați unul sau mai multe șabloane.
+
+21
+00:00:58.692 --> 00:01:01.279
+Odată selectate, în bara de
+instrumente se activează opțiunile de
+
+22
+00:01:01.279 --> 00:01:03.866
+editare.
+
+23
+00:01:03.866 --> 00:01:06.666
+Selectați „Editați” pentru a deschide
+panoul de metadate din dreapta.
+
+24
+00:01:06.666 --> 00:01:11.632
+Aici puteți actualiza linia de
+servicii, rolul și tipul șablonului.
+
+25
+00:01:11.633 --> 00:01:14.683
+Linia de servicii și rolul pot conține
+mai multe valori, iar tipul șablonului
+
+26
+00:01:14.683 --> 00:01:17.733
+permite o singură selecție.
+
+27
+00:01:17.733 --> 00:01:20.059
+Ajustați câmpurile după cum este
+necesar pentru a corespunde fluxurilor
+
+28
+00:01:20.059 --> 00:01:22.386
+de lucru ale echipelor de asistenți
+medicali. După ce ați finalizat
+
+29
+00:01:22.386 --> 00:01:24.712
+actualizările, selectați „Salvați
+modificările”. Tabelul din managerul
+
+30
+00:01:24.712 --> 00:01:27.039
+foilor de observație se va
+reîmprospăta automat și va afișa
+
+31
+00:01:27.039 --> 00:01:29.366
+actualizările.
+
+32
+00:01:29.366 --> 00:01:32.366
+De asemenea, puteți folosi managerul
+foilor de observație pentru a activa
+
+33
+00:01:32.366 --> 00:01:35.366
+sau dezactiva modul Ambient pentru
+anumite șabloane.
+
+34
+00:01:35.366 --> 00:01:38.477
+Dacă un șablon are modul Ambient
+activat, opțiunea de editare vă va
+
+35
+00:01:38.477 --> 00:01:41.588
+permite să îl dezactivați, iar dacă
+modul Ambient este dezactivat,
+
+36
+00:01:41.588 --> 00:01:44.699
+opțiunea de editare vă va permite să
+îl activați.
+
+37
+00:01:44.700 --> 00:01:48.633
+Când selectați mai multe șabloane cu
+stări mixte ale modului Ambient,
+
+38
+00:01:48.633 --> 00:01:52.566
+opțiunea devine inactivă. Prin urmare,
+asigurați-vă că toate șabloanele
+
+39
+00:01:52.566 --> 00:01:56.500
+selectate au aceeași stare, dacă
+doriți să le actualizați simultan.
+
+40
+00:01:56.500 --> 00:02:00.311
+Editarea metadatelor foilor de
+observație asigură relevanța, precizia
+
+41
+00:02:00.311 --> 00:02:04.122
+și alinierea documentației clinice la
+fluxurile de lucru ale organizației,
+
+42
+00:02:04.122 --> 00:02:07.933
+îmbunătățind astfel consecvența și
+calitatea datelor.
+
+43
+00:02:07.933 --> 00:02:12.966
+Vă mulțumim pentru vizionare!

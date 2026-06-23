@@ -1,0 +1,180 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:04.816
+V tomto videu prozkoumáme Historii
+importů, nástroj pro sledování každé
+
+2
+00:00:04.816 --> 00:00:08.666
+změny provedené v šablonách vývojových
+diagramů s ambientní podporou.
+
+3
+00:00:08.666 --> 00:00:12.983
+Historie importů poskytuje podrobný
+záznam nahrávání šablon v celém
+
+4
+00:00:12.983 --> 00:00:17.300
+prostředí, zobrazuje změny, přidání,
+odstranění, porovnání verzí a další.
+
+5
+00:00:17.300 --> 00:00:21.300
+To je nezbytné pro pochopení, jak se
+šablony vyvíjejí v průběhu času.
+
+6
+00:00:21.300 --> 00:00:24.541
+Než začnete, ujistěte se, že je
+provedené základní nastavení: Jste
+
+7
+00:00:24.541 --> 00:00:27.783
+přiřazeni k roli správce Dragonu,
+prostředí je připravené, EHR je
+
+8
+00:00:27.783 --> 00:00:31.024
+nakonfigurovaný, schémata šablon jsou
+exportována a nahrána a šablony jsou
+
+9
+00:00:31.024 --> 00:00:34.266
+povolené pro ambient.
+
+10
+00:00:34.266 --> 00:00:37.799
+Pro přístup k Historii importů se
+přihlaste do centra správy Dragonu.
+
+11
+00:00:37.800 --> 00:00:41.083
+V sekci Dragon Copilot vyberte
+Zdravotní sestry, zvolte své prostředí
+
+12
+00:00:41.083 --> 00:00:44.366
+a otevřete správce vlastního nastavení
+AI.
+
+13
+00:00:44.366 --> 00:00:48.599
+Poté v navigačním panelu vyberte
+Historii importů.
+
+14
+00:00:48.600 --> 00:00:51.800
+Historie importů se otevře na kartě
+Přehled.
+
+15
+00:00:51.866 --> 00:00:54.699
+Zde uvidíte celkové počty přidaných
+nebo změněných šablon, přidaných nebo
+
+16
+00:00:54.699 --> 00:00:57.533
+odstraněných řádků a aktualizací
+skupin.
+
+17
+00:00:57.533 --> 00:01:01.266
+To vám poskytuje přehledný snímek
+toho, co se změnilo a v jakém rozsahu.
+
+18
+00:01:01.266 --> 00:01:04.732
+Dále karta Šablony rozděluje
+aktualizace podle šablon.
+
+19
+00:01:04.733 --> 00:01:07.433
+U každé šablony uvidíte, kolik řádků a
+skupin bylo přidáno, změněno nebo
+
+20
+00:01:07.433 --> 00:01:10.133
+odstraněno ve všech importech.
+
+21
+00:01:10.133 --> 00:01:12.199
+To vám pomůže rychle identifikovat
+šablony, které jsou intenzivně
+
+22
+00:01:12.199 --> 00:01:14.266
+upravované.
+
+23
+00:01:14.266 --> 00:01:18.433
+Karta Skupiny se zaměřuje na změny
+provedené v jednotlivých skupinách.
+
+24
+00:01:18.433 --> 00:01:22.016
+Můžete sledovat přidané, odstraněné
+nebo upravené řádky pro konkrétní
+
+25
+00:01:22.016 --> 00:01:25.599
+skupiny, což je ideální pro zachycení
+strukturálních posunů v šablonách.
+
+26
+00:01:25.600 --> 00:01:29.211
+V části Změny řádků najdete
+nejpodrobnější úroveň podrobností,
+
+27
+00:01:29.211 --> 00:01:32.822
+úpravy jednotlivých řádků, což vám
+pomůže ověřit, jestli byly změny
+
+28
+00:01:32.822 --> 00:01:36.433
+záměrné a přesné.
+
+29
+00:01:36.433 --> 00:01:40.374
+Nakonec karta Všechny verze zobrazuje
+seznam nedávných importních událostí.
+
+30
+00:01:40.374 --> 00:01:44.316
+Každý záznam obsahuje ID verze, datum
+poslední úpravy, eTag a délku obsahu
+
+31
+00:01:44.316 --> 00:01:48.257
+spolu s možností zobrazit nebo
+exportovat celý JSON daného importu
+
+32
+00:01:48.257 --> 00:01:52.199
+pro potřeby řešení problémů nebo
+auditu.
+
+33
+00:01:52.200 --> 00:01:56.500
+Historie importů přináší správcům
+transparentnost a spolehlivost.
+
+34
+00:01:56.500 --> 00:01:59.777
+Zobrazuje každou změnu šablony, pomáhá
+řešit chyby a zajišťuje, že vaše
+
+35
+00:01:59.777 --> 00:02:03.055
+šablony s ambientní podporou zůstávají
+čisté, konzistentní a aktuální napříč
+
+36
+00:02:03.055 --> 00:02:06.333
+prostředími.
+
+37
+00:02:06.333 --> 00:02:07.499
+Děkujeme za sledování.

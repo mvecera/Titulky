@@ -1,0 +1,185 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+I denne videoen finner du ut hvordan
+du redigerer metadatamaler for
+
+2
+00:00:04.499 --> 00:00:07.366
+flytskjema i administrasjonssenter for
+Dragon for å bedre støtte
+
+3
+00:00:07.366 --> 00:00:10.233
+sykepleierarbeidsflyter i hele
+organisasjonen.
+
+4
+00:00:10.233 --> 00:00:13.766
+Som administrator kan du redigere
+viktige innstillinger som former
+
+5
+00:00:13.766 --> 00:00:17.299
+klinisk dokumentasjon, inkludert
+redigering av tjenestelinjer, roller
+
+6
+00:00:17.299 --> 00:00:20.832
+og maltyper, samt hvordan du aktiverer
+eller deaktiverer Ambient modus.
+
+7
+00:00:20.833 --> 00:00:25.633
+Sørg for at rollen Administrator er
+tildelt før du begynner.
+
+8
+00:00:25.633 --> 00:00:29.766
+Miljøet er fullstendig klargjort,
+EHR-tilkoblingen er konfigurert, og
+
+9
+00:00:29.766 --> 00:00:33.899
+flytskjemaene er eksportert som
+JSON-filer.
+
+10
+00:00:33.900 --> 00:00:39.266
+Sjekk også at miljø-ID er korrekt og
+at opplastingen av skjema er fullført.
+
+11
+00:00:39.266 --> 00:00:40.766
+La oss sette i gang.
+
+12
+00:00:40.766 --> 00:00:43.032
+Logg inn på administrasjonssenter for
+Dragon først.
+
+13
+00:00:43.033 --> 00:00:46.983
+I Dragon Copilot-delen velger du
+«Sykepleiere». Bekreft eller velg
+
+14
+00:00:46.983 --> 00:00:50.933
+deretter miljøet der oppdateringene
+skal gjøres.
+
+15
+00:00:50.933 --> 00:00:54.166
+Deretter, under Sykepleierverktøy og
+konfigurasjon, velg
+
+16
+00:00:54.166 --> 00:00:57.399
+Flytskjemaadministrator. Her kan du
+administrere og oppdatere
+
+17
+00:00:57.399 --> 00:01:00.632
+flytskjema-maler. Velg én eller flere
+maler; når de er valgt, aktiveres
+
+18
+00:01:00.632 --> 00:01:03.866
+verktøylinjen med
+redigeringsalternativer.
+
+19
+00:01:03.866 --> 00:01:06.666
+Velg Rediger for å åpne
+metadata-panelet til høyre.
+
+20
+00:01:06.666 --> 00:01:11.632
+Her kan du oppdatere Tjenestelinje,
+Rolle og Maltype.
+
+21
+00:01:11.633 --> 00:01:14.683
+Tjenestelinje og Rolle kan ha flere
+verdier, mens Maltype kun tillater ett
+
+22
+00:01:14.683 --> 00:01:17.733
+valg.
+
+23
+00:01:17.733 --> 00:01:20.641
+Juster feltene etter behov for å
+tilpasse arbeidsflytene til
+
+24
+00:01:20.641 --> 00:01:23.549
+sykepleierteamene. Når oppdateringene
+er ferdige, velg Lagre endringer.
+
+25
+00:01:23.549 --> 00:01:26.457
+Flytskjema-administratorens tabell
+oppdateres automatisk for å vise
+
+26
+00:01:26.457 --> 00:01:29.366
+endringene.
+
+27
+00:01:29.366 --> 00:01:32.366
+Du kan også bruke
+flytskjema-administratoren til å
+
+28
+00:01:32.366 --> 00:01:35.366
+aktivere eller deaktivere Ambient
+modus for spesifikke maler.
+
+29
+00:01:35.366 --> 00:01:38.477
+Hvis en mal har Ambient modus
+aktivert, lar valget Rediger deg
+
+30
+00:01:38.477 --> 00:01:41.588
+deaktivere det; hvis Ambient modus er
+deaktivert, lar Rediger-valget deg
+
+31
+00:01:41.588 --> 00:01:44.699
+aktivere det.
+
+32
+00:01:44.700 --> 00:01:48.633
+Når du velger flere maler med blandede
+Ambient-statuser, blir valget
+
+33
+00:01:48.633 --> 00:01:52.566
+inaktivt, så sørg for at alle valgte
+maler har samme status hvis de skal
+
+34
+00:01:52.566 --> 00:01:56.500
+oppdateres samtidig.
+
+35
+00:01:56.500 --> 00:02:00.311
+Å redigere metadata for flytskjema
+sikrer at klinisk dokumentasjon
+
+36
+00:02:00.311 --> 00:02:04.122
+forblir relevant, nøyaktig og
+tilpasset organisasjonens
+
+37
+00:02:04.122 --> 00:02:07.933
+arbeidsflyter – noe som forbedrer både
+konsistens og datakvalitet.
+
+38
+00:02:07.933 --> 00:02:12.966
+Takk for at du så på!

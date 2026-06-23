@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:02.891
+En este vídeo, exploraremos el
+Historial de importaciones, su
+
+2
+00:00:02.891 --> 00:00:04.816
+herramienta para realizar un
+seguimiento de todos los cambios
+
+3
+00:00:04.816 --> 00:00:06.741
+realizados en las plantillas de
+diagramas de flujo habilitadas para el
+
+4
+00:00:06.741 --> 00:00:08.666
+ambiente.
+
+5
+00:00:08.666 --> 00:00:11.544
+El Historial de importaciones le
+ofrece un registro detallado de las
+
+6
+00:00:11.544 --> 00:00:14.422
+cargas de plantillas en su entorno,
+mostrando cambios, adiciones,
+
+7
+00:00:14.422 --> 00:00:17.300
+eliminaciones, comparaciones de
+versiones y mucho más.
+
+8
+00:00:17.300 --> 00:00:19.300
+Esto es esencial para comprender cómo
+evolucionan las plantillas con el
+
+9
+00:00:19.300 --> 00:00:21.300
+tiempo.
+
+10
+00:00:21.300 --> 00:00:24.541
+Antes de comenzar, asegúrese de que
+todo lo básico esté listo: se le ha
+
+11
+00:00:24.541 --> 00:00:27.783
+asignado el rol de administrador de
+Dragon, su entorno está aprovisionado,
+
+12
+00:00:27.783 --> 00:00:31.024
+su EHR está configurado, los esquemas
+de plantillas se han exportado y
+
+13
+00:00:31.024 --> 00:00:34.266
+cargado, y las plantillas están
+habilitadas para el ambiente.
+
+14
+00:00:34.266 --> 00:00:36.032
+Para acceder al Historial de
+importaciones, inicie sesión en el
+
+15
+00:00:36.032 --> 00:00:37.799
+centro de administración de Dragon.
+
+16
+00:00:37.800 --> 00:00:41.083
+En Dragon Copilot, seleccione
+Enfermeros, elija su entorno y abra el
+
+17
+00:00:41.083 --> 00:00:44.366
+Administrador de personalización de
+IA.
+
+18
+00:00:44.366 --> 00:00:46.482
+A continuación, seleccione Historial
+de importaciones en el panel de
+
+19
+00:00:46.482 --> 00:00:48.599
+navegación.
+
+20
+00:00:48.600 --> 00:00:51.800
+El historial de importación se abre en
+la pestaña Información general.
+
+21
+00:00:51.866 --> 00:00:54.699
+Aquí verá los totales de plantillas
+añadidas o modificadas, filas
+
+22
+00:00:54.699 --> 00:00:57.533
+agregadas o eliminadas y
+actualizaciones de grupos.
+
+23
+00:00:57.533 --> 00:01:01.266
+Esto te ofrece una visión general de
+qué ha cambiado y en qué medida.
+
+24
+00:01:01.266 --> 00:01:02.999
+A continuación, la pestaña Plantillas
+desglosa las actualizaciones por
+
+25
+00:01:02.999 --> 00:01:04.732
+plantilla.
+
+26
+00:01:04.733 --> 00:01:07.433
+Para cada plantilla, verá cuántas
+filas y grupos se agregaron, cambiaron
+
+27
+00:01:07.433 --> 00:01:10.133
+o quitaron en todas las importaciones.
+
+28
+00:01:10.133 --> 00:01:12.199
+Esto le ayuda a detectar rápidamente
+las plantillas que se modifican con
+
+29
+00:01:12.199 --> 00:01:14.266
+mucha rapidez.
+
+30
+00:01:14.266 --> 00:01:16.349
+La pestaña Grupos se centra en los
+cambios realizados dentro de cada
+
+31
+00:01:16.349 --> 00:01:18.433
+grupo.
+
+32
+00:01:18.433 --> 00:01:20.821
+Puede realizar un seguimiento de las
+filas agregadas, eliminadas o
+
+33
+00:01:20.821 --> 00:01:23.210
+modificadas para grupos específicos,
+ideal para detectar cambios
+
+34
+00:01:23.210 --> 00:01:25.599
+estructurales dentro de las
+plantillas.
+
+35
+00:01:25.600 --> 00:01:29.211
+En Cambios de filas, encontrará el
+nivel de detalle más pormenorizado y
+
+36
+00:01:29.211 --> 00:01:32.822
+las modificaciones de fila
+individuales, lo que le ayudará a
+
+37
+00:01:32.822 --> 00:01:36.433
+comprobar si los cambios fueron
+intencionados y precisos.
+
+38
+00:01:36.433 --> 00:01:39.586
+Por último, la pestaña "Importar
+versiones" muestra la lista de eventos
+
+39
+00:01:39.586 --> 00:01:42.739
+de importación recientes. Cada entrada
+captura el id. de la versión, la fecha
+
+40
+00:01:42.739 --> 00:01:45.892
+de la última modificación, el ETag y
+la longitud del contenido, además de
+
+41
+00:01:45.892 --> 00:01:49.045
+ofrecer la posibilidad de ver o
+exportar el JSON completo de esa
+
+42
+00:01:49.045 --> 00:01:52.199
+importación para fines de resolución
+de problemas o auditoría.
+
+43
+00:01:52.200 --> 00:01:54.350
+El Historial de importaciones ofrece
+transparencia y confianza a los
+
+44
+00:01:54.350 --> 00:01:56.500
+administradores.
+
+45
+00:01:56.500 --> 00:01:59.777
+Muestra todos los cambios en las
+plantillas, ayuda a solucionar errores
+
+46
+00:01:59.777 --> 00:02:03.055
+y garantiza que sus plantillas
+habilitadas para el ambiente
+
+47
+00:02:03.055 --> 00:02:06.333
+permanezcan depuradas, coherentes y
+actualizadas en todos los entornos.
+
+48
+00:02:06.333 --> 00:02:07.499
+Gracias por la atención.

@@ -1,0 +1,207 @@
+WEBVTT
+
+1
+00:00:00.966 --> 00:00:04.816
+W tym wideo omówimy Historię importu,
+narzędzie do śledzenia każdej zmiany
+
+2
+00:00:04.816 --> 00:00:08.666
+wprowadzonej w szablonach arkuszy
+przepływu z obsługą otoczenia.
+
+3
+00:00:08.666 --> 00:00:11.544
+Historia importu zapewnia szczegółowy
+dziennik przesyłania szablonów w całym
+
+4
+00:00:11.544 --> 00:00:14.422
+środowisku, pokazując zmiany, dodatki,
+usunięcia, porównania wersji i nie
+
+5
+00:00:14.422 --> 00:00:17.300
+tylko.
+
+6
+00:00:17.300 --> 00:00:21.300
+Jest to niezbędne do zrozumienia, jak
+szablony ewoluują w czasie.
+
+7
+00:00:21.300 --> 00:00:24.541
+Zanim zaczniesz, upewnij się, że
+podstawy są gotowe: masz przypisaną
+
+8
+00:00:24.541 --> 00:00:27.783
+rolę administratora aplikacji Dragon,
+Twoje środowisko jest aprowizowane,
+
+9
+00:00:27.783 --> 00:00:31.024
+EDM jest skonfigurowany, schematy
+szablonów są wyeksportowane i
+
+10
+00:00:31.024 --> 00:00:34.266
+przekazane, a szablony mają włączoną
+obsługę otoczenia.
+
+11
+00:00:34.266 --> 00:00:36.032
+Aby uzyskać dostęp do historii
+importu, zaloguj się w centrum
+
+12
+00:00:36.032 --> 00:00:37.799
+administracyjnym aplikacji Dragon.
+
+13
+00:00:37.800 --> 00:00:41.083
+W obszarze aplikacji Dragon Copilot
+wybierz pozycję Pielęgniarki, wybierz
+
+14
+00:00:41.083 --> 00:00:44.366
+swoje środowisko i otwórz Menedżera
+dostosowywania AI.
+
+15
+00:00:44.366 --> 00:00:48.599
+Następnie wybierz pozycję Historia
+importu w panelu nawigacyjnym.
+
+16
+00:00:48.600 --> 00:00:51.800
+Historia importu zostanie otwarta na
+karcie Przegląd.
+
+17
+00:00:51.866 --> 00:00:54.699
+Tutaj zobaczysz sumy dodanych lub
+zmienionych szablonów, dodanych lub
+
+18
+00:00:54.699 --> 00:00:57.533
+usuniętych wierszy oraz aktualizacji
+grup.
+
+19
+00:00:57.533 --> 00:01:01.266
+Zapewnia to ogólny obraz tego, co i w
+jakim stopniu się zmieniło.
+
+20
+00:01:01.266 --> 00:01:02.999
+Następnie karta Szablony zawiera
+podział aktualizacji według
+
+21
+00:01:02.999 --> 00:01:04.732
+poszczególnych szablonów.
+
+22
+00:01:04.733 --> 00:01:07.433
+Dla każdego szablonu zobaczysz, ile
+wierszy i grup zostało dodanych,
+
+23
+00:01:07.433 --> 00:01:10.133
+zmienionych lub usuniętych we
+wszystkich importach.
+
+24
+00:01:10.133 --> 00:01:14.266
+Pomaga to szybko wykryć szablony
+poddawane licznym modyfikacjom.
+
+25
+00:01:14.266 --> 00:01:16.349
+Karta Grupy zawiera informacje o
+zmianach wprowadzonych w
+
+26
+00:01:16.349 --> 00:01:18.433
+poszczególnych grupach.
+
+27
+00:01:18.433 --> 00:01:20.821
+Możesz śledzić wiersze dodane,
+usunięte lub zmodyfikowane w
+
+28
+00:01:20.821 --> 00:01:23.210
+konkretnych grupach, co ułatwia
+wychwytywanie zmian strukturalnych w
+
+29
+00:01:23.210 --> 00:01:25.599
+szablonach.
+
+30
+00:01:25.600 --> 00:01:29.211
+W zmianach Wierszy znajdziesz
+najbardziej szczegółowe dane,
+
+31
+00:01:29.211 --> 00:01:32.822
+modyfikacje poszczególnych wierszy, co
+ułatwia weryfikację, czy zmiany były
+
+32
+00:01:32.822 --> 00:01:36.433
+zamierzone i poprawne.
+
+33
+00:01:36.433 --> 00:01:39.586
+Na koniec karta Wszystkie wersje
+wyświetla listę ostatnich zdarzeń
+
+34
+00:01:39.586 --> 00:01:42.739
+importu. Każdy wpis zawiera
+identyfikator wersji, datę ostatniej
+
+35
+00:01:42.739 --> 00:01:45.892
+modyfikacji, tag jednostki i długość
+zawartości, a także umożliwia
+
+36
+00:01:45.892 --> 00:01:49.045
+wyświetlenie lub wyeksportowanie
+pełnego pliku JSON danego importu na
+
+37
+00:01:49.045 --> 00:01:52.199
+potrzeby rozwiązywania problemów lub
+inspekcji.
+
+38
+00:01:52.200 --> 00:01:54.350
+Historia importu zapewnia
+administratorom przejrzystość i
+
+39
+00:01:54.350 --> 00:01:56.500
+pewność działań.
+
+40
+00:01:56.500 --> 00:01:59.777
+Uwidacznia ona każdą zmianę szablonu,
+pomaga rozwiązywać błędy i zapewnia,
+
+41
+00:01:59.777 --> 00:02:03.055
+że szablony z obsługą otoczenia
+pozostają czyste, spójne i aktualne we
+
+42
+00:02:03.055 --> 00:02:06.333
+wszystkich środowiskach.
+
+43
+00:02:06.333 --> 00:02:07.499
+Dziękujemy za uwagę.

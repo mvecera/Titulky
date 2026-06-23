@@ -1,0 +1,215 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+In diesem Video lernen Sie, wie Sie
+Metadaten von Flussdiagrammvorlagen im
+
+2
+00:00:04.499 --> 00:00:07.366
+Dragon Admin Center bearbeiten, um die
+Pflegeabläufe in Ihrer Organisation
+
+3
+00:00:07.366 --> 00:00:10.233
+besser zu unterstützen.
+
+4
+00:00:10.233 --> 00:00:12.882
+Als Administrator können Sie wichtige
+Einstellungen bearbeiten, die die
+
+5
+00:00:12.882 --> 00:00:15.532
+klinische Dokumentation beeinflussen,
+darunter die Bearbeitung von
+
+6
+00:00:15.532 --> 00:00:18.182
+Serviceleistungen, Rollen und
+Vorlagentypen sowie die Aktivierung
+
+7
+00:00:18.182 --> 00:00:20.832
+oder Deaktivierung des Ambient-Modus.
+
+8
+00:00:20.833 --> 00:00:23.233
+Bevor Sie beginnen, stellen Sie
+sicher, dass Ihnen die
+
+9
+00:00:23.233 --> 00:00:25.633
+Dragon-Admin-Rolle zugewiesen ist.
+
+10
+00:00:25.633 --> 00:00:28.388
+Ihre Umgebung ist vollständig
+bereitgestellt, Ihre EKA-Verbindung
+
+11
+00:00:28.388 --> 00:00:31.143
+ist konfiguriert, und Ihre
+Flussdiagrammschemata wurden als
+
+12
+00:00:31.143 --> 00:00:33.899
+JSON-Dateien exportiert.
+
+13
+00:00:33.900 --> 00:00:36.583
+Vergewissern Sie sich außerdem, dass
+die Umgebungs-ID korrekt ist und Ihr
+
+14
+00:00:36.583 --> 00:00:39.266
+Schema-Upload abgeschlossen ist.
+
+15
+00:00:39.266 --> 00:00:40.766
+Fangen wir also an.
+
+16
+00:00:40.766 --> 00:00:43.032
+Melden Sie sich zuerst im Dragon Admin
+Center an.
+
+17
+00:00:43.033 --> 00:00:45.666
+Wählen Sie im Bereich Dragon Copilot
+„Pflegekräfte“ aus. Bestätigen oder
+
+18
+00:00:45.666 --> 00:00:48.299
+wählen Sie dann die Umgebung, in der
+Sie Ihre Aktualisierungen vornehmen
+
+19
+00:00:48.299 --> 00:00:50.933
+möchten.
+
+20
+00:00:50.933 --> 00:00:54.166
+Wählen Sie anschließend unter
+Pflegewerkzeuge und Konfiguration
+
+21
+00:00:54.166 --> 00:00:57.399
+„Flowsheet Manager“ aus. Hier
+verwalten und aktualisieren Sie
+
+22
+00:00:57.399 --> 00:01:00.632
+Flussdiagrammvorlagen. Wählen Sie eine
+oder mehrere Vorlagen aus; nach der
+
+23
+00:01:00.632 --> 00:01:03.866
+Auswahl aktiviert die Symbolleiste
+Optionen zum Bearbeiten.
+
+24
+00:01:03.866 --> 00:01:06.666
+Wählen Sie „Bearbeiten“, um das
+Metadatenfenster rechts zu öffnen.
+
+25
+00:01:06.666 --> 00:01:11.632
+Hier können Sie Versorgungsbereich,
+Rolle und Vorlagentyp aktualisieren.
+
+26
+00:01:11.633 --> 00:01:14.683
+Versorgungsbereich und Rolle können
+mehrere Werte enthalten, während beim
+
+27
+00:01:14.683 --> 00:01:17.733
+Vorlagentyp nur eine Auswahl möglich
+ist.
+
+28
+00:01:17.733 --> 00:01:20.641
+Passen Sie die Felder bei Bedarf an,
+um die Abläufe Ihrer Pflegeteams
+
+29
+00:01:20.641 --> 00:01:23.549
+widerzuspiegeln. Nach Abschluss Ihrer
+Änderungen wählen Sie „Änderungen
+
+30
+00:01:23.549 --> 00:01:26.457
+speichern“. Die Tabelle des Flowsheet
+Managers wird automatisch
+
+31
+00:01:26.457 --> 00:01:29.366
+aktualisiert, um Ihre Änderungen
+anzuzeigen.
+
+32
+00:01:29.366 --> 00:01:32.366
+Sie können den Flowsheet Manager auch
+verwenden, um den Ambient-Modus für
+
+33
+00:01:32.366 --> 00:01:35.366
+bestimmte Vorlagen zu aktivieren oder
+zu deaktivieren.
+
+34
+00:01:35.366 --> 00:01:38.477
+Wenn eine Vorlage den Ambient-Modus
+aktiviert hat, können Sie ihn über die
+
+35
+00:01:38.477 --> 00:01:41.588
+Option „Bearbeiten“ deaktivieren; ist
+der Ambient-Modus deaktiviert, können
+
+36
+00:01:41.588 --> 00:01:44.699
+Sie ihn über „Bearbeiten“ aktivieren.
+
+37
+00:01:44.700 --> 00:01:47.650
+Wenn Sie mehrere Vorlagen mit
+unterschiedlichen Ambient-Status
+
+38
+00:01:47.650 --> 00:01:50.600
+auswählen, wird die Option inaktiv.
+Stellen Sie daher sicher, dass alle
+
+39
+00:01:50.600 --> 00:01:53.550
+ausgewählten Vorlagen denselben Status
+haben, wenn Sie sie gemeinsam
+
+40
+00:01:53.550 --> 00:01:56.500
+aktualisieren möchten.
+
+41
+00:01:56.500 --> 00:01:59.358
+Das Bearbeiten von
+Flussdiagramm-Metadaten stellt sicher,
+
+42
+00:01:59.358 --> 00:02:02.216
+dass die klinische Dokumentation
+relevant, genau und auf die Abläufe
+
+43
+00:02:02.216 --> 00:02:05.074
+Ihrer Organisation abgestimmt bleibt –
+was sowohl die Konsistenz als auch die
+
+44
+00:02:05.074 --> 00:02:07.933
+Datenqualität verbessert.
+
+45
+00:02:07.933 --> 00:02:12.966
+Danke fürs Zuschauen.

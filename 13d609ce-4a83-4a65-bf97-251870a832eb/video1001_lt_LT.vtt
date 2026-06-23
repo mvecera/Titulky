@@ -1,0 +1,193 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+Šiame vaizdo įraše sužinosite, kaip
+redaguoti srauto lapo šablono
+
+2
+00:00:04.499 --> 00:00:07.366
+metaduomenis „Dragon“ administravimo
+centre, kad geriau palaikytumėte
+
+3
+00:00:07.366 --> 00:00:10.233
+slaugos darbo eigas visoje
+organizacijoje.
+
+4
+00:00:10.233 --> 00:00:13.766
+Kaip administratorius, galite
+redaguoti pagrindinius parametrus,
+
+5
+00:00:13.766 --> 00:00:17.299
+formuojančius klinikinę dokumentaciją,
+įskaitant paslaugų linijų, vaidmenų ir
+
+6
+00:00:17.299 --> 00:00:20.832
+šablonų tipų redagavimą, taip pat kaip
+įjungti arba išjungti Aplinkos režimą.
+
+7
+00:00:20.833 --> 00:00:23.233
+Prieš pradėdami, įsitikinkite, kad
+jums priskirtas „Dragon“
+
+8
+00:00:23.233 --> 00:00:25.633
+administratoriaus vaidmuo.
+
+9
+00:00:25.633 --> 00:00:29.766
+Jūsų aplinka yra visiškai paruošta,
+ESI ryšys sukonfigūruotas, o srauto
+
+10
+00:00:29.766 --> 00:00:33.899
+lapų schemos eksportuotos kaip JSON
+failai.
+
+11
+00:00:33.900 --> 00:00:36.583
+Taip pat patikrinkite, ar aplinkos ID
+yra teisingas ir ar schemos įkėlimas
+
+12
+00:00:36.583 --> 00:00:39.266
+baigtas.
+
+13
+00:00:39.266 --> 00:00:40.766
+Pradėkime.
+
+14
+00:00:40.766 --> 00:00:43.032
+Pirmiausia prisijunkite prie „Dragon“
+administravimo centro.
+
+15
+00:00:43.033 --> 00:00:46.983
+„Dragon Copilot“ skiltyje pasirinkite
+„Slaugytojai“. Tada patvirtinkite arba
+
+16
+00:00:46.983 --> 00:00:50.933
+pasirinkite aplinką, kurioje norite
+atlikti atnaujinimus.
+
+17
+00:00:50.933 --> 00:00:54.166
+Toliau, skiltyje „Slaugos įrankiai ir
+konfigūracija“ pasirinkite „Srauto
+
+18
+00:00:54.166 --> 00:00:57.399
+lapų tvarkyklė“. Čia valdysite ir
+atnaujinsite srauto lapų šablonus.
+
+19
+00:00:57.399 --> 00:01:00.632
+Pasirinkite vieną arba kelis šablonus;
+pasirinkus, įrankių juosta aktyvuoja
+
+20
+00:01:00.632 --> 00:01:03.866
+redagavimo parinktis.
+
+21
+00:01:03.866 --> 00:01:06.666
+Pasirinkite „Redaguoti“, kad dešinėje
+atidarytumėte metaduomenų skydelį.
+
+22
+00:01:06.666 --> 00:01:11.632
+Čia galite atnaujinti Paslaugų liniją,
+Vaidmenį ir Šablono tipą.
+
+23
+00:01:11.633 --> 00:01:14.683
+Paslaugų linija ir Vaidmuo gali turėti
+kelias reikšmes, o Šablono tipas
+
+24
+00:01:14.683 --> 00:01:17.733
+leidžia pasirinkti tik vieną.
+
+25
+00:01:17.733 --> 00:01:20.641
+Pritaikykite laukus pagal poreikį, kad
+atitiktų jūsų slaugos komandų darbo
+
+26
+00:01:20.641 --> 00:01:23.549
+eigas. Baigę atnaujinimus, pasirinkite
+„Įrašyti pakeitimus“. Srauto lapų
+
+27
+00:01:23.549 --> 00:01:26.457
+tvarkyklės lentelė automatiškai
+atsinaujins ir parodys jūsų
+
+28
+00:01:26.457 --> 00:01:29.366
+pakeitimus.
+
+29
+00:01:29.366 --> 00:01:32.366
+Taip pat galite naudoti srauto lapų
+tvarkyklę, kad įjungtumėte arba
+
+30
+00:01:32.366 --> 00:01:35.366
+išjungtumėte Aplinkos režimą
+konkretiems šablonams.
+
+31
+00:01:35.366 --> 00:01:40.032
+Jei šablone įjungtas Aplinkos režimas,
+redagavimo parinktis leis jį išjungti;
+
+32
+00:01:40.032 --> 00:01:44.699
+jei Aplinkos režimas išjungtas,
+redagavimo parinktis leis jį įjungti.
+
+33
+00:01:44.700 --> 00:01:47.650
+Pasirinkus kelis šablonus su
+skirtingomis Aplinkos režimo
+
+34
+00:01:47.650 --> 00:01:50.600
+būsenomis, parinktis tampa neaktyvi,
+todėl įsitikinkite, kad visi
+
+35
+00:01:50.600 --> 00:01:53.550
+pasirinkti šablonai turi tą pačią
+būseną, jei norite juos atnaujinti
+
+36
+00:01:53.550 --> 00:01:56.500
+kartu.
+
+37
+00:01:56.500 --> 00:02:00.311
+Redaguojant srauto lapo metaduomenis
+užtikrinama, kad klinikinė
+
+38
+00:02:00.311 --> 00:02:04.122
+dokumentacija išliktų aktuali, tiksli
+ir atitiktų jūsų organizacijos darbo
+
+39
+00:02:04.122 --> 00:02:07.933
+eigas – taip gerinant nuoseklumą ir
+duomenų kokybę.
+
+40
+00:02:07.933 --> 00:02:12.966
+Ačiū, kad žiūrėjote!

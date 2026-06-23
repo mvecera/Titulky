@@ -1,0 +1,123 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.149
+I den här videon får du lära dig hur
+du konfigurerar anslutningen till ett
+
+2
+00:00:04.149 --> 00:00:08.066
+elektroniskt journalsystem i
+administrationscentret för Dragon.
+
+3
+00:00:08.066 --> 00:00:11.299
+Den här konfigurationen säkerställer
+säker autentisering, korrekt
+
+4
+00:00:11.299 --> 00:00:14.532
+användarmappning och en tillförlitlig
+upplevelse för läkare.
+
+5
+00:00:14.533 --> 00:00:17.283
+Kom igång genom att se till att du har
+tilldelats rollen Dragon-administratör
+
+6
+00:00:17.283 --> 00:00:20.033
+eller Global administratör roll.
+
+7
+00:00:20.033 --> 00:00:22.866
+Logga sedan in på
+Administrationscenter för Dragon.
+
+8
+00:00:22.866 --> 00:00:26.933
+Välj Anslutning i avsnittet
+Miljökonfiguration.
+
+9
+00:00:26.933 --> 00:00:31.566
+Välj din nyligen skapade miljö i
+listrutan högst upp.
+
+10
+00:00:31.566 --> 00:00:35.732
+Välj listrutan Konfigurera under
+Konfigurera en kopplingstext.
+
+11
+00:00:35.733 --> 00:00:40.133
+I listan över elektroniska
+hälsojournaler väljer du din EHR.
+
+12
+00:00:40.133 --> 00:00:44.849
+Då öppnas panelen Konfigurera
+anslutningsprogram och anger
+
+13
+00:00:44.849 --> 00:00:49.566
+utfärdarens anspråks-URL. Välj Spara.
+
+14
+00:00:49.566 --> 00:00:52.232
+Välj sedan fliken SMART på FHIR.
+
+15
+00:00:52.233 --> 00:00:55.549
+Aktivera växlingsknappen för att
+aktivera den och ange sedan följande
+
+16
+00:00:55.549 --> 00:00:58.866
+värden i fälten som är tillgängliga.
+
+17
+00:00:58.866 --> 00:01:05.466
+Bas-URL, omvänd proxy-URL och SMART på
+FHIR-URL.
+
+18
+00:01:05.466 --> 00:01:08.399
+När du är klar väljer du Spara.
+
+19
+00:01:08.400 --> 00:01:11.850
+Både anslutningsinställningarna och
+SMART på FHIR-informationen lagras nu
+
+20
+00:01:11.850 --> 00:01:15.300
+för den här miljön.
+
+21
+00:01:15.300 --> 00:01:18.449
+Om du konfigurerar EHR- och SMART på
+FHIR-inställningar säkerställs säker
+
+22
+00:01:18.449 --> 00:01:21.599
+autentisering och korrekt
+användarmappning.
+
+23
+00:01:21.600 --> 00:01:23.677
+Det stöder
+interoperabilitetsstandarder för
+
+24
+00:01:23.677 --> 00:01:25.754
+hälso- och sjukvård och minskar
+antalet fel under inloggning och
+
+25
+00:01:25.754 --> 00:01:27.832
+etablering.
+
+26
+00:01:27.833 --> 00:01:28.933
+Tack för att du tittade.

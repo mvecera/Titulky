@@ -1,0 +1,189 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.966
+W tym krótkim przewodniku dowiesz się,
+jak tworzyć, inicjować obsługę,
+
+2
+00:00:02.966 --> 00:00:05.932
+anulować ją i usuwać środowiska w
+centrum administracyjnym aplikacji
+
+3
+00:00:05.932 --> 00:00:08.899
+Dragon Admin.
+
+4
+00:00:08.900 --> 00:00:11.733
+Zacznijmy od utworzenia nowego
+środowiska.
+
+5
+00:00:11.733 --> 00:00:15.383
+Aby utworzyć nowe środowisko, upewnij
+się, że przypisano Ci rolę
+
+6
+00:00:15.383 --> 00:00:19.033
+administratora aplikacji Dragon, a
+następnie zaloguj się do centrum
+
+7
+00:00:19.033 --> 00:00:22.683
+administracyjnego aplikacji Dragon.
+W sekcji Zarządzanie wybierz pozycję
+
+8
+00:00:22.683 --> 00:00:26.333
+Środowiska, a następnie wybierz opcję
+Dodaj środowisko.
+
+9
+00:00:26.366 --> 00:00:30.866
+następnie wprowadź nazwę i opis, w tym
+datę utworzenia.
+
+10
+00:00:30.866 --> 00:00:33.432
+Gdy wszystko jest gotowe, wybierz
+pozycję Zapisz.
+
+11
+00:00:33.433 --> 00:00:36.166
+Twoje nowe środowisko zostało
+utworzone.
+
+12
+00:00:36.166 --> 00:00:39.132
+Następnie możesz zainicjować obsługę
+funkcji użytkownika.
+
+13
+00:00:39.133 --> 00:00:42.444
+Inicjowanie obsługi to proces
+konfigurowania i aktywowania
+
+14
+00:00:42.444 --> 00:00:45.755
+dedykowanego, bezpiecznego obszaru
+roboczego, dzięki czemu produkt lub
+
+15
+00:00:45.755 --> 00:00:49.066
+funkcja są gotowe do użycia i
+konfiguracji.
+
+16
+00:00:49.066 --> 00:00:52.132
+Wybierz utworzone środowisko, a
+następnie wybierz pozycję Zainicjuj
+
+17
+00:00:52.132 --> 00:00:55.199
+obsługę w ramach możliwości
+inicjowania obsługi, zależnie od
+
+18
+00:00:55.199 --> 00:00:58.266
+użytkowników w Twojej organizacji.
+
+19
+00:00:58.266 --> 00:01:01.399
+Inicjowanie obsługi trwa zwykle od
+dziesięciu do piętnastu minut.
+
+20
+00:01:01.400 --> 00:01:04.933
+Możesz przejść dalej, gdy proces się
+zakończy.
+
+21
+00:01:04.933 --> 00:01:07.933
+Po zakończeniu wyświetlony zostanie
+stan Zainicjowano obsługę, a przycisk
+
+22
+00:01:07.933 --> 00:01:10.933
+akcji zmieni się na Anuluj inicjowanie
+obsługi.
+
+23
+00:01:10.933 --> 00:01:14.399
+Aby wyłączyć lub usunąć środowisko,
+wykonaj następujące kroki.
+
+24
+00:01:14.400 --> 00:01:18.733
+Wróć do strony Środowiska i wybierz
+środowisko, które chcesz usunąć.
+
+25
+00:01:18.733 --> 00:01:22.266
+Wybierz opcję Anuluj inicjowanie
+obsługi dla funkcji i potwierdź akcję.
+
+26
+00:01:22.266 --> 00:01:25.366
+Poczekaj na zakończenie procesu.
+
+27
+00:01:25.366 --> 00:01:28.616
+Funkcja Dragon Copilot została
+oznaczona jako wyłączona i umieszczona
+
+28
+00:01:28.616 --> 00:01:31.866
+w kolejce do trwałego usunięcia w
+określonym dniu.
+
+29
+00:01:31.866 --> 00:01:34.810
+Wybierz strzałkę obok pozycji
+Przywróć, a następnie wybierz pozycję
+
+30
+00:01:34.810 --> 00:01:37.754
+Usuń trwale i potwierdź akcję.
+Przycisk zmieni się na Zainicjuj
+
+31
+00:01:37.754 --> 00:01:40.699
+obsługę.
+
+32
+00:01:40.700 --> 00:01:44.200
+Możesz teraz usunąć środowisko.
+
+33
+00:01:44.200 --> 00:01:47.833
+Wybierz pozycję Usuń i potwierdź po
+wyświetleniu monitu.
+
+34
+00:01:47.833 --> 00:01:50.349
+Pamiętaj – środowisko można usunąć
+dopiero po anulowaniu inicjowania
+
+35
+00:01:50.349 --> 00:01:52.866
+obsługi wszystkich funkcji.
+
+36
+00:01:52.866 --> 00:01:56.366
+To wszystko! Tworzenie, inicjowanie
+obsługi i usuwanie środowisk pomaga
+
+37
+00:01:56.366 --> 00:01:59.866
+zapewnić bezpieczne, zorganizowane
+obszary do zarządzania użytkownikami,
+
+38
+00:01:59.866 --> 00:02:03.366
+konfigurowania ustawień i łączenia się
+z systemami EDM.
+
+39
+00:02:03.366 --> 00:02:04.499
+Dziękujemy za oglądanie

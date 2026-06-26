@@ -1,0 +1,124 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.149
+Šajā video jūs uzzināsiet, kā
+konfigurēt savienojumu ar
+
+2
+00:00:04.149 --> 00:00:08.066
+Elektroniskās veselības ierakstu
+sistēmu Dragon administrēšanas centrā.
+
+3
+00:00:08.066 --> 00:00:11.299
+Šī iestatīšana nodrošina drošu
+autentifikāciju, pareizu lietotāju
+
+4
+00:00:11.299 --> 00:00:14.532
+kartēšanu un uzticamu pieredzi
+klīniskajiem speciālistiem.
+
+5
+00:00:14.533 --> 00:00:17.283
+Lai sāktu, pārliecinieties, ka jums ir
+piešķirta Dragon administratora loma
+
+6
+00:00:17.283 --> 00:00:20.033
+vai globālā administratora loma.
+
+7
+00:00:20.033 --> 00:00:22.866
+Pēc tam pierakstieties Dragon
+administrēšanas centrā.
+
+8
+00:00:22.866 --> 00:00:26.933
+Sadaļā Vides konfigurācija izvēlieties
+Savienotājs.
+
+9
+00:00:26.933 --> 00:00:31.566
+Izvēlieties nesen izveidoto vidi
+nolaižamajā sarakstā augšpusē.
+
+10
+00:00:31.566 --> 00:00:33.649
+Izvēlieties nolaižamo izvēlni
+Konfigurēt zem teksta konfigurēt
+
+11
+00:00:33.649 --> 00:00:35.732
+savienotāju.
+
+12
+00:00:35.733 --> 00:00:40.133
+No Elektronisko veselības ierakstu
+saraksta izvēlieties savu EHR.
+
+13
+00:00:40.133 --> 00:00:44.849
+Tiks atvērts panelis Konfigurēt
+savienotāju, ievadiet Izdevēja
+
+14
+00:00:44.849 --> 00:00:49.566
+prasības URL. Izvēlieties Saglabāt.
+
+15
+00:00:49.566 --> 00:00:52.232
+Nākamajā solī izvēlieties SMART cilnē
+FHIR.
+
+16
+00:00:52.233 --> 00:00:55.549
+Ieslēdziet slēdzi, lai to aktivizētu,
+un pēc tam norādiet šādas vērtības
+
+17
+00:00:55.549 --> 00:00:58.866
+pieejamajos laukos.
+
+18
+00:00:58.866 --> 00:01:05.466
+Pamata URL, Apgrieztā starpniekservera
+URL un SMART cilnē FHIR URL.
+
+19
+00:01:05.466 --> 00:01:08.399
+Kad esat pabeidzis, atlasiet Saglabāt.
+
+20
+00:01:08.400 --> 00:01:11.850
+Gan savienotāja iestatījumi, gan SMART
+cilnē FHIR dati tagad tiks saglabāti
+
+21
+00:01:11.850 --> 00:01:15.300
+šai videi.
+
+22
+00:01:15.300 --> 00:01:18.449
+EHR un SMART cilnē FHIR iestatījumu
+konfigurēšana nodrošina drošu
+
+23
+00:01:18.449 --> 00:01:21.599
+autentifikāciju un precīzu lietotāju
+kartēšanu.
+
+24
+00:01:21.600 --> 00:01:24.716
+Tas atbalsta veselības aprūpes
+savietojamības standartus un samazina
+
+25
+00:01:24.716 --> 00:01:27.832
+kļūdas pieteikšanās un piešķiršanas
+laikā.
+
+26
+00:01:27.833 --> 00:01:28.933
+Paldies par skatīšanos.

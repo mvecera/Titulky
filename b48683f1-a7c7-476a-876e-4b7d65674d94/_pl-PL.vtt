@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:02.844
+W tym wideo dowiesz się, jak
+skonfigurować połączenie z systemem
+
+2
+00:00:02.844 --> 00:00:05.455
+elektronicznej dokumentacji medycznej
+w centrum administracyjnym aplikacji
+
+3
+00:00:05.455 --> 00:00:08.066
+Dragon.
+
+4
+00:00:08.066 --> 00:00:11.299
+Ta konfiguracja zapewnia bezpieczne
+uwierzytelnianie, prawidłowe mapowanie
+
+5
+00:00:11.299 --> 00:00:14.532
+użytkowników i niezawodne działanie
+dla lekarzy.
+
+6
+00:00:14.533 --> 00:00:17.283
+Aby rozpocząć, upewnij się, że
+przypisano Ci rolę administratora
+
+7
+00:00:17.283 --> 00:00:20.033
+aplikacji Dragon lub administratora
+globalnego.
+
+8
+00:00:20.033 --> 00:00:22.866
+Następnie zaloguj się do centrum
+administracyjnego aplikacji Dragon.
+
+9
+00:00:22.866 --> 00:00:26.933
+W sekcji Konfiguracja środowiska
+wybierz pozycję Łącznik.
+
+10
+00:00:26.933 --> 00:00:31.566
+Wybierz niedawno utworzone środowisko
+z menu rozwijanego u góry.
+
+11
+00:00:31.566 --> 00:00:35.732
+Wybierz menu rozwijane Konfiguruj pod
+tekstem Konfiguruj łącznik.
+
+12
+00:00:35.733 --> 00:00:40.133
+Z listy elektronicznej dokumentacji
+medycznej wybierz swój system EDM.
+
+13
+00:00:40.133 --> 00:00:44.849
+Spowoduje to otwarcie panelu
+Konfiguruj łącznik; wprowadź adres URL
+
+14
+00:00:44.849 --> 00:00:49.566
+roszczenia wystawcy. Wybierz pozycję
+Zapisz.
+
+15
+00:00:49.566 --> 00:00:52.232
+Następnie wybierz kartę SMART on FHIR.
+
+16
+00:00:52.233 --> 00:00:55.549
+Przełącz przełącznik, aby włączyć tę
+funkcję, a następnie podaj następujące
+
+17
+00:00:55.549 --> 00:00:58.866
+wartości w dostępnych polach.
+
+18
+00:00:58.866 --> 00:01:02.166
+Podstawowy adres URL, adres URL
+odwrotnego serwera proxy oraz adres
+
+19
+00:01:02.166 --> 00:01:05.466
+URL SMART on FHIR.
+
+20
+00:01:05.466 --> 00:01:08.399
+Po zakończeniu wybierz pozycję Zapisz.
+
+21
+00:01:08.400 --> 00:01:11.850
+Zarówno ustawienia łącznika, jak i
+szczegóły SMART on FHIR zostaną
+
+22
+00:01:11.850 --> 00:01:15.300
+zapisane dla tego środowiska.
+
+23
+00:01:15.300 --> 00:01:18.449
+Konfigurowanie ustawień systemów EDM i
+SMART on FHIR zapewnia bezpieczne
+
+24
+00:01:18.449 --> 00:01:21.599
+uwierzytelnianie oraz dokładne
+mapowanie użytkowników.
+
+25
+00:01:21.600 --> 00:01:24.716
+Wspiera to standardy współdziałania w
+opiece zdrowotnej i ogranicza błędy
+
+26
+00:01:24.716 --> 00:01:27.832
+podczas logowania oraz inicjowania
+obsługi.
+
+27
+00:01:27.833 --> 00:01:28.933
+Dziękujemy za oglądanie.

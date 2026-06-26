@@ -1,0 +1,144 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:02.844
+Ebben a videóban megtanulhatja, hogyan
+konfigurálhatja a kapcsolatot egy
+
+2
+00:00:02.844 --> 00:00:05.455
+Elektronikus Egészségügyi
+Nyilvántartási rendszerhez a Dragon
+
+3
+00:00:05.455 --> 00:00:08.066
+felügyeleti központban.
+
+4
+00:00:08.066 --> 00:00:10.221
+Ez a beállítás biztosítja a
+biztonságos hitelesítést, a megfelelő
+
+5
+00:00:10.221 --> 00:00:12.376
+felhasználóleképezést és a megbízható
+élményt az egészségügyi szakemberek
+
+6
+00:00:12.376 --> 00:00:14.532
+számára.
+
+7
+00:00:14.533 --> 00:00:17.283
+A kezdéshez győződjön meg róla, hogy a
+Dragon rendszergazdai vagy a globális
+
+8
+00:00:17.283 --> 00:00:20.033
+rendszergazdai szerepkör van Önhöz
+hozzárendelve.
+
+9
+00:00:20.033 --> 00:00:22.866
+Ezután jelentkezzen be a Dragon
+Felügyeleti központba.
+
+10
+00:00:22.866 --> 00:00:26.933
+A Környezet konfigurálása szakaszban
+válassza az Összekötő lehetőséget.
+
+11
+00:00:26.933 --> 00:00:29.249
+Válassza ki a legutóbb létrehozott
+környezetet a legördülő menüből a
+
+12
+00:00:29.249 --> 00:00:31.566
+tetején.
+
+13
+00:00:31.566 --> 00:00:33.649
+Válassza az Összekötő konfigurálása
+szöveg alatti Konfigurálás legördülő
+
+14
+00:00:33.649 --> 00:00:35.732
+menüt.
+
+15
+00:00:35.733 --> 00:00:37.933
+Az Elektronikus egészségügyi
+nyilvántartások listájából válassza ki
+
+16
+00:00:37.933 --> 00:00:40.133
+az Ön EHR rendszerét.
+
+17
+00:00:40.133 --> 00:00:44.849
+Megnyílik az Összekötő konfigurálása
+panel, adja meg a Kibocsátó jogcím
+
+18
+00:00:44.849 --> 00:00:49.566
+URL-címét. Válassza a Mentés
+lehetőséget.
+
+19
+00:00:49.566 --> 00:00:52.232
+Ezután válassza ki a SMART on FHIR
+lapot.
+
+20
+00:00:52.233 --> 00:00:55.549
+Kapcsolja be a kapcsolót az
+engedélyezéshez, majd adja meg a
+
+21
+00:00:55.549 --> 00:00:58.866
+következő értékeket a rendelkezésre
+álló mezőkben.
+
+22
+00:00:58.866 --> 00:01:05.466
+Alap URL, Fordított proxy URL és SMART
+on FHIR URL.
+
+23
+00:01:05.466 --> 00:01:08.399
+Ha elkészült, válassza a Mentés
+lehetőséget.
+
+24
+00:01:08.400 --> 00:01:11.850
+Mostantól az Összekötő beállításai és
+a SMART on FHIR adatok is tárolva
+
+25
+00:01:11.850 --> 00:01:15.300
+lesznek ehhez a környezethez.
+
+26
+00:01:15.300 --> 00:01:18.449
+Az EHR és a SMART on FHIR beállítások
+konfigurálása biztosítja a biztonságos
+
+27
+00:01:18.449 --> 00:01:21.599
+hitelesítést és a pontos
+felhasználóleképezést.
+
+28
+00:01:21.600 --> 00:01:24.716
+Támogatja az egészségügyi
+együttműködési képesség szabványokat,
+
+29
+00:01:24.716 --> 00:01:27.832
+és csökkenti a hibákat a bejelentkezés
+és a jogosultságkiosztás során.
+
+30
+00:01:27.833 --> 00:01:28.933
+Köszönöm a figyelmet.

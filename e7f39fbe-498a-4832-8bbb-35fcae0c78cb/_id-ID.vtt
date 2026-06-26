@@ -1,0 +1,182 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+Dalam video ini, Anda akan mempelajari
+cara melihat, mengedit, dan
+
+2
+00:00:03.883 --> 00:00:07.133
+menerbitkan Panduan yang digunakan
+perawat di aplikasi seluler.
+
+3
+00:00:07.133 --> 00:00:09.649
+“Panduan adalah referensi terstruktur
+yang digunakan dalam aplikasi seluler
+
+4
+00:00:09.649 --> 00:00:12.166
+keperawatan.
+
+5
+00:00:12.166 --> 00:00:14.810
+Panduan ini membantu perawat mengingat
+apa yang perlu dicatat selama
+
+6
+00:00:14.810 --> 00:00:17.455
+dokumentasi yang kompleks.”
+“Menggunakan Panduan yang disesuaikan
+
+7
+00:00:17.455 --> 00:00:20.100
+membantu memastikan dokumentasi yang
+konsisten dan akurat.
+
+8
+00:00:20.100 --> 00:00:22.921
+Ini memberikan kejelasan kepada
+perawat selama pencatatan, terutama
+
+9
+00:00:22.921 --> 00:00:25.743
+untuk alur kerja yang lebih kompleks.”
+“Untuk memulai, masuk ke Pusat Admin
+
+10
+00:00:25.743 --> 00:00:28.566
+Dragon.
+
+11
+00:00:28.566 --> 00:00:32.569
+Pada Dragon Copilot, pilih ‘Perawat,’
+dan konfirmasikan bahwa Anda bekerja
+
+12
+00:00:32.569 --> 00:00:36.573
+di lingkungan yang benar.” “Pada Alat
+dan Konfigurasi Keperawatan, pilih
+
+13
+00:00:36.573 --> 00:00:40.577
+‘Panduan.’ Anda akan melihat panduan
+default yang diterapkan selama
+
+14
+00:00:40.577 --> 00:00:44.581
+penyediaan dan dapat melihat pratinjau
+tampilannya bagi perawat.” “Untuk
+
+15
+00:00:44.581 --> 00:00:48.584
+mengunduh konfigurasi Panduan saat
+ini, pilih ‘Unduh.’ Ini akan menyimpan
+
+16
+00:00:48.584 --> 00:00:52.588
+file JSON untuk referensi atau
+pelacakan versi.” “Untuk mengedit
+
+17
+00:00:52.588 --> 00:00:56.592
+Panduan, pilih ‘Edit.’ Anda kini
+memiliki akses untuk memodifikasi
+
+18
+00:00:56.592 --> 00:01:00.596
+kategori, komponen, dan nilai yang
+membentuk ranting panduan.” Panduan
+
+19
+00:01:00.596 --> 00:01:04.600
+diatur ke dalam kategori, komponen,
+dan nilai.
+
+20
+00:01:04.600 --> 00:01:08.233
+Struktur ini membentuk hierarki yang
+dilihat perawat di aplikasi.
+
+21
+00:01:08.233 --> 00:01:12.410
+Untuk menambahkan kategori baru, pilih
+kategori yang sudah ada, pilih +,
+
+22
+00:01:12.410 --> 00:01:16.588
+drop-down akan muncul, lalu pilih
+‘Tambahkan kategori setingkat’. Item
+
+23
+00:01:16.588 --> 00:01:20.766
+ranting kategori baru akan ditambahkan
+ke akhir daftar pada tingkat akar.
+
+24
+00:01:20.766 --> 00:01:24.566
+Ganti nama kategori baru Anda dan
+pilih 'Perbarui pratinjau.
+
+25
+00:01:24.566 --> 00:01:28.207
+“Untuk menambahkan komponen pada
+kategori, buka opsi kategori, pilih
+
+26
+00:01:28.207 --> 00:01:31.849
+‘Tambahkan komponen baru,’ ganti
+namanya, dan perbarui pratinjau.”
+
+27
+00:01:31.849 --> 00:01:35.491
+“Untuk menambahkan nilai, buka opsi
+item, pilih ‘Tambahkan nilai baru,’
+
+28
+00:01:35.491 --> 00:01:39.133
+perbarui label, dan refresh
+pratinjau.” “Anda dapat mengubah
+
+29
+00:01:39.133 --> 00:01:42.774
+urutan item apa pun dengan memilihnya
+dan menggunakan kontrol pindah ke atas
+
+30
+00:01:42.774 --> 00:01:46.416
+atau pindah ke bawah. tombol[IF1.1].”
+“Untuk menghapus item, pilih ikon
+
+31
+00:01:46.416 --> 00:01:50.058
+hapus di panel opsi.” “Setelah
+pengeditan Anda selesai, kembali ke
+
+32
+00:01:50.058 --> 00:01:53.700
+halaman utama.
+
+33
+00:01:53.700 --> 00:01:57.366
+Tinjau perubahan Anda, pilih
+'Terbitkan,' lalu konfirmasikan.
+
+34
+00:01:57.366 --> 00:02:00.966
+"Penerbitan diperlukan agar pembaruan
+muncul di aplikasi seluler." "Fitur
+
+35
+00:02:00.966 --> 00:02:04.566
+Panduan memungkinkan Anda membuat dan
+mengelola panduan yang mendukung
+
+36
+00:02:04.566 --> 00:02:08.166
+dokumentasi keperawatan yang akurat
+dan konsisten.
+
+37
+00:02:08.166 --> 00:02:10.166
+Terima kasih telah menonton.”

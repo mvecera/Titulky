@@ -1,0 +1,187 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+I den här videon får du lära dig hur
+du visar, redigerar och publicerar
+
+2
+00:00:03.883 --> 00:00:07.133
+guiden som sjuksköterskor använder i
+mobilappen.
+
+3
+00:00:07.133 --> 00:00:09.649
+“Guiden är en strukturerad referens
+som används i mobilappen för
+
+4
+00:00:09.649 --> 00:00:12.166
+omvårdnad.
+
+5
+00:00:12.166 --> 00:00:14.810
+Den hjälper sjuksköterskor att komma
+ihåg vad som behöver dokumenteras vid
+
+6
+00:00:14.810 --> 00:00:17.455
+komplexa situationer." "Genom att
+använda en anpassad Guide säkerställer
+
+7
+00:00:17.455 --> 00:00:20.100
+du konsekvent och korrekt
+dokumentation.
+
+8
+00:00:20.100 --> 00:00:22.921
+Det gör sjuksköterskor tydligare under
+inspelningen, särskilt för mer
+
+9
+00:00:22.921 --> 00:00:25.743
+komplexa arbetsflöden.” “Börja genom
+att logga in på Administrationscenter
+
+10
+00:00:25.743 --> 00:00:28.566
+för Dragon.
+
+11
+00:00:28.566 --> 00:00:32.569
+Under Dragon Copilot väljer du
+“Sjuksköterskor” och bekräftar att du
+
+12
+00:00:32.569 --> 00:00:36.573
+arbetar i rätt miljö.” “Under
+Vårdverktyg och konfiguration väljer
+
+13
+00:00:36.573 --> 00:00:40.577
+du ‘Guide. “Du ser standardguiden som
+distribueras under etableringen och
+
+14
+00:00:40.577 --> 00:00:44.581
+kan förhandsgranska hur den ser ut för
+sjuksköterskor.” “Om du vill ladda ned
+
+15
+00:00:44.581 --> 00:00:48.584
+den aktuella guidekonfigurationen
+väljer du “Ladda ned”. Då sparas en
+
+16
+00:00:48.584 --> 00:00:52.588
+JSON-fil för referens- eller
+versionsspårning.” “Om du vill
+
+17
+00:00:52.588 --> 00:00:56.592
+redigera guiden väljer du “Redigera”.
+Nu har du åtkomst att ändra de
+
+18
+00:00:56.592 --> 00:01:00.596
+kategorier, komponenter och värden som
+utgör vägledningsträdet.” Guiden är
+
+19
+00:01:00.596 --> 00:01:04.600
+uppdelad i kategorier, komponenter och
+värden.
+
+20
+00:01:04.600 --> 00:01:08.233
+Den här strukturen utgör den hierarki
+som sjuksköterskorna ser i appen.
+
+21
+00:01:08.233 --> 00:01:12.410
+Om du vill lägga till en ny kategori
+väljer du en befintlig, väljer + en
+
+22
+00:01:12.410 --> 00:01:16.588
+listruta visas och väljer “Lägg till
+samma kategori. Ett nytt
+
+23
+00:01:16.588 --> 00:01:20.766
+kategoriträdsobjekt läggs till i
+slutet av listan på rotnivå.
+
+24
+00:01:20.766 --> 00:01:24.566
+Byt namn på den nya kategorin och välj
+‘Uppdatera förhandsgranskning.
+
+25
+00:01:24.566 --> 00:01:27.803
+“Om du vill lägga till en komponent
+under en kategori öppnar du
+
+26
+00:01:27.803 --> 00:01:31.040
+kategorialternativen’, väljer “Lägg
+till ny komponent”, byter namn på den
+
+27
+00:01:31.040 --> 00:01:34.277
+och uppdaterar förhandsgranskningen.”
+“Om du vill lägga till ett värde
+
+28
+00:01:34.277 --> 00:01:37.514
+öppnar du objektalternativen’, väljer
+“Lägg till nytt värde”, uppdaterar
+
+29
+00:01:37.514 --> 00:01:40.751
+etiketten och uppdaterar
+förhandsgranskningen.” “Du kan ändra
+
+30
+00:01:40.751 --> 00:01:43.988
+ordning på ett objekt genom att
+markera det och använda kontrollerna
+
+31
+00:01:43.988 --> 00:01:47.225
+för att flytta upp eller flytta ned.
+knappar[IF1.1].” “Om du vill ta bort
+
+32
+00:01:47.225 --> 00:01:50.462
+ett objekt väljer du ikonen Ta bort på
+alternativpanelen.” “När
+
+33
+00:01:50.462 --> 00:01:53.700
+redigeringarna är klara går du
+tillbaka till huvudsidan.
+
+34
+00:01:53.700 --> 00:01:57.366
+Granska ändringarna, välj “Publicera”
+och bekräfta.
+
+35
+00:01:57.366 --> 00:02:00.966
+Publicering krävs för att
+uppdateringar ska visas i mobilappen.”
+
+36
+00:02:00.966 --> 00:02:04.566
+“Med guideverktyget kan du skapa och
+hantera vägledning som stöder korrekt
+
+37
+00:02:04.566 --> 00:02:08.166
+och konsekvent vårddokumentation.
+
+38
+00:02:08.166 --> 00:02:10.166
+Tack för att du tittade.”

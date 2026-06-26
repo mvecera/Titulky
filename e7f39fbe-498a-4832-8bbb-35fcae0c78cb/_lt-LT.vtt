@@ -1,0 +1,195 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+Šiame vaizdo įraše sužinosite, kaip
+peržiūrėti, redaguoti ir publikuoti
+
+2
+00:00:03.883 --> 00:00:07.133
+vadovą, kurį slaugytojai naudoja
+mobiliojoje programėlėje.
+
+3
+00:00:07.133 --> 00:00:09.649
+„Vadovas“ yra struktūrizuoti
+nurodymai, naudojami slaugytojų
+
+4
+00:00:09.649 --> 00:00:12.166
+mobiliųjų įrenginių programėlėje.
+
+5
+00:00:12.166 --> 00:00:14.810
+Jie padeda slaugytojams prisiminti, ką
+reikia užfiksuoti sudėtingos
+
+6
+00:00:14.810 --> 00:00:17.455
+dokumentacijos metu. Naudojant
+pritaikytą vadovą užtikrinama nuosekli
+
+7
+00:00:17.455 --> 00:00:20.100
+ir tiksli dokumentacija.
+
+8
+00:00:20.100 --> 00:00:22.921
+Tai suteikia aiškumo slaugytojams
+įrašymo metu, ypač sudėtingesniuose
+
+9
+00:00:22.921 --> 00:00:25.743
+darbo procesuose. Norėdami pradėti,
+prisijunkite prie „Dragon“
+
+10
+00:00:25.743 --> 00:00:28.566
+administravimo centro..
+
+11
+00:00:28.566 --> 00:00:32.169
+Dalyje „Dragon Copilot“ pasirinkite
+„Slaugytojai“ ir patvirtinkite, kad
+
+12
+00:00:32.169 --> 00:00:35.772
+dirbate tinkamoje aplinkoje.” “Dalyje
+„S;augytojų įrankiai ir konfigūracija“
+
+13
+00:00:35.772 --> 00:00:39.376
+pasirinkite „Vadovas“. Matysite
+numatytąjį vadovą, įdiegtą parengimo
+
+14
+00:00:39.376 --> 00:00:42.979
+metu, ir galėsite peržiūrėti, kaip jis
+rodomas slaugytojams. Norėdami
+
+15
+00:00:42.979 --> 00:00:46.583
+atsisiųsti dabartinę vadovo
+konfigūraciją, pasirinkite
+
+16
+00:00:46.583 --> 00:00:50.186
+„Atsisiųsti. Taip įrašomas JSON
+failas, skirtas nurodymams arba
+
+17
+00:00:50.186 --> 00:00:53.789
+versijai sekti. Norėdami redaguoti
+vadovą, pasirinkite „Redaguoti“.
+
+18
+00:00:53.789 --> 00:00:57.393
+Dabar turite prieigą, kad galėtumėte
+modifikuoti kategorijas, komponentus
+
+19
+00:00:57.393 --> 00:01:00.996
+ir reikšmes, kurios sudaro
+rekomendacijų medį. Vadovas
+
+20
+00:01:00.996 --> 00:01:04.600
+suskirstytas į kategorijas,
+komponentus ir reikšmes.
+
+21
+00:01:04.600 --> 00:01:08.233
+Ši struktūra sudaro hierarchiją, kurią
+slaugytojai mato programėlėje.
+
+22
+00:01:08.233 --> 00:01:11.366
+Norėdami įtraukti naują kategoriją,
+pasirinkite esamą, spustelėkite +,
+
+23
+00:01:11.366 --> 00:01:14.499
+pasirodys išskleidžiamasis meniu, ir
+pasirinkite „Įtraukti dukterinę
+
+24
+00:01:14.499 --> 00:01:17.632
+kategoriją“. Naujas kategorijos medžio
+elementas bus įtrauktas sąrašo
+
+25
+00:01:17.632 --> 00:01:20.766
+pabaigoje, pagrindiniame lygyje.
+
+26
+00:01:20.766 --> 00:01:24.566
+Pervardykite naują kategoriją ir
+pasirinkite „Atnaujinti peržiūrą“.
+
+27
+00:01:24.566 --> 00:01:27.803
+Norėdami įtraukti komponentą pagal
+kategoriją, atidarykite kategorijų
+
+28
+00:01:27.803 --> 00:01:31.040
+parinktis, pasirinkite „Įtraukti naują
+komponentą“, pervardykite jį ir
+
+29
+00:01:31.040 --> 00:01:34.277
+atnaujinkite peržiūrą. Norėdami
+įtraukti reikšmę, atidarykite elemento
+
+30
+00:01:34.277 --> 00:01:37.514
+(-ų) parinktis, pasirinkite „Įtraukti
+naują reikšmę“, atnaujinkite žymą ir
+
+31
+00:01:37.514 --> 00:01:40.751
+atnaujinkite peržiūrą. Galite
+pertvarkyti bet kurį elementą jį
+
+32
+00:01:40.751 --> 00:01:43.988
+pažymėdami ir naudodami perkėlimo
+aukštyn arba žemyn valdiklius.
+
+33
+00:01:43.988 --> 00:01:47.225
+Norėdami panaikinti elementą,
+parinkčių skyde pasirinkite naikinimo
+
+34
+00:01:47.225 --> 00:01:50.462
+piktogramą. Kai redagavimas bus
+baigtas, grįžkite į pagrindinį
+
+35
+00:01:50.462 --> 00:01:53.700
+puslapį.
+
+36
+00:01:53.700 --> 00:01:57.366
+Peržiūrėkite pakeitimus, pasirinkite
+„Publikuoti“ ir patvirtinkite.
+
+37
+00:01:57.366 --> 00:02:00.966
+Publikavimas būtinas, kad atnaujinimai
+atsirastų mobiliojoje programėlėje.
+
+38
+00:02:00.966 --> 00:02:04.566
+Vadovo įrankis leidžia kurti ir
+valdyti gaires, kurios padeda
+
+39
+00:02:04.566 --> 00:02:08.166
+užtikrinti tikslią ir nuoseklią
+slaugos dokumentaciją.
+
+40
+00:02:08.166 --> 00:02:10.166
+Ačiū, kad žiūrėjote.

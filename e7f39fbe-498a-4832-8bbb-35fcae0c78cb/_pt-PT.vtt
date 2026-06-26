@@ -1,0 +1,191 @@
+WEBVTT
+
+1
+00:00:00.633 --> 00:00:03.883
+Neste vídeo, irá aprender a ver,
+editar e publicar o Guia que as
+
+2
+00:00:03.883 --> 00:00:07.133
+enfermeiras utilizam na aplicação
+móvel.
+
+3
+00:00:07.133 --> 00:00:09.649
+O Guia é uma referência estruturada
+utilizada na aplicação móvel de
+
+4
+00:00:09.649 --> 00:00:12.166
+enfermagem.
+
+5
+00:00:12.166 --> 00:00:14.810
+Ajuda os enfermeiros a lembrar do que
+precisa de ser registado durante a
+
+6
+00:00:14.810 --> 00:00:17.455
+documentação complexa. Utilizar um
+Guia personalizado ajuda a garantir
+
+7
+00:00:17.455 --> 00:00:20.100
+uma documentação consistente e
+precisa.
+
+8
+00:00:20.100 --> 00:00:22.921
+Proporciona clareza aos enfermeiros
+durante o registo, especialmente em
+
+9
+00:00:22.921 --> 00:00:25.743
+fluxos de trabalho mais complexos.
+Para começar, inicie sessão no Centro
+
+10
+00:00:25.743 --> 00:00:28.566
+de Administração Dragon.
+
+11
+00:00:28.566 --> 00:00:32.569
+No Dragon Copilot, selecione
+"Enfermeiros" e confirme que está a
+
+12
+00:00:32.569 --> 00:00:36.573
+trabalhar no ambiente correto. Em
+Ferramentas e Configuração de
+
+13
+00:00:36.573 --> 00:00:40.577
+Enfermagem, selecione "Guia". Verá o
+guia predefinido implementado durante
+
+14
+00:00:40.577 --> 00:00:44.581
+o aprovisionamento e pode
+pré-visualizar como aparece para os
+
+15
+00:00:44.581 --> 00:00:48.584
+enfermeiros. Para transferir a
+configuração atual do Guia, selecione
+
+16
+00:00:48.584 --> 00:00:52.588
+"Transferir". Isto guarda um ficheiro
+JSON para referência ou controlo de
+
+17
+00:00:52.588 --> 00:00:56.592
+versões. Para editar o Guia, selecione
+"Editar". Agora tem acesso para
+
+18
+00:00:56.592 --> 00:01:00.596
+modificar as categorias, componentes e
+valores que constituem a árvore de
+
+19
+00:01:00.596 --> 00:01:04.600
+orientação. O Guia está organizado em
+categorias, componentes e valores.
+
+20
+00:01:04.600 --> 00:01:08.233
+Esta estrutura forma a hierarquia que
+as enfermeiras veem na aplicação.
+
+21
+00:01:08.233 --> 00:01:11.366
+Para adicionar uma nova categoria,
+selecione uma existente, selecione +,
+
+22
+00:01:11.366 --> 00:01:14.499
+um menu pendente será apresentado e
+selecione "Adicionar categoria irmã".
+
+23
+00:01:14.499 --> 00:01:17.632
+É adicionado um novo item de árvore de
+categorias ao final da lista ao nível
+
+24
+00:01:17.632 --> 00:01:20.766
+raiz.
+
+25
+00:01:20.766 --> 00:01:22.666
+Renomeie a sua nova categoria e
+selecione "Atualizar
+
+26
+00:01:22.666 --> 00:01:24.566
+pré-visualização".
+
+27
+00:01:24.566 --> 00:01:28.207
+Para adicionar um componente numa
+categoria, abra as opções da
+
+28
+00:01:28.207 --> 00:01:31.849
+categoria, selecione "Adicionar novo
+componente", renomeie-o e atualize a
+
+29
+00:01:31.849 --> 00:01:35.491
+pré-visualização. Para adicionar um
+valor, abra as opções do item, escolha
+
+30
+00:01:35.491 --> 00:01:39.133
+"Adicionar novo valor", atualize a
+etiqueta e atualize a
+
+31
+00:01:39.133 --> 00:01:42.774
+pré-visualização. Pode reordenar
+qualquer item selecionando-o e
+
+32
+00:01:42.774 --> 00:01:46.416
+utilizando os controlos de mover para
+cima ou para baixo. botões[IF1.1].
+
+33
+00:01:46.416 --> 00:01:50.058
+Para eliminar um item, selecione o
+ícone eliminar no painel de opções.
+
+34
+00:01:50.058 --> 00:01:53.700
+Quando terminar as suas edições, volte
+à página principal.
+
+35
+00:01:53.700 --> 00:01:57.366
+Reveja as suas alterações, selecione
+"Publicar" e confirme.
+
+36
+00:01:57.366 --> 00:02:00.966
+A publicação é necessária para que as
+atualizações apareçam na aplicação
+
+37
+00:02:00.966 --> 00:02:04.566
+móvel. A ferramenta Guia permite-lhe
+criar e gerir orientações que suportam
+
+38
+00:02:04.566 --> 00:02:08.166
+uma documentação de enfermagem precisa
+e consistente.
+
+39
+00:02:08.166 --> 00:02:10.166
+Obrigado por assistir.

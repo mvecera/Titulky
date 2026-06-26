@@ -1,0 +1,95 @@
+WEBVTT
+
+1
+00:00:00.200 --> 00:00:02.966
+Velkommen! I denne korte videoen
+finner du ut hvordan du oppretter og
+
+2
+00:00:02.966 --> 00:00:05.733
+legger til brukere i
+helsetjenestegrupper.
+
+3
+00:00:05.733 --> 00:00:07.999
+Dette bidrar til å holde innstillinger
+og arbeidsflyter konsistente i hele
+
+4
+00:00:07.999 --> 00:00:10.266
+organisasjonen.
+
+5
+00:00:10.266 --> 00:00:13.516
+Bekreft at rollen som Dragon
+administrator eller global
+
+6
+00:00:13.516 --> 00:00:16.766
+administrator er tildelt, og logg inn
+i administrasjonssenter for Dragon.
+
+7
+00:00:16.766 --> 00:00:19.182
+I Miljøkonfigurasjon velger du
+Organisasjon, og deretter miljøet
+
+8
+00:00:19.182 --> 00:00:21.599
+ditt.
+
+9
+00:00:21.600 --> 00:00:23.800
+Velg Helsetjenestegrupper.
+
+10
+00:00:23.800 --> 00:00:25.966
+Velg Legg til helsetjenestegruppe.
+
+11
+00:00:25.966 --> 00:00:30.632
+Gi gruppen navn og beskrivelse, og
+lagre den.
+
+12
+00:00:30.633 --> 00:00:34.599
+Åpne sektoren og velg Legg til
+medlemmer.
+
+13
+00:00:34.600 --> 00:00:38.966
+Søk etter brukere i Entra-tenanten,
+velg dem, og lagre.
+
+14
+00:00:38.966 --> 00:00:42.643
+For å tilordne gruppen til en
+organisasjonsenhet, gå tilbake til
+
+15
+00:00:42.643 --> 00:00:46.321
+hovedsiden for Organisasjon, velg et
+nivå, åpne Legg til medlemmer, velg
+
+16
+00:00:46.321 --> 00:00:49.999
+Velg helsetjenestegrupper, og lagre
+endringene.
+
+17
+00:00:50.000 --> 00:00:53.166
+Grupper er nå tildelt enheten i bulk.
+
+18
+00:00:53.166 --> 00:00:56.716
+Grupper brukere for å standardisere
+tillatelser og innstillinger,
+
+19
+00:00:56.716 --> 00:01:00.266
+muliggjøre styring i stor skala, og
+redusere konfigurasjonsfeil.
+
+20
+00:01:00.266 --> 00:01:01.232
+Takk for at du ser på

@@ -1,0 +1,139 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:02.844
+Dans cette vidéo, vous apprendrez
+comment configurer votre connexion à
+
+2
+00:00:02.844 --> 00:00:05.455
+un système de dossier médical
+informatisé dans le centre
+
+3
+00:00:05.455 --> 00:00:08.066
+d’administration Dragon.
+
+4
+00:00:08.066 --> 00:00:11.299
+Cette configuration garantit une
+authentification sécurisée, un mappage
+
+5
+00:00:11.299 --> 00:00:14.532
+d’utilisateurs approprié et une
+expérience fiable pour les médecins.
+
+6
+00:00:14.533 --> 00:00:17.283
+Pour commencer, assurez-vous que le
+rôle d’administrateur Dragon ou le
+
+7
+00:00:17.283 --> 00:00:20.033
+rôle Administrateur général vous est
+attribué.
+
+8
+00:00:20.033 --> 00:00:22.866
+Connectez-vous ensuite au centre
+d’administration Dragon.
+
+9
+00:00:22.866 --> 00:00:24.899
+Dans la section Configuration de
+l’environnement, sélectionnez
+
+10
+00:00:24.899 --> 00:00:26.933
+Connecteur.
+
+11
+00:00:26.933 --> 00:00:29.249
+Choisissez votre environnement
+récemment créé dans la liste
+
+12
+00:00:29.249 --> 00:00:31.566
+déroulante en haut.
+
+13
+00:00:31.566 --> 00:00:33.649
+Sélectionnez le menu déroulant
+Configurer sous le texte configurer un
+
+14
+00:00:33.649 --> 00:00:35.732
+connecteur.
+
+15
+00:00:35.733 --> 00:00:40.133
+Dans la liste des dossiers médicaux
+informatisés, sélectionnez votre DMI.
+
+16
+00:00:40.133 --> 00:00:44.849
+Cela ouvre un panneau Configurer le
+connecteur, saisissez l’URL de la
+
+17
+00:00:44.849 --> 00:00:49.566
+revendication de l’émetteur.
+Sélectionnez Enregistrer.
+
+18
+00:00:49.566 --> 00:00:52.232
+Sélectionnez ensuite l’onglet SMART on
+FHIR.
+
+19
+00:00:52.233 --> 00:00:55.549
+Activez l’interrupteur pour l’activer,
+puis fournissez les valeurs suivantes
+
+20
+00:00:55.549 --> 00:00:58.866
+dans les champs disponibles.
+
+21
+00:00:58.866 --> 00:01:05.466
+URL de base, URL du proxy inverse et
+URL SMART on FHIR.
+
+22
+00:01:05.466 --> 00:01:08.399
+Quand vous avez terminé, sélectionnez
+Enregistrer.
+
+23
+00:01:08.400 --> 00:01:11.850
+Les paramètres du connecteur et les
+détails SMART on FHIR sont désormais
+
+24
+00:01:11.850 --> 00:01:15.300
+stockés pour cet environnement.
+
+25
+00:01:15.300 --> 00:01:18.449
+La configuration des paramètres EHR et
+SMART on FHIR garantit une
+
+26
+00:01:18.449 --> 00:01:21.599
+authentification sécurisée et un
+mappage précis des utilisateurs.
+
+27
+00:01:21.600 --> 00:01:24.716
+Elle prend en charge les normes
+d’interopérabilité des soins de santé
+
+28
+00:01:24.716 --> 00:01:27.832
+et réduit les erreurs lors de la
+connexion et de l’approvisionnement.
+
+29
+00:01:27.833 --> 00:01:28.933
+Merci de votre attention.

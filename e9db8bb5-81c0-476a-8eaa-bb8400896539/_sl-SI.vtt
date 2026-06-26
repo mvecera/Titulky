@@ -1,0 +1,122 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.149
+V tem videu boste izvedeli, kako
+konfigurirati povezavo s sistem
+
+2
+00:00:04.149 --> 00:00:08.066
+elektronskih zdravstvenih zapisov v
+skrbniškem središču Dragon.
+
+3
+00:00:08.066 --> 00:00:11.299
+Ta nastavitev zagotavlja varno
+preverjanje pristnosti, pravilno
+
+4
+00:00:11.299 --> 00:00:14.532
+preslikavo uporabnikov in zanesljivo
+izkušnjo za klinične delavce.
+
+5
+00:00:14.533 --> 00:00:17.283
+Za začetek se prepričajte, da imate
+dodeljeno vlogo skrbnika za Dragon ali
+
+6
+00:00:17.283 --> 00:00:20.033
+vlogo globalnega skrbnika.
+
+7
+00:00:20.033 --> 00:00:22.866
+Nato se prijavite v skrbniško središče
+Dragon.
+
+8
+00:00:22.866 --> 00:00:26.933
+V razdelku Konfiguracija okolja
+izberite Povezovalnik.
+
+9
+00:00:26.933 --> 00:00:31.566
+Izberite svoje nedavno ustvarjeno
+okolje iz spustnega seznama na vrhu.
+
+10
+00:00:31.566 --> 00:00:33.649
+Izberite spustni meni Konfiguriraj pod
+možnostjo konfiguriranja besedila
+
+11
+00:00:33.649 --> 00:00:35.732
+povezovalnika.
+
+12
+00:00:35.733 --> 00:00:40.133
+Na seznamu elektronskih zdravstvenih
+zapisov izberite svoj EHR.
+
+13
+00:00:40.133 --> 00:00:44.849
+Odpre se podokno Konfiguriraj
+povezovalnik, vnesite URL zahtevka
+
+14
+00:00:44.849 --> 00:00:49.566
+izdajatelja. Izberite Shrani.
+
+15
+00:00:49.566 --> 00:00:52.232
+Nato izberite zavihek SMART na FHIR.
+
+16
+00:00:52.233 --> 00:00:55.549
+Vklopite stikalo, da omogočite
+funkcijo, nato pa v razpoloživa polja
+
+17
+00:00:55.549 --> 00:00:58.866
+vnesite naslednje vrednosti.
+
+18
+00:00:58.866 --> 00:01:05.466
+Osnovni URL, URL povratnega proxyja in
+URL SMART na FHIR.
+
+19
+00:01:05.466 --> 00:01:08.399
+Ko končate, izberite Shrani.
+
+20
+00:01:08.400 --> 00:01:11.850
+Nastavitve povezovalnika in
+podrobnosti SMART na FHIR bodo zdaj
+
+21
+00:01:11.850 --> 00:01:15.300
+shranjene za to okolje.
+
+22
+00:01:15.300 --> 00:01:18.449
+Konfiguracija nastavitev EHR in SMART
+na FHIR zagotavlja varno preverjanje
+
+23
+00:01:18.449 --> 00:01:21.599
+pristnosti in natančno preslikavo
+uporabnikov.
+
+24
+00:01:21.600 --> 00:01:24.716
+Podpira standarde interoperabilnosti v
+zdravstvu in zmanjšuje napake med
+
+25
+00:01:24.716 --> 00:01:27.832
+prijavo in dodeljevanjem pravic.
+
+26
+00:01:27.833 --> 00:01:28.933
+Hvala za ogled.

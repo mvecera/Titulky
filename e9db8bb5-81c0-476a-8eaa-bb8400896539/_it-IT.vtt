@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:02.844
+In questo video scoprirai come
+configurare la connessione a un
+
+2
+00:00:02.844 --> 00:00:05.455
+sistema di cartella clinica
+elettronica nell'Interfaccia di
+
+3
+00:00:05.455 --> 00:00:08.066
+amministrazione di Dragon.
+
+4
+00:00:08.066 --> 00:00:11.299
+Questa configurazione garantisce
+l'autenticazione sicura, il mapping
+
+5
+00:00:11.299 --> 00:00:14.532
+degli utenti appropriato e
+un'esperienza affidabile per i medici.
+
+6
+00:00:14.533 --> 00:00:17.283
+Per iniziare, assicurati di avere il
+ruolo di amministratore di Dragon o
+
+7
+00:00:17.283 --> 00:00:20.033
+amministratore globale.
+
+8
+00:00:20.033 --> 00:00:22.866
+Accedi quindi all'Interfaccia di
+amministrazione di Dragon.
+
+9
+00:00:22.866 --> 00:00:26.933
+Nella sezione Configurazione ambiente
+seleziona Connettore.
+
+10
+00:00:26.933 --> 00:00:29.249
+Scegli l'ambiente creato di recente
+dall'elenco a discesa nella parte
+
+11
+00:00:29.249 --> 00:00:31.566
+superiore.
+
+12
+00:00:31.566 --> 00:00:33.649
+Seleziona l'elenco a discesa Configura
+sotto il testo "Configurare un
+
+13
+00:00:33.649 --> 00:00:35.732
+connettore".
+
+14
+00:00:35.733 --> 00:00:37.933
+Nell'elenco di cartelle cliniche
+elettroniche seleziona la tua cartella
+
+15
+00:00:37.933 --> 00:00:40.133
+clinica elettronica.
+
+16
+00:00:40.133 --> 00:00:44.849
+Verrà aperto un pannello Configura
+connettore. Immetti l'URL della
+
+17
+00:00:44.849 --> 00:00:49.566
+richiesta dell'emittente. Seleziona
+Salva.
+
+18
+00:00:49.566 --> 00:00:52.232
+Seleziona quindi la scheda SMART on
+FHIR.
+
+19
+00:00:52.233 --> 00:00:55.549
+Attiva l'opzione per abilitarla e
+quindi specifica i valori seguenti nei
+
+20
+00:00:55.549 --> 00:00:58.866
+campi disponibili.
+
+21
+00:00:58.866 --> 00:01:05.466
+URL di base, URL del proxy inverso e
+URL di SMART on FHIR.
+
+22
+00:01:05.466 --> 00:01:08.399
+Al termine, seleziona Salva.
+
+23
+00:01:08.400 --> 00:01:11.850
+Le impostazioni del connettore e i
+dettagli di SMART on FHIR verranno ora
+
+24
+00:01:11.850 --> 00:01:15.300
+archiviati per questo ambiente.
+
+25
+00:01:15.300 --> 00:01:17.399
+La configurazione delle impostazioni
+della cartella clinica elettronica e
+
+26
+00:01:17.399 --> 00:01:19.499
+di e SMART on FHIR garantisce
+l'autenticazione sicura e il mapping
+
+27
+00:01:19.499 --> 00:01:21.599
+accurato degli utenti.
+
+28
+00:01:21.600 --> 00:01:24.716
+Supporta gli standard di
+interoperabilità del settore sanitario
+
+29
+00:01:24.716 --> 00:01:27.832
+e riduce gli errori durante l'accesso
+e il provisioning.
+
+30
+00:01:27.833 --> 00:01:28.933
+Grazie per l'attenzione.

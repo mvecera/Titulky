@@ -1,0 +1,188 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.966
+In questa breve guida imparerai come
+creare, effettuare il provisioning,
+
+2
+00:00:02.966 --> 00:00:05.932
+rimuovere ed effettuare il
+deprovisioning di ambienti
+
+3
+00:00:05.932 --> 00:00:08.899
+nell'Interfaccia di amministrazione di
+Dragon.
+
+4
+00:00:08.900 --> 00:00:11.733
+Iniziamo creando un nuovo ambiente.
+
+5
+00:00:11.733 --> 00:00:15.383
+Per creare un nuovo ambiente,
+assicurati di avere il ruolo di
+
+6
+00:00:15.383 --> 00:00:19.033
+Amministratore di Dragon, quindi
+accedi all'Interfaccia di
+
+7
+00:00:19.033 --> 00:00:22.683
+amministrazione di Dragon. Nella
+sezione Gestione, seleziona Ambienti,
+
+8
+00:00:22.683 --> 00:00:26.333
+quindi scegli Aggiungi ambiente.
+
+9
+00:00:26.366 --> 00:00:30.866
+Immetti quindi il nome, la descrizione
+e la data di creazione.
+
+10
+00:00:30.866 --> 00:00:33.432
+Appena sei pronto seleziona Salva.
+
+11
+00:00:33.433 --> 00:00:36.166
+Il nuovo ambiente è stato creato.
+
+12
+00:00:36.166 --> 00:00:39.132
+Ora puoi effettuare il provisioning
+della funzionalità utente.
+
+13
+00:00:39.133 --> 00:00:42.444
+Il provisioning è il processo di
+configurazione e attivazione di
+
+14
+00:00:42.444 --> 00:00:45.755
+un'area di lavoro dedicata e sicura,
+che assicura che un prodotto o una
+
+15
+00:00:45.755 --> 00:00:49.066
+funzionalità siano pronti per essere
+usati e configurati.
+
+16
+00:00:49.066 --> 00:00:52.132
+Seleziona l'ambiente creato, quindi
+scegli Effettua il provisioning sotto
+
+17
+00:00:52.132 --> 00:00:55.199
+la funzionalità di provisioning in
+base agli utenti della tua
+
+18
+00:00:55.199 --> 00:00:58.266
+organizzazione.
+
+19
+00:00:58.266 --> 00:01:01.399
+Il provisioning di solito richiede da
+dieci a quindici minuti.
+
+20
+00:01:01.400 --> 00:01:04.933
+Puoi uscire mentre il processo è in
+corso di completamento.
+
+21
+00:01:04.933 --> 00:01:07.933
+Al termine, lo stato mostrerà
+Provisioning completato e il pulsante
+
+22
+00:01:07.933 --> 00:01:10.933
+di azione cambierà in Effettua il
+deprovisioning.
+
+23
+00:01:10.933 --> 00:01:14.399
+Per disabilitare o rimuovere un
+ambiente, segui questi passaggi.
+
+24
+00:01:14.400 --> 00:01:18.733
+Torna alla pagina Ambienti e seleziona
+l'ambiente che vuoi rimuovere.
+
+25
+00:01:18.733 --> 00:01:22.266
+Scegli Effettua il deprovisioning per
+la funzionalità e conferma l'azione.
+
+26
+00:01:22.266 --> 00:01:25.366
+Attendi che il processo venga
+completato.
+
+27
+00:01:25.366 --> 00:01:28.616
+La funzionalità Dragon Copilot è
+contrassegnata come disabilitata e in
+
+28
+00:01:28.616 --> 00:01:31.866
+coda per l'eliminazione permanente
+alla data indicata.
+
+29
+00:01:31.866 --> 00:01:34.810
+Seleziona la freccia accanto a
+Ripristina, quindi scegli Elimina
+
+30
+00:01:34.810 --> 00:01:37.754
+definitivamente e conferma l'azione.
+Viene nuovamente visualizzato il
+
+31
+00:01:37.754 --> 00:01:40.699
+pulsante Effettua il provisioning.
+
+32
+00:01:40.700 --> 00:01:44.200
+Ora sei pronto per eliminare
+l'ambiente.
+
+33
+00:01:44.200 --> 00:01:47.833
+Seleziona Elimina e conferma quando
+richiesto.
+
+34
+00:01:47.833 --> 00:01:50.349
+Ricorda: un ambiente può essere
+eliminato solo dopo il deprovisioning
+
+35
+00:01:50.349 --> 00:01:52.866
+di tutte le funzionalità.
+
+36
+00:01:52.866 --> 00:01:56.366
+Ecco fatto! Creare, effettuare il
+provisioning e rimuovere ambienti
+
+37
+00:01:56.366 --> 00:01:59.866
+aiuta a garantire spazi sicuri e
+organizzati per gestire utenti,
+
+38
+00:01:59.866 --> 00:02:03.366
+configurare impostazioni e collegarsi
+ai sistemi EHR.
+
+39
+00:02:03.366 --> 00:02:04.499
+Grazie per l'attenzione

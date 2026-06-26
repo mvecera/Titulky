@@ -1,0 +1,166 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.449
+Dalam panduan singkat ini, Anda akan
+mempelajari cara membuat, menyediakan,
+
+2
+00:00:04.449 --> 00:00:08.899
+membatalkan penyediaan, dan menghapus
+lingkungan di pusat admin Dragon.
+
+3
+00:00:08.900 --> 00:00:11.733
+Mari mulai dengan membuat lingkungan
+baru.
+
+4
+00:00:11.733 --> 00:00:16.599
+Untuk membuat lingkungan baru,
+pastikan Anda diberi peran
+
+5
+00:00:16.599 --> 00:00:21.466
+Administrator Dragon, lalu masuk ke
+pusat admin Dragon dari bagian
+
+6
+00:00:21.466 --> 00:00:26.333
+Manajemen, pilih Lingkungan, lalu
+pilih Tambahkan lingkungan.
+
+7
+00:00:26.366 --> 00:00:30.866
+Kemudian masukkan nama, deskripsi,
+termasuk tanggal pembuatan.
+
+8
+00:00:30.866 --> 00:00:33.432
+Jika sudah siap, pilih Simpan.
+
+9
+00:00:33.433 --> 00:00:36.166
+Lingkungan baru Anda selesai dibuat.
+
+10
+00:00:36.166 --> 00:00:39.132
+Berikutnya, Anda dapat menyediakan
+kemampuan pengguna.
+
+11
+00:00:39.133 --> 00:00:44.099
+Penyediaan adalah proses penyiapan dan
+pengaktifan ruang kerja khusus yang
+
+12
+00:00:44.099 --> 00:00:49.066
+aman agar produk atau kemampuan siap
+digunakan dan dikonfigurasi.
+
+13
+00:00:49.066 --> 00:00:53.666
+Pilih lingkungan yang Anda buat, lalu
+pilih Sediakan di menu kemampuan
+
+14
+00:00:53.666 --> 00:00:58.266
+penyediaan tergantung pada pengguna di
+organisasi Anda.
+
+15
+00:00:58.266 --> 00:01:01.399
+Penyediaan biasanya memerlukan waktu
+sepuluh hingga lima belas menit.
+
+16
+00:01:01.400 --> 00:01:04.933
+Anda dapat meninggalkan halaman
+sementara proses berjalan.
+
+17
+00:01:04.933 --> 00:01:07.933
+Setelah selesai, status akan
+menunjukkan Telah Disediakan, dan
+
+18
+00:01:07.933 --> 00:01:10.933
+tombol tindakan akan beralih ke
+Batalkan penyediaan.
+
+19
+00:01:10.933 --> 00:01:14.399
+Untuk menonaktifkan atau menghapus
+lingkungan, ikuti langkah-langkah ini.
+
+20
+00:01:14.400 --> 00:01:16.566
+Kembali ke halaman Lingkungan dan
+pilih lingkungan yang ingin Anda
+
+21
+00:01:16.566 --> 00:01:18.733
+hapus.
+
+22
+00:01:18.733 --> 00:01:22.266
+Pilih Batalkan penyediaan untuk
+kemampuan dan konfirmasi tindakan.
+
+23
+00:01:22.266 --> 00:01:25.366
+Berikan waktu hingga proses selesai.
+
+24
+00:01:25.366 --> 00:01:28.616
+Kemampuan Dragon Copilot ditandai
+sebagai nonaktif dan diantrekan untuk
+
+25
+00:01:28.616 --> 00:01:31.866
+dihapus permanen pada tanggal
+tertentu.
+
+26
+00:01:31.866 --> 00:01:36.282
+Pilih panah di samping Pulihkan, lalu
+pilih Hapus secara permanen dan
+
+27
+00:01:36.282 --> 00:01:40.699
+konfirmasi tindakan. Tombol kembali ke
+Sediakan.
+
+28
+00:01:40.700 --> 00:01:44.200
+Anda sekarang siap menghapus
+lingkungan.
+
+29
+00:01:44.200 --> 00:01:47.833
+Pilih Hapus dan konfirmasi saat
+diminta.
+
+30
+00:01:47.833 --> 00:01:52.866
+Ingat, lingkungan hanya dapat dihapus
+setelah semua kemampuan dibatalkan.
+
+31
+00:01:52.866 --> 00:01:56.366
+Selesai! Membuat, menyediakan, dan
+menghapus lingkungan membantu
+
+32
+00:01:56.366 --> 00:01:59.866
+memastikan ruang yang aman dan
+terorganisir untuk mengelola pengguna,
+
+33
+00:01:59.866 --> 00:02:03.366
+mengonfigurasi pengaturan, dan
+menghubungkan ke sistem EHR.
+
+34
+00:02:03.366 --> 00:02:04.499
+Terima kasih telah menonton

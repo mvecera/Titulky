@@ -1,0 +1,174 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.449
+Neste breve passo a passo, você
+aprenderá a criar, provisionar,
+
+2
+00:00:04.449 --> 00:00:08.899
+desprovisionar e excluir ambientes no
+centro de administração Dragon.
+
+3
+00:00:08.900 --> 00:00:11.733
+Vamos começar criando um novo
+ambiente.
+
+4
+00:00:11.733 --> 00:00:16.599
+Para criar um novo ambiente, verifique
+se você tem a função de Administrador
+
+5
+00:00:16.599 --> 00:00:21.466
+Dragon e entre no centro de
+administração Dragon. Na seção
+
+6
+00:00:21.466 --> 00:00:26.333
+Gerenciamento, selecione Ambientes e
+escolha Adicionar ambiente.
+
+7
+00:00:26.366 --> 00:00:30.866
+insira o nome e a descrição, incluindo
+a data de criação.
+
+8
+00:00:30.866 --> 00:00:33.432
+Quando estiver pronto, selecione
+Salvar.
+
+9
+00:00:33.433 --> 00:00:36.166
+Seu novo ambiente foi criado.
+
+10
+00:00:36.166 --> 00:00:39.132
+Em seguida, você pode provisionar a
+capacidade do usuário.
+
+11
+00:00:39.133 --> 00:00:42.444
+O provisionamento é o processo de
+configuração e ativação de um espaço
+
+12
+00:00:42.444 --> 00:00:45.755
+de trabalho seguro e dedicado, para
+que um produto ou recurso esteja
+
+13
+00:00:45.755 --> 00:00:49.066
+pronto para ser usado e configurado.
+
+14
+00:00:49.066 --> 00:00:53.666
+Selecione o ambiente que você criou e
+escolha Provisionar na capacidade de
+
+15
+00:00:53.666 --> 00:00:58.266
+provisionamento, dependendo dos
+usuários da sua organização.
+
+16
+00:00:58.266 --> 00:01:01.399
+O provisionamento geralmente leva de
+dez a quinze minutos.
+
+17
+00:01:01.400 --> 00:01:04.933
+Você pode navegar para outro local
+enquanto o processo é concluído.
+
+18
+00:01:04.933 --> 00:01:07.933
+Após a conclusão, o status será
+exibido como Provisionado e o botão de
+
+19
+00:01:07.933 --> 00:01:10.933
+ação será alterado para
+Desprovisionar.
+
+20
+00:01:10.933 --> 00:01:14.399
+Para desabilitar ou remover um
+ambiente, siga estas etapas.
+
+21
+00:01:14.400 --> 00:01:16.566
+Volte para a página Ambientes e
+selecione o ambiente que deseja
+
+22
+00:01:16.566 --> 00:01:18.733
+remover.
+
+23
+00:01:18.733 --> 00:01:22.266
+Escolha Desprovisionar para a
+capacidade e confirme a ação.
+
+24
+00:01:22.266 --> 00:01:25.366
+Aguarde a conclusão do processo.
+
+25
+00:01:25.366 --> 00:01:28.616
+A capacidade do Dragon Copilot está
+marcada como desabilitada e na fila
+
+26
+00:01:28.616 --> 00:01:31.866
+para exclusão permanente na data
+especificada.
+
+27
+00:01:31.866 --> 00:01:36.282
+Selecione a seta ao lado de Restaurar,
+depois selecione Excluir
+
+28
+00:01:36.282 --> 00:01:40.699
+permanentemente e confirme a ação.
+O botão retorna para Provisionar.
+
+29
+00:01:40.700 --> 00:01:44.200
+Agora você está pronto para excluir o
+ambiente.
+
+30
+00:01:44.200 --> 00:01:47.833
+Selecione Excluir e confirme quando
+solicitado.
+
+31
+00:01:47.833 --> 00:01:50.349
+Lembre-se: um ambiente só pode ser
+excluído após todas as funcionalidades
+
+32
+00:01:50.349 --> 00:01:52.866
+terem sido desprovisionadas.
+
+33
+00:01:52.866 --> 00:01:56.366
+É isso! Criar, provisionar e remover
+ambientes ajuda a garantir espaços
+
+34
+00:01:56.366 --> 00:01:59.866
+seguros e organizados para gerenciar
+usuários, configurar definições e
+
+35
+00:01:59.866 --> 00:02:03.366
+conectar-se a sistemas EHR.
+
+36
+00:02:03.366 --> 00:02:04.499
+Obrigado por assistir

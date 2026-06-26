@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:03.783
+In deze video leer je hoe je de
+meta-gegevens van een
+
+2
+00:00:03.783 --> 00:00:05.933
+flowsheet-sjabloon bewerkt in het
+Dragon-beheercentrum om
+
+3
+00:00:05.933 --> 00:00:08.082
+verpleegkundige werkstromen binnen
+jouw organisatie beter te
+
+4
+00:00:08.082 --> 00:00:10.233
+ondersteunen.
+
+5
+00:00:10.233 --> 00:00:13.766
+Als beheerder kun je belangrijke
+instellingen aanpassen die de
+
+6
+00:00:13.766 --> 00:00:17.299
+klinische documentatie vormgeven,
+zoals het bewerken van servicelijnen,
+
+7
+00:00:17.299 --> 00:00:20.832
+rollen en sjabloontypen, en het in- of
+uitschakelen van omgevingsmodus.
+
+8
+00:00:20.833 --> 00:00:23.233
+Voordat je begint, moet je ervoor
+zorgen dat aan je de rol
+
+9
+00:00:23.233 --> 00:00:25.633
+Dragon-beheerder bent toegewezen.
+
+10
+00:00:25.633 --> 00:00:29.766
+Je omgeving is volledig ingericht, je
+EPD-verbinding is geconfigureerd en je
+
+11
+00:00:29.766 --> 00:00:33.899
+stroombladschema's zijn geëxporteerd
+als JSON-bestanden.
+
+12
+00:00:33.900 --> 00:00:36.583
+Controleer ook of de omgevings-ID
+correct is en of je schema-upload
+
+13
+00:00:36.583 --> 00:00:39.266
+voltooid is.
+
+14
+00:00:39.266 --> 00:00:40.766
+Laten we aan de slag gaan.
+
+15
+00:00:40.766 --> 00:00:43.032
+Meld je eerst aan bij het
+Dragon-beheercentrum.
+
+16
+00:00:43.033 --> 00:00:45.666
+Selecteer in het Dragon
+Copilot-gedeelte ''Verpleegkundigen''.
+
+17
+00:00:45.666 --> 00:00:48.299
+Bevestig of kies vervolgens de
+omgeving waarin je je updates wilt
+
+18
+00:00:48.299 --> 00:00:50.933
+doorvoeren.
+
+19
+00:00:50.933 --> 00:00:54.166
+Selecteer vervolgens Stroombladbeheer
+onder Hulpmiddelen en configuratie
+
+20
+00:00:54.166 --> 00:00:57.399
+voor verpleegkundigen. Hier beheer je
+en werk je stroombladsjablonen bij.
+
+21
+00:00:57.399 --> 00:01:00.632
+Selecteer een of meer sjablonen;
+wanneer deze optie is geselecteerd,
+
+22
+00:01:00.632 --> 00:01:03.866
+activeert de werkbalk opties voor
+bewerken.
+
+23
+00:01:03.866 --> 00:01:05.266
+Selecteer Bewerken om het
+metadata-paneel aan de rechterkant te
+
+24
+00:01:05.266 --> 00:01:06.666
+openen.
+
+25
+00:01:06.666 --> 00:01:11.632
+Hier kun je servicelijn, rol en
+sjabloontype bijwerken.
+
+26
+00:01:11.633 --> 00:01:14.683
+Servicelijn en Rol kunnen meerdere
+waarden bevatten, terwijl Sjabloontype
+
+27
+00:01:14.683 --> 00:01:17.733
+slechts één selectie toestaat.
+
+28
+00:01:17.733 --> 00:01:20.641
+Pas de velden aan zodat ze aansluiten
+bij de workflows van jouw
+
+29
+00:01:20.641 --> 00:01:23.549
+verpleegkundige teams. Als je klaar
+bent met je aanpassingen, selecteer je
+
+30
+00:01:23.549 --> 00:01:26.457
+Wijzigingen opslaan. De tabel van de
+flowsheetbeheerder wordt automatisch
+
+31
+00:01:26.457 --> 00:01:29.366
+vernieuwd om je updates te tonen.
+
+32
+00:01:29.366 --> 00:01:32.366
+Je kunt de flowsheetbeheerder ook
+gebruiken om omgevingsmodus in of uit
+
+33
+00:01:32.366 --> 00:01:35.366
+te schakelen voor specifieke
+sjablonen.
+
+34
+00:01:35.366 --> 00:01:38.477
+Als Omgevingsmodus is ingeschakeld
+voor een sjabloon, kun je via de optie
+
+35
+00:01:38.477 --> 00:01:41.588
+Bewerken deze uitschakelen; als
+Omgevingsmodus is uitgeschakeld, kun
+
+36
+00:01:41.588 --> 00:01:44.699
+je deze inschakelen.
+
+37
+00:01:44.700 --> 00:01:48.633
+Als je meerdere sjablonen selecteert
+met verschillende Omgevingsstatussen,
+
+38
+00:01:48.633 --> 00:01:52.566
+wordt de optie inactief. Zorg dat alle
+geselecteerde sjablonen dezelfde
+
+39
+00:01:52.566 --> 00:01:56.500
+status hebben als je ze samen wilt
+bijwerken.
+
+40
+00:01:56.500 --> 00:01:59.358
+Het bewerken van
+flowsheet-meta-gegevens zorgt ervoor
+
+41
+00:01:59.358 --> 00:02:02.216
+dat klinische documentatie relevant,
+nauwkeurig en afgestemd blijft op de
+
+42
+00:02:02.216 --> 00:02:05.074
+workflows van jouw organisatie, wat
+zowel de consistentie als de
+
+43
+00:02:05.074 --> 00:02:07.933
+datakwaliteit verbetert.
+
+44
+00:02:07.933 --> 00:02:12.966
+Bedankt voor het kijken!

@@ -1,0 +1,195 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+U ovom ćete videozapisu saznati kako
+urediti metapodatke predloška sheme
+
+2
+00:00:04.499 --> 00:00:07.366
+tijeka rada u centru za administratore
+značajke Dragon radi bolje podrške
+
+3
+00:00:07.366 --> 00:00:10.233
+tijekovima rada za sestrinstvo u
+cijeloj organizaciji.
+
+4
+00:00:10.233 --> 00:00:13.766
+Kao administrator možete uređivati
+ključne postavke koje oblikuju
+
+5
+00:00:13.766 --> 00:00:17.299
+kliničku dokumentaciju, uključujući
+liniju servisa, uloge i vrste
+
+6
+00:00:17.299 --> 00:00:20.832
+predložaka, kao i kako omogućiti ili
+onemogućiti ambijentalni način rada.
+
+7
+00:00:20.833 --> 00:00:23.233
+Prije početka provjerite je li vam
+dodijeljena uloga administratora
+
+8
+00:00:23.233 --> 00:00:25.633
+značajke Dragon.
+
+9
+00:00:25.633 --> 00:00:29.766
+Vašem su okruženju u potpunosti
+dodijeljeni resursi, EZK veza je
+
+10
+00:00:29.766 --> 00:00:33.899
+konfigurirana, a sheme tijeka rada
+izvezene su kao JSON datoteke.
+
+11
+00:00:33.900 --> 00:00:36.583
+Provjerite i je li ID okruženja
+ispravan i je li prijenos sheme
+
+12
+00:00:36.583 --> 00:00:39.266
+dovršen.
+
+13
+00:00:39.266 --> 00:00:40.766
+Započnimo s radom.
+
+14
+00:00:40.766 --> 00:00:43.032
+Najprije se prijavite u centar za
+administratore značajke Dragon.
+
+15
+00:00:43.033 --> 00:00:46.983
+U sekciji Dragon Copilot odaberite
+„Medicinske sestre”. Zatim potvrdite
+
+16
+00:00:46.983 --> 00:00:50.933
+ili odaberite okruženje koje želite
+ažurirati.
+
+17
+00:00:50.933 --> 00:00:54.166
+Zatim, u sekciji Alati za sestrinstvo
+i Konfiguracija odaberite „Upravitelj
+
+18
+00:00:54.166 --> 00:00:57.399
+sheme tijeka rada”. Tu ćete upravljati
+i ažurirati predloške sheme tijeka
+
+19
+00:00:57.399 --> 00:01:00.632
+rada. Odaberite jedan ili više
+predložaka. Nakon odabira, alatna
+
+20
+00:01:00.632 --> 00:01:03.866
+traka aktivira mogućnosti za
+uređivanje.
+
+21
+00:01:03.866 --> 00:01:06.666
+Odaberite „Uređivanje” za otvaranje
+ploče s metapodacima na desnoj strani.
+
+22
+00:01:06.666 --> 00:01:11.632
+Ovdje možete ažurirati liniju servisa,
+ulogu i vrstu predloška.
+
+23
+00:01:11.633 --> 00:01:14.683
+Linija servisa i uloga mogu obuhvaćati
+više vrijednosti, a vrsta predloška
+
+24
+00:01:14.683 --> 00:01:17.733
+dopušta samo jedan odabir.
+
+25
+00:01:17.733 --> 00:01:20.641
+Prilagodite polja po potrebi kako bi
+se podudarala s tijekovima rada za
+
+26
+00:01:20.641 --> 00:01:23.549
+timove medicinskih sestara. Kada se
+ažuriranja dovrše, odaberite „Spremi
+
+27
+00:01:23.549 --> 00:01:26.457
+promjene”. Tablica upravitelja sheme
+tijeka rada automatski će se osvježiti
+
+28
+00:01:26.457 --> 00:01:29.366
+radi prikaza ažuriranja.
+
+29
+00:01:29.366 --> 00:01:32.366
+Upravitelj sheme tijeka rada možete
+upotrijebiti i za omogućivanje ili
+
+30
+00:01:32.366 --> 00:01:35.366
+onemogućivanje ambijentalnog načina
+rada za određene predloške.
+
+31
+00:01:35.366 --> 00:01:38.477
+Ako je za predložak omogućen
+ambijentalni način rada, mogućnost
+
+32
+00:01:38.477 --> 00:01:41.588
+uređivanja omogućit će onemogućivanje.
+Ako je ambijentalni način rada
+
+33
+00:01:41.588 --> 00:01:44.699
+onemogućen, mogućnost uređivanja
+omogućit će omogućivanje.
+
+34
+00:01:44.700 --> 00:01:48.633
+Prilikom odabira više predložaka s
+različitim ambijentalnim statusima,
+
+35
+00:01:48.633 --> 00:01:52.566
+mogućnost postaje neaktivna, stoga
+osigurajte da svi odabrani predlošci
+
+36
+00:01:52.566 --> 00:01:56.500
+imaju isti status ako ih želite
+ažurirati zajedno.
+
+37
+00:01:56.500 --> 00:02:00.311
+Uređivanje metapodataka sheme tijeka
+rada osigurava da klinička
+
+38
+00:02:00.311 --> 00:02:04.122
+dokumentacija bude relevantna, točna i
+usklađena s radnim tijekovima rada
+
+39
+00:02:04.122 --> 00:02:07.933
+organizacije – poboljšavajući
+dosljednost i kvalitetu podataka.
+
+40
+00:02:07.933 --> 00:02:12.966
+Hvala na gledanju!

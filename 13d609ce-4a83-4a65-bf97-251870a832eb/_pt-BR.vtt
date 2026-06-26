@@ -1,0 +1,200 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+Neste vídeo, você aprenderá a editar
+metadados de modelo de planilha de
+
+2
+00:00:04.499 --> 00:00:07.366
+fluxo no centro de administração
+Dragon para dar melhor suporte aos
+
+3
+00:00:07.366 --> 00:00:10.233
+fluxos de trabalho de enfermagem em
+toda a sua organização.
+
+4
+00:00:10.233 --> 00:00:13.766
+Como administrador, você pode editar
+as principais configurações que
+
+5
+00:00:13.766 --> 00:00:17.299
+definem a documentação clínica,
+incluindo linhas de serviço, funções e
+
+6
+00:00:17.299 --> 00:00:20.832
+tipos de modelo, além de habilitar ou
+desabilitar o Modo Ambiente.
+
+7
+00:00:20.833 --> 00:00:25.633
+Antes de começar, verifique se você
+tem a função de Administrador Dragon.
+
+8
+00:00:25.633 --> 00:00:28.388
+Seu ambiente está totalmente
+provisionado, sua conexão EHR está
+
+9
+00:00:28.388 --> 00:00:31.143
+configurada e seus esquemas de
+planilha de fluxo foram exportados
+
+10
+00:00:31.143 --> 00:00:33.899
+como arquivos JSON.
+
+11
+00:00:33.900 --> 00:00:36.583
+Verifique também se a ID do ambiente
+está correta e se o upload do esquema
+
+12
+00:00:36.583 --> 00:00:39.266
+foi concluído.
+
+13
+00:00:39.266 --> 00:00:40.766
+Vamos começar.
+
+14
+00:00:40.766 --> 00:00:43.032
+Primeiro, entre no Centro de
+Administração Dragon.
+
+15
+00:00:43.033 --> 00:00:46.983
+Na seção Dragon Copilot, selecione
+‘Enfermeiros’. Depois, confirme ou
+
+16
+00:00:46.983 --> 00:00:50.933
+escolha o ambiente em que deseja fazer
+suas atualizações.
+
+17
+00:00:50.933 --> 00:00:54.166
+Em seguida, em Ferramentas e
+Configuração de Enfermagem, selecione
+
+18
+00:00:54.166 --> 00:00:57.399
+‘Gerenciador de Planilhas de Fluxo’.
+É aqui que você gerenciará e
+
+19
+00:00:57.399 --> 00:01:00.632
+atualizará os modelos de planilha de
+fluxo. Selecione um ou vários modelos;
+
+20
+00:01:00.632 --> 00:01:03.866
+uma vez selecionados, a barra de
+ferramentas ativa as opções de edição.
+
+21
+00:01:03.866 --> 00:01:06.666
+Selecione "Editar" para abrir o painel
+de metadados à direita.
+
+22
+00:01:06.666 --> 00:01:11.632
+Aqui, você pode atualizar Linha de
+Serviço, Função e Tipo de Modelo.
+
+23
+00:01:11.633 --> 00:01:14.683
+Linha de Serviço e Função podem
+incluir vários valores, enquanto
+
+24
+00:01:14.683 --> 00:01:17.733
+Tipo de Modelo permite apenas uma
+seleção.
+
+25
+00:01:17.733 --> 00:01:20.059
+Ajuste os campos conforme necessário
+para corresponder aos fluxos de
+
+26
+00:01:20.059 --> 00:01:22.386
+trabalho das suas equipes de
+enfermagem. Quando as atualizações
+
+27
+00:01:22.386 --> 00:01:24.712
+estiverem concluídas, selecione
+‘Salvar alterações’. A tabela do
+
+28
+00:01:24.712 --> 00:01:27.039
+gerenciador de planilhas de fluxo será
+atualizada automaticamente para
+
+29
+00:01:27.039 --> 00:01:29.366
+mostrar suas atualizações.
+
+30
+00:01:29.366 --> 00:01:32.366
+Você também pode usar o gerenciador de
+planilhas de fluxo para habilitar ou
+
+31
+00:01:32.366 --> 00:01:35.366
+desabilitar o Modo Ambiente para
+modelos específicos.
+
+32
+00:01:35.366 --> 00:01:38.477
+Se um modelo tiver o Modo Ambiente
+habilitado, a opção Editar permitirá
+
+33
+00:01:38.477 --> 00:01:41.588
+que você o desabilite; se o Modo
+Ambiente estiver desabilitado, a opção
+
+34
+00:01:41.588 --> 00:01:44.699
+Editar permitirá que você o habilite.
+
+35
+00:01:44.700 --> 00:01:48.633
+Ao selecionar vários modelos com
+status de Ambiente mistos, a opção
+
+36
+00:01:48.633 --> 00:01:52.566
+ficará inativa, portanto, verifique se
+todos os modelos selecionados têm o
+
+37
+00:01:52.566 --> 00:01:56.500
+mesmo status se você quiser
+atualizá-los juntos.
+
+38
+00:01:56.500 --> 00:02:00.311
+A edição dos metadados da planilha de
+fluxo garante que a documentação
+
+39
+00:02:00.311 --> 00:02:04.122
+clínica permaneça relevante, precisa e
+alinhada aos fluxos de trabalho da sua
+
+40
+00:02:04.122 --> 00:02:07.933
+organização — melhorando a
+consistência e a qualidade dos dados.
+
+41
+00:02:07.933 --> 00:02:12.966
+Obrigado por assistir!

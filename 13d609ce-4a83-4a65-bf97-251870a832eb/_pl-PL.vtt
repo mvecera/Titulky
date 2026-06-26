@@ -1,0 +1,203 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+W tym wideo dowiesz się, jak edytować
+metadane szablonu arkusza przepływu w
+
+2
+00:00:04.499 --> 00:00:07.366
+centrum administracyjnym aplikacji
+Dragon, aby lepiej wspierać
+
+3
+00:00:07.366 --> 00:00:10.233
+pielęgniarskie przepływy pracy w całej
+organizacji.
+
+4
+00:00:10.233 --> 00:00:13.766
+Jako administrator możesz edytować
+kluczowe ustawienia kształtujące
+
+5
+00:00:13.766 --> 00:00:17.299
+dokumentację kliniczną, w tym linie
+usług, role i typy szablonów, a także
+
+6
+00:00:17.299 --> 00:00:20.832
+włączać lub wyłączać tryb otoczenia.
+
+7
+00:00:20.833 --> 00:00:23.233
+Zanim zaczniesz, upewnij się, że
+przypisano Ci rolę administratora
+
+8
+00:00:23.233 --> 00:00:25.633
+aplikacji Dragon.
+
+9
+00:00:25.633 --> 00:00:28.388
+Twoje środowisko jest w pełni
+zainicjowane, połączenie z systemem
+
+10
+00:00:28.388 --> 00:00:31.143
+EDM jest skonfigurowane, a schematy
+arkuszy przepływu zostały
+
+11
+00:00:31.143 --> 00:00:33.899
+wyeksportowane jako pliki JSON.
+
+12
+00:00:33.900 --> 00:00:36.583
+Sprawdź również, czy identyfikator
+środowiska jest prawidłowy i czy
+
+13
+00:00:36.583 --> 00:00:39.266
+przesyłanie schematu zostało
+zakończone.
+
+14
+00:00:39.266 --> 00:00:40.766
+Przejdźmy zatem do rzeczy.
+
+15
+00:00:40.766 --> 00:00:43.032
+Najpierw zaloguj się do centrum
+administracyjnego aplikacji Dragon.
+
+16
+00:00:43.033 --> 00:00:45.666
+W sekcji funkcji Dragon Copilot
+wybierz pozycję „Pielęgniarki”.
+
+17
+00:00:45.666 --> 00:00:48.299
+Następnie potwierdź lub wybierz
+środowisko, w którym chcesz wprowadzić
+
+18
+00:00:48.299 --> 00:00:50.933
+aktualizacje.
+
+19
+00:00:50.933 --> 00:00:54.166
+Następnie w obszarze Narzędzia
+pielęgniarskie i Konfiguracja wybierz
+
+20
+00:00:54.166 --> 00:00:57.399
+pozycję „Menedżer arkuszy przepływu”.
+To tutaj będziesz zarządzać szablonami
+
+21
+00:00:57.399 --> 00:01:00.632
+arkuszy przepływu i aktualizować je.
+Wybierz jeden lub wiele szablonów; po
+
+22
+00:01:00.632 --> 00:01:03.866
+zaznaczeniu pasek narzędzi aktywuje
+opcje edycji.
+
+23
+00:01:03.866 --> 00:01:06.666
+Wybierz pozycję „Edytuj”, aby otworzyć
+panel metadanych po prawej stronie.
+
+24
+00:01:06.666 --> 00:01:11.632
+Tutaj możesz zaktualizować pozycje
+Linia usług, Rola i Typ szablonu.
+
+25
+00:01:11.633 --> 00:01:14.683
+Pozycje Linia usług i Rola mogą
+zawierać wiele wartości, natomiast Typ
+
+26
+00:01:14.683 --> 00:01:17.733
+szablonu pozwala tylko na jeden wybór.
+
+27
+00:01:17.733 --> 00:01:20.641
+Dopasuj pola zgodnie z potrzebami, aby
+odpowiadały przepływom pracy Twoich
+
+28
+00:01:20.641 --> 00:01:23.549
+zespołów pielęgniarskich. Po
+zakończeniu aktualizacji wybierz
+
+29
+00:01:23.549 --> 00:01:26.457
+pozycję „Zapisz zmiany”. Tabela
+menedżera arkuszy przepływu odświeży
+
+30
+00:01:26.457 --> 00:01:29.366
+się automatycznie, aby pokazać Twoje
+aktualizacje.
+
+31
+00:01:29.366 --> 00:01:32.366
+Możesz również użyć menedżera arkuszy
+przepływu, aby włączyć lub wyłączyć
+
+32
+00:01:32.366 --> 00:01:35.366
+tryb otoczenia dla określonych
+szablonów.
+
+33
+00:01:35.366 --> 00:01:38.477
+Jeśli szablon ma włączony tryb
+otoczenia, opcja Edytuj pozwoli go
+
+34
+00:01:38.477 --> 00:01:41.588
+wyłączyć; jeśli tryb otoczenia jest
+wyłączony, opcja Edytuj pozwoli go
+
+35
+00:01:41.588 --> 00:01:44.699
+włączyć.
+
+36
+00:01:44.700 --> 00:01:48.633
+Przy wybieraniu wielu szablonów o
+różnych stanach otoczenia opcja ta
+
+37
+00:01:48.633 --> 00:01:52.566
+staje się nieaktywna, więc upewnij
+się, że wszystkie zaznaczone szablony
+
+38
+00:01:52.566 --> 00:01:56.500
+mają ten sam stan, jeśli chcesz
+aktualizować je razem.
+
+39
+00:01:56.500 --> 00:02:00.311
+Edytowanie metadanych arkusza
+przepływu zapewnia, że dokumentacja
+
+40
+00:02:00.311 --> 00:02:04.122
+kliniczna pozostaje istotna, dokładna
+i zgodna z przepływami pracy Twojej
+
+41
+00:02:04.122 --> 00:02:07.933
+organizacji – poprawiając zarówno
+spójność, jak i jakość danych.
+
+42
+00:02:07.933 --> 00:02:12.966
+Dziękujemy za oglądanie!

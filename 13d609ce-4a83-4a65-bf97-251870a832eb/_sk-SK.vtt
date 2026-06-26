@@ -1,0 +1,179 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+V tomto videu sa dozviete, ako upraviť
+metaúdaje šablóny hárka postupov v
+
+2
+00:00:04.499 --> 00:00:07.366
+Centre spravovania služby Dragon, aby
+ste lepšie podporovali pracovné
+
+3
+00:00:07.366 --> 00:00:10.233
+postupy v rámci vašej organizácie.
+
+4
+00:00:10.233 --> 00:00:13.766
+Ako správca môžete upravovať kľúčové
+nastavenia, ktoré formujú klinickú
+
+5
+00:00:13.766 --> 00:00:17.299
+dokumentáciu, vrátane úpravy služieb,
+rolí a typov šablón, ako aj spôsobu
+
+6
+00:00:17.299 --> 00:00:20.832
+aktivácie alebo deaktivácie
+ambientného režimu.
+
+7
+00:00:20.833 --> 00:00:25.633
+Pred začatím sa uistite, že máte
+pridelenú úlohu správcu Dragon.
+
+8
+00:00:25.633 --> 00:00:29.766
+Vaše prostredie je plne zriadené,
+pripojenie EHR je nakonfigurované a
+
+9
+00:00:29.766 --> 00:00:33.899
+schémy vývojového hárka sa exportovali
+ako súbory JSON.
+
+10
+00:00:33.900 --> 00:00:39.266
+Overte tiež správnosť ID prostredia a
+dokončenie nahrávania schémy.
+
+11
+00:00:39.266 --> 00:00:40.766
+Poďme začať.
+
+12
+00:00:40.766 --> 00:00:43.032
+Najskôr sa prihláste do Centra
+spravovania služby Dragon.
+
+13
+00:00:43.033 --> 00:00:46.983
+V časti Dragon Copilot vyberte položku
+Zdravotné sestry. Potom potvrďte alebo
+
+14
+00:00:46.983 --> 00:00:50.933
+vyberte prostredie, v ktorom chcete
+vykonať aktualizácie.
+
+15
+00:00:50.933 --> 00:00:54.166
+Ďalej v časti Nástroje a konfigurácia
+ošetrovateľstva vyberte položku
+
+16
+00:00:54.166 --> 00:00:57.399
+Správca diagramov. Tu budete spravovať
+a aktualizovať šablóny diagramov.
+
+17
+00:00:57.399 --> 00:01:00.632
+Vyberte jednu alebo viacero šablón; po
+výbere sa na paneli nástrojov aktivujú
+
+18
+00:01:00.632 --> 00:01:03.866
+možnosti úprav.
+
+19
+00:01:03.866 --> 00:01:06.666
+Vyberte položku Upraviť a otvorí sa
+panel metaúdajov na pravej strane.
+
+20
+00:01:06.666 --> 00:01:11.632
+Tu môžete aktualizovať riadok služby,
+rolu a typ šablóny.
+
+21
+00:01:11.633 --> 00:01:14.683
+Riadok služby a rola môžu obsahovať
+viacero hodnôt, zatiaľ čo typ šablóny
+
+22
+00:01:14.683 --> 00:01:17.733
+umožňuje len jeden výber.
+
+23
+00:01:17.733 --> 00:01:20.641
+Upravte polia podľa potreby tak, aby
+zodpovedali pracovným postupom vašich
+
+24
+00:01:20.641 --> 00:01:23.549
+ošetrovateľských tímov. Po dokončení
+aktualizácií vyberte možnosť Uložiť
+
+25
+00:01:23.549 --> 00:01:26.457
+zmeny. Tabuľka správcu pracovných
+postupov sa automaticky aktualizuje a
+
+26
+00:01:26.457 --> 00:01:29.366
+zobrazí vaše aktualizácie.
+
+27
+00:01:29.366 --> 00:01:32.366
+Pomocou správcu diagramov môžete tiež
+povoliť alebo zakázať ambientný režim
+
+28
+00:01:32.366 --> 00:01:35.366
+pre konkrétne šablóny.
+
+29
+00:01:35.366 --> 00:01:40.032
+Ak je v šablóne povolený ambientný
+režim, možnosť Upraviť ju umožní
+
+30
+00:01:40.032 --> 00:01:44.699
+vypnúť. ak je ambientný režim vypnutý,
+možnosť Upraviť vám ho umožní zapnúť.
+
+31
+00:01:44.700 --> 00:01:48.633
+Pri výbere viacerých šablón so
+zmiešanými okolitými stavmi sa táto
+
+32
+00:01:48.633 --> 00:01:52.566
+možnosť stane neaktívnou, preto sa
+uistite, že všetky vybraté šablóny
+
+33
+00:01:52.566 --> 00:01:56.500
+majú rovnaký stav, ak ich chcete
+aktualizovať spoločne.
+
+34
+00:01:56.500 --> 00:02:00.311
+Úprava metaúdajov flowsheetu
+zabezpečí, že dokumentácia ostane
+
+35
+00:02:00.311 --> 00:02:04.122
+relevantná, presná a zosúladená s
+pracovnými postupmi vašej organizácie,
+
+36
+00:02:04.122 --> 00:02:07.933
+čím sa zlepší konzistentnosť aj
+kvalita údajov.
+
+37
+00:02:07.933 --> 00:02:12.966
+Ďakujeme za sledovanie.

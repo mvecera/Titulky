@@ -1,0 +1,199 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+Tässä videossa opit muokkaamaan
+vuokaaviomallin metatietoja
+
+2
+00:00:04.499 --> 00:00:07.366
+Dragon-hallintakeskuksessa, jotta voit
+tukea organisaatiosi hoitotyönkulkuja
+
+3
+00:00:07.366 --> 00:00:10.233
+paremmin.
+
+4
+00:00:10.233 --> 00:00:12.882
+Järjestelmänvalvojana voit muokata
+tärkeitä asetuksia, jotka vaikuttavat
+
+5
+00:00:12.882 --> 00:00:15.532
+kliiniseen dokumentointiin. Tähän
+sisältyy palvelulinjojen, roolien ja
+
+6
+00:00:15.532 --> 00:00:18.182
+mallityyppien muokkaus sekä
+ympäristöön sopivan tilan ottaminen
+
+7
+00:00:18.182 --> 00:00:20.832
+käyttöön tai poistaminen käytöstä.
+
+8
+00:00:20.833 --> 00:00:23.233
+Varmista ennen aloittamista, että
+sinulle on määritetty
+
+9
+00:00:23.233 --> 00:00:25.633
+Dragon-järjestelmänvalvojan rooli.
+
+10
+00:00:25.633 --> 00:00:29.766
+Ympäristösi on täysin valmisteltu,
+sähköisten potilastietojen yhteys on
+
+11
+00:00:29.766 --> 00:00:33.899
+määritetty ja vuokaavion rakenteet on
+viety JSON-tiedostoina.
+
+12
+00:00:33.900 --> 00:00:36.583
+Varmista myös, että ympäristötunnus on
+oikea ja että rakenteen lataus on
+
+13
+00:00:36.583 --> 00:00:39.266
+valmis.
+
+14
+00:00:39.266 --> 00:00:40.766
+Aloitetaanpa.
+
+15
+00:00:40.766 --> 00:00:43.032
+Kirjaudu ensin
+Dragon-hallintakeskukseen.
+
+16
+00:00:43.033 --> 00:00:46.983
+Valitse Dragon Copilot -osassa
+Hoitajat. Vahvista tai valitse sitten
+
+17
+00:00:46.983 --> 00:00:50.933
+ympäristö, johon haluat tehdä
+päivityksiä.
+
+18
+00:00:50.933 --> 00:00:54.166
+Valitse seuraavaksi Hoitotyökalut ja
+määritys -kohdassa Vuokaavion
+
+19
+00:00:54.166 --> 00:00:57.399
+hallinta. Täällä voit hallinnoida ja
+muokata vuokaaviomalleja.” Valitse
+
+20
+00:00:57.399 --> 00:01:00.632
+yksi tai useampi malli. Kun ne on
+valittu, työkalupalkista aktivoituu
+
+21
+00:01:00.632 --> 00:01:03.866
+muokkausvaihtoehtoja.
+
+22
+00:01:03.866 --> 00:01:06.666
+Avaa oikealle metatietopaneeli
+valitsemalla Muokkaa.
+
+23
+00:01:06.666 --> 00:01:11.632
+Täällä voit päivittää palvelulinjan,
+roolin ja mallin tyypin.
+
+24
+00:01:11.633 --> 00:01:14.683
+Palvelulinja ja rooli voivat sisältää
+useita arvoja, kun taas mallityyppi
+
+25
+00:01:14.683 --> 00:01:17.733
+sallii vain yhden valinnan.
+
+26
+00:01:17.733 --> 00:01:21.610
+Säädä kenttiä tarpeen mukaan
+vastaamaan hoitotiimien työnkulkuja.”
+
+27
+00:01:21.610 --> 00:01:25.488
+Kun päivitykset ovat valmiit, valitse
+Tallenna muutokset. Vuokaavion
+
+28
+00:01:25.488 --> 00:01:29.366
+hallintataulukko päivittyy
+automaattisesti ja näyttää muutoksesi.
+
+29
+00:01:29.366 --> 00:01:31.366
+Voit myös käyttää työnkulkulomakkeen
+hallintaa ottaaksesi käyttöön
+
+30
+00:01:31.366 --> 00:01:33.366
+ympäristöön sopivan tilan tai
+poistaaksesi sen käytöstä tiettyjen
+
+31
+00:01:33.366 --> 00:01:35.366
+mallien osalta.
+
+32
+00:01:35.366 --> 00:01:38.477
+Jos ympäristöön sopiva tila on otettu
+käyttöön mallissa, voit poistaa sen
+
+33
+00:01:38.477 --> 00:01:41.588
+käytöstä Muokkaa-painikkeella. Jos
+tila ei ole käytössä, voit ottaa sen
+
+34
+00:01:41.588 --> 00:01:44.699
+käyttöön Muokkaa-painikkeella.
+
+35
+00:01:44.700 --> 00:01:48.633
+Kun valitset useita malleja, joissa on
+käytössä eri tilat, valinta ei ole
+
+36
+00:01:48.633 --> 00:01:52.566
+aktiivinen. Varmista, että kaikki
+valitut mallit ovat samassa tilassa,
+
+37
+00:01:52.566 --> 00:01:56.500
+jos haluat päivittää ne yhdessä.
+
+38
+00:01:56.500 --> 00:01:59.358
+Vuokaavion metatietojen muokkaaminen
+varmistaa, että kliininen
+
+39
+00:01:59.358 --> 00:02:02.216
+dokumentointi pysyy ajantasaisena,
+tarkkana ja organisaatiosi
+
+40
+00:02:02.216 --> 00:02:05.074
+työnkulkujen mukaisena, mikä parantaa
+sekä yhdenmukaisuutta että tietojen
+
+41
+00:02:05.074 --> 00:02:07.933
+laatua.
+
+42
+00:02:07.933 --> 00:02:12.966
+Kiitos ajastasi!

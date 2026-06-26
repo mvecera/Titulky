@@ -1,0 +1,202 @@
+WEBVTT
+
+1
+00:00:01.633 --> 00:00:04.499
+U ovom video zapisu ćete saznati kako
+da uredite metapodatke predloška toka
+
+2
+00:00:04.499 --> 00:00:07.366
+posla u Dragon centru administracije
+da biste bolje podržali tokove posla
+
+3
+00:00:07.366 --> 00:00:10.233
+za sestrinstvo u celoj organizaciji.
+
+4
+00:00:10.233 --> 00:00:12.882
+Kao administrator, možete da uređujete
+ključne postavke koje oblikuju
+
+5
+00:00:12.882 --> 00:00:15.532
+kliničku dokumentaciju, uključujući
+linije uređivanje usluga, uloga i
+
+6
+00:00:15.532 --> 00:00:18.182
+tipova predložaka, kao i kako da
+omogućite ili onemogućite ambijentalni
+
+7
+00:00:18.182 --> 00:00:20.832
+režim.
+
+8
+00:00:20.833 --> 00:00:23.233
+Pre nego što počnete, proverite da li
+vam je dodeljena uloga Dragon
+
+9
+00:00:23.233 --> 00:00:25.633
+administratora.
+
+10
+00:00:25.633 --> 00:00:29.766
+Okruženje je u potpunosti obezbeđeno,
+vaša EHR veza je konfigurisana, a šeme
+
+11
+00:00:29.766 --> 00:00:33.899
+lista toka su izvezene kao JSON
+datoteke.
+
+12
+00:00:33.900 --> 00:00:36.583
+Takođe proverite da li je ID okruženja
+ispravan i da li je otpremanje šeme
+
+13
+00:00:36.583 --> 00:00:39.266
+dovršeno.
+
+14
+00:00:39.266 --> 00:00:40.766
+Hajde da počnemo.
+
+15
+00:00:40.766 --> 00:00:43.032
+Prvo se prijavite u Dragon centar
+administracije.
+
+16
+00:00:43.033 --> 00:00:46.983
+U odeljku Dragon Copilot odaberite
+„Medicinske sestre”. Zatim potvrdite
+
+17
+00:00:46.983 --> 00:00:50.933
+ili odaberite okruženje koje želite da
+ažurirate.
+
+18
+00:00:50.933 --> 00:00:54.166
+Zatim, u odeljku Alati za sestrinstvo
+i Konfiguracija odaberite „Menadžer
+
+19
+00:00:54.166 --> 00:00:57.399
+evidencionog lista“. Tu ćete
+upravljati predlošcima evidencionog
+
+20
+00:00:57.399 --> 00:01:00.632
+lista i ažurirati ih. Odaberite jedan
+ili više predložaka. Nakon odabira,
+
+21
+00:01:00.632 --> 00:01:03.866
+traka sa alatkama aktivira mogućnosti
+za uređivanje.
+
+22
+00:01:03.866 --> 00:01:05.266
+Izaberite stavku „Uredi“ da biste
+otvorili tablu sa metapodacima sa
+
+23
+00:01:05.266 --> 00:01:06.666
+desne strane.
+
+24
+00:01:06.666 --> 00:01:11.632
+Ovde možete da ažurirate liniju
+usluge, ulogu i tip predloška.
+
+25
+00:01:11.633 --> 00:01:14.683
+Linija usluge i uloga mogu da sadrže
+više vrednosti, dok tip predloška
+
+26
+00:01:14.683 --> 00:01:17.733
+dozvoljava samo jedan izbor.
+
+27
+00:01:17.733 --> 00:01:20.641
+Prilagodite polja po potrebi kako bi
+se podudarala s tokovima rada za
+
+28
+00:01:20.641 --> 00:01:23.549
+timove medicinskih sestara. Kada se
+ažuriranja dovrše, odaberite „Sačuvaj
+
+29
+00:01:23.549 --> 00:01:26.457
+promene”. Tabela menadžera
+evidencionog lista automatski će se
+
+30
+00:01:26.457 --> 00:01:29.366
+osvežiti radi prikaza ažuriranja.
+
+31
+00:01:29.366 --> 00:01:32.366
+Menadžera evidencionog lista možete da
+koristite i za omogućavanje ili
+
+32
+00:01:32.366 --> 00:01:35.366
+onemogućavanje ambijentalnog režima za
+određene predloške.
+
+33
+00:01:35.366 --> 00:01:38.477
+Ako predložak ima omogućen
+ambijentalni režim, opcija „Uredi“ će
+
+34
+00:01:38.477 --> 00:01:41.588
+vam omogućiti da ga onemogućite; ako
+je ambijentalni režim onemogućen,
+
+35
+00:01:41.588 --> 00:01:44.699
+opcija „Uredi“ će vam dozvoliti da ga
+omogućite.
+
+36
+00:01:44.700 --> 00:01:48.633
+Kada birate više predložaka sa
+različitim ambijentalnim statusima,
+
+37
+00:01:48.633 --> 00:01:52.566
+opcija postaje neaktivna, pa se
+uverite da svi izabrani predlošci dele
+
+38
+00:01:52.566 --> 00:01:56.500
+isti status ako želite da ih ažurirate
+zajedno.
+
+39
+00:01:56.500 --> 00:02:00.311
+Uređivanje metapodataka evidencionog
+lista obezbeđuje da klinička
+
+40
+00:02:00.311 --> 00:02:04.122
+dokumentacija ostane relevantna, tačna
+i usklađena sa tokovima posla
+
+41
+00:02:04.122 --> 00:02:07.933
+organizacije – poboljšava se i
+doslednost i kvalitet podataka.
+
+42
+00:02:07.933 --> 00:02:12.966
+Hvala što ste gledali!

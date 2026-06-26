@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+I denne gjennomgangen finner du ut
+hvordan du definerer et
+
+2
+00:00:04.166 --> 00:00:08.099
+organisasjonshierarki i
+administrasjonssenter for Dragon.
+
+3
+00:00:08.100 --> 00:00:11.077
+Et godt strukturert hierarki oppnås
+ved å opprette organisatoriske
+
+4
+00:00:11.077 --> 00:00:14.054
+enheter, noe som gjør det enklere å
+administrere innstillinger,
+
+5
+00:00:14.054 --> 00:00:17.032
+tillatelser og rapportering i
+komplekse helsemiljøer.
+
+6
+00:00:17.033 --> 00:00:19.699
+Et solid hierarki støtter også
+konsistens, samsvar og smidigere
+
+7
+00:00:19.699 --> 00:00:22.366
+drift.
+
+8
+00:00:22.366 --> 00:00:25.232
+Start med å logge inn i
+administrasjonssenter for Dragon.
+
+9
+00:00:25.233 --> 00:00:27.533
+Sørg for at Global Administrator har
+tildelt deg rollen som Dragon
+
+10
+00:00:27.533 --> 00:00:29.833
+Administrator.
+
+11
+00:00:29.833 --> 00:00:34.533
+Velg «Organisasjon» under menyen for
+miljøkonfigurasjon på startsiden.
+
+12
+00:00:34.533 --> 00:00:39.199
+rullegardinmeny.
+
+13
+00:00:39.200 --> 00:00:43.866
+Velg «Legg til organisatorisk enhet»
+for å begynne å bygge hierarkiet.
+
+14
+00:00:43.866 --> 00:00:47.116
+Gi den nye enheten et navn som
+gjenspeiler dens rolle i
+
+15
+00:00:47.116 --> 00:00:50.366
+virkeligheten, som fasilitet, avdeling
+eller team.
+
+16
+00:00:50.366 --> 00:00:53.332
+Velg hvor denne enheten hører hjemme i
+hierarkiet.
+
+17
+00:00:53.333 --> 00:00:58.233
+Behold standard overordnet enhet eller
+velg en annen om nødvendig.
+
+18
+00:00:58.233 --> 00:01:00.066
+Velg Lagre.
+
+19
+00:01:00.066 --> 00:01:03.588
+Den oppdaterte strukturen er nå brukt
+i miljøet, og innstillinger kan
+
+20
+00:01:03.588 --> 00:01:07.110
+tilpasses på hvert nivå. Her er noen
+anbefalte fremgangsmåter å vurdere når
+
+21
+00:01:07.110 --> 00:01:10.632
+du utvikler organisatoriske enheter.
+
+22
+00:01:10.633 --> 00:01:13.577
+Start på fasilitetsnivå, som et
+sykehus eller klinikk. Legg til
+
+23
+00:01:13.577 --> 00:01:16.521
+avdelinger under det, og deretter
+underenheter som avdelinger eller
+
+24
+00:01:16.521 --> 00:01:19.466
+funksjonelle team.
+
+25
+00:01:19.466 --> 00:01:22.332
+Å speile den virkelige organisasjonen
+gjør kartlegging og rapportering mye
+
+26
+00:01:22.332 --> 00:01:25.199
+enklere.
+
+27
+00:01:25.200 --> 00:01:27.500
+Bruk overordnede enheter for
+innstillinger som gjelder hele
+
+28
+00:01:27.500 --> 00:01:29.800
+organisasjonen.
+
+29
+00:01:29.800 --> 00:01:33.633
+Bruk avdelingsspesifikke
+konfigurasjoner på lavere nivåer.
+
+30
+00:01:33.633 --> 00:01:39.699
+Arv reduserer feil og forhindrer
+dobbeltarbeid.
+
+31
+00:01:39.700 --> 00:01:44.966
+Bruk klare navnemønstre som
+Fasilitetsnavn_Avdeling_Enhet.
+
+32
+00:01:44.966 --> 00:01:50.132
+Konsistente navn hjelper med søk og
+rapportering.
+
+33
+00:01:50.133 --> 00:01:53.499
+Sørg for at enheter er knyttet til
+meningsfulle identifikatorer.
+
+34
+00:01:53.500 --> 00:01:57.277
+Dette hjelper instrumentbord og
+samsvarsrapporter med å vise lesbar
+
+35
+00:01:57.277 --> 00:02:01.055
+informasjon, ikke kryptiske ID-er.
+Oppretthold klar dokumentasjon av
+
+36
+00:02:01.055 --> 00:02:04.833
+strukturen for organisatoriske
+enheter.
+
+37
+00:02:04.833 --> 00:02:08.877
+Inkluder diagrammer og noter hvem som
+administrerer hver del av hierarkiet.
+
+38
+00:02:08.877 --> 00:02:12.921
+Gå gjennom strukturen for
+organisatoriske enheter når
+
+39
+00:02:12.921 --> 00:02:16.966
+organisasjonen endres, som ved nye
+enheter eller fusjoner.
+
+40
+00:02:16.966 --> 00:02:20.499
+Overvåk tillatelser og arvede
+innstillinger regelmessig for å holde
+
+41
+00:02:20.499 --> 00:02:24.032
+alt nøyaktig.
+
+42
+00:02:24.033 --> 00:02:26.833
+Med et gjennomtenkt hierarki holder
+miljøet seg organisert, konsistent og
+
+43
+00:02:26.833 --> 00:02:29.633
+klart for skalering.
+
+44
+00:02:29.633 --> 00:02:31.266
+Takk for at du ser på

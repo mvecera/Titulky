@@ -1,0 +1,222 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+Neste guia passo a passo, irá aprender
+a definir uma hierarquia de
+
+2
+00:00:04.166 --> 00:00:08.099
+organização no Centro de Administração
+do Dragon.
+
+3
+00:00:08.100 --> 00:00:11.077
+Uma hierarquia bem estruturada é
+alcançada através da criação de
+
+4
+00:00:11.077 --> 00:00:14.054
+unidades organizacionais, o que
+facilita a gestão de definições,
+
+5
+00:00:14.054 --> 00:00:17.032
+permissões e relatórios em ambientes
+complexos de cuidados de saúde.
+
+6
+00:00:17.033 --> 00:00:19.699
+Uma hierarquia sólida também promove
+consistência, conformidade e operações
+
+7
+00:00:19.699 --> 00:00:22.366
+mais suaves.
+
+8
+00:00:22.366 --> 00:00:25.232
+Comece por iniciar sessão no centro de
+administração do Dragon.
+
+9
+00:00:25.233 --> 00:00:27.533
+Certifique-se de que o seu
+Administrador Global lhe atribuiu a
+
+10
+00:00:27.533 --> 00:00:29.833
+função de Administrador do Dragon.
+
+11
+00:00:29.833 --> 00:00:32.183
+Na página inicial, selecione
+"Organização" no menu de configuração
+
+12
+00:00:32.183 --> 00:00:34.533
+do Ambiente.
+
+13
+00:00:34.533 --> 00:00:39.199
+menu pendente.
+
+14
+00:00:39.200 --> 00:00:41.533
+Para começar a criar a hierarquia,
+escolha "Adicionar unidade
+
+15
+00:00:41.533 --> 00:00:43.866
+organizacional".
+
+16
+00:00:43.866 --> 00:00:47.116
+Dê um nome à nova unidade que reflita
+a sua função no mundo real, como as
+
+17
+00:00:47.116 --> 00:00:50.366
+instalações, departamento ou equipa.
+
+18
+00:00:50.366 --> 00:00:53.332
+Escolha onde esta unidade pertence na
+hierarquia.
+
+19
+00:00:53.333 --> 00:00:55.783
+Mantenha o elemento principal definido
+ou selecione um diferente, se
+
+20
+00:00:55.783 --> 00:00:58.233
+necessário.
+
+21
+00:00:58.233 --> 00:01:00.066
+Selecione Guardar.
+
+22
+00:01:00.066 --> 00:01:03.588
+A sua estrutura atualizada é agora
+aplicada ao ambiente, e as definições
+
+23
+00:01:03.588 --> 00:01:07.110
+podem ser personalizadas em cada
+nível. Aqui estão algumas melhores
+
+24
+00:01:07.110 --> 00:01:10.632
+práticas a considerar ao desenvolver
+unidades organizacionais.
+
+25
+00:01:10.633 --> 00:01:13.577
+Comece no nível da instalação, como um
+hospital ou clínica. Adicione
+
+26
+00:01:13.577 --> 00:01:16.521
+departamentos abaixo, e depois
+subunidades como enfermarias ou
+
+27
+00:01:16.521 --> 00:01:19.466
+equipas funcionais.
+
+28
+00:01:19.466 --> 00:01:22.332
+Espelhar a sua organização real torna
+o mapeamento e a comunicação muito
+
+29
+00:01:22.332 --> 00:01:25.199
+mais fácil.
+
+30
+00:01:25.200 --> 00:01:29.800
+Utilize unidades principais para
+definições a nível da organização.
+
+31
+00:01:29.800 --> 00:01:33.633
+Aplique configurações específicas do
+departamento em níveis inferiores.
+
+32
+00:01:33.633 --> 00:01:39.699
+A herança reduz erros e previne
+trabalho duplicado.
+
+33
+00:01:39.700 --> 00:01:44.966
+Utilize padrões de nomenclatura claros
+como FacilityName_Department_Unit.
+
+34
+00:01:44.966 --> 00:01:50.132
+Os nomes consistentes ajudam na
+pesquisa e nos relatórios.
+
+35
+00:01:50.133 --> 00:01:51.816
+Certifique-se de que as unidades estão
+ligadas a identificadores
+
+36
+00:01:51.816 --> 00:01:53.499
+significativos.
+
+37
+00:01:53.500 --> 00:01:57.277
+Isto ajuda os painéis e relatórios de
+conformidade a mostrar informação
+
+38
+00:01:57.277 --> 00:02:01.055
+legível por humanos, não IDs
+criptográficos. Mantenha uma
+
+39
+00:02:01.055 --> 00:02:04.833
+documentação clara da sua estrutura de
+unidades organizacionais.
+
+40
+00:02:04.833 --> 00:02:08.877
+Inclua diagramas e anote quem faz a
+gestão de cada parte da hierarquia.
+
+41
+00:02:08.877 --> 00:02:12.921
+Reveja a sua estrutura da sua Unidade
+Organizacional quando a sua
+
+42
+00:02:12.921 --> 00:02:16.966
+organização mudar, como novas unidades
+ou fusões.
+
+43
+00:02:16.966 --> 00:02:20.499
+Audite regularmente as permissões e
+definições herdadas para manter tudo
+
+44
+00:02:20.499 --> 00:02:24.032
+preciso.
+
+45
+00:02:24.033 --> 00:02:26.833
+Com uma hierarquia bem pensada, o seu
+ambiente mantém-se organizado,
+
+46
+00:02:26.833 --> 00:02:29.633
+consistente e pronto para escalar.
+
+47
+00:02:29.633 --> 00:02:31.266
+Obrigado por assistir

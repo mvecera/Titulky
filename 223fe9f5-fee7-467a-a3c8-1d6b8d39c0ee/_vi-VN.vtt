@@ -1,0 +1,195 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+Trong hướng dẫn này, bạn sẽ học cách
+xác định cấu trúc tổ chức trong Trung
+
+2
+00:00:04.166 --> 00:00:08.099
+tâm quản trị Dragon.
+
+3
+00:00:08.100 --> 00:00:11.077
+Một cấu trúc phân cấp rõ ràng được tạo
+bằng cách thiết lập đơn vị tổ chức,
+
+4
+00:00:11.077 --> 00:00:14.054
+giúp quản lý cài đặt, quyền hạn và báo
+cáo dễ dàng hơn trong các môi trường
+
+5
+00:00:14.054 --> 00:00:17.032
+chăm sóc sức khỏe phức tạp.
+
+6
+00:00:17.033 --> 00:00:19.699
+Cấu trúc phân cấp hợp lý cũng giúp duy
+trì tính nhất quán, tuân thủ quy định
+
+7
+00:00:19.699 --> 00:00:22.366
+và vận hành mượt mà hơn.
+
+8
+00:00:22.366 --> 00:00:25.232
+Bắt đầu bằng cách đăng nhập vào Trung
+tâm quản trị Dragon.
+
+9
+00:00:25.233 --> 00:00:29.833
+Đảm bảo Người quản trị toàn cầu đã gán
+cho bạn vai trò Người quản trị Dragon.
+
+10
+00:00:29.833 --> 00:00:34.533
+Từ trang chủ, chọn “Tổ chức” trong
+menu Cấu hình môi trường.
+
+11
+00:00:34.533 --> 00:00:39.199
+menu thả xuống.
+
+12
+00:00:39.200 --> 00:00:43.866
+Để bắt đầu xây dựng cấu trúc, hãy chọn
+“Thêm đơn vị tổ chức”.
+
+13
+00:00:43.866 --> 00:00:47.116
+Đặt tên cho đơn vị mới đúng với vai
+trò thực tế, như cơ sở, phòng ban,
+
+14
+00:00:47.116 --> 00:00:50.366
+hoặc nhóm.
+
+15
+00:00:50.366 --> 00:00:53.332
+Chọn vị trí của đơn vị này trong cấu
+trúc phân cấp.
+
+16
+00:00:53.333 --> 00:00:58.233
+Giữ đơn vị cha mặc định hoặc chọn đơn
+vị cha khác nếu cần.
+
+17
+00:00:58.233 --> 00:01:00.066
+Chọn Lưu.
+
+18
+00:01:00.066 --> 00:01:03.588
+Cấu trúc đã cập nhật của bạn giờ được
+áp dụng cho môi trường này và cài đặt
+
+19
+00:01:03.588 --> 00:01:07.110
+có thể tùy chỉnh ở mỗi cấp. Dưới đây
+là một số phương pháp tốt nhất khi xây
+
+20
+00:01:07.110 --> 00:01:10.632
+dựng các đơn vị tổ chức.
+
+21
+00:01:10.633 --> 00:01:15.049
+Bắt đầu từ cấp cơ sở, như bệnh viện
+hoặc phòng khám. Thêm các phòng ban
+
+22
+00:01:15.049 --> 00:01:19.466
+bên dưới, rồi các đơn vị phụ như khu
+điều trị hoặc nhóm chức năng.
+
+23
+00:01:19.466 --> 00:01:22.332
+Phản ánh đúng cấu trúc tổ chức thực tế
+giúp việc ánh xạ và lập báo cáo dễ
+
+24
+00:01:22.332 --> 00:01:25.199
+dàng hơn.
+
+25
+00:01:25.200 --> 00:01:29.800
+Sử dụng các đơn vị phần tử cha cho các
+thiết lập toàn tổ chức.
+
+26
+00:01:29.800 --> 00:01:33.633
+Áp dụng cấu hình cho từng phòng ban ở
+các cấp thấp hơn.
+
+27
+00:01:33.633 --> 00:01:39.699
+Cơ chế kế thừa giúp giảm lỗi và tránh
+trùng lặp công việc.
+
+28
+00:01:39.700 --> 00:01:44.966
+Sử dụng mẫu đặt tên rõ ràng như
+TênCơSở_PhongBan_DonVi.
+
+29
+00:01:44.966 --> 00:01:50.132
+Tên nhất quán giúp việc tìm kiếm và
+báo cáo dễ dàng hơn.
+
+30
+00:01:50.133 --> 00:01:53.499
+Đảm bảo các đơn vị liên kết với các mã
+định danh có ý nghĩa.
+
+31
+00:01:53.500 --> 00:01:57.277
+Điều này giúp bảng tổng quan và báo
+cáo tuân thủ hiển thị thông tin dễ
+
+32
+00:01:57.277 --> 00:02:01.055
+hiểu, không phải mã ID khó hiểu.
+Đồng thời, hãy duy trì tài liệu rõ
+
+33
+00:02:01.055 --> 00:02:04.833
+ràng về cấu trúc đơn vị tổ chức của
+bạn.
+
+34
+00:02:04.833 --> 00:02:08.877
+Đưa vào sơ đồ và ghi chú người quản lý
+từng phần của cấu trúc. Xem lại cấu
+
+35
+00:02:08.877 --> 00:02:12.921
+trúc đơn vị tổ chức khi tổ chức thay
+đổi, như thêm đơn vị mới hoặc sáp
+
+36
+00:02:12.921 --> 00:02:16.966
+nhập.
+
+37
+00:02:16.966 --> 00:02:20.499
+Kiểm tra cài đặt kế thừa và quyền
+thường xuyên để đảm bảo hệ thống luôn
+
+38
+00:02:20.499 --> 00:02:24.032
+chính xác.
+
+39
+00:02:24.033 --> 00:02:26.833
+Với cấu trúc phân cấp được thiết kế
+hợp lý, môi trường của bạn luôn được
+
+40
+00:02:26.833 --> 00:02:29.633
+tổ chức rõ ràng, duy trì tính nhất
+quán và sẵn sàng mở rộng.
+
+41
+00:02:29.633 --> 00:02:31.266
+Cảm ơn bạn đã xem

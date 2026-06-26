@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+I den här genomgången får du lära dig
+hur du definierar en
+
+2
+00:00:04.166 --> 00:00:08.099
+organisationshierarki i
+Administrationscenter för Dragon.
+
+3
+00:00:08.100 --> 00:00:11.077
+En välstrukturerad hierarki uppnås
+genom att skapa organisationsenheter,
+
+4
+00:00:11.077 --> 00:00:14.054
+vilket gör det enklare att hantera
+inställningar, behörigheter och
+
+5
+00:00:14.054 --> 00:00:17.032
+rapportering i komplexa
+sjukvårdsmiljöer.
+
+6
+00:00:17.033 --> 00:00:19.699
+En solid hierarki har också stöd för
+konsekvens, efterlevnad och smidigare
+
+7
+00:00:19.699 --> 00:00:22.366
+åtgärder.
+
+8
+00:00:22.366 --> 00:00:25.232
+Börja med att logga in på
+administrationscentret för Dragon.
+
+9
+00:00:25.233 --> 00:00:27.533
+Kontrollera att din globala
+administratör har tilldelat dig rollen
+
+10
+00:00:27.533 --> 00:00:29.833
+Dragon-administratör.
+
+11
+00:00:29.833 --> 00:00:34.533
+På startsidan väljer du “Organisation
+under Menyn Miljökonfiguration.
+
+12
+00:00:34.533 --> 00:00:39.199
+nedrullningsbar meny.
+
+13
+00:00:39.200 --> 00:00:43.866
+Välj Lägg till organisationsenhet för
+att börja skapa hierarkin.
+
+14
+00:00:43.866 --> 00:00:47.116
+Ge den nya enheten ett namn som
+återspeglar dess verkliga roll, till
+
+15
+00:00:47.116 --> 00:00:50.366
+exempel inrättningen, avdelningen
+eller teamet.
+
+16
+00:00:50.366 --> 00:00:53.332
+Välj var den här enheten hör hemma i
+hierarkin.
+
+17
+00:00:53.333 --> 00:00:55.783
+Behåll den överordnade
+standardinställningen eller välj en
+
+18
+00:00:55.783 --> 00:00:58.233
+annan om det behövs.
+
+19
+00:00:58.233 --> 00:01:00.066
+Välj spara.
+
+20
+00:01:00.066 --> 00:01:03.588
+Din uppdaterade struktur tillämpas nu
+på miljön och inställningarna kan
+
+21
+00:01:03.588 --> 00:01:07.110
+anpassas på varje nivå Här är några
+metodtips att tänka på när du
+
+22
+00:01:07.110 --> 00:01:10.632
+utvecklar organisationsenheter.
+
+23
+00:01:10.633 --> 00:01:13.577
+Börja på anläggningsnivå, till exempel
+ett sjukhus eller en inrättning.
+
+24
+00:01:13.577 --> 00:01:16.521
+Lägg till avdelningar under den och
+underenheter som avdelningar eller
+
+25
+00:01:16.521 --> 00:01:19.466
+funktionella team.
+
+26
+00:01:19.466 --> 00:01:22.332
+Genom att spegla din verkliga
+organisation blir det mycket enklare
+
+27
+00:01:22.332 --> 00:01:25.199
+att mappa och rapportera.
+
+28
+00:01:25.200 --> 00:01:29.800
+Använd överordnade enheter för
+organisationsomfattande inställningar.
+
+29
+00:01:29.800 --> 00:01:33.633
+Tillämpa avdelningsspecifika
+konfigurationer på lägre nivåer.
+
+30
+00:01:33.633 --> 00:01:39.699
+Arv minskar fel och förhindrar
+duplicerat arbete.
+
+31
+00:01:39.700 --> 00:01:44.966
+Använd tydliga namngivningsmönster som
+FacilityName_Department_Unit.
+
+32
+00:01:44.966 --> 00:01:50.132
+Konsekventa namn hjälper till med
+sökning och rapportering.
+
+33
+00:01:50.133 --> 00:01:53.499
+Se till att enheterna är knutna till
+meningsfulla identifierare.
+
+34
+00:01:53.500 --> 00:01:57.277
+Detta hjälper instrumentpaneler och
+efterlevnadsrapporter att visa
+
+35
+00:01:57.277 --> 00:02:01.055
+information som kan läsas av
+människor, inte kryptiska ID:er
+
+36
+00:02:01.055 --> 00:02:04.833
+Underhåll tydlig dokumentation om
+organisationens enhetsstruktur.
+
+37
+00:02:04.833 --> 00:02:08.877
+Ta med diagram och notera vem som
+hanterar varje del av hierarkin Gå
+
+38
+00:02:08.877 --> 00:02:12.921
+tillbaka till
+organisationsenhetsstrukturen när
+
+39
+00:02:12.921 --> 00:02:16.966
+organisationen ändras, till exempel
+nya enheter eller sammanslagningar.
+
+40
+00:02:16.966 --> 00:02:20.499
+Granska behörigheter och ärvda
+inställningar regelbundet för att
+
+41
+00:02:20.499 --> 00:02:24.032
+hålla allt korrekt.
+
+42
+00:02:24.033 --> 00:02:26.833
+Med en genomtänkt hierarki förblir din
+miljö organiserad, konsekvent och redo
+
+43
+00:02:26.833 --> 00:02:29.633
+att skalas.
+
+44
+00:02:29.633 --> 00:02:31.266
+Tack för att du tittade

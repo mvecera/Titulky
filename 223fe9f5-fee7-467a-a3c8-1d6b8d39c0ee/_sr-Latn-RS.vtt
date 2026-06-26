@@ -1,0 +1,212 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+U ovom vodiču ćete saznati kako da
+definišete hijerarhiju organizacije u
+
+2
+00:00:04.166 --> 00:00:08.099
+Dragon centru administracije.
+
+3
+00:00:08.100 --> 00:00:11.077
+Dobro strukturirana hijerarhija
+postiže se stvaranjem organizacionih
+
+4
+00:00:11.077 --> 00:00:14.054
+jedinica, što olakšava upravljanje
+postavkama, dozvolama i izveštavanjem
+
+5
+00:00:14.054 --> 00:00:17.032
+u složenim okruženjima zdravstvene
+nege.
+
+6
+00:00:17.033 --> 00:00:19.699
+Čvrsta hijerarhija takođe podržava
+doslednost, usaglašenost i nesmetane
+
+7
+00:00:19.699 --> 00:00:22.366
+operacije.
+
+8
+00:00:22.366 --> 00:00:25.232
+Počnite tako što ćete se prijaviti u
+Dragon centar administracije.
+
+9
+00:00:25.233 --> 00:00:27.533
+Proverite da li vam je globalni
+administrator dodelio ulogu Dragon
+
+10
+00:00:27.533 --> 00:00:29.833
+administratora.
+
+11
+00:00:29.833 --> 00:00:32.183
+Na matičnoj stranici izaberite stavku
+„Organizacija“ u okviru menija
+
+12
+00:00:32.183 --> 00:00:34.533
+konfiguracije okruženja.
+
+13
+00:00:34.533 --> 00:00:39.199
+padajući meni.
+
+14
+00:00:39.200 --> 00:00:41.533
+Da biste počeli da pravite
+hijerarhiju, odaberite stavku „Dodaj
+
+15
+00:00:41.533 --> 00:00:43.866
+organizacionu jedinicu“.
+
+16
+00:00:43.866 --> 00:00:47.116
+Dajte novoj jedinici ime koje odražava
+njenu ulogu u realnom svetu, kao što
+
+17
+00:00:47.116 --> 00:00:50.366
+je objekat, sektor ili tim.
+
+18
+00:00:50.366 --> 00:00:53.332
+Odaberite gde ova jedinica pripada u
+hijerarhiji.
+
+19
+00:00:53.333 --> 00:00:55.783
+Zadržite podrazumevanu nadređenu
+stavku ili izaberite neku drugu ako je
+
+20
+00:00:55.783 --> 00:00:58.233
+potrebno.
+
+21
+00:00:58.233 --> 00:01:00.066
+Izaberite opciju „Sačuvaj“.
+
+22
+00:01:00.066 --> 00:01:03.588
+Ažurirana struktura je sada primenjena
+na okruženje, a postavke se mogu
+
+23
+00:01:03.588 --> 00:01:07.110
+prilagoditi na svakom nivou Evo nekih
+najboljih praksi koje treba razmotriti
+
+24
+00:01:07.110 --> 00:01:10.632
+prilikom razvoja organizacionih
+jedinica.
+
+25
+00:01:10.633 --> 00:01:13.577
+Počnite od nivoa objekta, kao što je
+bolnica ili klinika. Dodajte sektore
+
+26
+00:01:13.577 --> 00:01:16.521
+ispod njih, a zatim podjedinice, kao
+što su odeljenja ili funkcionalni
+
+27
+00:01:16.521 --> 00:01:19.466
+timovi.
+
+28
+00:01:19.466 --> 00:01:25.199
+Preslikavanje stvarne organizacije
+olakšava mapiranje i izveštavanje.
+
+29
+00:01:25.200 --> 00:01:29.800
+Koristite nadređene jedinice za
+postavke u celoj organizaciji.
+
+30
+00:01:29.800 --> 00:01:33.633
+Primenite konfiguracije specifične za
+sektor na nižim nivoima.
+
+31
+00:01:33.633 --> 00:01:39.699
+Nasleđivanje smanjuje greške i
+sprečava dupliranje.
+
+32
+00:01:39.700 --> 00:01:44.966
+Koristite jasne obrasce imenovanja kao
+što FacilityName_Department_Unit.
+
+33
+00:01:44.966 --> 00:01:50.132
+Dosledna imena pomažu u pretrazi i
+izveštavanju.
+
+34
+00:01:50.133 --> 00:01:53.499
+Proverite da li su jedinice povezane
+sa smislenim identifikatorima.
+
+35
+00:01:53.500 --> 00:01:57.277
+To omogućava prikaz informacija na
+kontrolnim tablama i u izveštajima o
+
+36
+00:01:57.277 --> 00:02:01.055
+usaglašenosti, koje osobe mogu
+pročitati, a ne šifrovane ID-ove.
+
+37
+00:02:01.055 --> 00:02:04.833
+Održavajte jasnu dokumentaciju o
+strukturi organizacione jedinice.
+
+38
+00:02:04.833 --> 00:02:08.877
+Uključite dijagrame i napomenite ko
+upravlja svakim delom hijerarhije
+
+39
+00:02:08.877 --> 00:02:12.921
+Ponovo pregledajte OU strukturu kada
+se organizacija promeni, kao što su
+
+40
+00:02:12.921 --> 00:02:16.966
+nove jedinice ili objedinjavanja.
+
+41
+00:02:16.966 --> 00:02:20.499
+Redovito pregledajte dozvole i
+nasleđene postavke kako bi informacije
+
+42
+00:02:20.499 --> 00:02:24.032
+bile tačne.
+
+43
+00:02:24.033 --> 00:02:26.833
+Uz promišljenu hijerarhiju, vaše
+okruženje ostaje organizovano,
+
+44
+00:02:26.833 --> 00:02:29.633
+dosledno i spremno za skaliranje.
+
+45
+00:02:29.633 --> 00:02:31.266
+Hvala što ste gledali

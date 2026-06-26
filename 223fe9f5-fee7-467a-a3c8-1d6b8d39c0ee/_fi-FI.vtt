@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+Näiden ohjeiden avulla opit
+määrittämään organisaation hierarkian
+
+2
+00:00:04.166 --> 00:00:08.099
+Dragon-hallintakeskuksessa.
+
+3
+00:00:08.100 --> 00:00:11.077
+Hyvin jäsennetty hierarkia saavutetaan
+luomalla organisaatioyksiköitä, mikä
+
+4
+00:00:11.077 --> 00:00:14.054
+helpottaa asetusten, käyttöoikeuksien
+ja raportoinnin hallintaa
+
+5
+00:00:14.054 --> 00:00:17.032
+monimutkaisissa
+terveydenhuoltoympäristöissä.
+
+6
+00:00:17.033 --> 00:00:19.699
+Yhtenäinen hierarkia tukee myös
+yhtenäisyyttä, vaatimustenmukaisuutta
+
+7
+00:00:19.699 --> 00:00:22.366
+ja sujuvampia toimintoja.
+
+8
+00:00:22.366 --> 00:00:25.232
+Aloita kirjautumalla sisään
+Dragon-hallintakeskukseen.
+
+9
+00:00:25.233 --> 00:00:27.533
+Varmista, että yleinen
+järjestelmänvalvoja on määrittänyt
+
+10
+00:00:27.533 --> 00:00:29.833
+sinulle Dragon-järjestelmänvalvojan
+roolin.
+
+11
+00:00:29.833 --> 00:00:34.533
+Valitse aloitussivun Ympäristön
+määritys -valikosta Organisaatio.
+
+12
+00:00:34.533 --> 00:00:39.199
+avattava valikko.
+
+13
+00:00:39.200 --> 00:00:41.533
+Voit aloittaa hierarkian luomisen
+valitsemalla Lisää
+
+14
+00:00:41.533 --> 00:00:43.866
+organisaatioyksikkö.
+
+15
+00:00:43.866 --> 00:00:47.116
+Anna uudelle yksikölle nimi, joka
+kuvastaa sen todellista roolia, kuten
+
+16
+00:00:47.116 --> 00:00:50.366
+laitosta, osastoa tai tiimiä.
+
+17
+00:00:50.366 --> 00:00:53.332
+Valitse, mihin tämä yksikkö kuuluu
+hierarkiassa.
+
+18
+00:00:53.333 --> 00:00:58.233
+Säilytä oletusarvoinen pääkohde tai
+valitse tarvittaessa toinen pääkohde.
+
+19
+00:00:58.233 --> 00:01:00.066
+Valitse Tallenna.
+
+20
+00:01:00.066 --> 00:01:03.588
+Päivitetty rakenne otetaan nyt
+käyttöön ympäristössä, ja asetuksia
+
+21
+00:01:03.588 --> 00:01:07.110
+voidaan mukauttaa kullakin tasolla.
+Tässä on joitakin parhaita käytäntöjä,
+
+22
+00:01:07.110 --> 00:01:10.632
+jotka kannattaa ottaa huomioon
+organisaatioyksiköiden kehittämisessä.
+
+23
+00:01:10.633 --> 00:01:13.577
+Aloita laitoksen tasolta, kuten
+sairaalasta tai klinikasta. Lisää sen
+
+24
+00:01:13.577 --> 00:01:16.521
+alapuolelle osastoja ja sitten
+alayksiköitä, esimerkiksi osastoja tai
+
+25
+00:01:16.521 --> 00:01:19.466
+toiminnallisia tiimejä.
+
+26
+00:01:19.466 --> 00:01:22.332
+Todellisen organisaation peilaaminen
+helpottaa yhdistämistä ja
+
+27
+00:01:22.332 --> 00:01:25.199
+raportointia.
+
+28
+00:01:25.200 --> 00:01:29.800
+Käytä ylätason yksiköitä koko
+organisaatiota koskeviin asetuksiin.
+
+29
+00:01:29.800 --> 00:01:33.633
+Käytä osastokohtaisia määrityksiä
+alemmilla tasoilla.
+
+30
+00:01:33.633 --> 00:01:39.699
+Periytyminen vähentää virheitä ja
+estää päällekkäiset työt.
+
+31
+00:01:39.700 --> 00:01:44.966
+Käytä selkeitä nimeämismalleja, kuten
+LaitoksenNimi_Osasto_Yksikkö.
+
+32
+00:01:44.966 --> 00:01:50.132
+Yhdenmukaiset nimet auttavat haussa ja
+raportoinnissa.
+
+33
+00:01:50.133 --> 00:01:53.499
+Varmista, että yksiköt on sidottu
+merkityksellisiin tunnisteihin.
+
+34
+00:01:53.500 --> 00:01:57.277
+Tämä auttaa koontinäyttöjä ja
+yhteensopivuusraportteja näyttämään
+
+35
+00:01:57.277 --> 00:02:01.055
+ihmiselle helppolukuisia tietoja
+kryptisten tunnusten sijaan. Ylläpidä
+
+36
+00:02:01.055 --> 00:02:04.833
+selkeää dokumentaatiota
+organisaatioyksikön rakenteesta.
+
+37
+00:02:04.833 --> 00:02:08.877
+Sisällytä kaavioita ja ota huomioon,
+kuka hallitsee hierarkian kutakin
+
+38
+00:02:08.877 --> 00:02:12.921
+osaa. Käy rakenne uudelleen läpi, kun
+organisaatiossa tapahtuu muutoksia,
+
+39
+00:02:12.921 --> 00:02:16.966
+kuten uusia yksikköjä tai fuusioita.
+
+40
+00:02:16.966 --> 00:02:20.499
+Valvo käyttöoikeuksia ja perittyjä
+asetuksia säännöllisesti, jotta kaikki
+
+41
+00:02:20.499 --> 00:02:24.032
+pysyy tarkkana.
+
+42
+00:02:24.033 --> 00:02:26.833
+Huolellisen hierarkian avulla
+ympäristösi pysyy järjestyksessä,
+
+43
+00:02:26.833 --> 00:02:29.633
+yhdenmukaisena ja valmiina
+laajentumaan.
+
+44
+00:02:29.633 --> 00:02:31.266
+Kiitos ajastasi

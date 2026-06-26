@@ -1,0 +1,244 @@
+WEBVTT
+
+1
+00:00:00.233 --> 00:00:04.166
+Dans cette procédure pas à pas, vous
+allez apprendre à définir une
+
+2
+00:00:04.166 --> 00:00:08.099
+hiérarchie d’organisation dans le
+centre d’administration Dragon.
+
+3
+00:00:08.100 --> 00:00:11.077
+Une hiérarchie bien structurée
+s’obtient en créant des unités
+
+4
+00:00:11.077 --> 00:00:14.054
+organisationnelles, ce qui facilite la
+gestion des paramètres, des
+
+5
+00:00:14.054 --> 00:00:17.032
+autorisations et des rapports dans des
+environnements de santé complexes.
+
+6
+00:00:17.033 --> 00:00:19.699
+Une hiérarchie solide prend également
+en charge la cohérence, la conformité
+
+7
+00:00:19.699 --> 00:00:22.366
+et les opérations plus fluides.
+
+8
+00:00:22.366 --> 00:00:25.232
+Commencez par vous connecter au centre
+d’administration Dragon.
+
+9
+00:00:25.233 --> 00:00:27.533
+Assurez-vous que votre administrateur
+général vous a attribué le rôle
+
+10
+00:00:27.533 --> 00:00:29.833
+d’administrateur Dragon.
+
+11
+00:00:29.833 --> 00:00:32.183
+Depuis la page d’accueil, sélectionnez
+« Organisation » dans le menu de
+
+12
+00:00:32.183 --> 00:00:34.533
+configuration de l’environnement.
+
+13
+00:00:34.533 --> 00:00:39.199
+menu déroulant.
+
+14
+00:00:39.200 --> 00:00:41.533
+Pour commencer à créer votre
+hiérarchie, choisissez « Ajouter une
+
+15
+00:00:41.533 --> 00:00:43.866
+unité d’organisation ».
+
+16
+00:00:43.866 --> 00:00:47.116
+Nommez la nouvelle unité en fonction
+de son rôle réel, comme
+
+17
+00:00:47.116 --> 00:00:50.366
+l’établissement, le département ou
+l’équipe.
+
+18
+00:00:50.366 --> 00:00:53.332
+Choisissez où cette unité se situe
+dans la hiérarchie.
+
+19
+00:00:53.333 --> 00:00:55.783
+Conservez le parent par défaut ou
+sélectionnez-en un autre si
+
+20
+00:00:55.783 --> 00:00:58.233
+nécessaire.
+
+21
+00:00:58.233 --> 00:01:00.066
+Sélectionnez Enregistrer.
+
+22
+00:01:00.066 --> 00:01:02.707
+Votre structure mise à jour est
+désormais appliquée à l’environnement
+
+23
+00:01:02.707 --> 00:01:05.349
+et les paramètres peuvent être
+personnalisés à chaque niveau. Voici
+
+24
+00:01:05.349 --> 00:01:07.990
+quelques bonnes pratiques à prendre en
+compte lors du développement d’unités
+
+25
+00:01:07.990 --> 00:01:10.632
+d’organisation.
+
+26
+00:01:10.633 --> 00:01:13.577
+Commencez au niveau de
+l’établissement, comme un hôpital ou
+
+27
+00:01:13.577 --> 00:01:16.521
+une clinique. Ajoutez des départements
+en dessous, puis des sous-unités comme
+
+28
+00:01:16.521 --> 00:01:19.466
+des services ou des équipes
+fonctionnelles.
+
+29
+00:01:19.466 --> 00:01:22.332
+Reproduire votre organisation réelle
+facilite grandement la cartographie et
+
+30
+00:01:22.332 --> 00:01:25.199
+la création de rapports.
+
+31
+00:01:25.200 --> 00:01:27.500
+Utilisez des unités parentes pour les
+paramètres à l’échelle de
+
+32
+00:01:27.500 --> 00:01:29.800
+l’organisation.
+
+33
+00:01:29.800 --> 00:01:31.716
+Appliquez des configurations
+spécifiques aux départements aux
+
+34
+00:01:31.716 --> 00:01:33.633
+niveaux inférieurs.
+
+35
+00:01:33.633 --> 00:01:39.699
+L’héritage réduit les erreurs et évite
+les travaux en double.
+
+36
+00:01:39.700 --> 00:01:42.333
+Utilisez des schémas de nommage clairs
+comme
+
+37
+00:01:42.333 --> 00:01:44.966
+NomÉtablissement_Département_Unité.
+
+38
+00:01:44.966 --> 00:01:50.132
+Des noms cohérents facilitent la
+recherche et la création de rapports.
+
+39
+00:01:50.133 --> 00:01:53.499
+Vérifiez que les unités sont liées à
+des identifiants significatifs.
+
+40
+00:01:53.500 --> 00:01:56.333
+Cela aide les tableaux de bord et les
+rapports de conformité à afficher des
+
+41
+00:01:56.333 --> 00:01:59.166
+informations lisibles par l’humain, et
+non des identifiants cryptiques.
+
+42
+00:01:59.166 --> 00:02:01.999
+Maintenez une documentation claire de
+la structure de vos unités
+
+43
+00:02:01.999 --> 00:02:04.833
+organisationnelles.
+
+44
+00:02:04.833 --> 00:02:07.866
+Incluez des diagrammes et notez qui
+gère chaque partie de la hiérarchie.
+
+45
+00:02:07.866 --> 00:02:10.899
+Révisez votre structure d’unités
+organisationnelles lorsque votre
+
+46
+00:02:10.899 --> 00:02:13.932
+entreprise évolue, comme lors de la
+création de nouvelles unités ou de
+
+47
+00:02:13.932 --> 00:02:16.966
+fusions.
+
+48
+00:02:16.966 --> 00:02:20.499
+Auditez régulièrement les
+autorisations et les paramètres
+
+49
+00:02:20.499 --> 00:02:24.032
+hérités pour garantir leur exactitude.
+
+50
+00:02:24.033 --> 00:02:26.833
+Avec une hiérarchie réfléchie, votre
+environnement reste organisé, cohérent
+
+51
+00:02:26.833 --> 00:02:29.633
+et prêt à évoluer.
+
+52
+00:02:29.633 --> 00:02:31.266
+Merci pour votre attention
